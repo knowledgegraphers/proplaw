@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { CheckCircle2, Circle, Lock, ChevronRight, Building2, FileText, Search, Users, ClipboardCheck, Hammer, Star, Crown, ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
+import { useLanguage } from "@/context/LanguageContext";
 
 interface Step {
   id: number;
@@ -137,19 +138,20 @@ const PERMIT_STEPS: Step[] = [
   },
 ];
 
-const PROJECT_TYPES = [
-  { id: "extension", label: "Home Extension", icon: Building2 },
-  { id: "renovation", label: "Major Renovation", icon: Hammer },
-  { id: "newbuild", label: "New Build", icon: Building2 },
-  { id: "conversion", label: "Use Conversion", icon: FileText },
-];
-
 const PermitPage = () => {
-  const [isMember] = useState(false); // Simulated membership state
+  const { t } = useLanguage();
+  const [isMember] = useState(false);
   const [showDemo, setShowDemo] = useState(false);
   const [selectedProject, setSelectedProject] = useState("extension");
   const [completedSteps, setCompletedSteps] = useState<number[]>([]);
   const [activeStep, setActiveStep] = useState<number | null>(1);
+
+  const PROJECT_TYPES = [
+    { id: "extension", label: t("permit.proj.extension"), icon: Building2 },
+    { id: "renovation", label: t("permit.proj.renovation"), icon: Hammer },
+    { id: "newbuild", label: t("permit.proj.newbuild"), icon: Building2 },
+    { id: "conversion", label: t("permit.proj.conversion"), icon: FileText },
+  ];
 
   const toggleStep = (id: number) => {
     setCompletedSteps((prev) =>
@@ -167,24 +169,24 @@ const PermitPage = () => {
           <div className="text-center mb-16">
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-gold-muted mb-6">
               <Crown className="w-3.5 h-3.5 text-gold" />
-              <span className="text-accent-foreground text-xs font-body font-medium">Member Feature</span>
+              <span className="text-accent-foreground text-xs font-body font-medium">{t("permit.badge")}</span>
             </div>
             <h1 className="font-display text-5xl font-bold text-foreground mb-5">
-              Your Permit Process,
+              {t("permit.title1")}
               <br />
-              <span className="text-gold">Step by Step</span>
+              <span className="text-gold">{t("permit.title2")}</span>
             </h1>
             <p className="text-muted-foreground font-body text-xl max-w-2xl mx-auto leading-relaxed">
-              Get a personalized, interactive roadmap for every permit you need to bring your German property project to life — from Bebauungsplan to Bauabnahme.
+              {t("permit.sub")}
             </p>
           </div>
 
           {/* Features preview */}
           <div className="grid md:grid-cols-3 gap-6 mb-14">
             {[
-              { icon: ClipboardCheck, title: "7-Phase Roadmap", desc: "Complete step-by-step process from initial assessment to final inspection" },
-              { icon: FileText, title: "Document Checklist", desc: "Every form, drawing, and proof you need for each phase" },
-              { icon: Users, title: "Authority Contacts", desc: "Direct links to the right authority for each step in your Bundesland" },
+              { icon: ClipboardCheck, title: t("permit.feat1.title"), desc: t("permit.feat1.desc") },
+              { icon: FileText, title: t("permit.feat2.title"), desc: t("permit.feat2.desc") },
+              { icon: Users, title: t("permit.feat3.title"), desc: t("permit.feat3.desc") },
             ].map((f, i) => (
               <div key={i} className="p-6 rounded-2xl border border-border bg-card text-center">
                 <div className="w-12 h-12 rounded-xl bg-gold-muted border border-gold/20 flex items-center justify-center mx-auto mb-4">
@@ -202,7 +204,7 @@ const PermitPage = () => {
               <div className="bg-navy px-6 py-4 flex items-center justify-between">
                 <div className="flex items-center gap-3">
                   <Building2 className="w-5 h-5 text-gold" />
-                  <span className="text-primary-foreground font-display font-semibold">Permit Process — Home Extension</span>
+                  <span className="text-primary-foreground font-display font-semibold">{t("permit.header.title")}</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 rounded-full bg-red-400" />
@@ -228,7 +230,7 @@ const PermitPage = () => {
                     <Lock className="w-3.5 h-3.5 text-muted-foreground" />
                   </div>
                   <div className="flex-1">
-                    <div className="text-sm font-semibold text-muted-foreground font-body">4 more steps locked…</div>
+                    <div className="text-sm font-semibold text-muted-foreground font-body">{t("permit.locked")}</div>
                   </div>
                 </div>
               </div>
@@ -236,13 +238,13 @@ const PermitPage = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent flex items-end justify-center pb-8">
               <div className="text-center">
                 <Lock className="w-8 h-8 text-gold mx-auto mb-3" />
-                <p className="text-muted-foreground font-body text-sm mb-4">Unlock the full permit process with a membership</p>
+                <p className="text-muted-foreground font-body text-sm mb-4">{t("permit.unlock")}</p>
                 <button
                   onClick={() => setShowDemo(true)}
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-navy text-primary-foreground font-body font-semibold hover:bg-navy-mid transition-all shadow-md"
                 >
                   <Star className="w-4 h-4 text-gold" />
-                  Preview Demo
+                  {t("permit.demo")}
                   <ArrowRight className="w-4 h-4" />
                 </button>
               </div>
@@ -253,19 +255,19 @@ const PermitPage = () => {
           <div className="grid md:grid-cols-2 gap-6 max-w-3xl mx-auto">
             {[
               {
-                name: "Basic",
-                price: "€0",
-                desc: "For occasional queries",
-                features: ["AI Legal Advisor (5 questions/day)", "Legal citations included", "Reliability scores"],
-                cta: "Get Started Free",
+                name: t("permit.plan1.name"),
+                price: t("permit.plan1.price"),
+                desc: t("permit.plan1.desc"),
+                features: [t("permit.plan1.f1"), t("permit.plan1.f2"), t("permit.plan1.f3")],
+                cta: t("permit.plan1.cta"),
                 highlight: false,
               },
               {
-                name: "Professional",
-                price: "€29/mo",
-                desc: "For serious property owners",
-                features: ["Unlimited AI Advisor access", "Full permit process wizard", "Personalized roadmaps", "Document checklists", "Priority support"],
-                cta: "Become a Member",
+                name: t("permit.plan2.name"),
+                price: t("permit.plan2.price"),
+                desc: t("permit.plan2.desc"),
+                features: [t("permit.plan2.f1"), t("permit.plan2.f2"), t("permit.plan2.f3"), t("permit.plan2.f4"), t("permit.plan2.f5")],
+                cta: t("permit.plan2.cta"),
                 highlight: true,
               },
             ].map((plan, i) => (
@@ -276,7 +278,7 @@ const PermitPage = () => {
                 {plan.highlight && (
                   <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-gold/20 border border-gold/30 mb-4">
                     <Star className="w-3 h-3 text-gold" />
-                    <span className="text-gold text-xs font-body font-medium">Most Popular</span>
+                    <span className="text-gold text-xs font-body font-medium">{t("permit.popular")}</span>
                   </div>
                 )}
                 <div className="font-display text-2xl font-bold mb-1">{plan.price}</div>
@@ -317,14 +319,14 @@ const PermitPage = () => {
           <div>
             <div className="flex items-center gap-2 mb-1">
               <Crown className="w-4 h-4 text-gold" />
-              <span className="text-gold text-xs font-body font-semibold uppercase tracking-wide">Member Feature</span>
+              <span className="text-gold text-xs font-body font-semibold uppercase tracking-wide">{t("permit.badge")}</span>
             </div>
-            <h1 className="font-display text-3xl font-bold text-foreground">Permit Process Wizard</h1>
-            <p className="text-muted-foreground font-body text-sm mt-1">Germany · All Bundesländer</p>
+            <h1 className="font-display text-3xl font-bold text-foreground">{t("permit.wizard.title")}</h1>
+            <p className="text-muted-foreground font-body text-sm mt-1">{t("permit.wizard.sub")}</p>
           </div>
           <div className="sm:ml-auto flex flex-col items-end gap-1">
             <div className="flex items-center gap-2">
-              <span className="text-sm font-body text-muted-foreground">{completedSteps.length}/{PERMIT_STEPS.length} steps</span>
+              <span className="text-sm font-body text-muted-foreground">{completedSteps.length}/{PERMIT_STEPS.length} {t("permit.wizard.steps")}</span>
               <span className="text-sm font-semibold font-body text-foreground">{progress}%</span>
             </div>
             <div className="w-48 h-2 rounded-full bg-muted overflow-hidden">
@@ -356,7 +358,7 @@ const PermitPage = () => {
 
         {/* Steps */}
         <div className="space-y-4">
-          {PERMIT_STEPS.map((step, idx) => {
+          {PERMIT_STEPS.map((step) => {
             const isCompleted = completedSteps.includes(step.id);
             const isActive = activeStep === step.id;
 
@@ -414,7 +416,7 @@ const PermitPage = () => {
                       <div>
                         <div className="flex items-center gap-2 mb-3">
                           <ClipboardCheck className="w-4 h-4 text-gold" />
-                          <span className="text-xs font-body font-semibold uppercase tracking-wide text-foreground">Tasks & Checklist</span>
+                          <span className="text-xs font-body font-semibold uppercase tracking-wide text-foreground">{t("permit.step.tasks")}</span>
                         </div>
                         <ul className="space-y-2">
                           {step.tasks.map((task, i) => (
@@ -432,7 +434,7 @@ const PermitPage = () => {
                         <div>
                           <div className="flex items-center gap-2 mb-2">
                             <Search className="w-4 h-4 text-gold" />
-                            <span className="text-xs font-body font-semibold uppercase tracking-wide text-foreground">Legal Basis</span>
+                            <span className="text-xs font-body font-semibold uppercase tracking-wide text-foreground">{t("permit.step.legal")}</span>
                           </div>
                           <div className="p-3 rounded-xl bg-navy/8 border border-gold/20">
                             <p className="text-xs font-body font-medium text-gold">{step.legalBasis}</p>
@@ -443,7 +445,7 @@ const PermitPage = () => {
                           <div>
                             <div className="flex items-center gap-2 mb-2">
                               <Star className="w-4 h-4 text-gold" />
-                              <span className="text-xs font-body font-semibold uppercase tracking-wide text-foreground">Pro Tip</span>
+                              <span className="text-xs font-body font-semibold uppercase tracking-wide text-foreground">{t("permit.step.tip")}</span>
                             </div>
                             <div className="p-3 rounded-xl bg-gold-muted border border-gold/20">
                               <p className="text-xs font-body text-accent-foreground leading-relaxed">{step.tips}</p>
@@ -459,7 +461,7 @@ const PermitPage = () => {
                               : "border-gold bg-gold-muted text-accent-foreground hover:bg-gold/20"
                           }`}
                         >
-                          {isCompleted ? "✓ Mark as incomplete" : "Mark as complete"}
+                          {isCompleted ? t("permit.step.incomplete") : t("permit.step.complete")}
                         </button>
                       </div>
                     </div>
@@ -473,13 +475,13 @@ const PermitPage = () => {
         {/* CTA at bottom */}
         <div className="mt-10 p-6 rounded-2xl bg-navy border border-gold/20 text-center">
           <p className="text-primary-foreground/70 font-body text-sm mb-3">
-            Have questions about any of these steps?
+            {t("permit.cta.question")}
           </p>
           <Link
             to="/advisor"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gold text-accent-foreground font-body font-semibold text-sm hover:bg-gold-light transition-colors shadow-gold"
           >
-            Ask the AI Advisor
+            {t("permit.cta.btn")}
             <ArrowRight className="w-4 h-4" />
           </Link>
         </div>

@@ -1,10 +1,30 @@
 import { useState, useRef, useEffect } from "react";
 import {
   Send, Scale, BookOpen, Shield, ChevronDown, ChevronUp, Copy,
-  ThumbsUp, ThumbsDown, Loader2, Sparkles, FileSignature, Bell,
-  CheckCircle2, Circle,
+  ThumbsUp, ThumbsDown, Loader2, FileSignature, Bell,
+  CheckCircle2, Circle, Search, Check, Building2, MapPin, Layers,
 } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import { useLanguage } from "@/context/LanguageContext";
+
+const BUNDESLAENDER = [
+  "Baden-Württemberg",
+  "Bayern",
+  "Berlin",
+  "Brandenburg",
+  "Bremen",
+  "Hamburg",
+  "Hessen",
+  "Mecklenburg-Vorpommern",
+  "Niedersachsen",
+  "Nordrhein-Westfalen",
+  "Rheinland-Pfalz",
+  "Saarland",
+  "Sachsen",
+  "Sachsen-Anhalt",
+  "Schleswig-Holstein",
+  "Thüringen",
+];
 
 interface Source {
   code: string;
@@ -446,15 +466,6 @@ Acquiring a property-holding company (share deal) can defer the tax if the thres
   },
 ];
 
-const PRESET_QUESTIONS = [
-  "Can I add a balcony to my apartment in Berlin without permission?",
-  "What are my rights if my landlord claims Eigenbedarf?",
-  "How does Grunderwerbsteuer affect my property purchase?",
-  "What permits do I need to renovate a Denkmalgeschütztes building?",
-];
-
-const DOCUMENT_PRESET_QUERY = "Ich benötige ein rechtssicheres Widerspruchsschreiben gegen die Baugenehmigung meines Nachbarn.";
-
 const getResponse = (question: string): ResponseData => {
   const lower = question.toLowerCase();
   for (const mock of MOCK_RESPONSES) {
@@ -513,7 +524,13 @@ const SourceCard = ({ source, index }: { source: Source; index: number }) => {
   );
 };
 
-const DocumentCard = ({ content, title }: { content: string; title: string }) => {
+const DocumentCard = ({ content, title, copyLabel, copiedLabel, wordsLabel }: {
+  content: string;
+  title: string;
+  copyLabel: string;
+  copiedLabel: string;
+  wordsLabel: string;
+}) => {
   const [copied, setCopied] = useState(false);
   const wordCount = content.trim().split(/\s+/).length;
 
@@ -531,13 +548,13 @@ const DocumentCard = ({ content, title }: { content: string; title: string }) =>
           <span className="text-xs font-body font-semibold text-foreground">Entwurf: {title}</span>
         </div>
         <div className="flex items-center gap-3">
-          <span className="text-xs text-muted-foreground font-body">{wordCount} Wörter</span>
+          <span className="text-xs text-muted-foreground font-body">{wordCount} {wordsLabel}</span>
           <button
             onClick={handleCopy}
             className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-gold/15 hover:bg-gold/25 text-gold text-xs font-body font-medium transition-colors"
           >
             <Copy className="w-3 h-3" />
-            {copied ? "Kopiert!" : "Dokument kopieren"}
+            {copied ? copiedLabel : copyLabel}
           </button>
         </div>
       </div>
@@ -548,13 +565,12 @@ const DocumentCard = ({ content, title }: { content: string; title: string }) =>
   );
 };
 
-const statusConfig = {
-  in_progress: { label: "In Bearbeitung", className: "bg-blue-50 text-blue-700 border-blue-200" },
-  completed: { label: "Abgeschlossen", className: "bg-emerald-50 text-emerald-700 border-emerald-200" },
-  pending: { label: "Wartend", className: "bg-amber-50 text-amber-700 border-amber-200" },
-};
-
-const CaseCard = ({ case: c }: { case: Case }) => {
+const CaseCard = ({ case: c, statusConfig, stepsLabel, deadlineLabel }: {
+  case: Case;
+  statusConfig: Record<string, { label: string; className: string }>;
+  stepsLabel: string;
+  deadlineLabel: string;
+}) => {
   const doneSteps = c.steps.filter((s) => s.done).length;
   const progress = Math.round((doneSteps / c.steps.length) * 100);
   const status = statusConfig[c.status];
@@ -573,7 +589,7 @@ const CaseCard = ({ case: c }: { case: Case }) => {
 
       <div className="mb-3">
         <div className="flex items-center justify-between mb-1">
-          <span className="text-xs text-muted-foreground font-body">{doneSteps}/{c.steps.length} Schritte</span>
+          <span className="text-xs text-muted-foreground font-body">{doneSteps}/{c.steps.length} {stepsLabel}</span>
           <span className="text-xs text-muted-foreground font-body">{progress}%</span>
         </div>
         <div className="h-1.5 bg-muted rounded-full overflow-hidden">
@@ -595,10 +611,7 @@ const CaseCard = ({ case: c }: { case: Case }) => {
               step.done ? "bg-emerald-50 text-emerald-700" : "bg-muted text-muted-foreground"
             }`}
           >
-            {step.done
-              ? <CheckCircle2 className="w-3 h-3" />
-              : <Circle className="w-3 h-3" />
-            }
+            {step.done ? <CheckCircle2 className="w-3 h-3" /> : <Circle className="w-3 h-3" />}
             {step.label}
           </span>
         ))}
@@ -608,7 +621,7 @@ const CaseCard = ({ case: c }: { case: Case }) => {
         <div className="flex items-center gap-2 px-3 py-2 rounded-lg bg-amber-50 border border-amber-200">
           <Bell className="w-3.5 h-3.5 text-amber-600 shrink-0" />
           <span className="text-xs font-body text-amber-700">
-            <strong>Frist:</strong> {c.deadline} — Widerspruch muss eingereicht sein
+            <strong>{deadlineLabel}:</strong> {c.deadline} — Widerspruch muss eingereicht sein
           </span>
         </div>
       )}
@@ -617,11 +630,13 @@ const CaseCard = ({ case: c }: { case: Case }) => {
 };
 
 const AdvisorPage = () => {
+  const { t } = useLanguage();
+
   const [messages, setMessages] = useState<Message[]>([
     {
       id: 0,
       role: "assistant",
-      content: "Guten Tag! I'm your German Property Law AI Advisor. Ask me any question about Immobilienrecht — buying, selling, tenancy, construction permits, or property taxes. I'll provide you with precise answers backed by exact legal citations from German law.",
+      content: t("advisor.greeting"),
       timestamp: new Date(),
     },
   ]);
@@ -630,10 +645,39 @@ const AdvisorPage = () => {
   const [activeTab, setActiveTab] = useState<"berater" | "vorgaenge">("berater");
   const bottomRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const bundeslandRef = useRef<HTMLDivElement>(null);
+
+  // Guided context inputs
+  const [bundesland, setBundesland] = useState("");
+  const [bundeslandSearch, setBundeslandSearch] = useState("");
+  const [bundeslandOpen, setBundeslandOpen] = useState(false);
+  const [propertyType, setPropertyType] = useState("");
+  const [floors, setFloors] = useState("");
+
+  const contextReady = bundesland !== "" && propertyType !== "" && floors !== "" && Number(floors) > 0;
+
+  // Close Bundesland dropdown on outside click
+  useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (bundeslandRef.current && !bundeslandRef.current.contains(e.target as Node)) {
+        setBundeslandOpen(false);
+      }
+    };
+    if (bundeslandOpen) {
+      document.addEventListener("mousedown", handleClickOutside);
+    }
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, [bundeslandOpen]);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
+
+  const statusConfig = {
+    in_progress: { label: t("status.in_progress"), className: "bg-blue-50 text-blue-700 border-blue-200" },
+    completed: { label: t("status.completed"), className: "bg-emerald-50 text-emerald-700 border-emerald-200" },
+    pending: { label: t("status.pending"), className: "bg-amber-50 text-amber-700 border-amber-200" },
+  };
 
   const sendMessage = async (text?: string) => {
     const question = text || input.trim();
@@ -706,12 +750,12 @@ const AdvisorPage = () => {
             <Scale className="w-5 h-5 text-gold" />
           </div>
           <div>
-            <h1 className="font-display text-2xl font-bold text-foreground">AI Legal Advisor</h1>
-            <p className="text-muted-foreground text-sm font-body">German Property Law · Backed by Legal Sources</p>
+            <h1 className="font-display text-2xl font-bold text-foreground">{t("advisor.title")}</h1>
+            <p className="text-muted-foreground text-sm font-body">{t("advisor.sub")}</p>
           </div>
           <div className="ml-auto hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-emerald-50 border border-emerald-200">
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
-            <span className="text-emerald-700 text-xs font-body font-medium">AI Online</span>
+            <span className="text-emerald-700 text-xs font-body font-medium">{t("advisor.online")}</span>
           </div>
         </div>
 
@@ -719,42 +763,136 @@ const AdvisorPage = () => {
           <TabsList className="mb-5 self-start bg-muted">
             <TabsTrigger value="berater" className="font-body text-sm gap-2">
               <Scale className="w-3.5 h-3.5" />
-              AI Berater
+              {t("advisor.tab.advisor")}
             </TabsTrigger>
             <TabsTrigger value="vorgaenge" className="font-body text-sm gap-2">
               <BookOpen className="w-3.5 h-3.5" />
-              Meine Vorgänge
+              {t("advisor.tab.cases")}
             </TabsTrigger>
           </TabsList>
 
-          {/* ── Tab 1: AI Berater ── */}
+          {/* ── Tab 1: AI Advisor ── */}
           <TabsContent value="berater" className="flex-1 flex flex-col mt-0">
-            {/* Preset questions */}
-            {messages.length === 1 && (
-              <div className="mb-5 space-y-2">
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {PRESET_QUESTIONS.map((q, i) => (
-                    <button
-                      key={i}
-                      onClick={() => sendMessage(q)}
-                      className="text-left p-3 rounded-xl border border-border bg-card hover:border-gold/40 hover:bg-gold-muted/20 transition-all text-sm font-body text-muted-foreground hover:text-foreground"
-                    >
-                      <Sparkles className="w-3.5 h-3.5 text-gold inline mr-2" />
-                      {q}
-                    </button>
-                  ))}
+            {/* Guided context inputs */}
+            <div className={`mb-5 border rounded-2xl transition-all ${contextReady ? "border-gold/40 bg-gold-muted/10" : "border-border bg-card"}`}>
+              <div className="flex items-center gap-3 px-4 py-3 border-b border-border">
+                <Building2 className="w-4 h-4 text-gold shrink-0" />
+                <div>
+                  <p className="text-sm font-body font-semibold text-foreground">{t("advisor.context.title")}</p>
+                  <p className="text-xs text-muted-foreground font-body">{t("advisor.context.sub")}</p>
                 </div>
-                {/* 5th preset — document generation */}
-                <button
-                  onClick={() => sendMessage(DOCUMENT_PRESET_QUERY)}
-                  className="w-full text-left p-3 rounded-xl border border-gold/40 bg-gold-muted/10 hover:border-gold/60 hover:bg-gold-muted/25 transition-all text-sm font-body text-foreground"
-                >
-                  <FileSignature className="w-3.5 h-3.5 text-gold inline mr-2" />
-                  <span className="font-medium">Rechtssicheres Schreiben erstellen</span>
-                  <span className="text-muted-foreground ml-1">— Widerspruch, Stellungnahme & mehr</span>
-                </button>
+                {contextReady && (
+                  <span className="ml-auto flex items-center gap-1.5 text-xs font-body font-medium text-gold">
+                    <Check className="w-3.5 h-3.5" />
+                    {t("advisor.context.ready")}
+                  </span>
+                )}
               </div>
-            )}
+
+              <div className="p-4 grid grid-cols-1 sm:grid-cols-3 gap-4">
+                {/* 1 — Bundesland searchable dropdown */}
+                <div className="flex flex-col gap-1.5">
+                  <label className="text-xs font-body font-semibold text-foreground flex items-center gap-1.5">
+                    <MapPin className="w-3 h-3 text-gold" />
+                    {t("advisor.context.bundesland.label")}
+                  </label>
+                  <div className="relative" ref={bundeslandRef}>
+                    <button
+                      type="button"
+                      onClick={() => { setBundeslandOpen((o) => !o); if (!bundeslandOpen) setBundeslandSearch(""); }}
+                      className={`w-full flex items-center justify-between h-10 px-3 rounded-xl border text-sm font-body transition-colors ${
+                        bundesland
+                          ? "border-gold/40 bg-gold-muted/10 text-foreground"
+                          : "border-border bg-background text-muted-foreground"
+                      } hover:border-gold/50`}
+                    >
+                      <span className="truncate">{bundesland || t("advisor.context.bundesland.placeholder")}</span>
+                      <ChevronDown className={`w-4 h-4 shrink-0 ml-2 transition-transform ${bundeslandOpen ? "rotate-180" : ""}`} />
+                    </button>
+                    {bundeslandOpen && (
+                      <div className="absolute z-50 mt-1 w-full bg-popover border border-border rounded-xl shadow-lg overflow-hidden">
+                        <div className="flex items-center gap-2 px-3 py-2 border-b border-border">
+                          <Search className="w-3.5 h-3.5 text-muted-foreground shrink-0" />
+                          <input
+                            value={bundeslandSearch}
+                            onChange={(e) => setBundeslandSearch(e.target.value)}
+                            placeholder={t("advisor.context.bundesland.placeholder")}
+                            className="flex-1 text-sm font-body bg-transparent outline-none text-foreground placeholder:text-muted-foreground"
+                          />
+                        </div>
+                        <div className="max-h-48 overflow-y-auto py-1">
+                          {BUNDESLAENDER
+                            .filter((bl) => bl.toLowerCase().includes(bundeslandSearch.toLowerCase()))
+                            .map((bl) => (
+                              <button
+                                key={bl}
+                                type="button"
+                                onClick={() => { setBundesland(bl); setBundeslandOpen(false); }}
+                                className={`w-full text-left px-3 py-2 text-sm font-body hover:bg-accent hover:text-accent-foreground transition-colors flex items-center justify-between ${bundesland === bl ? "text-gold font-medium" : "text-foreground"}`}
+                              >
+                                {bl}
+                                {bundesland === bl && <Check className="w-3.5 h-3.5 text-gold" />}
+                              </button>
+                            ))
+                          }
+                          {BUNDESLAENDER.filter((bl) => bl.toLowerCase().includes(bundeslandSearch.toLowerCase())).length === 0 && (
+                            <p className="px-3 py-4 text-xs text-muted-foreground font-body text-center">{t("advisor.context.bundesland.empty")}</p>
+                          )}
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                </div>
+
+                {/* 2 — Property type dropdown */}
+                <div className="flex flex-col gap-1.5">
+                  <label className="text-xs font-body font-semibold text-foreground flex items-center gap-1.5">
+                    <Building2 className="w-3 h-3 text-gold" />
+                    {t("advisor.context.proptype.label")}
+                  </label>
+                  <div className="relative group">
+                    <select
+                      value={propertyType}
+                      onChange={(e) => setPropertyType(e.target.value)}
+                      className={`w-full h-10 px-3 rounded-xl border text-sm font-body appearance-none cursor-pointer transition-colors pr-8 ${
+                        propertyType
+                          ? "border-gold/40 bg-gold-muted/10 text-foreground"
+                          : "border-border bg-background text-muted-foreground"
+                      } hover:border-gold/50 focus:outline-none focus:border-gold/50`}
+                    >
+                      <option value="" disabled>{t("advisor.context.proptype.placeholder")}</option>
+                      <option value="einfamilienhaus">{t("advisor.context.proptype.einfamilienhaus")}</option>
+                      <option value="mehrfamilienhaus">{t("advisor.context.proptype.mehrfamilienhaus")}</option>
+                      <option value="gewerbe">{t("advisor.context.proptype.gewerbe")}</option>
+                      <option value="gemischte">{t("advisor.context.proptype.gemischte")}</option>
+                      <option value="sonderbau">{t("advisor.context.proptype.sonderbau")}</option>
+                    </select>
+                    <ChevronDown className="absolute right-2.5 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground pointer-events-none" />
+                  </div>
+                </div>
+
+                {/* 3 — Number of floors */}
+                <div className="flex flex-col gap-1.5">
+                  <label className="text-xs font-body font-semibold text-foreground flex items-center gap-1.5">
+                    <Layers className="w-3 h-3 text-gold" />
+                    {t("advisor.context.floors.label")}
+                  </label>
+                  <input
+                    type="number"
+                    min={1}
+                    max={99}
+                    value={floors}
+                    onChange={(e) => setFloors(e.target.value)}
+                    placeholder={t("advisor.context.floors.placeholder")}
+                    className={`h-10 w-full px-3 rounded-xl border text-sm font-body transition-colors ${
+                      floors && Number(floors) > 0
+                        ? "border-gold/40 bg-gold-muted/10 text-foreground"
+                        : "border-border bg-background text-muted-foreground"
+                    } hover:border-gold/50 focus:outline-none focus:border-gold/50 [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none`}
+                  />
+                </div>
+              </div>
+            </div>
 
             {/* Messages */}
             <div className="flex-1 overflow-y-auto space-y-6 mb-6 min-h-0 max-h-[60vh] pr-1">
@@ -781,6 +919,9 @@ const AdvisorPage = () => {
                           <DocumentCard
                             content={msg.documentBlock}
                             title={msg.documentBlock.includes("Stellungnahme") ? "Stellungnahme" : "Widerspruchsschreiben"}
+                            copyLabel={t("advisor.copy")}
+                            copiedLabel={t("advisor.copied")}
+                            wordsLabel={t("advisor.words")}
                           />
                         )}
 
@@ -795,7 +936,7 @@ const AdvisorPage = () => {
                             <div className="flex items-center gap-2 mb-3">
                               <BookOpen className="w-3.5 h-3.5 text-gold" />
                               <span className="text-xs font-body font-semibold text-foreground uppercase tracking-wide">
-                                Legal Sources ({msg.sources.length})
+                                {t("advisor.sources")} ({msg.sources.length})
                               </span>
                             </div>
                             <div className="space-y-2">
@@ -808,7 +949,7 @@ const AdvisorPage = () => {
 
                         {msg.sources && (
                           <div className="mt-4 flex items-center gap-3">
-                            <span className="text-xs text-muted-foreground font-body">Was this helpful?</span>
+                            <span className="text-xs text-muted-foreground font-body">{t("advisor.helpful")}</span>
                             <button className="p-1.5 rounded-lg hover:bg-muted transition-colors">
                               <ThumbsUp className="w-3.5 h-3.5 text-muted-foreground hover:text-foreground" />
                             </button>
@@ -836,7 +977,7 @@ const AdvisorPage = () => {
                   </div>
                   <div className="bg-card border border-border rounded-2xl rounded-tl-sm px-5 py-4 flex items-center gap-3">
                     <Loader2 className="w-4 h-4 text-gold animate-spin" />
-                    <span className="text-sm text-muted-foreground font-body">Analyzing German law databases…</span>
+                    <span className="text-sm text-muted-foreground font-body">{t("advisor.loading")}</span>
                   </div>
                 </div>
               )}
@@ -845,40 +986,40 @@ const AdvisorPage = () => {
             </div>
 
             {/* Input */}
-            <div className="bg-card border border-border rounded-2xl shadow-md p-3">
+            <div className={`bg-card border rounded-2xl shadow-md p-3 transition-colors ${!contextReady ? "opacity-60 border-border" : "border-border"}`}>
               <textarea
                 ref={textareaRef}
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 onKeyDown={handleKeyDown}
-                placeholder="Ask your property law question… e.g. 'Can I rent out my apartment in Berlin short-term?'"
+                placeholder={contextReady ? t("advisor.placeholder") : t("advisor.context.sub")}
                 rows={3}
-                className="w-full bg-transparent font-body text-sm text-foreground placeholder:text-muted-foreground resize-none outline-none leading-relaxed"
+                disabled={!contextReady}
+                className="w-full bg-transparent font-body text-sm text-foreground placeholder:text-muted-foreground resize-none outline-none leading-relaxed disabled:cursor-not-allowed"
               />
               <div className="flex items-center justify-between mt-2 pt-2 border-t border-border">
                 <p className="text-xs text-muted-foreground font-body">
-                  Press <kbd className="px-1.5 py-0.5 rounded bg-muted text-xs">Enter</kbd> to send · <kbd className="px-1.5 py-0.5 rounded bg-muted text-xs">Shift+Enter</kbd> for new line
+                  {t("advisor.hint")}
                 </p>
                 <button
                   onClick={() => sendMessage()}
-                  disabled={!input.trim() || loading}
+                  disabled={!input.trim() || loading || !contextReady}
                   className="flex items-center gap-2 px-4 py-2 rounded-xl bg-navy text-primary-foreground font-body text-sm font-medium disabled:opacity-40 hover:bg-navy-mid transition-colors disabled:cursor-not-allowed"
                 >
                   <Send className="w-3.5 h-3.5" />
-                  Ask
+                  {t("advisor.send")}
                 </button>
               </div>
             </div>
 
             <p className="text-center text-xs text-muted-foreground font-body mt-3">
-              AI responses are for informational purposes only and do not constitute legal advice.
+              {t("advisor.disclaimer")}
             </p>
           </TabsContent>
 
-          {/* ── Tab 2: Meine Vorgänge ── */}
+          {/* ── Tab 2: Cases ── */}
           <TabsContent value="vorgaenge" className="mt-0">
             <div className="border border-border rounded-2xl overflow-hidden bg-card shadow-sm">
-              {/* Browser chrome */}
               <div className="bg-muted border-b border-border px-4 py-3 flex items-center gap-2">
                 <div className="flex gap-1.5">
                   <div className="w-3 h-3 rounded-full bg-red-400/60" />
@@ -887,23 +1028,28 @@ const AdvisorPage = () => {
                 </div>
                 <div className="flex-1 mx-3">
                   <div className="bg-background rounded px-3 py-0.5 text-xs text-muted-foreground font-body text-center">
-                    rechtimmobilien.de — Meine Vorgänge
+                    rechtimmobilien.de — {t("advisor.tab.cases")}
                   </div>
                 </div>
               </div>
 
-              {/* Dashboard content */}
               <div className="p-5">
                 <div className="flex items-center justify-between mb-4">
-                  <h2 className="font-display text-lg font-semibold text-foreground">Vorgangs-Dashboard</h2>
+                  <h2 className="font-display text-lg font-semibold text-foreground">{t("advisor.caseDash")}</h2>
                   <span className="text-xs text-muted-foreground font-body bg-muted px-2.5 py-1 rounded-full">
-                    {CASES.length} Vorgänge
+                    {CASES.length} {t("advisor.cases")}
                   </span>
                 </div>
 
                 <div className="space-y-3">
                   {CASES.map((c) => (
-                    <CaseCard key={c.id} case={c} />
+                    <CaseCard
+                      key={c.id}
+                      case={c}
+                      statusConfig={statusConfig}
+                      stepsLabel={t("case.steps")}
+                      deadlineLabel={t("case.deadline")}
+                    />
                   ))}
                 </div>
 
@@ -913,7 +1059,7 @@ const AdvisorPage = () => {
                     className="flex items-center gap-2 px-4 py-2 rounded-xl bg-navy text-primary-foreground font-body text-sm font-medium hover:bg-navy-mid transition-colors"
                   >
                     <FileSignature className="w-4 h-4" />
-                    Neuen Vorgang starten
+                    {t("advisor.newCase")}
                   </button>
                 </div>
               </div>

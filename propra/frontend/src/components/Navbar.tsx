@@ -1,15 +1,17 @@
 import { Link, useLocation } from "react-router-dom";
 import { Scale, Menu, X } from "lucide-react";
 import { useState } from "react";
+import { useLanguage } from "@/context/LanguageContext";
 
 const Navbar = () => {
   const location = useLocation();
   const [mobileOpen, setMobileOpen] = useState(false);
+  const { lang, setLang, t } = useLanguage();
 
   const links = [
-    { to: "/", label: "Home" },
-    { to: "/advisor", label: "AI Advisor" },
-    { to: "/permits", label: "Permit Process" },
+    { to: "/", label: t("nav.home") },
+    { to: "/advisor", label: t("nav.advisor") },
+    { to: "/permits", label: t("nav.permits") },
   ];
 
   return (
@@ -39,21 +41,66 @@ const Navbar = () => {
               {l.label}
             </Link>
           ))}
-          <Link
-            to="/advisor"
-            className="ml-4 px-4 py-2 rounded bg-gold text-accent-foreground text-sm font-medium font-body hover:bg-gold-light transition-colors shadow-gold"
-          >
-            Ask a Question
-          </Link>
+
+          {/* Language toggle */}
+          <div className="ml-4 flex items-center rounded-lg border border-gold/30 overflow-hidden bg-gold/5">
+            <button
+              onClick={() => setLang("en")}
+              className={`px-3 py-1.5 text-xs font-body font-semibold transition-all ${
+                lang === "en"
+                  ? "bg-gold text-accent-foreground"
+                  : "text-primary-foreground/60 hover:text-primary-foreground"
+              }`}
+            >
+              EN
+            </button>
+            <div className="w-px h-4 bg-gold/25" />
+            <button
+              onClick={() => setLang("de")}
+              className={`px-3 py-1.5 text-xs font-body font-semibold transition-all ${
+                lang === "de"
+                  ? "bg-gold text-accent-foreground"
+                  : "text-primary-foreground/60 hover:text-primary-foreground"
+              }`}
+            >
+              DE
+            </button>
+          </div>
         </div>
 
         {/* Mobile */}
-        <button
-          className="md:hidden text-primary-foreground/70 hover:text-primary-foreground"
-          onClick={() => setMobileOpen(!mobileOpen)}
-        >
-          {mobileOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
-        </button>
+        <div className="md:hidden flex items-center gap-3">
+          {/* Mobile language toggle */}
+          <div className="flex items-center rounded-md border border-gold/30 overflow-hidden bg-gold/5">
+            <button
+              onClick={() => setLang("en")}
+              className={`px-2.5 py-1 text-xs font-body font-semibold transition-all ${
+                lang === "en"
+                  ? "bg-gold text-accent-foreground"
+                  : "text-primary-foreground/60"
+              }`}
+            >
+              EN
+            </button>
+            <div className="w-px h-3.5 bg-gold/25" />
+            <button
+              onClick={() => setLang("de")}
+              className={`px-2.5 py-1 text-xs font-body font-semibold transition-all ${
+                lang === "de"
+                  ? "bg-gold text-accent-foreground"
+                  : "text-primary-foreground/60"
+              }`}
+            >
+              DE
+            </button>
+          </div>
+          <button
+            className="text-primary-foreground/70 hover:text-primary-foreground"
+            onClick={() => setMobileOpen(!mobileOpen)}
+          >
+            {mobileOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+          </button>
+        </div>
       </div>
 
       {mobileOpen && (
