@@ -31,9 +31,11 @@ def assess(situation: Situation) -> AssessmentResponse:
     # TODO: call Anthropic API with prompts/assess.txt once retrieval is wired
     raise HTTPException(
         status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
-        detail="Retrieval and LLM integration not yet implemented.",
-        headers={"X-User-Message": (
-            "Die Prüfung steht noch nicht zur Verfügung. "
-            "Bitte versuchen Sie es später erneut."
-        )},
+        detail={
+            "message": "Retrieval and LLM integration not yet implemented.",
+            "user_message": (
+                "Die Pr\u00fcfung steht noch nicht zur Verf\u00fcgung. "
+                "Bitte versuchen Sie es sp\u00e4ter erneut."
+            ),
+        },
     )
