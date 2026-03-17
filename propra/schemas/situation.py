@@ -49,6 +49,7 @@ class Situation(BaseModel):
     )
 
     model_config = {
+        "extra": "ignore",
         "json_schema_extra": {
             "example": {
                 "jurisdiction": "Brandenburg",
@@ -56,5 +57,5 @@ class Situation(BaseModel):
                 "project_description": "Ich möchte eine Garage mit 6 m × 4 m im Hintergarten bauen.",
                 "has_bplan": False,
             }
-        }
+        },
     }
