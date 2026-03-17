@@ -47,7 +47,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | - Seite 13 von 97 (EU) Nr. 305/2011 zu berücksichtigen. |
+| 1.1 | (EU) Nr. 305/2011 zu berücksichtigen. |
 | 1.2 | Dies gilt auch für die Beseitigung von Anlagen und bei der Änder. |
 
 ---
@@ -137,7 +137,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | Gestaltung 07.07.2018. |
+| 1.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. |
+| 1.2 | Sie dürfen das Straßen-, Orts- oder Landschaftsbild nicht verunstalten. |
 
 ---
 
@@ -182,7 +183,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | Schutz gegen schädliche Einflüsse 07.07.2018. |
+| 1.1 | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, Einflüsse der Witterung, pflanzliche oder tierische Schädlinge oder durch andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutb. |
 
 ---
 
@@ -684,7 +685,10 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | Kleinkläranlagen, Abwasserbehälter 07.07.2018. |
+| 1.1 | Kleinkläranlagen, Abwasserbehälter 1 2 Kleinkläranlagen und Abwasserbehälter müssen wasserdicht und ausreichend groß sein. |
+| 1.2 | Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. |
+| 1.3 | Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. |
+| 1.4 | Die Anlagen sind so zu. |
 
 ---
 
@@ -786,7 +790,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | Grundpflichten 07.07.2018. |
+| 1.1 | Grundpflichten Bei Errichtung, Aufstellung, Anbringung oder Änderung, Nutzungsänderung, Abbruch oder Beseitigung von Anlagen oder von ihren Teilen sind die Bauherrschaft sowie im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschr. |
 
 ---
 
@@ -887,7 +891,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | Baugenehmigungsfreie Bauvorhaben 07.07.2018. |
+| 1.1 | oder § 63a baugenehmigungsfreier Bauvorhaben ist an der Baustelle ein Schild dauerhaft anzubringen, das mindestens die Nutzungsart des Gebäudes, die Zahl seiner Geschosse und die Namen und Anschriften der am Bau Beteiligten (§§ 56 bis 59) enthalten 2 3 muss. |
+| 1.2 | Das Schild muss vom öffentlichen Verkehrs. |
 
 ---
 
@@ -1150,7 +1155,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 07.07.2018. |
+| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 24 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ---
 
@@ -1318,6 +1323,6 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_HE-Wortlaut) |
 |---|---|
-| 1.1 | - Seite 85 von 97 (zu § 63) Baugenehmigungsfreie Vorhaben nach § 63 I Errichtung, Aufstellung, Anbringung 1 Gebäude und. |
+| 1.1 | (zu § 63) Baugenehmigungsfreie Vorhaben nach § 63 I Errichtung, Aufstellung, Anbringung 1 Gebäude und. |
 
 ---

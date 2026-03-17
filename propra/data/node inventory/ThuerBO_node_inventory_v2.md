@@ -99,7 +99,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 9.1 | Gestaltung 19.07.2024 |
+| 9.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 
 ### § 10 — Anlagen der Außenwerbung und Warenautoma
 **type:** gestaltungsanforderung
@@ -140,7 +140,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 13.1 | Schutz gegen schädliche Einflüsse 19.07.2024 |
+| 13.1 | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entstehen. Baug |
 
 ### § 14 — Brandschutz
 **type:** brandschutzanforderung
@@ -148,7 +148,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 14.1 | Brandschutz 19.07.2024 |
+| 14.1 | Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si |
 
 ### § 15 — Wärme-, Schall- und Erschütterungsschutz
 **type:** schutzanforderung
@@ -287,7 +287,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 28.1 | - Seite 2 von 89 Titel Gültig ab Vierter Abschnitt - Brandverhalten von Baustoffen und Bauteilen; Wände, De- 19.07.2024 |
+| 28.1 | Vierter Abschnitt - Brandverhalten von Baustoffen und Bauteilen; Wände, De- 19.07.2024 |
 
 ### § 29 — Allgemeine Anforderungen an das Brandver
 **type:** trennwand
@@ -512,7 +512,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 47.1 | Kleinkläranlagen, Gruben 19.07.2024 |
+| 47.1 | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. Sie müssen dichte und sichere Abdeckungen sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu entlüften, dass Gesundheits |
 
 ### § 48 — Aufbewahrung fester Abfallstoffe Feste A
 **type:** wohnung
@@ -589,7 +589,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 55.1 | Grundsatz 19.07.2024 |
+| 55.1 | Grundsatz Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind die Bauherrschaft und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 
 ### § 56 — Bauherrschaft
 **type:** beteiligtenpflicht
@@ -842,7 +842,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 80.1 | Teilbaugenehmigung 19.07.2024 |
+| 80.1 | Teilbaugenehmigung Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag in Textform schon vor Erteilung der Baugenehmigung schriftlich gestattet werden (Teilbaugenehmigung). § 78 gilt entsprechend. |
 
 ### § 81 — Typengenehmigung
 **type:** bauueberwachung
@@ -861,7 +861,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 82.1 | Vorbescheid 19.07.2024 |
+| 82.1 | Vorbescheid Vor Einreichung des Bauantrags ist auf Antrag in Textform der Bauherrschaft zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die §§ 74 bis 77, 78 Abs. 1 bis 5 sowie § 79 Abs. 1 Satz 2 und A |
 
 ### § 83 — Fliegende Bauten
 **type:** sicherheitsleistung
@@ -894,7 +894,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 85.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 19.07.2024 |
+| 85.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 24 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ### § 86 — Baueinstellung
 **type:** oertliche_bauvorschrift
@@ -1051,7 +1051,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 101.1 | Gleichstellungsbestimmung 19.07.2024 |
+| 101.1 | Gleichstellungsbestimmung Status- und Funktionsbezeichnungen in diesem Gesetz gelten jeweils auch für Personen, die mit der Angabe „divers“ oder ohne eine Angabe des Geschlechts in das Geburtenregister eingetragen sind. |
 
 ### § 102 — Inkrafttreten, Außerkrafttreten
 **type:** schlussvorschrift

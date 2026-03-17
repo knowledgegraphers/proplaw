@@ -39,7 +39,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 3.1 | - Seite 13 von 97 (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änder |
+| 3.1 | (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änder |
 
 ### § 4 — Bebauung der Grundstücke
 **type:** grundstuecksbebauung
@@ -102,7 +102,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 9.1 | Gestaltung 07.07.2018 |
+| 9.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Sie dürfen das Straßen-, Orts- oder Landschaftsbild nicht verunstalten. |
 
 ### § 10 — Anlagen der Außenwerbung
 **type:** gestaltungsanforderung
@@ -138,7 +138,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 13.1 | Schutz gegen schädliche Einflüsse 07.07.2018 |
+| 13.1 | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, Einflüsse der Witterung, pflanzliche oder tierische Schädlinge oder durch andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutb |
 
 ### § 14 — Brandschutz
 **type:** brandschutzanforderung
@@ -520,7 +520,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 47.1 | Kleinkläranlagen, Abwasserbehälter 07.07.2018 |
+| 47.1 | Kleinkläranlagen, Abwasserbehälter 1 2 Kleinkläranlagen und Abwasserbehälter müssen wasserdicht und ausreichend groß sein. Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu |
 
 ### § 48 — Aufbewahrung fester Abfallstoffe Feste A
 **type:** wohnung
@@ -598,7 +598,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 55.1 | Grundpflichten 07.07.2018 |
+| 55.1 | Grundpflichten Bei Errichtung, Aufstellung, Anbringung oder Änderung, Nutzungsänderung, Abbruch oder Beseitigung von Anlagen oder von ihren Teilen sind die Bauherrschaft sowie im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschr |
 
 ### § 56 — Seite 52 von 97 Bauherrschaft
 **type:** beteiligtenpflicht
@@ -682,7 +682,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 63.1 | Baugenehmigungsfreie Bauvorhaben 07.07.2018 |
+| 63.1 | oder § 63a baugenehmigungsfreier Bauvorhaben ist an der Baustelle ein Schild dauerhaft anzubringen, das mindestens die Nutzungsart des Gebäudes, die Zahl seiner Geschosse und die Namen und Anschriften der am Bau Beteiligten (§§ 56 bis 59) enthalten 2 3 muss. Das Schild muss vom öffentlichen Verkehrs |
 
 ### § 63a — Abbruch, Beseitigung
 **type:** vereinfachtes_genehmigungsverfahren
@@ -889,7 +889,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 80.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 07.07.2018 |
+| 80.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 24 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ### § 81 — Baueinstellung Werden Anlagen im Widersp
 **type:** bauueberwachung
@@ -1023,4 +1023,4 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO HE-Wortlaut) |
 |---|---|
-| 93.1 | - Seite 85 von 97 (zu § 63) Baugenehmigungsfreie Vorhaben nach § 63 I Errichtung, Aufstellung, Anbringung 1 Gebäude und |
+| 93.1 | (zu § 63) Baugenehmigungsfreie Vorhaben nach § 63 I Errichtung, Aufstellung, Anbringung 1 Gebäude und |

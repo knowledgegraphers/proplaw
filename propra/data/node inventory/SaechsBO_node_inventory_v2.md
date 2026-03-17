@@ -109,7 +109,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 | 10.3 | 1Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. 2Ausgenommen sind, soweit in anderen Vor |
 | 10.4 | 1In Kleinsiedlungsgebieten, Dorfgebieten, reinen und allgemeinen Wohngebieten sind nur Werbeanlagen an der Stätte der Le |
 | 10.5 | Die Absätze 1 bis 3 gelten für Warenautomaten entsprechend. |
-| 10.6 | Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf Fassung vom 19.03.2024 Seite 9 von 55 SächsBO 1. Anschläge un |
+| 10.6 | Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf |
 
 ### § 11 — Baustelle
 **type:** baustellenanforderung
@@ -154,7 +154,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (SaechsBO-Wortlaut) |
 |---|---|
-| 15.1 | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Fassung vom 19.03.2024 Seite 10 von |
+| 15.1 | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden |
 | 15.2 | 1Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. 2Geräusche, die von ortsfesten Einrichtungen in b |
 | 15.3 | Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgeh |
 
@@ -321,7 +321,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 | Nr. | Regeltext (SaechsBO-Wortlaut) |
 |---|---|
 | 29.1 | Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschosse |
-| 29.2 | Trennwände sind erforderlich Fassung vom 19.03.2024 Seite 16 von 55 SächsBO 1. zwischen Nutzungseinheiten sowie zwischen |
+| 29.2 | Trennwände sind erforderlich |
 | 29.3 | 1Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile d |
 | 29.4 | 1Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. 2Werden in Dachräumen |
 | 29.5 | 1Öffnungen in Trennwänden nach Absatz 2 sind nur zulässig, wenn sie auf die für die Nutzung erforderliche Zahl und Größe |
@@ -445,7 +445,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 | 38.1 | In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen: 1. Flächen, die im Allgemeinen zum Be |
 | 38.2 | 1In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abz |
 | 38.3 | 1Fensterbrüstungen von Flächen mit einer Absturzhöhe bis zu 12 m müssen mindestens 0,80 m, von Flächen mit mehr als 12 m |
-| 38.4 | Andere notwendige Umwehrungen müssen folgende Mindesthöhen haben: Fassung vom 19.03.2024 Seite 23 von 55 SächsBO 1. Umwe |
+| 38.4 | Andere notwendige Umwehrungen müssen folgende Mindesthöhen haben: |
 
 ### § 39 — Aufzüge
 **type:** aufzugsanlage
@@ -567,7 +567,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 |---|---|
 | 50.1 | 1In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpf |
 | 50.2 | 1Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden |
-| 50.3 | Abweichungen von den Absätzen 1 und 2 können nach § 67 nur dann zugelassen werden, soweit Fassung vom 19.03.2024 Seite 2 |
+| 50.3 | Abweichungen von den Absätzen 1 und 2 können nach § 67 nur dann zugelassen werden, soweit |
 
 ### § 51 — Sonderbauten 1An Sonderbauten können im
 **type:** sonderbautyp
@@ -667,7 +667,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 | Nr. | Regeltext (SaechsBO-Wortlaut) |
 |---|---|
 | 61.1 | Verfahrensfrei sind 1. folgende Gebäude: a) Gebäude mit einem Brutto-Rauminhalt von bis zu 75 m³ und von bis zu 80 m³ fü |
-| 61.2 | Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn Fassung vom 19.03.2024 Seite 34 von 55 SächsBO 1. für die |
+| 61.2 | Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn |
 | 61.3 | 1Verfahrensfrei ist die Beseitigung von 1. Anlagen nach Absatz 1, 2. freistehenden Gebäuden der Gebäudeklassen 1 und 3 u |
 | 61.4 | Verfahrensfrei sind Instandhaltungsarbeiten.31 |
 
@@ -891,7 +891,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 | 81.2 | 1Die Bauaufsichtsbehörde überwacht nach näherer Maßgabe der Rechtsverordnung nach § 88 Absatz 2 die Bauausführung bei ba |
 | 81.3 | Im Rahmen der Bauüberwachung können Proben von Bauprodukten, soweit erforderlich, auch aus fertigen Bauteilen zu Prüfzwe |
 | 81.4 | Im Rahmen der Bauüberwachung ist jederzeit Einblick in die Genehmigungen, Zulassungen, Prüfzeugnisse, Übereinstimmungsze |
-| 81.5 | Die Bauaufsichtsbehörde soll, soweit sie im Rahmen der Bauüberwachung Erkenntnisse über Fassung vom 19.03.2024 Seite 45 |
+| 81.5 | Die Bauaufsichtsbehörde soll, soweit sie im Rahmen der Bauüberwachung Erkenntnisse über |
 
 ### § 82 — Bauzustandsanzeigen, Aufnahme der Nutzun
 **type:** baubeginn

@@ -126,7 +126,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | - Seite 1 von 87 Titel Gültig ab. |
+| 1.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. |
+| 1.2 | Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 
 ---
 
@@ -170,7 +171,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Schutz gegen schädliche Einflüsse 01.09.2013. |
+| 1.1 | Schutz gegen schädliche Einflüsse Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse, Gefahren oder unzumutbare Belästigungen nicht entstehen. |
+| 1.2 | Dies. |
 
 ---
 
@@ -639,7 +641,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Sanitäre Anlagen 01.09.2013. |
+| 1.1 | Sanitäre Anlagen Fensterlose Bäder und Toiletten sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist. |
 
 ---
 
@@ -649,7 +651,10 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Kleinkläranlagen, Gruben 01.09.2013. |
+| 1.1 | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. |
+| 1.2 | Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. |
+| 1.3 | Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. |
+| 1.4 | Die Anlagen sind so zu entlüften, dass Gesundhe. |
 
 ---
 
@@ -659,7 +664,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | - Seite 40 von 87 Feste Abfallstoffe dürfen innerhalb von Gebäuden vorübergehend aufbewahrt werden, in Gebäuden der Gebä. |
+| 1.1 | Feste Abfallstoffe dürfen innerhalb von Gebäuden vorübergehend aufbewahrt werden, in Gebäuden der Gebä. |
 
 ---
 
@@ -733,7 +738,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | - Seite 43 von 87 lagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. |
+| 1.1 | lagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. |
 | 1.2 | Die Anforderungen und Erleichterung. |
 
 ---
@@ -744,7 +749,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Grundpflichten 01.09.2013. |
+| 1.1 | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind der Bauherr oder die Bauherrin und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 
 ---
 
@@ -968,7 +973,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Einheitlicher Ansprechpartner 27.06.2024. |
+| 1.1 | Abs. 2 Nrn. |
+| 1.2 | 1 und 2 und Absatz 3 Nr. 3 schließt die Berechtigung zur Erstellung der bautechnischen Nachweise ein, soweit nicht nachfolgend etwas anderes bestimmt ist. |
 
 ---
 
@@ -1108,7 +1114,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Teilbaugenehmigung 01.09.2013. |
+| 1.1 | Teilbaugenehmigung Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf schriftlichen Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). § 71 gilt entsprechend. |
 
 ---
 
@@ -1118,7 +1124,10 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Vorbescheid 01.09.2013. |
+| 1.1 | Vorbescheid Vor Einreichung des Bauantrags ist auf schriftlichen Antrag des Bauherrn oder der Bauherrin zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. |
+| 1.2 | Der Vorbescheid gilt drei Jahre. |
+| 1.3 | Die Frist kann auf schriftlichen Antrag jeweils bis zu einem Jahr verlängert werden. |
+| 1.4 | Die §§ 67 bi. |
 
 ---
 
@@ -1160,7 +1169,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (BauO_LSA-Wortlaut) |
 |---|---|
-| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 15.10.2016. |
+| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 21 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ---
 

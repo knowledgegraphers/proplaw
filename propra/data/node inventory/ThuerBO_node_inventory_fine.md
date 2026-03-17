@@ -127,7 +127,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Gestaltung 19.07.2024. |
+| 1.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. |
+| 1.2 | Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 
 ---
 
@@ -180,7 +181,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Schutz gegen schädliche Einflüsse 19.07.2024. |
+| 1.1 | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entstehen. |
+| 1.2 | Baug. |
 
 ---
 
@@ -190,7 +192,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Brandschutz 19.07.2024. |
+| 1.1 | Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si. |
 
 ---
 
@@ -363,7 +365,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | - Seite 2 von 89 Titel Gültig ab Vierter Abschnitt - Brandverhalten von Baustoffen und Bauteilen; Wände, De- 19.07.2024. |
+| 1.1 | Vierter Abschnitt - Brandverhalten von Baustoffen und Bauteilen; Wände, De- 19.07.2024. |
 
 ---
 
@@ -664,7 +666,10 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Kleinkläranlagen, Gruben 19.07.2024. |
+| 1.1 | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. |
+| 1.2 | Sie müssen dichte und sichere Abdeckungen sowie Reinigungs- und Entleerungsöffnungen haben. |
+| 1.3 | Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. |
+| 1.4 | Die Anlagen sind so zu entlüften, dass Gesundheits. |
 
 ---
 
@@ -764,7 +769,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Grundsatz 19.07.2024. |
+| 1.1 | Grundsatz Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind die Bauherrschaft und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 
 ---
 
@@ -1098,7 +1103,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Teilbaugenehmigung 19.07.2024. |
+| 1.1 | Teilbaugenehmigung Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag in Textform schon vor Erteilung der Baugenehmigung schriftlich gestattet werden (Teilbaugenehmigung). § 78 gilt entsprechend. |
 
 ---
 
@@ -1123,7 +1128,9 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Vorbescheid 19.07.2024. |
+| 1.1 | Vorbescheid Vor Einreichung des Bauantrags ist auf Antrag in Textform der Bauherrschaft zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein Vorbescheid zu erteilen. |
+| 1.2 | Der Vorbescheid gilt drei Jahre. |
+| 1.3 | Die §§ 74 bis 77, 78 Abs. 1 bis 5 sowie § 79 Abs. 1 Satz 2 und A. |
 
 ---
 
@@ -1164,7 +1171,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 19.07.2024. |
+| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 24 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ---
 
@@ -1367,7 +1374,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (ThuerBO-Wortlaut) |
 |---|---|
-| 1.1 | Gleichstellungsbestimmung 19.07.2024. |
+| 1.1 | Gleichstellungsbestimmung Status- und Funktionsbezeichnungen in diesem Gesetz gelten jeweils auch für Personen, die mit der Angabe „divers“ oder ohne eine Angabe des Geschlechts in das Geburtenregister eingetragen sind. |
 
 ---
 

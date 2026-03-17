@@ -40,7 +40,7 @@
 | 10.3 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 3 | gestaltungsanforderung | 1Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. 2Ausgenommen sind, soweit in anderen Vor |
 | 10.4 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 4 | gestaltungsanforderung | 1In Kleinsiedlungsgebieten, Dorfgebieten, reinen und allgemeinen Wohngebieten sind nur Werbeanlagen an der Stätte der Le |
 | 10.5 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 5 | gestaltungsanforderung | Die Absätze 1 bis 3 gelten für Warenautomaten entsprechend. |
-| 10.6 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 6 | gestaltungsanforderung | Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf Fassung vom 19.03.2024 Seite 9 von 55 SächsBO 1. Anschläge un |
+| 10.6 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 6 | gestaltungsanforderung | Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf |
 | 11.1 | §11 Baustelle | Abs. 1 | baustellenanforderung | Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können un |
 | 11.2 | §11 Baustelle | Abs. 2 | baustellenanforderung | 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch W |
 | 11.3 | §11 Baustelle | Abs. 3 | baustellenanforderung | Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat der Bauherr an der Baustelle ein Schild, das die Bezeichnung d |
@@ -50,7 +50,7 @@
 | 13.1 | §13 Schutz gegen schädliche Einflüsse | Abs. 1 | schutzanforderung | 1Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzli |
 | 13.2 | §13 Schutz gegen schädliche Einflüsse | Abs. 2 | schutzanforderung | Werden in Gebäuden Bauteile aus Holz oder anderen organischen Stoffen vom Hausbock oder vom echten Hausschwamm befallen, |
 | 14.1 | §14 Brandschutz | — | brandschutzanforderung | Brandschutz |
-| 15.1 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 1 | schutzanforderung | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Fassung vom 19.03.2024 Seite 10 von |
+| 15.1 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 1 | schutzanforderung | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden |
 | 15.2 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 2 | schutzanforderung | 1Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. 2Geräusche, die von ortsfesten Einrichtungen in b |
 | 15.3 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 3 | schutzanforderung | Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgeh |
 | 16.1 | §16 Verkehrssicherheit | Abs. 1 | verkehrssicherheit | Bauliche Anlagen und die dem Verkehr dienenden nicht überbauten Flächen von bebauten Grundstücken müssen verkehrssicher  |
@@ -99,7 +99,7 @@
 | 28.5 | §28 Außenwände | Abs. 5 | aussenwand | Die Absätze 2 und 3 gelten nicht für Gebäude der Gebäudeklassen 1 bis 3, Absatz 4 gilt nicht für Gebäude der Gebäudeklas |
 | 28.6 | §28 Außenwände | Abs. 6 | aussenwand | 1Abweichend von Absatz 3 sind hinterlüftete Außenwandbekleidungen mit Ausnahme der Dämmstoffe aus normalentflammbaren Ba |
 | 29.1 | §29 Trennwände | Abs. 1 | trennwand | Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschosse |
-| 29.2 | §29 Trennwände | Abs. 2 | trennwand | Trennwände sind erforderlich Fassung vom 19.03.2024 Seite 16 von 55 SächsBO 1. zwischen Nutzungseinheiten sowie zwischen |
+| 29.2 | §29 Trennwände | Abs. 2 | trennwand | Trennwände sind erforderlich |
 | 29.3 | §29 Trennwände | Abs. 3 | trennwand | 1Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile d |
 | 29.4 | §29 Trennwände | Abs. 4 | trennwand | 1Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. 2Werden in Dachräumen |
 | 29.5 | §29 Trennwände | Abs. 5 | trennwand | 1Öffnungen in Trennwänden nach Absatz 2 sind nur zulässig, wenn sie auf die für die Nutzung erforderliche Zahl und Größe |
@@ -160,7 +160,7 @@
 | 38.1 | §38 Umwehrungen | Abs. 1 | allgemeine_anforderung | In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen: 1. Flächen, die im Allgemeinen zum Be |
 | 38.2 | §38 Umwehrungen | Abs. 2 | allgemeine_anforderung | 1In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abz |
 | 38.3 | §38 Umwehrungen | Abs. 3 | allgemeine_anforderung | 1Fensterbrüstungen von Flächen mit einer Absturzhöhe bis zu 12 m müssen mindestens 0,80 m, von Flächen mit mehr als 12 m |
-| 38.4 | §38 Umwehrungen | Abs. 4 | allgemeine_anforderung | Andere notwendige Umwehrungen müssen folgende Mindesthöhen haben: Fassung vom 19.03.2024 Seite 23 von 55 SächsBO 1. Umwe |
+| 38.4 | §38 Umwehrungen | Abs. 4 | allgemeine_anforderung | Andere notwendige Umwehrungen müssen folgende Mindesthöhen haben: |
 | 39.1 | §39 Aufzüge | Abs. 1 | aufzugsanlage | 1Aufzüge im Innern von Gebäuden müssen eigene Fahrschächte haben, um eine Brandausbreitung in andere Geschosse ausreiche |
 | 39.2 | §39 Aufzüge | Abs. 2 | aufzugsanlage | 1Die Fahrschachtwände müssen als raumabschließende Bauteile 1. in Gebäuden der Gebäudeklasse 5 feuerbeständig und aus ni |
 | 39.3 | §39 Aufzüge | Abs. 3 | aufzugsanlage | 1Fahrschächte müssen zu lüften sein und eine Öffnung zur Rauchableitung mit einem freien Querschnitt von mindestens 2,5  |
@@ -199,7 +199,7 @@
 | 49.3 | §49 Stellplätze, Garagen und Abstellplätze f | Abs. 3 | stellplatzpflicht | Die Höhe der Ablösungsbeträge richtet sich nach Art der Nutzung und Lage der Anlage und darf 60 Prozent der durchschnitt |
 | 50.1 | §50 Barrierefreies Bauen | Abs. 1 | barrierefreiheit | 1In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpf |
 | 50.2 | §50 Barrierefreies Bauen | Abs. 2 | barrierefreiheit | 1Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden |
-| 50.3 | §50 Barrierefreies Bauen | Abs. 3 | barrierefreiheit | Abweichungen von den Absätzen 1 und 2 können nach § 67 nur dann zugelassen werden, soweit Fassung vom 19.03.2024 Seite 2 |
+| 50.3 | §50 Barrierefreies Bauen | Abs. 3 | barrierefreiheit | Abweichungen von den Absätzen 1 und 2 können nach § 67 nur dann zugelassen werden, soweit |
 | 51.1 | §51 Sonderbauten 1An Sonderbauten können im  | — | sonderbautyp | 1. die Anordnung der baulichen Anlagen auf dem Grundstück;
 2. die Abstände von Nachbargrenzen, von anderen baulichen Anl |
 | 52.1 | §52 Grundpflichten | — | beteiligtenpflicht | Grundpflichten |
@@ -223,7 +223,7 @@
 | 59.2 | §59 Grundsatz | Abs. 2 | genehmigungspflicht | Die Genehmigungsfreiheit nach den §§ 60 bis 62, 76 und 77 Absatz 1 Satz 3 sowie die Beschränkung der bauaufsichtlichen P |
 | 60.1 | §60 Vorrang anderer Gestattungsverfahren 1Ke | — | genehmigungspflicht | 1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen in oder an oberirdischen Gewässern und Anlagen, die dem  |
 | 61.1 | §61 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 1 | verfahrensfreies_vorhaben | Verfahrensfrei sind 1. folgende Gebäude: a) Gebäude mit einem Brutto-Rauminhalt von bis zu 75 m³ und von bis zu 80 m³ fü |
-| 61.2 | §61 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 2 | verfahrensfreies_vorhaben | Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn Fassung vom 19.03.2024 Seite 34 von 55 SächsBO 1. für die  |
+| 61.2 | §61 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 2 | verfahrensfreies_vorhaben | Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn |
 | 61.3 | §61 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 3 | verfahrensfreies_vorhaben | 1Verfahrensfrei ist die Beseitigung von 1. Anlagen nach Absatz 1, 2. freistehenden Gebäuden der Gebäudeklassen 1 und 3 u |
 | 61.4 | §61 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 4 | verfahrensfreies_vorhaben | Verfahrensfrei sind Instandhaltungsarbeiten.31 |
 | 62.1 | §62 Genehmigungsfreistellung | Abs. 1 | kenntnisgabeverfahren | 1Keiner Genehmigung bedarf unter den Voraussetzungen des Absatzes 2 die Errichtung, Änderung und Nutzungsänderung baulic |
@@ -300,7 +300,7 @@
 | 81.2 | §81 Bauüberwachung | Abs. 2 | bauueberwachung | 1Die Bauaufsichtsbehörde überwacht nach näherer Maßgabe der Rechtsverordnung nach § 88 Absatz 2 die Bauausführung bei ba |
 | 81.3 | §81 Bauüberwachung | Abs. 3 | bauueberwachung | Im Rahmen der Bauüberwachung können Proben von Bauprodukten, soweit erforderlich, auch aus fertigen Bauteilen zu Prüfzwe |
 | 81.4 | §81 Bauüberwachung | Abs. 4 | bauueberwachung | Im Rahmen der Bauüberwachung ist jederzeit Einblick in die Genehmigungen, Zulassungen, Prüfzeugnisse, Übereinstimmungsze |
-| 81.5 | §81 Bauüberwachung | Abs. 5 | bauueberwachung | Die Bauaufsichtsbehörde soll, soweit sie im Rahmen der Bauüberwachung Erkenntnisse über Fassung vom 19.03.2024 Seite 45  |
+| 81.5 | §81 Bauüberwachung | Abs. 5 | bauueberwachung | Die Bauaufsichtsbehörde soll, soweit sie im Rahmen der Bauüberwachung Erkenntnisse über |
 | 82.1 | §82 Bauzustandsanzeigen, Aufnahme der Nutzun | Abs. 1 | baubeginn | 1Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. 2Die Ba |
 | 82.2 | §82 Bauzustandsanzeigen, Aufnahme der Nutzun | Abs. 2 | baubeginn | 1Der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wo |
 | 82.3 | §82 Bauzustandsanzeigen, Aufnahme der Nutzun | Abs. 3 | baubeginn | 1Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs- und Abwasserentsorgung |

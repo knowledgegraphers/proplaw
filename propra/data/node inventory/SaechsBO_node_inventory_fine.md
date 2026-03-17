@@ -141,8 +141,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 | 3.2 | Ausgenommen sind, soweit in anderen Vor. |
 | 4.1 | In Kleinsiedlungsgebieten, Dorfgebieten, reinen und allgemeinen Wohngebieten sind nur Werbeanlagen an der Stätte der Le. |
 | 5.1 | Die Absätze 1 bis 3 gelten für Warenautomaten entsprechend. |
-| 6.1 | Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf Fassung vom 19.03.2024 Seite 9 von 55 SächsBO. |
-| 6.2 | 1. Anschläge un |
+| 6.1 | Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf. |
 
 ---
 
@@ -198,7 +197,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (SaechsBO-Wortlaut) |
 |---|---|
-| 1.1 | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Fassung vom 19.03.2024 Seite 10 von. |
+| 1.1 | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden. |
 | 2.1 | Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. |
 | 2.2 | Geräusche, die von ortsfesten Einrichtungen in b. |
 | 3.1 | Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgeh. |
@@ -411,8 +410,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 | Nr. | Regeltext (SaechsBO-Wortlaut) |
 |---|---|
 | 1.1 | Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschosse. |
-| 2.1 | Trennwände sind erforderlich Fassung vom 19.03.2024 Seite 16 von 55 SächsBO. |
-| 2.2 | 1. zwischen Nutzungseinheiten sowie zwischen |
+| 2.1 | Trennwände sind erforderlich. |
 | 3.1 | Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile d. |
 | 4.1 | Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. |
 | 4.2 | Werden in Dachräumen. |
@@ -578,8 +576,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 | 1.2 | 1. Flächen, die im Allgemeinen zum Be |
 | 2.1 | In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abz. |
 | 3.1 | Fensterbrüstungen von Flächen mit einer Absturzhöhe bis zu 12 m müssen mindestens 0,80 m, von Flächen mit mehr als 12 m. |
-| 4.1 | Andere notwendige Umwehrungen müssen folgende Mindesthöhen haben: Fassung vom 19.03.2024 Seite 23 von 55 SächsBO. |
-| 4.2 | 1. Umwe |
+| 4.1 | Andere notwendige Umwehrungen müssen folgende Mindesthöhen haben:. |
 
 ---
 
@@ -739,7 +736,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 |---|---|
 | 1.1 | In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpf. |
 | 2.1 | Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden. |
-| 3.1 | Abweichungen von den Absätzen 1 und 2 können nach § 67 nur dann zugelassen werden, soweit Fassung vom 19.03.2024 Seite 2. |
+| 3.1 | Abweichungen von den Absätzen 1 und 2 können nach § 67 nur dann zugelassen werden, soweit. |
 
 ---
 
@@ -868,8 +865,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 |---|---|
 | 1.1 | Verfahrensfrei sind. |
 | 1.2 | 1. folgende Gebäude: a) Gebäude mit einem Brutto-Rauminhalt von bis zu 75 m³ und von bis zu 80 m³ fü |
-| 2.1 | Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn Fassung vom 19.03.2024 Seite 34 von 55 SächsBO. |
-| 2.2 | 1. für die |
+| 2.1 | Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn. |
 | 3.1 | Verfahrensfrei ist die Beseitigung von. |
 | 3.2 | 1. Anlagen nach Absatz 1 |
 | 3.3 | 2. freistehenden Gebäuden der Gebäudeklassen 1 und 3 u |
@@ -1166,7 +1162,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 | 2.1 | Die Bauaufsichtsbehörde überwacht nach näherer Maßgabe der Rechtsverordnung nach § 88 Absatz 2 die Bauausführung bei ba. |
 | 3.1 | Im Rahmen der Bauüberwachung können Proben von Bauprodukten, soweit erforderlich, auch aus fertigen Bauteilen zu Prüfzwe. |
 | 4.1 | Im Rahmen der Bauüberwachung ist jederzeit Einblick in die Genehmigungen, Zulassungen, Prüfzeugnisse, Übereinstimmungsze. |
-| 5.1 | Die Bauaufsichtsbehörde soll, soweit sie im Rahmen der Bauüberwachung Erkenntnisse über Fassung vom 19.03.2024 Seite 45. |
+| 5.1 | Die Bauaufsichtsbehörde soll, soweit sie im Rahmen der Bauüberwachung Erkenntnisse über. |
 
 ---
 

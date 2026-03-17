@@ -36,14 +36,14 @@
 | 7.2 | §7 Teilung von Grundstücken | Abs. 2 | grundstuecksteilung | Soll bei einer Teilung nach Absatz 1 von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschrif |
 | 8.1 | §8 Kinderspielplätze, nicht überbaute Fläch | Abs. 1 | freiflaechengestaltung | Bei der Errichtung von Gebäuden mit mehr als drei Wohnungen ist auf dem Baugrundstück oder in unmittelbarer Nähe auf ein |
 | 8.2 | §8 Kinderspielplätze, nicht überbaute Fläch | Abs. 2 | freiflaechengestaltung | Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind 1. wassera |
-| 9.1 | §9 Gestaltung 01.09.2013 | — | gestaltungsanforderung | - Seite 1 von 87 Titel Gültig ab |
+| 9.1 | §9 Gestaltung 01.09.2013 | — | gestaltungsanforderung | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 | 10.1 | §10 Anlagen der Außenwerbung, Warenautomaten | — | gestaltungsanforderung | Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung und das 01.09.2013 Brandverhalten von Baustoffen und Bauteil |
 | 11.1 | §11 Baustelle | Abs. 1 | baustellenanforderung | Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können un |
 | 11.2 | §11 Baustelle | Abs. 2 | baustellenanforderung | Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Wa |
 | 11.3 | §11 Baustelle | Abs. 3 | baustellenanforderung | Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat der Bauherr oder die Bauherrin an der Baustelle ein Schild, da |
 | 12.1 | §12 Standsicherheit | Abs. 1 | standsicherheit | Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für sich allein standsicher sein. Die Standsicherheit  |
 | 12.2 | §12 Standsicherheit | Abs. 2 | standsicherheit | Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist zulässig, wenn öffentlichrechtlich gesichert ist, d |
-| 13.1 | §13 Schutz gegen schädliche Einflüsse 01.09. | — | schutzanforderung | Schutz gegen schädliche Einflüsse 01.09.2013 |
+| 13.1 | §13 Schutz gegen schädliche Einflüsse 01.09. | — | schutzanforderung | Schutz gegen schädliche Einflüsse Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse, Gefahren oder unzumutbare Belästigungen nicht entstehen. Dies |
 | 14.1 | §14 Brandschutz, Brandschutzanforderungen an | Abs. 1 | brandschutzanforderung | Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes un |
 | 14.2 | §14 Brandschutz, Brandschutzanforderungen an | Abs. 2 | brandschutzanforderung | Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in 1. nichtbrennbare, 2. schwerentflammbare  |
 | 14.3 | §14 Brandschutz, Brandschutzanforderungen an | Abs. 3 | brandschutzanforderung | Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in 1. feuerbeständige, 2. hochfeu |
@@ -178,9 +178,9 @@
 | 41.3 | §41 Feuerungsanlagen, sonstige Anlagen zur W | Abs. 3 | technische_anlage | Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass |
 | 41.4 | §41 Feuerungsanlagen, sonstige Anlagen zur W | Abs. 4 | technische_anlage | Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behält |
 | 41.5 | §41 Feuerungsanlagen, sonstige Anlagen zur W | Abs. 5 | technische_anlage | Für ortsfeste Verbrennungsmotoren, Blockheizkraftwerke, Brennstoffzellen, Verdichter und Wasserstoff-Elektrolyseure sowi |
-| 42.1 | §42 Sanitäre Anlagen 01.09.2013 | — | technische_anlage | Sanitäre Anlagen 01.09.2013 |
-| 43.1 | §43 Kleinkläranlagen, Gruben 01.09.2013 | — | sanitaerraum | Kleinkläranlagen, Gruben 01.09.2013 |
-| 44.1 | §44 Aufbewahrung fester Abfallstoffe | — | technische_anlage | - Seite 40 von 87 Feste Abfallstoffe dürfen innerhalb von Gebäuden vorübergehend aufbewahrt werden, in Gebäuden der Gebä |
+| 42.1 | §42 Sanitäre Anlagen 01.09.2013 | — | technische_anlage | Sanitäre Anlagen Fensterlose Bäder und Toiletten sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist. |
+| 43.1 | §43 Kleinkläranlagen, Gruben 01.09.2013 | — | sanitaerraum | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu entlüften, dass Gesundhe |
+| 44.1 | §44 Aufbewahrung fester Abfallstoffe | — | technische_anlage | Feste Abfallstoffe dürfen innerhalb von Gebäuden vorübergehend aufbewahrt werden, in Gebäuden der Gebä |
 | 45.1 | §45 Blitzschutzanlagen 01.09.2013 | — | technische_anlage | Abschnitt 7 - Nutzungsbedingte Anforderungen 01.09.2013 |
 | 46.1 | §46 Aufenthaltsräume | Abs. 1 | technische_anlage | Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen eine licht |
 | 46.2 | §46 Aufenthaltsräume | Abs. 2 | technische_anlage | Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Ro |
@@ -196,8 +196,8 @@
 | 49.1 | §49 Barrierefreies Bauen | Abs. 1 | stellplatzpflicht | In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei nutzbar und zugänglich sein;  |
 | 49.2 | §49 Barrierefreies Bauen | Abs. 2 | stellplatzpflicht | Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden  |
 | 49.3 | §49 Barrierefreies Bauen | Abs. 3 | stellplatzpflicht | Die Absätze 1 und 2 gelten nicht, soweit die Anforderungen wegen schwieriger Geländeverhältnisse, wegen des Einbaus eine |
-| 50.1 | §50 Sonderbauten An Sonderbauten können im E | — | barrierefreiheit | - Seite 43 von 87 lagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterung |
-| 51.1 | §51 Grundpflichten 01.09.2013 | — | sonderbautyp | Grundpflichten 01.09.2013 |
+| 50.1 | §50 Sonderbauten An Sonderbauten können im E | — | barrierefreiheit | lagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterung |
+| 51.1 | §51 Grundpflichten 01.09.2013 | — | sonderbautyp | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind der Bauherr oder die Bauherrin und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 | 52.1 | §52 Bauherr oder Bauherrin | Abs. 1 | beteiligtenpflicht | Der Bauherr oder die Bauherrin hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhaben |
 | 52.2 | §52 Bauherr oder Bauherrin | Abs. 2 | beteiligtenpflicht | Treten bei einem Bauvorhaben mehrere Personen als Bauherr oder Bauherrin auf, so kann die Bauaufsichtsbehörde verlangen, |
 | 53.1 | §53 Entwurfsverfasser oder Entwurfsverfasser | Abs. 1 | beteiligtenpflicht | Der Entwurfsverfasser oder die Entwurfsverfasserin muss nach Sachkunde und Erfahrung zur Vorbereitung des jeweiligen Bau |
@@ -245,7 +245,7 @@
 | 64d.4 | §64d Vorübergehende und gelegentliche Dienstl | Abs. 4 | beteiligtenpflicht | Das Recht zur Führung der Berufsbezeichnung des Niederlassungsstaats nach Artikel 7 Abs. 3 der Richtlinie 2005/36/EG ble |
 | 64d.5 | §64d Vorübergehende und gelegentliche Dienstl | Abs. 5 | beteiligtenpflicht | Auswärtige bauvorlageberechtigte Ingenieure und Ingenieurinnen haben die Berufspflichten zu beachten. Sie sind hierfür w |
 | 64d.6 | §64d Vorübergehende und gelegentliche Dienstl | Abs. 6 | beteiligtenpflicht | § 18 des Berufsqualifikationsfeststellungsgesetzes Sachsen-Anhalt ist entsprechend anwendbar. |
-| 64e.1 | §64e Einheitlicher Ansprechpartner 27.06.2024 | — | beteiligtenpflicht | Einheitlicher Ansprechpartner 27.06.2024 |
+| 64e.1 | §64e Einheitlicher Ansprechpartner 27.06.2024 | — | beteiligtenpflicht | Abs. 2 Nrn. 1 und 2 und Absatz 3 Nr. 3 schließt die Berechtigung zur Erstellung der bautechnischen Nachweise ein, soweit nicht nachfolgend etwas anderes bestimmt ist. |
 | 65.2 | §65 bleibt unberührt. | Abs. 2 | beteiligtenpflicht | Bei Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fallen, ist über den Bauantrag innerhalb eines J |
 | 66.1 | §66 Abweichungen | Abs. 1 | bauantrag | Die Bauaufsichtsbehörde soll Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vors |
 | 67.1 | §67 Bauantrag, Bauvorlagen | Abs. 1 | abweichung | Der Bauantrag ist schriftlich bei der unteren Bauaufsichtsbehörde einzureichen. Sind die technischen Voraussetzungen geg |
@@ -283,8 +283,8 @@
 | 71a.4 | §71a Typengenehmigung | Abs. 4 | typengenehmigung | Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen. Die in der T |
 | 72.1 | §72 Geltungsdauer der Genehmigung | Abs. 1 | baugenehmigung | Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Aus |
 | 72.2 | §72 Geltungsdauer der Genehmigung | Abs. 2 | baugenehmigung | Die Frist nach Absatz 1 kann auf schriftlichen Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwir |
-| 73.1 | §73 Teilbaugenehmigung 01.09.2013 | — | baugenehmigung | Teilbaugenehmigung 01.09.2013 |
-| 74.1 | §74 Vorbescheid 01.09.2013 | — | baugenehmigung | Vorbescheid 01.09.2013 |
+| 73.1 | §73 Teilbaugenehmigung 01.09.2013 | — | baugenehmigung | Teilbaugenehmigung Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf schriftlichen Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). § 71 gilt entsprechend. |
+| 74.1 | §74 Vorbescheid 01.09.2013 | — | baugenehmigung | Vorbescheid Vor Einreichung des Bauantrags ist auf schriftlichen Antrag des Bauherrn oder der Bauherrin zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf schriftlichen Antrag jeweils bis zu einem Jahr verlängert werden. Die §§ 67 bi |
 | 75.1 | §75 Seite 72 von 87 Fliegende Bauten | Abs. 1 | bauvorbescheid | Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an verschiedenen Orten wiederholt aufgestellt un |
 | 75.2 | §75 Seite 72 von 87 Fliegende Bauten | Abs. 2 | bauvorbescheid | Fliegende Bauten bedürfen, bevor sie erstmals aufgestellt und in Gebrauch genommen werden, einer Ausführungsgenehmigung. |
 | 75.3 | §75 Seite 72 von 87 Fliegende Bauten | Abs. 3 | bauvorbescheid | Die Ausführungsgenehmigung wird von der oberen Bauaufsichtsbehörde erteilt. Die Genehmigung wird für eine bestimmte Fris |
@@ -296,7 +296,7 @@
 | 76.1 | §76 Bauaufsichtliche Zustimmung | Abs. 1 | besonderes_verfahren | Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn 1. die  |
 | 76.2 | §76 Bauaufsichtliche Zustimmung | Abs. 2 | besonderes_verfahren | Der Antrag auf Zustimmung ist bei der oberen Bauaufsichtsbehörde einzureichen. |
 | 76.3 | §76 Bauaufsichtliche Zustimmung | Abs. 3 | besonderes_verfahren | Die obere Bauaufsichtsbehörde prüft 1. die Übereinstimmung mit den Vorschriften über die Zulässigkeit der baulichen Anla |
-| 77.1 | §77 Verbot unrechtmäßig gekennzeichneter Bau | — | besonderes_verfahren | Verbot unrechtmäßig gekennzeichneter Bauprodukte 15.10.2016 |
+| 77.1 | §77 Verbot unrechtmäßig gekennzeichneter Bau | — | besonderes_verfahren | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 21 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 | 78.1 | §78 Einstellung von Arbeiten | Abs. 1 | bauproduktzulassung | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauauf |
 | 78.2 | §78 Einstellung von Arbeiten | Abs. 2 | bauproduktzulassung | Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, kann die Bauaufsich |
 | 79.1 | §79 Beseitigung von Anlagen, Nutzungsuntersa | — | bauueberwachung | Abschnitt 5 - Bauüberwachung 01.09.2013 |

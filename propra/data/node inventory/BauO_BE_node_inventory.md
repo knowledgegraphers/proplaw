@@ -18,7 +18,7 @@
 | 2.10 | §2 Begriffe | Abs. 10 | begriffsbestimmung | Bauprodukte sind 1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nummer 2 der Verordnung (EU |
 | 2.11 | §2 Begriffe | Abs. 11 | begriffsbestimmung | Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen. |
 | 2.12 | §2 Begriffe | Abs. 12 | begriffsbestimmung | Vollgeschosse sind Geschosse, deren Oberkante im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragt und die üb |
-| 3.1 | §3 Allgemeine Anforderungen | — | allgemeine_anforderung | - Seite 12 von 88 Anlagen sind so anzuordnen, zu errichten, zu ändern, in ihrer Nutzung zu ändern, instand zu halten und |
+| 3.1 | §3 Allgemeine Anforderungen | — | allgemeine_anforderung | Anlagen sind so anzuordnen, zu errichten, zu ändern, in ihrer Nutzung zu ändern, instand zu halten und |
 | 4.1 | §4 Bebauung der Grundstücke mit Gebäuden | Abs. 1 | grundstuecksbebauung | Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkeh |
 | 4.2 | §4 Bebauung der Grundstücke mit Gebäuden | Abs. 2 | grundstuecksbebauung | Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verh |
 | 5.1 | §5 Zugänge und Zufahrten auf den Grundstück | Abs. 1 | verkehrssicherheit | Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen  |
@@ -37,7 +37,7 @@
 | 6a.1 | §6a Abstandsflächen, Abstände für Lauben in  | Abs. 1 | abstandsflaeche_sonderfall | Lauben in Kleingärten im Sinne von § 1 des Bundeskleingartengesetzes dürfen innerhalb von Abschnitten mit höchstens 30 L |
 | 6a.2 | §6a Abstandsflächen, Abstände für Lauben in  | Abs. 2 | abstandsflaeche_sonderfall | Zwischen den Lauben verschiedener Abschnitte sind mindestens 8 m breite Flächen (freizuhaltende Flächen) vorzusehen, die |
 | 6a.3 | §6a Abstandsflächen, Abstände für Lauben in  | Abs. 3 | abstandsflaeche_sonderfall | Die Vorschriften dieses Gesetzes über Abstände und Abstandsflächen zu angrenzenden Grundstücken, die nicht zu Kleingarte |
-| 7.1 | §7 Teilung von Grundstücken | — | grundstuecksteilung | - Seite 16 von 88 Durch die Teilung eines Grundstücks, das bebaut ist oder auf Grund einer Baugenehmigung oder einer Gen |
+| 7.1 | §7 Teilung von Grundstücken | — | grundstuecksteilung | Durch die Teilung eines Grundstücks, das bebaut ist oder auf Grund einer Baugenehmigung oder einer Gen |
 | 8.1 | §8 Nicht überbaute Flächen der bebauten Gru | Abs. 1 | freiflaechengestaltung | Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind 1. wassera |
 | 8.2 | §8 Nicht überbaute Flächen der bebauten Gru | Abs. 2 | freiflaechengestaltung | Bei der Errichtung von Gebäuden mit mehr als sechs Wohnungen ist ein Spielplatz für Kinder anzulegen und instand zu halt |
 | 8.3 | §8 Nicht überbaute Flächen der bebauten Gru | Abs. 3 | freiflaechengestaltung | Kann die Bauherrin oder der Bauherr den Kinderspielplatz nicht oder nur unter sehr großen Schwierigkeiten auf dem Baugru |
@@ -56,8 +56,8 @@
 | 11.4 | §11 Baustelle | Abs. 4 | baustellenanforderung | Bäume, Hecken und sonstige Bepflanzungen, die auf Grund anderer Rechtsvorschriften zu erhalten sind, müssen während der  |
 | 12.1 | §12 Standsicherheit | Abs. 1 | standsicherheit | Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für sich allein standsicher sein. Die Standsicherheit  |
 | 12.2 | §12 Standsicherheit | Abs. 2 | standsicherheit | Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen auf verschiedenen Grundstücken ist zulässig, wenn öffen |
-| 13.1 | §13 Schutz gegen schädliche Einflüsse 01.02. | — | schutzanforderung | Schutz gegen schädliche Einflüsse 01.02.2006 |
-| 14.1 | §14 Brandschutz 01.02.2006 | — | brandschutzanforderung | Brandschutz 01.02.2006 |
+| 13.1 | §13 Schutz gegen schädliche Einflüsse 01.02. | — | schutzanforderung | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entsteh |
+| 14.1 | §14 Brandschutz 01.02.2006 | — | brandschutzanforderung | Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si |
 | 15.1 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 1 | schutzanforderung | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Wärmeschutz haben. |
 | 15.2 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 2 | schutzanforderung | Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. Geräusche, die von ortsfesten Einrichtungen in bau |
 | 15.3 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 3 | schutzanforderung | Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgeh |
@@ -218,7 +218,7 @@
 | 50.6 | §50 Barrierefreies Bauen | Abs. 6 | barrierefreiheit | Von den Absätzen 1 bis 5 dürfen Abweichungen gemäß § 67 Absatz 1 nur zugelassen werden, soweit die Anforderungen 1. wege |
 | 51.1 | §51 Sonderbauten und Garagen An Sonderbauten | — | sonderbautyp | 1. die Anordnung der baulichen Anlagen auf dem Grundstück,
 2. die Abstände von Nachbargrenzen, von anderen baulichen Anl |
-| 52.1 | §52 Grundpflichten 01.01.2017 | — | beteiligtenpflicht | Grundpflichten 01.01.2017 |
+| 52.1 | §52 Grundpflichten 01.01.2017 | — | beteiligtenpflicht | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind die Bauherrin oder der Bauherr und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 | 53.1 | §53 Bauherrin oder Bauherr | Abs. 1 | beteiligtenpflicht | Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhaben |
 | 53.2 | §53 Bauherrin oder Bauherr | Abs. 2 | beteiligtenpflicht | Treten bei einem Bauvorhaben mehrere Personen als Bauherrin oder Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, |
 | 54.1 | §54 Entwurfsverfasserin oder Entwurfsverfass | Abs. 1 | beteiligtenpflicht | Die Entwurfsverfasserin oder der Entwurfsverfasser muss nach Sachkunde und Erfahrung zur Vorbereitung des jeweiligen Bau |
@@ -227,7 +227,7 @@
 | 55.2 | §55 Unternehmerin oder Unternehmer | Abs. 2 | verfahrensfreies_vorhaben | Jede Unternehmerin oder jeder Unternehmer hat auf Verlangen der Bauaufsichtsbehörde für Arbeiten, bei denen die Sicherhe |
 | 56.1 | §56 Bauleiterin oder Bauleiter | Abs. 1 | beteiligtenpflicht | Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen A |
 | 56.2 | §56 Bauleiterin oder Bauleiter | Abs. 2 | beteiligtenpflicht | Die Bauleiterin oder der Bauleiter muss über die für ihre oder seine Aufgabe erforderliche Sachkunde und Erfahrung verfü |
-| 57.1 | §57 Aufbau der Bauaufsichtsbehörden 01.01.20 | — | behoerdenstruktur | Aufbau der Bauaufsichtsbehörden 01.01.2017 |
+| 57.1 | §57 Aufbau der Bauaufsichtsbehörden 01.01.20 | — | behoerdenstruktur | Aufbau der Bauaufsichtsbehörden Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeignetem Personal zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Bauaufsichtsbehörden sollen Bedienstete, die die Befähigung zum höheren bautechnischen Verwaltungsd |
 | 58.1 | §58 Aufgaben und Befugnisse der Bauaufsichts | Abs. 1 | behoerdenstruktur | Die Bauaufsichtsbehörden haben bei der Errichtung, Änderung, Nutzungsänderung und Beseitigung sowie bei der Nutzung und  |
 | 59.1 | §59 Grundsatz | Abs. 1 | genehmigungspflicht | Die Errichtung, Änderung und Nutzungsänderung von Anlagen bedürfen der Baugenehmigung, soweit in den §§ 60 bis 62, 76 un |
 | 59.2 | §59 Grundsatz | Abs. 2 | genehmigungspflicht | Die Genehmigungsfreiheit nach den §§ 60 bis 62, 76 und 77 Absatz 1 Satz 3 sowie die Beschränkung der bauaufsichtlichen P |
@@ -304,7 +304,7 @@
 | 72a.4 | §72a Typengenehmigung | Abs. 4 | typengenehmigung | Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen. Die in der T |
 | 73.1 | §73 Geltungsdauer der Baugenehmigung | Abs. 1 | baugenehmigung | Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn 1. innerhalb von zwei Jahren nach ihrer Erteilung mit der  |
 | 73.2 | §73 Geltungsdauer der Baugenehmigung | Abs. 2 | baugenehmigung | Die Frist nach Absatz 1 Satz 1 Nummer 1 kann auf Antrag dreimal, jeweils bis zu einem Jahr verlängert werden. Sie kann a |
-| 74.1 | §74 Teilbaugenehmigung 01.01.2017 | — | baugenehmigung | - Seite 4 von 88 Titel Gültig ab |
+| 74.1 | §74 Teilbaugenehmigung 01.01.2017 | — | baugenehmigung | Teilbaugenehmigung Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). §§ 71 und 72 gelten entsprechend. |
 | 75.1 | §75 Vorbescheid, planungsrechtlicher Beschei | Abs. 1 | bauvorbescheid | Ist die Erteilung einer Baugenehmigung vorgeschrieben, ist vor Einreichung des Bauantrags auf Antrag der Bauherrin oder  |
 | 75.2 | §75 Vorbescheid, planungsrechtlicher Beschei | Abs. 2 | bauvorbescheid | Für ein Bauvorhaben, welches dem vereinfachten Baugenehmigungsverfahren nach § 63 unterfällt, ist auf Antrag der Bauherr |
 | 76.1 | §76 Genehmigung Fliegender Bauten | Abs. 1 | besonderes_verfahren | Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an verschiedenen Orten wiederholt aufgestellt un |
@@ -324,7 +324,7 @@
 | 78.1 | §78 Verbot unrechtmäßig gekennzeichneter Bau | — | bauproduktzulassung | Verbot unrechtmäßig gekennzeichneter Bauprodukte 20.04.2018 |
 | 79.1 | §79 Einstellung von Arbeiten | Abs. 1 | bauueberwachung | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauauf |
 | 79.2 | §79 Einstellung von Arbeiten | Abs. 2 | bauueberwachung | Werden unzulässige Arbeiten trotz einer verfügten Einstellung fortgesetzt, kann die Bauaufsichtsbehörde die Baustelle ve |
-| 80.1 | §80 Beseitigung von Anlagen, Nutzungsuntersa | — | sanktion | Beseitigung von Anlagen, Nutzungsuntersagung 01.01.2017 |
+| 80.1 | §80 Beseitigung von Anlagen, Nutzungsuntersa | — | sanktion | Beseitigung von Anlagen, Nutzungsuntersagung Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werde |
 | 81.1 | §81 Bestehende bauliche Anlagen | Abs. 1 | bauueberwachung | Rechtmäßig bestehende bauliche Anlagen sind, soweit sie nicht den Vorschriften dieses Gesetzes oder den auf Grund dieses |
 | 81.2 | §81 Bestehende bauliche Anlagen | Abs. 2 | bauueberwachung | Werden in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Vorschriften andere Anforderungen als nach dem bish |
 | 81.3 | §81 Bestehende bauliche Anlagen | Abs. 3 | bauueberwachung | Sollen rechtmäßig bestehende bauliche Anlagen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht  |

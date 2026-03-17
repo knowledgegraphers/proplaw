@@ -46,7 +46,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 4.1 | Soziale und ökologische Belange 15.12.2022 |
+| 4.1 | Soziale und ökologische Belange Bei der Anordnung, Errichtung, Instandhaltung, Änderung und Nutzungsänderung baulicher Anlagen sind die allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverhältnisse, die Belange des Umwelt- und Klimaschutzes und die Belange und Sicherheitsbedürfnisse von Frauen, |
 
 ### § 5 — Gestaltung
 **type:** verkehrssicherheit
@@ -155,7 +155,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 14.1 | Schutz gegen schädliche Einwirkungen 01.08.2015 |
+| 14.1 | Schutz gegen schädliche Einwirkungen Bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 müssen so angeordnet und beschaffen sein, dass durch Wasser, Feuchtigkeit, pflanzliche oder tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüss |
 
 ### § 15 — Brandschutz
 **type:** schutzanforderung
@@ -255,7 +255,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 21.1 | Zustimmung im Einzelfall 29.06.2019 |
+| 21.1 | Zustimmung im Einzelfall Mit Zustimmung der obersten Bauaufsichtsbehörde dürfen unter den Voraussetzungen des § 18b Abs. 1 im Einzelfall Bauprodukte verwendet werden, wenn ihre Verwendbarkeit im Sinne des § 18 Abs. 1 nachgewiesen ist. Die oberste Bauaufsichtsbehörde kann für genau begrenzte Fälle fe |
 
 ### § 22 — Übereinstimmungsbestätigung
 **type:** bauproduktzulassung
@@ -711,7 +711,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 60.1 | - Seite 3 von 92 Titel Gültig ab Sechster Teil - Verfahren 01.10.2001 |
+| 60.1 | Sachliche Zuständigkeit Sachlich zuständig ist, soweit in diesem Gesetz oder in Vorschriften aufgrund dieses Gesetzes nichts anderes bestimmt ist, die untere Bauaufsichtsbehörde. Sechster Teil Verfahren |
 
 ### § 61 — Genehmigungsbedürftige Vorhaben
 **type:** verfahrensfreies_vorhaben
@@ -719,7 +719,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 61.1 | - Seite 51 von 92 Die Errichtung, die Änderung, die Nutzungsänderung und der Abbruch baulicher Anlagen sowie anderer Anl |
+| 61.1 | Die Errichtung, die Änderung, die Nutzungsänderung und der Abbruch baulicher Anlagen sowie anderer Anl |
 
 ### § 62 — Genehmigungsfreie Vorhaben
 **type:** kenntnisgabeverfahren
@@ -890,7 +890,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 72.1 | Bauvorbescheid 01.08.2021 |
+| 72.1 | Bauvorbescheid Vor Einreichung des Bauantrags kann die Bauherrin oder der Bauherr zu einzelnen Fragen des Vorhabens einen Bescheid (Bauvorbescheid) beantragen; bei Vorhaben, für die ein vereinfachtes Genehmigungsverfahren nach § 66 durchgeführt werden kann, beschränkt sich der Bauvorbescheid auf Fra |
 
 ### § 73 — Teilbaugenehmigung
 **type:** baugenehmigung
@@ -1000,7 +1000,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 81.1 | Beseitigungsanordnung und Benutzungsuntersagung 01.10.2001 |
+| 81.1 | Beseitigungsanordnung und Benutzungsuntersagung Verstoßen bauliche Anlagen oder andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 gegen baurechtliche oder sonstige öffentlich-rechtliche Vorschriften über die Errichtung, die Änderung, die Instandhaltung oder die Nutzungsänderung dieser |
 
 ### § 82 — Abbruch verfallender baulicher Anlagen 1
 **type:** baubeginn
@@ -1008,7 +1008,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 82.1 | Abbruch verfallender baulicher Anlagen 10.12.2008 |
+| 82.1 | Abbruch verfallender baulicher Anlagen Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Bauaufsichtsbehörde die nach § 54 Abs. 2 verantwortlichen Personen verpflichten, die Anlage abzubrechen oder zu beseitigen; die Bestimmungen des Denkmalschutzgesetzes bleiben u |
 
 ### § 83 — Vorhaben des Bundes und der Länder
 **type:** sicherheitsleistung
@@ -1140,4 +1140,4 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (LBauO RLP-Wortlaut) |
 |---|---|
-| 93.1 | - Seite 90 von 92 Dieses Gesetz tritt am 1. Januar 1999 in Kraft. Anlage (zu § 64 Abs. 2 und zu § 64a Abs. 1) Leitlinien |
+| 93.1 | Dieses Gesetz tritt am 1. Januar 1999 in Kraft. Anlage (zu § 64 Abs. 2 und zu § 64a Abs. 1) Leitlinien |

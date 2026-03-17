@@ -37,7 +37,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 3.1 | - Seite 12 von 82 Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zwe |
+| 3.1 | Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zwe |
 
 ### § 4 — Bebauung der Grundstücke mit Gebäuden
 **type:** grundstuecksbebauung
@@ -94,7 +94,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 9.1 | Gestaltung 31.10.2015 |
+| 9.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 
 ### § 10 — Anlagen der Außenwerbung, Warenautomaten
 **type:** gestaltungsanforderung
@@ -135,7 +135,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 13.1 | Schutz gegen schädliche Einflüsse 31.10.2015 |
+| 13.1 | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entsteh |
 
 ### § 14 — Brandschutz
 **type:** brandschutzanforderung
@@ -143,7 +143,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 14.1 | Brandschutz 31.10.2015 |
+| 14.1 | Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich s |
 
 ### § 15 — Wärme-, Schall-, Erschütterungsschutz
 **type:** schutzanforderung
@@ -509,7 +509,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 44.1 | Kleinkläranlagen, Gruben 31.10.2015 |
+| 44.1 | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu entlüften, dass Gesundhe |
 
 ### § 45 — Aufbewahrung fester Abfallstoffe Feste A
 **type:** technische_anlage
@@ -577,7 +577,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 51.1 | - Seite 43 von 82 An Sonderbauten (§ 2 Absatz 4) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen n |
+| 51.1 | An Sonderbauten (§ 2 Absatz 4) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen n |
 
 ### § 52 — Grundpflichten
 **type:** beteiligtenpflicht
@@ -585,7 +585,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 52.1 | Grundpflichten 31.10.2015 |
+| 52.1 | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung, Instandhaltung und der Beseitigung von Anlagen sind der Bauherr und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 
 ### § 53 — Bauherr
 **type:** beteiligtenpflicht
@@ -859,7 +859,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 74.1 | Teilbaugenehmigung 30.06.2021 |
+| 74.1 | Teilbaugenehmigung Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf in Textform gestellten Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). § 72 gilt entsprechend. |
 
 ### § 75 — Vorbescheid
 **type:** bauvorbescheid
@@ -867,7 +867,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 75.1 | Vorbescheid 01.04.2025 |
+| 75.1 | Vorbescheid Vor Einreichung des Bauantrags ist auf Antrag des Bauherrn zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Die §§ 68 bis 71, 72 Absatz 1 bis 5 |
 
 ### § 76 — Genehmigung Fliegender Bauten
 **type:** besonderes_verfahren
@@ -904,7 +904,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO MV-Wortlaut) |
 |---|---|
-| 78.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 30.11.2019 |
+| 78.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 21 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ### § 79 — Einstellung von Arbeiten
 **type:** bauueberwachung

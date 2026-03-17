@@ -38,7 +38,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 3.1 | - Seite 12 von 88 Anlagen sind so anzuordnen, zu errichten, zu ändern, in ihrer Nutzung zu ändern, instand zu halten und |
+| 3.1 | Anlagen sind so anzuordnen, zu errichten, zu ändern, in ihrer Nutzung zu ändern, instand zu halten und |
 
 ### § 4 — Bebauung der Grundstücke mit Gebäuden
 **type:** grundstuecksbebauung
@@ -92,7 +92,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 7.1 | - Seite 16 von 88 Durch die Teilung eines Grundstücks, das bebaut ist oder auf Grund einer Baugenehmigung oder einer Gen |
+| 7.1 | Durch die Teilung eines Grundstücks, das bebaut ist oder auf Grund einer Baugenehmigung oder einer Gen |
 
 ### § 8 — Nicht überbaute Flächen der bebauten Gru
 **type:** freiflaechengestaltung
@@ -153,7 +153,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 13.1 | Schutz gegen schädliche Einflüsse 01.02.2006 |
+| 13.1 | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entsteh |
 
 ### § 14 — Brandschutz
 **type:** brandschutzanforderung
@@ -161,7 +161,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 14.1 | Brandschutz 01.02.2006 |
+| 14.1 | Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si |
 
 ### § 15 — Wärme-, Schall-, Erschütterungsschutz
 **type:** schutzanforderung
@@ -607,7 +607,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 52.1 | Grundpflichten 01.01.2017 |
+| 52.1 | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind die Bauherrin oder der Bauherr und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 
 ### § 53 — Bauherrin oder Bauherr
 **type:** beteiligtenpflicht
@@ -651,7 +651,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 57.1 | Aufbau der Bauaufsichtsbehörden 01.01.2017 |
+| 57.1 | Aufbau der Bauaufsichtsbehörden Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeignetem Personal zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Bauaufsichtsbehörden sollen Bedienstete, die die Befähigung zum höheren bautechnischen Verwaltungsd |
 
 ### § 58 — Aufgaben und Befugnisse der Bauaufsichts
 **type:** behoerdenstruktur
@@ -887,7 +887,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 74.1 | - Seite 4 von 88 Titel Gültig ab |
+| 74.1 | Teilbaugenehmigung Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). §§ 71 und 72 gelten entsprechend. |
 
 ### § 75 — Vorbescheid, planungsrechtlicher Beschei
 **type:** bauvorbescheid
@@ -949,7 +949,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO BE-Wortlaut) |
 |---|---|
-| 80.1 | Beseitigung von Anlagen, Nutzungsuntersagung 01.01.2017 |
+| 80.1 | Beseitigung von Anlagen, Nutzungsuntersagung Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werde |
 
 ### § 81 — Bestehende bauliche Anlagen
 **type:** bauueberwachung

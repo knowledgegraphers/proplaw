@@ -136,7 +136,8 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Gestaltung 05.07.2024. |
+| 1.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. |
+| 1.2 | Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 
 ---
 
@@ -182,7 +183,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Schutz gegen schädliche Einflüsse 05.07.2024. |
+| 1.1 | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entsteh. |
 
 ---
 
@@ -192,7 +193,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Brandschutz 05.07.2024. |
+| 1.1 | Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich. |
 
 ---
 
@@ -669,7 +670,10 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Kleinkläranlagen, Gruben 05.07.2024. |
+| 1.1 | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. |
+| 1.2 | Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. |
+| 1.3 | Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. |
+| 1.4 | Die Anlagen sind so zu entlüften, dass Gesundhe. |
 
 ---
 
@@ -766,7 +770,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Grundpflichten 05.07.2024. |
+| 1.1 | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung, Instandhaltung und der Beseitigung von Anlagen sind die Bauherrin oder der Bauherr und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 
 ---
 
@@ -1030,7 +1034,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Ersetzung des gemeindlichen Einvernehmens 05.07.2024. |
+| 1.1 | Ersetzung des gemeindlichen Einvernehmens Zuständige Behörden nach § 36 Absatz 2 Satz 3 des Baugesetzbuchs sind die Kommunalaufsichtsbehörden. |
 
 ---
 
@@ -1086,7 +1090,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Teilbaugenehmigung 05.07.2024. |
+| 1.1 | Teilbaugenehmigung Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf in Textform gestellten Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). § 72 gilt entsprechend. |
 
 ---
 
@@ -1096,7 +1100,9 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Vorbescheid 05.07.2024. |
+| 1.1 | Vorbescheid Vor Einreichung des Bauantrags ist auf Antrag der Bauherrin oder des Bauherrn zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein Vorbescheid zu erteilen. |
+| 1.2 | Der Vorbescheid gilt drei Jahre. |
+| 1.3 | §§ 63, 64, §§ 68 bis 70a, 72 Absatz 1 bis 5 und § 73 Absatz 1. |
 
 ---
 
@@ -1142,7 +1148,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 05.07.2024. |
+| 1.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 21 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ---
 
@@ -1163,7 +1169,7 @@ _Refined from paragraph-level inventory by split_inventory_to_sentences.py. One 
 
 | Nr. | Regeltext (LBO_SH-Wortlaut) |
 |---|---|
-| 1.1 | - Seite 75 von 86 Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die. |
+| 1.1 | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die. |
 
 ---
 

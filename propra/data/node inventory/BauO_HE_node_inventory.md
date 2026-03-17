@@ -19,7 +19,7 @@
 | 2.11 | §2 Begriffe | Abs. 11 | begriffsbestimmung | Stellplätze für Kraftfahrzeuge und Abstellplätze für Fahrräder sind Flächen, die dem Abstellen der Fahrzeuge außerhalb d |
 | 2.12 | §2 Begriffe | Abs. 12 | begriffsbestimmung | Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbre |
 | 2.13 | §2 Begriffe | Abs. 13 | begriffsbestimmung | Bauprodukte sind 1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze nach |
-| 3.1 | §3 Allgemeine Anforderungen Anlagen sind so | — | allgemeine_anforderung | - Seite 13 von 97 (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änder |
+| 3.1 | §3 Allgemeine Anforderungen Anlagen sind so | — | allgemeine_anforderung | (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änder |
 | 4.1 | §4 Bebauung der Grundstücke | Abs. 1 | grundstuecksbebauung | Gebäude dürfen nur errichtet werden, wenn gesichert ist, dass ab Beginn ihrer Nutzung das Grundstück in für die Zufahrt  |
 | 4.2 | §4 Bebauung der Grundstücke | Abs. 2 | grundstuecksbebauung | Die Errichtung eines Gebäudes auf mehreren Grundstücken ist nur zulässig, wenn öffentlichrechtlich gesichert ist, dass k |
 | 5.1 | §5 Zugänge und Zufahrten auf den Grundstück | Abs. 1 | verkehrssicherheit | Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen  |
@@ -40,7 +40,7 @@
 | 7.1 | §7 Grundstücksteilung | Abs. 1 | grundstuecksteilung | Die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist oder das aufgrund einer Genehmigungsfreiste |
 | 8.1 | §8 Grundstücksfreiflächen, Kinderspielplätz | Abs. 1 | freiflaechengestaltung | Die nicht überbauten Flächen der bebauten Grundstücke sind 1. wasserdurchlässig zu belassen oder herzustellen und 2. zu  |
 | 8.2 | §8 Grundstücksfreiflächen, Kinderspielplätz | Abs. 2 | freiflaechengestaltung | Werden mehr als zwölf Wohnungen errichtet, ist auf dem Baugrundstück oder öffentlich-rechtlich gesichert in unmittelbare |
-| 9.1 | §9 Gestaltung 07.07.2018 | — | gestaltungsanforderung | Gestaltung 07.07.2018 |
+| 9.1 | §9 Gestaltung 07.07.2018 | — | gestaltungsanforderung | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Sie dürfen das Straßen-, Orts- oder Landschaftsbild nicht verunstalten. |
 | 10.1 | §10 Anlagen der Außenwerbung | Abs. 1 | gestaltungsanforderung | Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten oder ortsfest genutzten Anlagen, die der Ankündigung, der A |
 | 10.2 | §10 Anlagen der Außenwerbung | Abs. 2 | gestaltungsanforderung | Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf: 1. Werbung an dafür genehmigten Säulen, Tafeln und Flächen,  |
 | 11.1 | §11 Baustelle | Abs. 1 | baustellenanforderung | Baustellen sind so einzurichten, dass Anlagen ordnungsgemäß errichtet, geändert, abgebrochen, instand gehalten oder bese |
@@ -48,7 +48,7 @@
 | 11.3 | §11 Baustelle | Abs. 3 | baustellenanforderung | Bei Tagesunterkünften auf Baustellen sind Abweichungen von §§ 29 bis 52 zulässig, wenn keine Gründe nach § 3 Satz 1 und  |
 | 12.1 | §12 Standsicherheit | Abs. 1 | standsicherheit | Jede Anlage muss, auch unter Berücksichtigung der Baugrund- und Grundwasserverhältnisse, im2 Ganzen, in ihren einzelnen  |
 | 12.2 | §12 Standsicherheit | Abs. 2 | standsicherheit | Die Verwendung gemeinsamer Bauteile für mehrere Anlagen ist zulässig, wenn öffentlich-rechtlich und technisch gesichert  |
-| 13.1 | §13 Schutz gegen schädliche Einflüsse 07.07. | — | schutzanforderung | Schutz gegen schädliche Einflüsse 07.07.2018 |
+| 13.1 | §13 Schutz gegen schädliche Einflüsse 07.07. | — | schutzanforderung | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, Einflüsse der Witterung, pflanzliche oder tierische Schädlinge oder durch andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutb |
 | 14.1 | §14 Brandschutz | Abs. 1 | brandschutzanforderung | Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Aus |
 | 14.2 | §14 Brandschutz | Abs. 2 | brandschutzanforderung | Zum Schutz von schlafenden Personen müssen 1. in Wohnungen die Schlafräume und Kinderzimmer sowie Flure, über die Rettun |
 | 15.1 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 1 | schutzanforderung | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Wärmeschutz haben. 1 2 |
@@ -193,7 +193,7 @@
 | 46.1 | §46 Sanitäre Anlagen, Toilettenanlagen in Ga | Abs. 1 | technische_anlage | Fensterlose Bäder und Toiletten sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist. - Seite 45 von 97 1 2 |
 | 46.2 | §46 Sanitäre Anlagen, Toilettenanlagen in Ga | Abs. 2 | technische_anlage | Jede Wohnung muss Einrichtungen zur Erfassung des Wasserverbrauchs haben. Dies gilt nicht bei Nutzungsänderungen, wenn d |
 | 46.3 | §46 Sanitäre Anlagen, Toilettenanlagen in Ga | Abs. 3 | technische_anlage | In Gaststätten mit Alkoholausschank im Sinne des § 3 Abs. 1 des Hessischen Gaststättengesetzes vom 28. März 2012 (GVBl.  |
-| 47.1 | §47 Kleinkläranlagen, Abwasserbehälter 07.07 | — | aufenthaltsraum | Kleinkläranlagen, Abwasserbehälter 07.07.2018 |
+| 47.1 | §47 Kleinkläranlagen, Abwasserbehälter 07.07 | — | aufenthaltsraum | Kleinkläranlagen, Abwasserbehälter 1 2 Kleinkläranlagen und Abwasserbehälter müssen wasserdicht und ausreichend groß sein. Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu  |
 | 48.1 | §48 Aufbewahrung fester Abfallstoffe Feste A | — | wohnung | 1. Trennwände und Decken als raumabschließende Bauteile mit der Feuerwiderstandsfähigkeit der tragenden Wände und
 2. Öff |
 | 49.1 | §49 Blitzschutzanlagen 07.07.2018 Siebter Ab | — | stellplatzpflicht | Blitzschutzanlagen 07.07.2018 Siebter Abschnitt - Nutzungsbedingte Anforderungen 07.07.2018 |
@@ -216,7 +216,7 @@
 | 54.1 | §54 Barrierefreies Bauen | Abs. 1 | beteiligtenpflicht | In Gebäuden mit mehr als zwei Wohnungen müssen mindestens 20 Prozent der Wohnungen barrierefrei erreichbar und zugänglic |
 | 54.2 | §54 Barrierefreies Bauen | Abs. 2 | beteiligtenpflicht | Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden Teilen ba |
 | 54.3 | §54 Barrierefreies Bauen | Abs. 3 | beteiligtenpflicht | Anforderungen der Abs. 1 und 2 gelten jeweils nicht, soweit sie nur mit einem unverhältnismäßigen Mehraufwand umgesetzt  |
-| 55.1 | §55 Grundpflichten 07.07.2018 | — | verfahrensfreies_vorhaben | Grundpflichten 07.07.2018 |
+| 55.1 | §55 Grundpflichten 07.07.2018 | — | verfahrensfreies_vorhaben | Grundpflichten Bei Errichtung, Aufstellung, Anbringung oder Änderung, Nutzungsänderung, Abbruch oder Beseitigung von Anlagen oder von ihren Teilen sind die Bauherrschaft sowie im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschr |
 | 56.1 | §56 Seite 52 von 97 Bauherrschaft | Abs. 1 | beteiligtenpflicht | Der Bauherrschaft obliegen gegenüber der Bauaufsichtsbehörde die nach den öffentlich-rechtlichen Vorschriften erforderli |
 | 56.2 | §56 Seite 52 von 97 Bauherrschaft | Abs. 2 | beteiligtenpflicht | Bei Bauvorhaben, bei denen die Bauherrschaft aus mehreren Personen besteht, kann die Bauaufsichtsbehörde verlangen, dass |
 | 56.3 | §56 Seite 52 von 97 Bauherrschaft | Abs. 3 | beteiligtenpflicht | Wechselt die Bauherrschaft, hat die neue Bauherrschaft dies unverzüglich der Bauaufsichtsbehörde mitzuteilen. |
@@ -244,7 +244,7 @@
 | 62.3 | §62 Grundsatz | Abs. 3 | kenntnisgabeverfahren | Die Bauherrschaft kann bei Vorhaben, die der Genehmigungsfreistellung (§§ 64 oder 64a) unterfallen, die Durchführung ein |
 | 62.4 | §62 Grundsatz | Abs. 4 | kenntnisgabeverfahren | Das Schriftformerfordernis entfällt in einem von der Bauaufsichtsbehörde zur Verfügung gestellten elektronischen Verfahr |
 | 62.5 | §62 Grundsatz | Abs. 5 | kenntnisgabeverfahren | Auch soweit kein Schriftformerfordernis besteht, muss das jeweilige Verfahren eine sichere und nachvollziehbare Verknüpf |
-| 63.1 | §63 Baugenehmigungsfreie Bauvorhaben 07.07.2 | — | vereinfachtes_genehmigungsverfahren | Baugenehmigungsfreie Bauvorhaben 07.07.2018 |
+| 63.1 | §63 Baugenehmigungsfreie Bauvorhaben 07.07.2 | — | vereinfachtes_genehmigungsverfahren | oder § 63a baugenehmigungsfreier Bauvorhaben ist an der Baustelle ein Schild dauerhaft anzubringen, das mindestens die Nutzungsart des Gebäudes, die Zahl seiner Geschosse und die Namen und Anschriften der am Bau Beteiligten (§§ 56 bis 59) enthalten 2 3 muss. Das Schild muss vom öffentlichen Verkehrs |
 | 63a.1 | §63a Abbruch, Beseitigung | — | vereinfachtes_genehmigungsverfahren | - Seite 56 von 97 Keiner Baugenehmigung bedarf die vollständige oder teilweise Beseitigung von
 1. Anlagen im Sinne des § |
 | 64.1 | §64 Genehmigungsfreistellung | Abs. 1 | genehmigungspflicht | Keiner Baugenehmigung bedarf über § 63 hinaus die Errichtung, Änderung oder Nutzungsänderung von baulichen Anlagen, die  |
@@ -313,7 +313,7 @@
 | 79.4 | §79 Vorhaben in öffentlicher Trägerschaft | Abs. 4 | bauueberwachung | Bei Vorhaben des Bundes oder des Landes kann die obere Bauaufsichtsbehörde auf Antrag der öffentlichen Bauherrschaft die |
 | 79.5 | §79 Vorhaben in öffentlicher Trägerschaft | Abs. 5 | bauueberwachung | Anlagen, die nicht genehmigungsfrei sind und der Landesverteidigung dienen, sind abweichend von Abs. 1 bis 3 der oberen  |
 | 79.6 | §79 Vorhaben in öffentlicher Trägerschaft | Abs. 6 | bauueberwachung | Die öffentliche Bauherrschaft trägt die Verantwortung, dass Entwurf, Ausführung und Zustand der Anlagen den öffentlich-r |
-| 80.1 | §80 Verbot unrechtmäßig gekennzeichneter Bau | — | sanktion | Verbot unrechtmäßig gekennzeichneter Bauprodukte 07.07.2018 |
+| 80.1 | §80 Verbot unrechtmäßig gekennzeichneter Bau | — | sanktion | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 24 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 | 81.1 | §81 Baueinstellung Werden Anlagen im Widersp | — | bauueberwachung | - Seite 72 von 97 -
 1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 75 Abs. 1 bis 3 begonnen wurde,
 2. |
@@ -358,4 +358,4 @@
 | 91.3 | §91 Örtliche Bauvorschriften | Abs. 3 | schlussvorschrift | Örtliche Bauvorschriften nach Abs. 1 sowie Festsetzungen nach § 52 Abs. 2 und Abs. 5 Satz 4 können auch durch Bebauungsp |
 | 91.4 | §91 Örtliche Bauvorschriften | Abs. 4 | schlussvorschrift | Satzungen nach Abs. 1 finden keine Anwendung auf bauliche Anlagen öffentlicher Stellen auf Militärgelände. |
 | 92.1 | §92 Frist zur Umnutzung ehemaliger land- ode | — | schlussvorschrift | Frist zur Umnutzung ehemaliger land- oder forstwirtschaftlicher 07.07.2018 Gebäude |
-| 93.1 | §93 Inkrafttreten 1 2 Dieses Gesetz tritt ei | — | schlussvorschrift | - Seite 85 von 97 (zu § 63) Baugenehmigungsfreie Vorhaben nach § 63 I Errichtung, Aufstellung, Anbringung 1 Gebäude und  |
+| 93.1 | §93 Inkrafttreten 1 2 Dieses Gesetz tritt ei | — | schlussvorschrift | (zu § 63) Baugenehmigungsfreie Vorhaben nach § 63 I Errichtung, Aufstellung, Anbringung 1 Gebäude und |

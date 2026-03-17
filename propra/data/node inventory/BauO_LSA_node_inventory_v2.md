@@ -98,7 +98,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 9.1 | - Seite 1 von 87 Titel Gültig ab |
+| 9.1 | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 
 ### § 10 — Anlagen der Außenwerbung, Warenautomaten
 **type:** gestaltungsanforderung
@@ -133,7 +133,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 13.1 | Schutz gegen schädliche Einflüsse 01.09.2013 |
+| 13.1 | Schutz gegen schädliche Einflüsse Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse, Gefahren oder unzumutbare Belästigungen nicht entstehen. Dies |
 
 ### § 14 — Brandschutz, Brandschutzanforderungen an
 **type:** brandschutzanforderung
@@ -491,7 +491,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 42.1 | Sanitäre Anlagen 01.09.2013 |
+| 42.1 | Sanitäre Anlagen Fensterlose Bäder und Toiletten sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist. |
 
 ### § 43 — Kleinkläranlagen, Gruben
 **type:** sanitaerraum
@@ -499,7 +499,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 43.1 | Kleinkläranlagen, Gruben 01.09.2013 |
+| 43.1 | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu entlüften, dass Gesundhe |
 
 ### § 44 — Aufbewahrung fester Abfallstoffe
 **type:** technische_anlage
@@ -507,7 +507,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 44.1 | - Seite 40 von 87 Feste Abfallstoffe dürfen innerhalb von Gebäuden vorübergehend aufbewahrt werden, in Gebäuden der Gebä |
+| 44.1 | Feste Abfallstoffe dürfen innerhalb von Gebäuden vorübergehend aufbewahrt werden, in Gebäuden der Gebä |
 
 ### § 45 — Blitzschutzanlagen
 **type:** technische_anlage
@@ -565,7 +565,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 50.1 | - Seite 43 von 87 lagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterung |
+| 50.1 | lagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterung |
 
 ### § 51 — Grundpflichten
 **type:** sonderbautyp
@@ -573,7 +573,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 51.1 | Grundpflichten 01.09.2013 |
+| 51.1 | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind der Bauherr oder die Bauherrin und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 
 ### § 52 — Bauherr oder Bauherrin
 **type:** beteiligtenpflicht
@@ -747,7 +747,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 64e.1 | Einheitlicher Ansprechpartner 27.06.2024 |
+| 64e.1 | Abs. 2 Nrn. 1 und 2 und Absatz 3 Nr. 3 schließt die Berechtigung zur Erstellung der bautechnischen Nachweise ein, soweit nicht nachfolgend etwas anderes bestimmt ist. |
 
 ### § 65 — bleibt unberührt.
 **type:** beteiligtenpflicht
@@ -855,7 +855,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 73.1 | Teilbaugenehmigung 01.09.2013 |
+| 73.1 | Teilbaugenehmigung Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf schriftlichen Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). § 71 gilt entsprechend. |
 
 ### § 74 — Vorbescheid
 **type:** baugenehmigung
@@ -863,7 +863,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 74.1 | Vorbescheid 01.09.2013 |
+| 74.1 | Vorbescheid Vor Einreichung des Bauantrags ist auf schriftlichen Antrag des Bauherrn oder der Bauherrin zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf schriftlichen Antrag jeweils bis zu einem Jahr verlängert werden. Die §§ 67 bi |
 
 ### § 75 — Seite 72 von 87 Fliegende Bauten
 **type:** bauvorbescheid
@@ -896,7 +896,7 @@ _Run split_inventory_to_sentences.py to produce the fine (sentence-level) versio
 
 | Nr. | Regeltext (BauO LSA-Wortlaut) |
 |---|---|
-| 77.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte 15.10.2016 |
+| 77.1 | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 21 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 
 ### § 78 — Einstellung von Arbeiten
 **type:** bauproduktzulassung
