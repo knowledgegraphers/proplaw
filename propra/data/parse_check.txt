@@ -1,0 +1,7 @@
+Total nodes loaded: 641
+Nodes with 44a or 82c: 0
+
+First 3 nodes:
+  BayBO_§1_1.1  src=§1 BayBO
+  BayBO_§1_1.2  src=§1 BayBO
+  BayBO_§1_2.1  src=§1 BayBO

@@ -16,7 +16,6 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import re
 import sys
 from pathlib import Path
 
@@ -30,6 +29,18 @@ _DEFAULT_GRAPH = Path(__file__).parent.parent / "data" / "graph.pkl"
 _EXPECTED_ANCHORS: dict[str, int] = {
     "BbgBO": 80,
     "BayBO": 90,
+    "NBauO": 90,
+    "BauO_BE": 95,
+    "BauO_HE": 90,
+    "BauO_NRW": 78,
+    "BauO_LSA": 90,
+    "BauO_MV": 90,
+    "HBauO": 100,
+    "LBO_SH": 88,
+    "LBO_SL": 80,
+    "LBauO_RLP": 95,
+    "SaechsBO": 88,
+    "ThuerBO": 95,
 }
 
 _PASS = "  [PASS]"
@@ -38,12 +49,12 @@ _WARN = "  [WARN]"
 
 
 def _law_prefixes(G) -> list[str]:
-    """Return all distinct law prefixes present in the graph (e.g. BbgBO, BayBO)."""
+    """Return all distinct law prefixes present in the graph (e.g. BbgBO, BauO_BE)."""
     prefixes: set[str] = set()
     for nid in G.nodes:
-        m = re.match(r"^([A-Za-z_]+?)_", nid)
-        if m:
-            prefixes.add(m.group(1))
+        idx = nid.find("_§")
+        if idx > 0:
+            prefixes.add(nid[:idx])
     # exclude ROOT and MBO (empty)
     return sorted(p for p in prefixes if p not in {"MBO"})
 

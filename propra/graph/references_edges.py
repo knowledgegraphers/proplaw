@@ -46,16 +46,20 @@ def _parse_paragraph_refs(text: str) -> set[str]:
 
 
 def _node_prefix(nid: str) -> str | None:
-    """Return inventory prefix from node ID (e.g. 'MBO', 'BbgBO', 'BW_LBO', 'BayBO') for same-law reference grouping."""
-    if nid.startswith("BW_LBO_"):
-        return "BW_LBO"
-    if nid.startswith("MBO_"):
-        return "MBO"
-    if nid.startswith("BbgBO_"):
-        return "BbgBO"
-    if nid.startswith("BayBO_"):
-        return "BayBO"
-    return None
+    """
+    Extract the law prefix from a node ID (everything before the first '_§').
+
+    e.g. 'BbgBO_§6_1.1' → 'BbgBO',  'BauO_NRW_§5_2.3' → 'BauO_NRW'.
+    MBO is excluded — it uses a flat inventory format without § anchor nodes.
+    Returns None for non-law nodes (ROOT etc.).
+    """
+    idx = nid.find("_§")
+    if idx <= 0:
+        return None
+    prefix = nid[:idx]
+    if prefix == "MBO":
+        return None
+    return prefix
 
 
 def _source_para_to_key(source_paragraph: str) -> str | None:

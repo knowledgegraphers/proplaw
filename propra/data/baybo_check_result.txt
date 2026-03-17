@@ -1,0 +1,37 @@
+Total nodes: 2010  edges: 3193
+
+BayBO_§6 [Abstandsflächen – fence/boundary distances] — 28 sentence nodes
+  BayBO_§6_1.1  src='§6 BayBO'
+    '1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten.'
+  BayBO_§6_1.2  src='§6 BayBO'
+    '2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäude'
+
+BayBO_§57 [Verfahrensfreie – permit-free builds] — 16 sentence nodes
+  BayBO_§57_1.1  src='§57 BayBO'
+    'Verfahrensfrei sind 1. folgende Gebäude: a) Gebäude mit einem Brutto-Rauminhalt bis zu 75 m3, außer im Außenbe'
+  BayBO_§57_1.2  src='§57 BayBO'
+    '210), zuletzt geändert durch Art. 11 des Gesetzes vom 19. September 2006 (BGBl I S.'
+
+BayBO_§44a [Solaranlagen – solar panels] — 15 sentence nodes
+  BayBO_§44a_1.1  src='§44a BayBO'
+    '1Auf geeigneten Dachflächen von im Eigentum des Freistaates Bayern stehenden Gebäuden sind im Rahmen verfügbar'
+  BayBO_§44a_1.2  src='§44a BayBO'
+    '2Eine angemessene Auslegung nach Satz 1 liegt vor, wenn die Modulfläche mindestens einem Drittel der geeignete'
+
+BayBO_§82c [Bau-Turbo – fast-track planning] — 5 sentence nodes
+  BayBO_§82c_1.1  src='§82c BayBO'
+    '1Ist zu einem Vorhaben die Zustimmung der Gemeinde nach § 36a BauGB erforderlich, fordert die Bauaufsichtsbehö'
+  BayBO_§82c_1.2  src='§82c BayBO'
+    '2In diesem Fall endet die Frist zur Entscheidung nach Art. 68 Abs. 2 frühestens einen Monat nach dem Eingang d'
+
+BayBO node type distribution:
+  bauantrag                                87
+  bauproduktzulassung                      52
+  beteiligtenpflicht                       50
+  allgemeine_anforderung                   43
+  baugenehmigung                           42
+  technische_anlage                        41
+  behoerdenstruktur                        36
+  abstandsflaeche                          32
+  sanktion                                 24
+  genehmigungspflicht                      23

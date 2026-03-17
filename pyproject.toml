@@ -1,0 +1,5 @@
+[tool.ruff]
+# Exclude raw data directories and one-off shell scripts that aren't Python modules.
+exclude = [
+    "data/",
+]
