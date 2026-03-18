@@ -17,11 +17,15 @@ Usage (import):
     results = retriever.retrieve("Abstandsfläche Bayern", k=5)
 """
 
+import os
 import sys
 import re
 import pickle
 from dataclasses import dataclass, asdict
 from pathlib import Path
+
+import httpx
+import numpy as np
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -40,6 +44,8 @@ CHUNKS_PATH = RETRIEVAL_DIR / "chunks.pkl"
 # ---------------------------------------------------------------------------
 
 EMBED_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+_HF_TIMEOUT = 30.0  # seconds
+
 CHUNK_MIN_CHARS = 80          # skip stubs shorter than this
 CHUNK_MAX_CHARS = 1200        # hard cap — split overlength paragraphs
 
@@ -80,6 +86,80 @@ class Chunk:
     source_file: str       # stem of the originating .txt file
     source_paragraph: str  # e.g. "§ 6" or "Art. 6" (Bayern)
     text: str              # full paragraph text
+
+
+# ---------------------------------------------------------------------------
+# HuggingFace Inference API — embedding helpers
+# ---------------------------------------------------------------------------
+
+def _hf_client():
+    """Return a HuggingFace InferenceClient authenticated from the environment."""
+    from huggingface_hub import InferenceClient  # noqa: PLC0415
+    return InferenceClient(
+        token=os.environ.get("HF_API_TOKEN", ""),
+        timeout=_HF_TIMEOUT,
+    )
+
+
+def _flatten_to_1d(raw) -> np.ndarray:
+    """
+    Collapse whatever shape HF returns for a single input into a 1D float32 array.
+
+    HF feature-extraction may return any of:
+      [768]            — already a flat sentence embedding
+      [[768]]          — sentence embedding wrapped in a batch dim
+      [[n_tokens][768]]— token-level embeddings; mean-pooled here
+    """
+    arr = np.array(raw, dtype="float32")
+    if arr.ndim == 1:
+        return arr
+    if arr.ndim == 2:
+        # [1, 768] → unwrap batch dim; [n_tokens, 768] → mean-pool
+        return arr[0] if arr.shape[0] == 1 else arr.mean(axis=0)
+    if arr.ndim == 3:
+        # [1, n_tokens, 768] → mean-pool tokens, unwrap batch
+        return arr[0].mean(axis=0)
+    raise ValueError(f"Unexpected embedding shape from HF API: {arr.shape}")
+
+
+def _normalize(vec: np.ndarray) -> np.ndarray:
+    norm = np.linalg.norm(vec)
+    return vec / norm if norm > 0 else vec
+
+
+def get_embedding(text: str) -> list[float]:
+    """
+    Embed a single text via the HuggingFace InferenceClient.
+
+    Returns a flat list of 768 floats, L2-normalised — identical in shape and
+    scale to what SentenceTransformer.encode(normalize_embeddings=True) produced.
+    """
+    result = _hf_client().feature_extraction(text, model=EMBED_MODEL)
+    return _normalize(_flatten_to_1d(result)).tolist()
+
+
+def get_embeddings_batch(texts: list[str], batch_size: int = 32) -> np.ndarray:
+    """
+    Embed a list of texts in batches via the HuggingFace InferenceClient.
+
+    Returns a float32 ndarray of shape [len(texts), 768], L2-normalised.
+    Used by build_index(); retrieve() uses get_embedding() for single queries.
+    """
+    client = _hf_client()
+    all_vecs: list[np.ndarray] = []
+    for i in range(0, len(texts), batch_size):
+        batch = texts[i : i + batch_size]
+        result = client.feature_extraction(batch, model=EMBED_MODEL)
+        arr = np.array(result, dtype="float32")
+        # result for a batch: [batch_size, 768] or [batch_size, n_tokens, 768]
+        if arr.ndim == 2:
+            for vec in arr:
+                all_vecs.append(_normalize(vec))
+        else:
+            for vecs in arr:
+                all_vecs.append(_normalize(_flatten_to_1d(vecs)))
+        print(f"  Embedded {min(i + batch_size, len(texts))}/{len(texts)}")
+    return np.array(all_vecs, dtype="float32")
 
 
 # ---------------------------------------------------------------------------
@@ -201,26 +281,15 @@ def build_index(txt_dir: Path = TXT_DIR, retrieval_dir: Path = RETRIEVAL_DIR) ->
       chunks.pkl   — list[Chunk] in the same order as index vectors
     """
     import faiss  # noqa: PLC0415 — deferred to avoid slow startup
-    from sentence_transformers import SentenceTransformer  # noqa: PLC0415
 
     retrieval_dir.mkdir(parents=True, exist_ok=True)
 
     print("Chunking corpus...")
     chunks = chunk_all(txt_dir)
 
-    print(f"Loading embedding model: {EMBED_MODEL}")
-    model = SentenceTransformer(EMBED_MODEL)
-
-    print("Embedding chunks (this takes a few minutes)...")
+    print(f"Embedding {len(chunks)} chunks via HuggingFace Inference API ({EMBED_MODEL})...")
     texts = [c.text for c in chunks]
-    embeddings = model.encode(
-        texts,
-        batch_size=64,
-        show_progress_bar=True,
-        convert_to_numpy=True,
-        normalize_embeddings=True,   # cosine similarity via inner product
-    )
-    embeddings = embeddings.astype("float32")
+    embeddings = get_embeddings_batch(texts)
 
     dim = embeddings.shape[1]
     print(f"Building FAISS IndexFlatIP (dim={dim}, vectors={len(chunks)})...")
@@ -268,20 +337,16 @@ class Retriever:
         self,
         index_path: Path = INDEX_PATH,
         chunks_path: Path = CHUNKS_PATH,
-        model_name: str = EMBED_MODEL,
     ):
         self._index_path = index_path
         self._chunks_path = chunks_path
-        self._model_name = model_name
-        self._index: faiss.Index | None = None
+        self._index = None
         self._chunks: list[Chunk] | None = None
-        self._model: SentenceTransformer | None = None
 
     def _load(self) -> None:
         if self._index is not None:
             return
         import faiss  # noqa: PLC0415 — deferred to avoid slow startup
-        from sentence_transformers import SentenceTransformer  # noqa: PLC0415
         if not self._index_path.exists():
             raise FileNotFoundError(
                 f"FAISS index not found at {self._index_path}. "
@@ -290,7 +355,6 @@ class Retriever:
         self._index = faiss.read_index(str(self._index_path))
         with open(self._chunks_path, "rb") as f:
             self._chunks = _ChunkUnpickler(f).load()
-        self._model = SentenceTransformer(self._model_name)
 
     def retrieve(
         self,
@@ -313,11 +377,7 @@ class Retriever:
         """
         self._load()
 
-        query_vec = self._model.encode(
-            [query],
-            convert_to_numpy=True,
-            normalize_embeddings=True,
-        ).astype("float32")
+        query_vec = np.array([get_embedding(query)], dtype="float32")
 
         # Over-fetch when filtering by jurisdiction so we still return k results
         fetch_k = k * 50 if jurisdiction else k
@@ -367,6 +427,8 @@ def _cmd_query(query: str, k: int = 5, jurisdiction: str | None = None) -> None:
 
 
 if __name__ == "__main__":
+    from dotenv import load_dotenv
+    load_dotenv()
     args = sys.argv[1:]
     if not args:
         print("Usage: python rag.py build | python rag.py query <text> [k] [jurisdiction]")
