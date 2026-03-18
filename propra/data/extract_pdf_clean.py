@@ -178,8 +178,8 @@ def _postprocess_nrw(text: str) -> str:
        '§ 1 Anwendungsbereich', which marks the start of the actual law text.
     """
     # --- 1. Remove Herausgeber footer lines ---
-    lines = [l for l in text.splitlines()
-             if "Herausgeber: Im Namen der Landesregierung" not in l]
+    lines = [line for line in text.splitlines()
+             if "Herausgeber: Im Namen der Landesregierung" not in line]
     text = "\n".join(lines)
 
     # --- 2. Drop TOC (everything before the second § 1 Anwendungsbereich) ---

@@ -3,7 +3,6 @@
 from unittest.mock import MagicMock, patch
 
 import anthropic
-import pytest
 from fastapi.testclient import TestClient
 
 
