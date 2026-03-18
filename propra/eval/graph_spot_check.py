@@ -37,7 +37,7 @@ NOISE_PATTERNS = [
 
 EXPECTED_STATES = [
     "BauO_BE", "BauO_HE", "BauO_LSA", "BauO_MV", "BauO_NRW",
-    "BayBO", "BbgBO", "HBauO", "LBO_SH", "LBO_SL",
+    "BayBO", "BbgBO", "BremLBO", "BW_LBO", "HBauO", "LBO_SH", "LBO_SL",
     "LBauO_RLP", "NBauO", "SaechsBO", "ThuerBO",
 ]
 

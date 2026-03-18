@@ -150,6 +150,22 @@ _STATE_REGISTRY = [
         "source_suffix": "ThuerBO",
         "jurisdiction": "DE-TH",
     },
+    {
+        "name": "BW_LBO",
+        "full_name": "Landesbauordnung für Baden-Württemberg (LBO BW)",
+        "inventory": "BW_LBO_node_inventory.md",
+        "prefix": "BW_LBO_",
+        "source_suffix": "BW_LBO",
+        "jurisdiction": "DE-BW",
+    },
+    {
+        "name": "BremLBO",
+        "full_name": "Bremische Landesbauordnung (BremLBO)",
+        "inventory": "BremLBO_node_inventory_fine.md",
+        "prefix": "BremLBO_",
+        "source_suffix": "BremLBO",
+        "jurisdiction": "DE-HB",
+    },
 ]
 
 # Sections to include (add § numbers as we go)
@@ -164,6 +180,7 @@ _SECTIONS = [
     "52", "53", "54", "55", "56", "57", "58", "59", "60",
     "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72",
     "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86",
+    "87",
 ]
 
 # Section number -> (title, type for section anchor node)
@@ -258,6 +275,7 @@ _SECTION_ANCHORS = {
     "84": ("Ordnungswidrigkeiten", "sanktion"),
     "85": ("Rechtsvorschriften", "schlussvorschrift"),
     "86": ("Örtliche Bauvorschriften", "oertliche_bauvorschrift"),
+    "87": ("Übergangsvorschriften", "schlussvorschrift"),
 }
 
 
@@ -297,6 +315,24 @@ def _add_structural_edges(G: nx.DiGraph) -> int:
             )
             added += 1
     return added
+
+
+def _fix_orphans(G: nx.DiGraph) -> int:
+    """Connect orphan content nodes to their parent § section anchor."""
+    fixed = 0
+    for nid in list(G.nodes):
+        if G.degree(nid) != 0 or "ROOT" in nid:
+            continue
+        m = re.match(r"^(.+?)_§(\d+[a-z]?)", nid)
+        if not m:
+            continue
+        prefix, sec = m.group(1), m.group(2)
+        anchor = f"{prefix}_§{sec}"
+        if anchor in G and anchor != nid and not G.has_edge(nid, anchor):
+            src = G.nodes[nid].get("source_paragraph", "")
+            G.add_edge(nid, anchor, relation="supplements", sourced_from=src, structural=True)
+            fixed += 1
+    return fixed
 
 
 def _load_mbo_nodes() -> list:
@@ -462,7 +498,8 @@ def build() -> nx.DiGraph:
 
     # 3. Structural edges (supplements: content nodes → section anchors)
     structural = _add_structural_edges(G)
-    print(f"\nStructural edges: {structural} supplements added")
+    orphan_fixed = _fix_orphans(G)
+    print(f"\nStructural edges: {structural} supplements added, {orphan_fixed} orphans fixed")
 
     # 3. Domain edges
     print("\nDomain edges:")
