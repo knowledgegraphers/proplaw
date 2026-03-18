@@ -8,7 +8,7 @@ legal text + source citation on hover/click.
 Usage — full graph:
     python -m propra.graph.visualize_html
 
-Usage — focused subgraph (e.g. just fence nodes):
+Usage — focused subgraph (e.g. just fence nodes across ALL laws):
     python -m propra.graph.visualize_html --filter §5 §6 A1-07 §74
 
 Usage from Python:
@@ -97,10 +97,13 @@ def _node_tooltip(nid: str, data: dict) -> str:
 def _short_label(nid: str, data: dict) -> str:
     """Short label shown on the node itself — paragraph + row, strip inventory prefix."""
     label = nid
-    for prefix in ("BW_LBO_", "MBO_", "BbgBO_"):
-        label = label.replace(prefix, prefix.rstrip("_") + ":")
-    if len(label) > 20:
-        label = label[:18] + "…"
+    # Dynamically detect the law prefix (everything before the first §, or before ROOT)
+    if "_§" in label:
+        prefix = label[: label.index("_§") + 1]  # e.g. "BauO_BE_"
+        law = prefix.rstrip("_")                   # e.g. "BauO_BE"
+        label = law + ":" + label[len(prefix):]    # e.g. "BauO_BE:§5_row1"
+    if len(label) > 24:
+        label = label[:22] + "…"
     return label
 
 
@@ -253,9 +256,11 @@ def render(
     Args:
         G:               The graph to render.
         output_path:     Where to write the HTML file.
-        filter_prefixes: If given, only include nodes whose ID starts with
-                         'BW_LBO_' or 'MBO_' + any of these prefixes (e.g. §5, §6, A1-07).
-                         Neighbours of matching nodes are included so context is never missing.
+        filter_prefixes: If given, only include nodes whose ID contains one of
+                         these prefixes (e.g. §5, §6, A1-07).  Matches every
+                         law in the graph, not just a hardcoded subset.
+                         Neighbours of matching nodes are included so context
+                         is never missing.
         height:          Height of the canvas in the HTML file.
 
     Returns:
@@ -263,11 +268,25 @@ def render(
     """
     # --- build subgraph ---
     if filter_prefixes:
+        # Detect all law prefixes from ROOT nodes (e.g. "MBO_", "BauO_BE_")
+        law_prefixes = [
+            nid[:-4]  # strip "ROOT" → "MBO_", "BW_LBO_" etc.
+            for nid in G.nodes
+            if nid.endswith("ROOT")
+        ]
+
         def _matches_prefix(nid: str) -> bool:
-            return any(
-                nid.startswith(f"BW_LBO_{p}") or nid.startswith(f"MBO_{p}")
-                for p in filter_prefixes
-            )
+            for lp in law_prefixes:
+                for p in filter_prefixes:
+                    full = f"{lp}{p}"
+                    # Match exact section: "MBO_§6" but not "MBO_§60"
+                    # Node ID after the prefix must be "_" or end of string
+                    if nid.startswith(full) and (
+                        len(nid) == len(full)
+                        or nid[len(full)] in ("_", "-")
+                    ):
+                        return True
+            return False
         seed_nodes = {nid for nid in G.nodes if _matches_prefix(nid)}
         # include immediate neighbours so edges don't dangle
         neighbour_nodes = set()
