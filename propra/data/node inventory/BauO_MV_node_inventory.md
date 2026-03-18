@@ -8,7 +8,7 @@
 | 1.2 | §1 Anwendungsbereich | Abs. 2 | anwendungsbereich | Dieses Gesetz gilt nicht für 1. Anlagen des öffentlichen Verkehrs einschließlich Zubehör, Nebenanlagen und Nebenbetriebe |
 | 2.1 | §2 Begriffe | Abs. 1 | begriffsbestimmung | Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden  |
 | 2.2 | §2 Begriffe | Abs. 2 | begriffsbestimmung | Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet |
-| 2.3 | §2 Begriffe | Abs. 3 | begriffsbestimmung | Gebäude werden in folgende Gebäudeklassen eingeteilt: - Seite 9 von 82 - 1. Gebäudeklasse 1: a) freistehende Gebäude mit |
+| 2.3 | §2 Begriffe | Abs. 3 | begriffsbestimmung | Gebäude werden in folgende Gebäudeklassen eingeteilt: |
 | 2.4 | §2 Begriffe | Abs. 4 | begriffsbestimmung | Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen: 1. Ho |
 | 2.5 | §2 Begriffe | Abs. 5 | begriffsbestimmung | Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind. |
 | 2.6 | §2 Begriffe | Abs. 6 | begriffsbestimmung | Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche h |
@@ -17,7 +17,7 @@
 | 2.9 | §2 Begriffe | Abs. 9 | begriffsbestimmung | Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besond |
 | 2.10 | §2 Begriffe | Abs. 10 | begriffsbestimmung | Bauprodukte sind 1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze nach Artikel 2 Nummer 2 der Verordnung (EU) |
 | 2.11 | §2 Begriffe | Abs. 11 | begriffsbestimmung | Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen. |
-| 3.1 | §3 Allgemeine Anforderungen Anlagen sind so | — | allgemeine_anforderung | - Seite 12 von 82 Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zwe |
+| 3.1 | §3 Allgemeine Anforderungen Anlagen sind so | — | allgemeine_anforderung | Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zwe |
 | 4.1 | §4 Bebauung der Grundstücke mit Gebäuden | Abs. 1 | grundstuecksbebauung | Gebäude dürfen nur errichtet oder geändert werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffen |
 | 4.2 | §4 Bebauung der Grundstücke mit Gebäuden | Abs. 2 | grundstuecksbebauung | Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verh |
 | 5.1 | §5 Zugänge und Zufahrten auf den Grundstück | Abs. 1 | verkehrssicherheit | Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen  |
@@ -31,10 +31,9 @@
 | 6.7 | §6 Abstandsflächen, Abstände | Abs. 7 | abstandsflaeche | Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden |
 | 7.1 | §7 Teilung von Grundstücken | Abs. 1 | grundstuecksteilung | Durch die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist, dürfen keine Verhältnisse geschaffen |
 | 7.2 | §7 Teilung von Grundstücken | Abs. 2 | grundstuecksteilung | Soll bei einer Teilung nach Absatz 1 von Vorschriften dieses Gesetzes oder aufgrund dieses Gesetzes abgewichen werden, i |
-| 8.1 | §8 Nicht überbaute Flächen der bebauten Gru | — | freiflaechengestaltung | - Seite 1 von 82 Titel Gültig ab
-Teil 3 - Bauliche Anlagen 31.10.2015
+| 8.1 | §8 Nicht überbaute Flächen der bebauten Gru | — | freiflaechengestaltung | Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze Teil 3 - Bauliche Anlagen 31.10.2015
 Abschnitt 1 - Gestaltung 31.10.2015 |
-| 9.1 | §9 Gestaltung 31.10.2015 | — | gestaltungsanforderung | Gestaltung 31.10.2015 |
+| 9.1 | §9 Gestaltung 31.10.2015 | — | gestaltungsanforderung | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 | 10.1 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 1 | gestaltungsanforderung | Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als |
 | 10.2 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 2 | gestaltungsanforderung | Werbeanlagen dürfen nicht erheblich belästigen, insbesondere nicht durch ihre Größe, Häufung, Lichtstärke oder Betriebsw |
 | 10.3 | §10 Anlagen der Außenwerbung, Warenautomaten | Abs. 3 | gestaltungsanforderung | Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. Ausgenommen sind, soweit in anderen Vorsc |
@@ -47,8 +46,8 @@ Abschnitt 1 - Gestaltung 31.10.2015 |
 | 11.4 | §11 Baustelle | Abs. 4 | baustellenanforderung | Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der B |
 | 12.1 | §12 Standsicherheit | Abs. 1 | standsicherheit | Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für sich allein standsicher sein. Die Standsicherheit  |
 | 12.2 | §12 Standsicherheit | Abs. 2 | standsicherheit | Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist zulässig, wenn öffentlichrechtlich gesichert ist, d |
-| 13.1 | §13 Schutz gegen schädliche Einflüsse 31.10. | — | schutzanforderung | Schutz gegen schädliche Einflüsse 31.10.2015 |
-| 14.1 | §14 Brandschutz 31.10.2015 | — | brandschutzanforderung | Brandschutz 31.10.2015 |
+| 13.1 | §13 Schutz gegen schädliche Einflüsse 31.10. | — | schutzanforderung | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entsteh |
+| 14.1 | §14 Brandschutz 31.10.2015 | — | brandschutzanforderung | Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich s |
 | 15.1 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 1 | schutzanforderung | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Wärmeschutz haben. |
 | 15.2 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 2 | schutzanforderung | Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. Geräusche, die von ortsfesten Einrichtungen in bau |
 | 15.3 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 3 | schutzanforderung | Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgeh |
@@ -123,7 +122,7 @@ Abschnitt 1 - Gestaltung 31.10.2015 |
 | 31.4 | §31 Decken | Abs. 4 | decke | Öffnungen in Decken, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, sind nur zulässig 1. in Gebäuden der Geb |
 | 32.1 | §32 Dächer | Abs. 1 | dach | Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerst |
 | 32.2 | §32 Dächer | Abs. 2 | dach | Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3,  |
-| 32.3 | §32 Dächer | Abs. 3 | dach | Die Absätze 1 und 2 gelten nicht für - Seite 30 von 82 - 1. 3 Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit ni |
+| 32.3 | §32 Dächer | Abs. 3 | dach | Die Absätze 1 und 2 gelten nicht für |
 | 32.4 | §32 Dächer | Abs. 4 | dach | Abweichend von den Absätzen 1 und 2 sind 1. lichtdurchlässige Teilflächen aus brennbaren Baustoffen in Bedachungen nach  |
 | 32.5 | §32 Dächer | Abs. 5 | dach | Dachüberstände, Dachgesimse und Dachaufbauten, lichtdurchlässige Bedachungen, Dachflächenfenster, Lichtkuppeln, Oberlich |
 | 32.6 | §32 Dächer | Abs. 6 | dach | Dächer von traufseitig aneinander gebauten Gebäuden müssen als raumabschließende Bauteile für eine Brandbeanspruchung vo |
@@ -145,7 +144,7 @@ Abschnitt 1 - Gestaltung 31.10.2015 |
 | 35.3 | §35 Notwendige Treppenräume, Ausgänge | Abs. 3 | treppenraum | Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines notwendigen Trep |
 | 35.4 | §35 Notwendige Treppenräume, Ausgänge | Abs. 4 | treppenraum | Die Wände notwendiger Treppenräume müssen als raumabschließende Bauteile 1. in Gebäuden der Gebäudeklasse 5 die Bauart v |
 | 35.5 | §35 Notwendige Treppenräume, Ausgänge | Abs. 5 | treppenraum | In notwendigen Treppenräumen und in Räumen nach Absatz 3 Satz 2 müssen 1. Bekleidungen, Putze, Dämmstoffe, Unterdecken u |
-| 35.6 | §35 Notwendige Treppenräume, Ausgänge | Abs. 6 | treppenraum | In notwendigen Treppenräumen müssen Öffnungen - Seite 34 von 82 - 1. zu Kellergeschossen, zu nicht ausgebauten Dachräume |
+| 35.6 | §35 Notwendige Treppenräume, Ausgänge | Abs. 6 | treppenraum | In notwendigen Treppenräumen müssen Öffnungen |
 | 35.7 | §35 Notwendige Treppenräume, Ausgänge | Abs. 7 | treppenraum | Notwendige Treppenräume müssen zu beleuchten sein. Notwendige Treppenräume ohne Fenster müssen in Gebäuden mit einer Höh |
 | 35.8 | §35 Notwendige Treppenräume, Ausgänge | Abs. 8 | treppenraum | Notwendige Treppenräume müssen belüftet und zur Unterstützung wirksamer Löscharbeiten entraucht werden können. Sie müsse |
 | 36.1 | §36 Notwendige Flure, offene Gänge | Abs. 1 | notwendiger_flur | Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notw |
@@ -184,7 +183,7 @@ Abschnitt 1 - Gestaltung 31.10.2015 |
 | 42.5 | §42 Feuerungsanlagen, sonstige Anlagen zur W | Abs. 5 | technische_anlage | Für die Aufstellung von ortsfesten Verbrennungsmotoren, Blockheizkraftwerken, Brennstoffzellen und Verdichtern sowie die |
 | 43.1 | §43 Sanitäre Anlagen, Wasserzähler | Abs. 1 | sanitaerraum | Fensterlose Bäder und Toiletten sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist. |
 | 43.2 | §43 Sanitäre Anlagen, Wasserzähler | Abs. 2 | sanitaerraum | Jede Wohnung muss einen eigenen Wasserzähler haben. Dies gilt nicht bei Nutzungsänderungen, wenn die Anforderung nach Sa |
-| 44.1 | §44 Kleinkläranlagen, Gruben 31.10.2015 | — | technische_anlage | Kleinkläranlagen, Gruben 31.10.2015 |
+| 44.1 | §44 Kleinkläranlagen, Gruben 31.10.2015 | — | technische_anlage | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu entlüften, dass Gesundhe |
 | 45.1 | §45 Aufbewahrung fester Abfallstoffe Feste A | — | technische_anlage | 1. Trennwände und Decken als raumabschließende Bauteile mit der Feuerwiderstandsfähigkeit der tragenden Wände und
 2. Öff |
 | 46.1 | §46 Schutzanlagen | Abs. 1 | technische_anlage | Bauliche Anlagen, bei denen nach Lage, Bauart oder Nutzung Blitzschlag leicht eintreten oder zu schweren Folgen führen k |
@@ -204,8 +203,8 @@ Abschnitt 1 - Gestaltung 31.10.2015 |
 | 50.1 | §50 Barrierefreies Bauen | Abs. 1 | barrierefreiheit | In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpfl |
 | 50.2 | §50 Barrierefreies Bauen | Abs. 2 | barrierefreiheit | Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden  |
 | 50.3 | §50 Barrierefreies Bauen | Abs. 3 | barrierefreiheit | Die Bauaufsichtsbehörde kann unabhängig von § 67 Abweichungen von den Absätzen 1 und 2 zulassen, soweit dies aus Gründen |
-| 51.1 | §51 Sonderbauten | — | sonderbautyp | - Seite 43 von 82 An Sonderbauten (§ 2 Absatz 4) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen n |
-| 52.1 | §52 Grundpflichten 31.10.2015 | — | beteiligtenpflicht | Grundpflichten 31.10.2015 |
+| 51.1 | §51 Sonderbauten | — | sonderbautyp | An Sonderbauten (§ 2 Absatz 4) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen n |
+| 52.1 | §52 Grundpflichten 31.10.2015 | — | beteiligtenpflicht | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung, Instandhaltung und der Beseitigung von Anlagen sind der Bauherr und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 | 53.1 | §53 Bauherr | Abs. 1 | beteiligtenpflicht | Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseiti |
 | 53.2 | §53 Bauherr | Abs. 2 | beteiligtenpflicht | Treten bei einem Bauvorhaben mehrere Personen als Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass ihr gegen |
 | 54.1 | §54 Entwurfsverfasser | Abs. 1 | beteiligtenpflicht | Der Entwurfsverfasser muss nach Sachkunde und Erfahrung zur Vorbereitung des jeweiligen Bauvorhabens geeignet sein. Er i |
@@ -215,7 +214,7 @@ Abschnitt 1 - Gestaltung 31.10.2015 |
 | 56.1 | §56 Bauleiter 31.10.2015 | — | beteiligtenpflicht | Teil 5 - Bauaufsichtsbehörden, Verfahren 31.10.2015
 - Seite 3 von 82 Titel Gültig ab
 Abschnitt 1 - Bauaufsichtsbehörden  |
-| 57.1 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 1 | behoerdenstruktur | Bauaufsichtsbehörden sind - Seite 46 von 82 - 1. die Landräte und die Oberbürgermeister der kreisfreien und großen kreis |
+| 57.1 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 1 | behoerdenstruktur | Bauaufsichtsbehörden sind |
 | 57.2 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 2 | behoerdenstruktur | Für den Vollzug dieses Gesetzes sowie anderer öffentlich-rechtlicher Vorschriften für die Errichtung, Änderung, Nutzungs |
 | 57.3 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 3 | behoerdenstruktur | Die unteren Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen |
 | 58.1 | §58 Aufgaben und Befugnisse der Bauaufsichts | Abs. 1 | behoerdenstruktur | Die Bauaufsichtsbehörden haben bei der Errichtung, Änderung, Nutzungsänderung und Beseitigung sowie bei der Nutzung und  |
@@ -292,8 +291,8 @@ Abschnitt 1 - Bauaufsichtsbehörden  |
 | 72a.4 | §72a Typengenehmigung | Abs. 4 | typengenehmigung | Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen. Die in der T |
 | 73.1 | §73 Geltungsdauer der Genehmigung | Abs. 1 | baugenehmigung | Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Aus |
 | 73.2 | §73 Geltungsdauer der Genehmigung | Abs. 2 | baugenehmigung | Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auc |
-| 74.1 | §74 Teilbaugenehmigung 30.06.2021 | — | baugenehmigung | Teilbaugenehmigung 30.06.2021 |
-| 75.1 | §75 Vorbescheid 01.04.2025 | — | bauvorbescheid | Vorbescheid 01.04.2025 |
+| 74.1 | §74 Teilbaugenehmigung 30.06.2021 | — | baugenehmigung | Teilbaugenehmigung Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf in Textform gestellten Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). § 72 gilt entsprechend. |
+| 75.1 | §75 Vorbescheid 01.04.2025 | — | bauvorbescheid | Vorbescheid Vor Einreichung des Bauantrags ist auf Antrag des Bauherrn zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Die §§ 68 bis 71, 72 Absatz 1 bis 5  |
 | 76.1 | §76 Genehmigung Fliegender Bauten | Abs. 1 | besonderes_verfahren | Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an verschiedenen Orten wiederholt aufgestellt un |
 | 76.2 | §76 Genehmigung Fliegender Bauten | Abs. 2 | besonderes_verfahren | Fliegende Bauten bedürfen, bevor sie erstmals aufgestellt und in Gebrauch genommen werden, einer Ausführungsgenehmigung. |
 | 76.3 | §76 Genehmigung Fliegender Bauten | Abs. 3 | besonderes_verfahren | Die Ausführungsgenehmigung wird von der obersten Bauaufsichtsbehörde erteilt, soweit der Antragsteller seine Hauptwohnun |
@@ -309,7 +308,7 @@ Abschnitt 1 - Bauaufsichtsbehörden  |
 | 77.4 | §77 Bauaufsichtliche Zustimmung | Abs. 4 | besonderes_verfahren | Die Gemeinde ist vor Erteilung der Zustimmung zu hören. § 36 Absatz 2 Satz 2 Halbsatz 1 des Baugesetzbuches gilt entspre |
 | 77.5 | §77 Bauaufsichtliche Zustimmung | Abs. 5 | besonderes_verfahren | Anlagen, die der Landesverteidigung, dienstlichen Zwecken der Bundespolizei oder dem zivilen Bevölkerungsschutz dienen,  |
 | 77.6 | §77 Bauaufsichtliche Zustimmung | Abs. 6 | besonderes_verfahren | Die Baudienststelle trägt die Verantwortung dafür, dass Entwurf, Ausführung und Zustand der Anlagen den öffentlich-recht |
-| 78.1 | §78 Verbot unrechtmäßig gekennzeichneter Bau | — | bauproduktzulassung | Verbot unrechtmäßig gekennzeichneter Bauprodukte 30.11.2019 |
+| 78.1 | §78 Verbot unrechtmäßig gekennzeichneter Bau | — | bauproduktzulassung | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 21 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 | 79.1 | §79 Einstellung von Arbeiten | Abs. 1 | bauueberwachung | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauauf |
 | 79.2 | §79 Einstellung von Arbeiten | Abs. 2 | bauueberwachung | Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, kann die Bauaufsich |
 | 80.1 | §80 Beseitigung von Anlagen, Nutzungsuntersa | Abs. 1 | sanktion | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehör |

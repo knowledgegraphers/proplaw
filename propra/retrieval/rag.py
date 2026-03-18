@@ -17,11 +17,18 @@ Usage (import):
     results = retriever.retrieve("Abstandsfläche Bayern", k=5)
 """
 
+from __future__ import annotations
+
 import sys
 import re
 import pickle
 from dataclasses import dataclass, asdict
 from pathlib import Path
+from typing import TYPE_CHECKING
+
+if TYPE_CHECKING:
+    import faiss as _faiss_mod
+    from sentence_transformers import SentenceTransformer as _ST
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -273,9 +280,9 @@ class Retriever:
         self._index_path = index_path
         self._chunks_path = chunks_path
         self._model_name = model_name
-        self._index: faiss.Index | None = None
+        self._index: _faiss_mod.Index | None = None
         self._chunks: list[Chunk] | None = None
-        self._model: SentenceTransformer | None = None
+        self._model: _ST | None = None
 
     def _load(self) -> None:
         if self._index is not None:

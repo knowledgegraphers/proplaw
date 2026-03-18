@@ -37,7 +37,7 @@
 | 7.3 | §7 Teilung von Grundstücken | Abs. 3 | grundstuecksteilung | Auf Antrag in Textform einer oder eines am Grundstücksverkauf Beteiligten hat die Bauaufsichtsbehörde ein Zeugnis darübe |
 | 8.1 | §8 Nicht überbaute Flächen der bebauten Gru | Abs. 1 | freiflaechengestaltung | Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind 1. wassera |
 | 8.2 | §8 Nicht überbaute Flächen der bebauten Gru | Abs. 2 | freiflaechengestaltung | Bei der Errichtung von Gebäuden mit mehr als drei Wohnungen ist auf dem Baugrundstück oder in unmittelbarer Nähe auf ein |
-| 9.1 | §9 Gestaltung 19.07.2024 | — | gestaltungsanforderung | Gestaltung 19.07.2024 |
+| 9.1 | §9 Gestaltung 19.07.2024 | — | gestaltungsanforderung | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
 | 10.1 | §10 Anlagen der Außenwerbung und Warenautoma | Abs. 1 | gestaltungsanforderung | Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als |
 | 10.2 | §10 Anlagen der Außenwerbung und Warenautoma | Abs. 2 | gestaltungsanforderung | Für Werbeanlagen, die bauliche Anlagen sind, gelten die in diesem Gesetz an bauliche Anlagen gestellten Anforderungen. W |
 | 10.3 | §10 Anlagen der Außenwerbung und Warenautoma | Abs. 3 | gestaltungsanforderung | Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. Ausgenommen sind, soweit in anderen Recht |
@@ -50,8 +50,8 @@
 | 11.4 | §11 Baustelle | Abs. 4 | baustellenanforderung | Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind oder deren Erhaltung  |
 | 12.1 | §12 Standsicherheit | Abs. 1 | standsicherheit | Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für sich allein standsicher sein. Die Standsicherheit  |
 | 12.2 | §12 Standsicherheit | Abs. 2 | standsicherheit | Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist zulässig, wenn öffentlichrechtlich gesichert ist, d |
-| 13.1 | §13 Schutz gegen schädliche Einflüsse 19.07. | — | schutzanforderung | Schutz gegen schädliche Einflüsse 19.07.2024 |
-| 14.1 | §14 Brandschutz 19.07.2024 | — | brandschutzanforderung | Brandschutz 19.07.2024 |
+| 13.1 | §13 Schutz gegen schädliche Einflüsse 19.07. | — | schutzanforderung | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entstehen. Baug |
+| 14.1 | §14 Brandschutz 19.07.2024 | — | brandschutzanforderung | Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si |
 | 15.1 | §15 Wärme-, Schall- und Erschütterungsschutz | Abs. 1 | schutzanforderung | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Wärmeschutz haben. |
 | 15.2 | §15 Wärme-, Schall- und Erschütterungsschutz | Abs. 2 | schutzanforderung | Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. Geräusche, die von ortsfesten Einrichtungen in bau |
 | 15.3 | §15 Wärme-, Schall- und Erschütterungsschutz | Abs. 3 | schutzanforderung | Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgeh |
@@ -68,7 +68,7 @@
 | 18.2 | §18 Allgemeine Anforderungen für die Verwend | Abs. 2 | bauproduktzulassung | Bauprodukte, die in Rechtsvorschriften anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vom 2 |
 | 19.1 | §19 Anforderungen für die Verwendung von CE- | — | bauproduktzulassung | Anforderungen für die Verwendung von CE-gekennzeichneten Baupro- 19.07.2024 dukten |
 | 20.1 | §20 Verwendbarkeitsnachweise | Abs. 1 | bauproduktzulassung | Ein Verwendbarkeitsnachweis nach den §§ 21 bis 23 ist für ein Bauprodukt erforderlich, wenn 1. es keine Technische Baube |
-| 20.2 | §20 Verwendbarkeitsnachweise | Abs. 2 | bauproduktzulassung | Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt, das - Seite 21 von 89 - 1. von einer allgemein an |
+| 20.2 | §20 Verwendbarkeitsnachweise | Abs. 2 | bauproduktzulassung | Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt, das |
 | 20.3 | §20 Verwendbarkeitsnachweise | Abs. 3 | bauproduktzulassung | Die Technischen Baubestimmungen nach § 96 enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendb |
 | 21.1 | §21 Allgemeine bauaufsichtliche Zulassung | Abs. 1 | bauproduktzulassung | Das Deutsche Institut für Bautechnik erteilt auf Antrag unter den Voraussetzungen des § 20 Abs. 1 eine allgemeine bauauf |
 | 21.2 | §21 Allgemeine bauaufsichtliche Zulassung | Abs. 2 | bauproduktzulassung | Die zur Begründung des Antrags erforderlichen Unterlagen sind beizufügen. Soweit erforderlich, sind Probestücke von der  |
@@ -93,7 +93,7 @@
 | 26.2 | §26 Zertifizierung | Abs. 2 | brandklassifizierung | Die Fremdüberwachung ist von einer Überwachungsstelle nach § 27 Satz 1 Nr. 6 durchzuführen. Die Überwachungsstelle hat r |
 | 27.1 | §27 Prüf-, Zertifizierungs-, Überwachungsste | — | tragende_wand | 1. Prüfstelle für die Überprüfung nach § 17 Abs. 6 Satz 1 und § 28 Abs. 1 Satz 1,
 2. Überwachungsstelle für die Überwach |
-| 28.1 | §28 Besondere Sachkunde- und Sorgfaltsanford | — | aussenwand | - Seite 2 von 89 Titel Gültig ab Vierter Abschnitt - Brandverhalten von Baustoffen und Bauteilen; Wände, De- 19.07.2024  |
+| 28.1 | §28 Besondere Sachkunde- und Sorgfaltsanford | — | aussenwand | Vierter Abschnitt - Brandverhalten von Baustoffen und Bauteilen; Wände, De- 19.07.2024 |
 | 29.1 | §29 Allgemeine Anforderungen an das Brandver | Abs. 1 | trennwand | Baustoffe sind nach den Anforderungen an ihr Brandverhalten zu unterscheiden in 1. nichtbrennbare, 2. schwer entflammbar |
 | 29.2 | §29 Allgemeine Anforderungen an das Brandver | Abs. 2 | trennwand | Bauteile sind nach den Anforderungen an ihre Feuerwiderstandsfähigkeit zu unterscheiden in 1. feuerbeständige, 2. hochfe |
 | 30.1 | §30 Tragende und aussteifende Wände und Stüt | Abs. 1 | brandwand | Tragende und aussteifende Wände und Stützen müssen im Brandfall ausreichend lang standsicher sein. Sie müssen in Gebäude |
@@ -146,7 +146,7 @@
 | 38.2 | §38 Notwendige Treppenräume, Ausgänge | Abs. 2 | allgemeine_anforderung | Von jeder Stelle eines Aufenthaltsraumes und eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Tre |
 | 38.3 | §38 Notwendige Treppenräume, Ausgänge | Abs. 3 | allgemeine_anforderung | Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines notwendigen Trep |
 | 38.4 | §38 Notwendige Treppenräume, Ausgänge | Abs. 4 | allgemeine_anforderung | Die Wände notwendiger Treppenräume müssen als raumabschließende Bauteile in Gebäuden 1. der Gebäudeklasse 5 die Bauart v |
-| 38.5 | §38 Notwendige Treppenräume, Ausgänge | Abs. 5 | allgemeine_anforderung | In notwendigen Treppenräumen und in Räumen nach Absatz 3 Satz 2 müssen - Seite 35 von 89 - 1. Bekleidungen, Putze, Dämms |
+| 38.5 | §38 Notwendige Treppenräume, Ausgänge | Abs. 5 | allgemeine_anforderung | In notwendigen Treppenräumen und in Räumen nach Absatz 3 Satz 2 müssen |
 | 38.6 | §38 Notwendige Treppenräume, Ausgänge | Abs. 6 | allgemeine_anforderung | In notwendigen Treppenräumen müssen Öffnungen 1. zu Kellergeschossen, zu nicht ausgebauten Dachräumen, Werkstätten, Läde |
 | 38.7 | §38 Notwendige Treppenräume, Ausgänge | Abs. 7 | allgemeine_anforderung | Notwendige Treppenräume müssen zu beleuchten sein. Notwendige Treppenräume ohne Fenster müssen in Gebäuden mit einer Höh |
 | 38.8 | §38 Notwendige Treppenräume, Ausgänge | Abs. 8 | allgemeine_anforderung | Notwendige Treppenräume müssen belüftet und zur Unterstützung wirksamer Löscharbeiten entraucht werden können. Sie müsse |
@@ -185,7 +185,7 @@
 | 45.5 | §45 Feuerungsanlagen, sonstige Anlagen zur W | Abs. 5 | technische_anlage | Für ortsfeste Verbrennungsmotoren, Blockheizkraftwerke, Brennstoffzellen, Verdichter und Wasserstoff-Elektrolyseure sowi |
 | 46.1 | §46 Sanitäre Anlagen, Wasserzähler | Abs. 1 | technische_anlage | Fensterlose Bäder und Toilettenräume sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist. |
 | 46.2 | §46 Sanitäre Anlagen, Wasserzähler | Abs. 2 | technische_anlage | In jeder Wohnung muss ein eigener Wasserzähler vorhanden sein. Dies gilt nicht bei Nutzungsänderungen, wenn die Anforder |
-| 47.1 | §47 Kleinkläranlagen, Gruben 19.07.2024 | — | aufenthaltsraum | Kleinkläranlagen, Gruben 19.07.2024 |
+| 47.1 | §47 Kleinkläranlagen, Gruben 19.07.2024 | — | aufenthaltsraum | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. Sie müssen dichte und sichere Abdeckungen sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu entlüften, dass Gesundheits |
 | 48.1 | §48 Aufbewahrung fester Abfallstoffe Feste A | — | wohnung | 1. Trennwände und Decken als raumabschließende Bauteile mit der Feuerwiderstandsfähigkeit der tragenden Wände haben,
 2.  |
 | 49.1 | §49 Blitzschutzanlagen 19.07.2024 Siebenter  | — | stellplatzpflicht | Blitzschutzanlagen 19.07.2024 Siebenter Abschnitt - Nutzungsbedingte Anforderungen 19.07.2024 |
@@ -208,7 +208,7 @@
 | 53.4 | §53 Barrierefreies Bauen | Abs. 4 | beteiligtenpflicht | Abweichungen nach § 73 von den Absätzen 1 bis 3 können auch zugelassen werden, soweit die Anforderungen nur mit einem un |
 | 54.1 | §54 Sonderbauten An Sonderbauten können im E | — | beteiligtenpflicht | 1. die Anordnung der baulichen Anlagen auf dem Grundstück,
 2. die Abstände von Nachbargrenzen, von anderen baulichen Anl |
-| 55.1 | §55 Grundsatz 19.07.2024 | — | verfahrensfreies_vorhaben | Grundsatz 19.07.2024 |
+| 55.1 | §55 Grundsatz 19.07.2024 | — | verfahrensfreies_vorhaben | Grundsatz Bei der Errichtung, Änderung, Nutzungsänderung und der Beseitigung von Anlagen sind die Bauherrschaft und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 | 56.1 | §56 Bauherrschaft | Abs. 1 | beteiligtenpflicht | Die Bauherrin oder der Bauherr (Bauherrschaft) hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfr |
 | 56.2 | §56 Bauherrschaft | Abs. 2 | beteiligtenpflicht | Treten bei einem Bauvorhaben mehrere Personen als Bauherrschaft auf, kann die Bauaufsichtsbehörde verlangen, dass ihr ge |
 | 57.1 | §57 Entwurfsverfasserin oder Entwurfsverfass | Abs. 1 | behoerdenstruktur | Die Entwurfsverfasserin oder der Entwurfsverfasser muss nach Sachkunde und Erfahrung zur Vorbereitung des jeweiligen Bau |
@@ -229,7 +229,7 @@
 | 62.2 | §62 Grundsatz | Abs. 2 | kenntnisgabeverfahren | Die Genehmigungsfreiheit nach den §§ 63, 64, § 83 Abs. 2 und § 84 Abs. 1 sowie die Beschränkung der bauaufsichtlichen Pr |
 | 63.1 | §63 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 1 | vereinfachtes_genehmigungsverfahren | Verfahrensfrei sind 1. folgende Gebäude: a) 2 eingeschossige Gebäude mit einer Grundfläche bis zu 10 m , außer im Außenb |
 | 63.2 | §63 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 2 | vereinfachtes_genehmigungsverfahren | Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn 1. für die neue Nutzung keine anderen öffentlich-rechtlich |
-| 63.3 | §63 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 3 | vereinfachtes_genehmigungsverfahren | Verfahrensfrei ist die Beseitigung von 1. Anlagen nach Absatz 1, - Seite 55 von 89 - 2. freistehenden Gebäuden der Gebäu |
+| 63.3 | §63 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 3 | vereinfachtes_genehmigungsverfahren | Verfahrensfrei ist die Beseitigung von 1. Anlagen nach Absatz 1, |
 | 63.4 | §63 Verfahrensfreie Bauvorhaben, Beseitigung | Abs. 4 | vereinfachtes_genehmigungsverfahren | Verfahrensfrei sind Instandhaltungsarbeiten. |
 | 64.1 | §64 Genehmigungsfreistellung | Abs. 1 | genehmigungspflicht | Keiner Genehmigung bedarf unter den Voraussetzungen des Absatzes 2 1. die Errichtung, Änderung und Nutzungsänderung von  |
 | 64.2 | §64 Genehmigungsfreistellung | Abs. 2 | genehmigungspflicht | Bauvorhaben nach Absatz 1 Satz 1 Nr. 1 sind genehmigungsfrei gestellt, wenn 1. sie im Geltungsbereich eines Bebauungspla |
@@ -287,12 +287,12 @@
 | 78.7 | §78 Baugenehmigung und Baubeginn | Abs. 7 | bauproduktzulassung | Vor Baubeginn muss die Grundfläche der baulichen Anlage abgesteckt und ihre Höhenlage festgelegt sein. Die Bauaufsichtsb |
 | 78.8 | §78 Baugenehmigung und Baubeginn | Abs. 8 | bauproduktzulassung | Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach |
 | 79.1 | §79 Geltungsdauer der Genehmigung | Abs. 1 | bauueberwachung | Die Baugenehmigung und die Teilbaugenehmigung, einschließlich der durch die Baugenehmigung nach § 65 Abs. 1 Satz 2 Nr. 3 |
-| 80.1 | §80 Teilbaugenehmigung 19.07.2024 | — | sanktion | Teilbaugenehmigung 19.07.2024 |
+| 80.1 | §80 Teilbaugenehmigung 19.07.2024 | — | sanktion | Teilbaugenehmigung Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag in Textform schon vor Erteilung der Baugenehmigung schriftlich gestattet werden (Teilbaugenehmigung). § 78 gilt entsprechend. |
 | 81.1 | §81 Typengenehmigung | Abs. 1 | bauueberwachung | Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, ist auf Antrag in Textfor |
 | 81.2 | §81 Typengenehmigung | Abs. 2 | bauueberwachung | Die Typengenehmigung gilt fünf Jahre. Die Frist kann auf Antrag in Textform jeweils um bis zu fünf Jahre verlängert werd |
 | 81.3 | §81 Typengenehmigung | Abs. 3 | bauueberwachung | Typengenehmigungen anderer Länder gelten auch in Thüringen, soweit die obere Bauaufsichtsbehörde innerhalb von acht Woch |
 | 81.4 | §81 Typengenehmigung | Abs. 4 | bauueberwachung | Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen. Die in der T |
-| 82.1 | §82 Vorbescheid 19.07.2024 | — | baubeginn | Vorbescheid 19.07.2024 |
+| 82.1 | §82 Vorbescheid 19.07.2024 | — | baubeginn | Vorbescheid Vor Einreichung des Bauantrags ist auf Antrag in Textform der Bauherrschaft zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die §§ 74 bis 77, 78 Abs. 1 bis 5 sowie § 79 Abs. 1 Satz 2 und A |
 | 83.1 | §83 Fliegende Bauten | Abs. 1 | sicherheitsleistung | Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an verschiedenen Orten wiederholt aufgestellt un |
 | 83.2 | §83 Fliegende Bauten | Abs. 2 | sicherheitsleistung | Fliegende Bauten bedürfen, bevor sie erstmals aufgestellt und in Gebrauch genommen werden, einer Ausführungsgenehmigung. |
 | 83.3 | §83 Fliegende Bauten | Abs. 3 | sicherheitsleistung | Die Ausführungsgenehmigung ist von der oberen Bauaufsichtsbehörde zu erteilen, wenn 1. die antragstellende Person ihre H |
@@ -304,7 +304,7 @@
 | 83.9 | §83 Fliegende Bauten | Abs. 9 | sicherheitsleistung | Bei Fliegenden Bauten, die von Besucherinnen oder Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben |
 | 83.10 | §83 Fliegende Bauten | Abs. 10 | sicherheitsleistung | § 74 Abs. 1, 2 und 4 und § 88 Abs. 1, 3 und 4 gelten entsprechend. |
 | 84.1 | §84 Bauaufsichtliche Zustimmung | Abs. 1 | sanktion | Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn 1. die  |
-| 85.1 | §85 Verbot unrechtmäßig gekennzeichneter Bau | — | ermaechtigungsgrundlage | Verbot unrechtmäßig gekennzeichneter Bauprodukte 19.07.2024 |
+| 85.1 | §85 Verbot unrechtmäßig gekennzeichneter Bau | — | ermaechtigungsgrundlage | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 24 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 | 86.1 | §86 Baueinstellung | Abs. 1 | oertliche_bauvorschrift | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauauf |
 | 87.1 | §87 Beseitigung von Anlagen, Nutzungsuntersa | Abs. 1 | schlussvorschrift | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehör |
 | 87.2 | §87 Beseitigung von Anlagen, Nutzungsuntersa | Abs. 2 | schlussvorschrift | Die Bauaufsichtsbehörde kann die Beseitigung einer Anlage auch dann anordnen, wenn diese nicht genutzt wird und zu verfa |
@@ -317,8 +317,7 @@
 | 90.3 | §90 Baulasten und Baulastenverzeichnis | Abs. 3 | schlussvorschrift | Die Baulast geht durch Verzicht der Bauaufsichtsbehörde unter. Der Verzicht ist zu erklären, wenn ein öffentliches Inter |
 | 90.4 | §90 Baulasten und Baulastenverzeichnis | Abs. 4 | schlussvorschrift | Das Baulastenverzeichnis ist von der Bauaufsichtsbehörde zu führen. In das Baulastenverzeichnis können auch 1. andere ba |
 | 90.5 | §90 Baulasten und Baulastenverzeichnis | Abs. 5 | schlussvorschrift | Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen |
-| 91.1 | §91 Aufbau der Marktüberwachungsbehörden | — | schlussvorschrift | - Seite 78 von 89 Marktüberwachungsbehörden nach der Verordnung (EU) Nr. 305/2011 sind
-1. die obere Bauaufsichtsbehörde  |
+| 91.1 | §91 Aufbau der Marktüberwachungsbehörden | — | schlussvorschrift | Marktüberwachungsbehörden nach der Verordnung (EU) Nr. 305/2011 sind 1. die obere Bauaufsichtsbehörde  |
 | 92.1 | §92 Aufgaben und Befugnisse der Marktüberwac | Abs. 1 | schlussvorschrift | Die Marktüberwachungsbehörden nehmen die Aufgaben nach 1. der Verordnung (EU) 2019/1020 des Europäischen Parlaments und  |
 | 92.2 | §92 Aufgaben und Befugnisse der Marktüberwac | Abs. 2 | schlussvorschrift | Den Marktüberwachungsbehörden stehen die sich aus den Aufgaben nach Absatz 1 Satz 1 ergebenden Befugnisse zu. |
 | 93.1 | §93 Zuständigkeit der Marktüberwachungsbehör | Abs. 1 | schlussvorschrift | Zuständig ist die obere Marktüberwachungsbehörde, soweit in den Absätzen 2 bis 5 nichts Abweichendes bestimmt ist. |
@@ -350,6 +349,6 @@
 | 100.4 | §100 Übergangsregelungen | Abs. 4 | schlussvorschrift | Bestehende Anerkennungen als Prüf-, Überwachungs- und Zertifizierungsstellen bleiben in dem bis zum Inkrafttreten des Zw |
 | 100.5 | §100 Übergangsregelungen | Abs. 5 | schlussvorschrift | Die in der Anlage bestimmten Ausbildungsanforderungen finden keine Anwendung auf Personen, die zum Zeitpunkt des Inkraft |
 | 100.6 | §100 Übergangsregelungen | Abs. 6 | schlussvorschrift | § 99 Abs. 1 findet keine Anwendung 1. soweit vor dem 26. August 2022 bei der zuständigen Behörde ein vollständiger Antra |
-| 101.1 | §101 Gleichstellungsbestimmung 19.07.2024 | — | schlussvorschrift | Gleichstellungsbestimmung 19.07.2024 |
+| 101.1 | §101 Gleichstellungsbestimmung 19.07.2024 | — | schlussvorschrift | Gleichstellungsbestimmung Status- und Funktionsbezeichnungen in diesem Gesetz gelten jeweils auch für Personen, die mit der Angabe „divers“ oder ohne eine Angabe des Geschlechts in das Geburtenregister eingetragen sind. |
 | 102.1 | §102 Inkrafttreten, Außerkrafttreten | Abs. 1 | schlussvorschrift | Dieses Gesetz tritt am Tage nach der Verkündung in Kraft. |
 | 102.2 | §102 Inkrafttreten, Außerkrafttreten | Abs. 2 | schlussvorschrift | Gleichzeitig mit dem Inkrafttreten nach Absatz 1 tritt die Thüringer Bauordnung vom 13. März 2014 (GVBl. S. 49), zuletzt |

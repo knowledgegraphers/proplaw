@@ -9,7 +9,7 @@ import anthropic
 from dotenv import load_dotenv
 from fastapi import APIRouter, HTTPException, status
 
-from propra.schemas.assessment import AssessmentResponse, CitedSource
+from propra.schemas.assessment import AssessmentResponse
 from propra.schemas.situation import Situation
 
 # ── path setup ────────────────────────────────────────────────────────────────

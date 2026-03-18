@@ -41,9 +41,8 @@
 | 7.2 | §7 Teilung von Grundstücken | Abs. 2 | grundstuecksteilung | Soll bei einer Teilung nach Absatz 1 von Vorschriften dieses Gesetzes oder aufgrund dieses Gesetzes abgewichen werden, i |
 | 8.1 | §8 Nicht überbaute Flächen der bebauten Gru | Abs. 1 | freiflaechengestaltung | Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind 1. wassera |
 | 8.2 | §8 Nicht überbaute Flächen der bebauten Gru | Abs. 2 | freiflaechengestaltung | Bei der Errichtung von Gebäuden mit mehr als zehn Wohnungen ist auf dem Baugrundstück oder in unmittelbarer Nähe auf ein |
-| 9.1 | §9 Gestaltung 05.07.2024 | — | gestaltungsanforderung | Gestaltung 05.07.2024 |
-| 10.1 | §10 Anlagen der Außenwerbung, Warenautomaten | — | gestaltungsanforderung | - Seite 1 von 86 Titel Gültig ab
-Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
+| 9.1 | §9 Gestaltung 05.07.2024 | — | gestaltungsanforderung | Gestaltung Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. |
+| 10.1 | §10 Anlagen der Außenwerbung, Warenautomaten | — | gestaltungsanforderung | (1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Sch Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 11.1 | §11 Baustelle | Abs. 1 | baustellenanforderung | Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können un |
 | 11.2 | §11 Baustelle | Abs. 2 | baustellenanforderung | Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Wa |
 | 11.3 | §11 Baustelle | Abs. 3 | baustellenanforderung | Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, da |
@@ -51,8 +50,8 @@ Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 11.5 | §11 Baustelle | Abs. 5 | baustellenanforderung | Bei der Baustelleneinrichtung und während der Bauausführung ist mit Grund und Boden sparsam und sorgsam umzugehen. |
 | 12.1 | §12 Standsicherheit | Abs. 1 | standsicherheit | Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für sich allein standsicher sein. Die Standsicherheit  |
 | 12.2 | §12 Standsicherheit | Abs. 2 | standsicherheit | Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist zulässig, wenn öffentlichrechtlich gesichert ist, d |
-| 13.1 | §13 Schutz gegen schädliche Einflüsse 05.07. | — | schutzanforderung | Schutz gegen schädliche Einflüsse 05.07.2024 |
-| 14.1 | §14 Brandschutz 05.07.2024 | — | brandschutzanforderung | Brandschutz 05.07.2024 |
+| 13.1 | §13 Schutz gegen schädliche Einflüsse 05.07. | — | schutzanforderung | Schutz gegen schädliche Einflüsse Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen nicht entsteh |
+| 14.1 | §14 Brandschutz 05.07.2024 | — | brandschutzanforderung | Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich  |
 | 15.1 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 1 | schutzanforderung | Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Wärmeschutz haben. |
 | 15.2 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 2 | schutzanforderung | Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben. Geräusche, die von ortsfesten Einrichtungen in bau |
 | 15.3 | §15 Wärme-, Schall-, Erschütterungsschutz | Abs. 3 | schutzanforderung | Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgeh |
@@ -189,7 +188,7 @@ Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 42.6 | §42 Feuerungsanlagen, sonstige Anlagen zur W | Abs. 6 | technische_anlage | Bei der Errichtung oder Änderung von Schornsteinen oder Abgasleitungen sowie beim Anschluss von Feuerstätten an Schornst |
 | 43.1 | §43 Sanitäre Anlagen, Wasserzähler | Abs. 1 | sanitaerraum | Fensterlose Bäder und Toiletten sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist. |
 | 43.2 | §43 Sanitäre Anlagen, Wasserzähler | Abs. 2 | sanitaerraum | Jede Wohnung muss einen eigenen Wasserzähler haben. Die Eigentümerinnen oder Eigentümer bestehender Gebäude sind verpfli |
-| 44.1 | §44 Kleinkläranlagen, Gruben 05.07.2024 | — | technische_anlage | Kleinkläranlagen, Gruben 05.07.2024 |
+| 44.1 | §44 Kleinkläranlagen, Gruben 05.07.2024 | — | technische_anlage | Kleinkläranlagen, Gruben Kleinkläranlagen und Gruben müssen wasserdicht und ausreichend groß sein. Sie müssen eine dichte und sichere Abdeckung sowie Reinigungs- und Entleerungsöffnungen haben. Diese Öffnungen dürfen nur vom Freien aus zugänglich sein. Die Anlagen sind so zu entlüften, dass Gesundhe |
 | 45.1 | §45 Aufbewahrung fester Abfallstoffe Feste A | — | technische_anlage | 1. Trennwände und Decken als raumabschließende Bauteile mit der Feuerwiderstandsfähigkeit der tragenden Wände und
 2. Öff |
 | 46.1 | §46 Blitzschutzanlagen 05.07.2024 | — | technische_anlage | Abschnitt 7 - Nutzungsbedingte Anforderungen 05.07.2024 |
@@ -210,7 +209,7 @@ Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 50.4 | §50 Barrierefreies Bauen | Abs. 4 | barrierefreiheit | Abweichungen nach § 67 von den Absätzen 1 bis 3 können auch zugelassen werden, soweit die Anforderungen nur mit einem un |
 | 51.1 | §51 Sonderbauten | Abs. 1 | sonderbautyp | An Sonderbauten können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 2 besondere Anford |
 | 51.2 | §51 Sonderbauten | Abs. 2 | sonderbautyp | Die Bauaufsichtsbehörden können auch Anforderungen an die Beschaffenheit von Maschinen und anderen beweglichen Teilen, d |
-| 52.1 | §52 Grundpflichten 05.07.2024 | — | beteiligtenpflicht | Grundpflichten 05.07.2024 |
+| 52.1 | §52 Grundpflichten 05.07.2024 | — | beteiligtenpflicht | Grundpflichten Bei der Errichtung, Änderung, Nutzungsänderung, Instandhaltung und der Beseitigung von Anlagen sind die Bauherrin oder der Bauherr und im Rahmen ihres Wirkungskreises die anderen am Bau Beteiligten dafür verantwortlich, dass die öffentlich-rechtlichen Vorschriften eingehalten werden. |
 | 53.1 | §53 Bauherrin oder Bauherr | Abs. 1 | beteiligtenpflicht | Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhaben |
 | 53.2 | §53 Bauherrin oder Bauherr | Abs. 2 | beteiligtenpflicht | Treten bei einem Bauvorhaben mehrere Personen als Bauherrin oder Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, |
 | 54.1 | §54 Entwurfsverfasserin oder Entwurfsverfass | Abs. 1 | beteiligtenpflicht | Die Entwurfsverfasserin oder der Entwurfsverfasser muss nach Sachkunde und Erfahrung zur Vorbereitung des jeweiligen Bau |
@@ -219,7 +218,7 @@ Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 55.2 | §55 Unternehmerin oder Unternehmer | Abs. 2 | verfahrensfreies_vorhaben | Jede Unternehmerin oder jeder Unternehmer hat auf Verlangen der Bauaufsichtsbehörde für Arbeiten, bei denen die Sicherhe |
 | 56.1 | §56 Bauleiterin oder Bauleiter | Abs. 1 | beteiligtenpflicht | Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen A |
 | 56.2 | §56 Bauleiterin oder Bauleiter | Abs. 2 | beteiligtenpflicht | Die Bauleiterin oder der Bauleiter muss über die für ihre oder seine Aufgabe erforderliche Sachkunde und Erfahrung verfü |
-| 57.1 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 1 | behoerdenstruktur | Bauaufsichtsbehörden sind - Seite 49 von 86 - 1. die für Bauordnungsrecht zuständige oberste Landesbehörde als oberste B |
+| 57.1 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 1 | behoerdenstruktur | Bauaufsichtsbehörden sind |
 | 57.2 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 2 | behoerdenstruktur | Die oberste Bauaufsichtsbehörde kann durch Verordnung die Aufgaben der unteren Bauaufsichtsbehörde und in besonderen Fäl |
 | 57.3 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 3 | behoerdenstruktur | Die Träger der Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu beset |
 | 57.4 | §57 Aufbau und Zuständigkeit der Bauaufsicht | Abs. 4 | behoerdenstruktur | Fachaufsichtsbehörden sind 1. über die unteren Bauaufsichtsbehörden nach Absatz 1 Satz 1 Nummer 2 und über die Bürgermei |
@@ -268,7 +267,7 @@ Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 70a.3 | §70a Beteiligung der Öffentlichkeit | Abs. 3 | baugenehmigung | Bei der Bekanntmachung nach Absatz 1 und 2 ist über Folgendes zu informieren: 1. über den Gegenstand des Vorhabens, 2. ü |
 | 70a.4 | §70a Beteiligung der Öffentlichkeit | Abs. 4 | baugenehmigung | In dem nach Absatz 3 Satz 1 Nummer 2 bekannt gemachten Zeitraum sind der Antrag und die Bauvorlagen sowie die entscheidu |
 | 70a.5 | §70a Beteiligung der Öffentlichkeit | Abs. 5 | baugenehmigung | Die Zustellung der Baugenehmigung nach der Öffentlichkeitsbeteiligung nach Absatz 1 kann durch öffentliche Bekanntmachun |
-| 71.1 | §71 Ersetzung des gemeindlichen Einvernehmen | — | baugenehmigung | Ersetzung des gemeindlichen Einvernehmens 05.07.2024 |
+| 71.1 | §71 Ersetzung des gemeindlichen Einvernehmen | — | baugenehmigung | Ersetzung des gemeindlichen Einvernehmens Zuständige Behörden nach § 36 Absatz 2 Satz 3 des Baugesetzbuchs sind die Kommunalaufsichtsbehörden. |
 | 72.1 | §72 Baugenehmigung, Baubeginn | Abs. 1 | baugenehmigung | Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die i |
 | 72.2 | §72 Baugenehmigung, Baubeginn | Abs. 2 | baugenehmigung | Die Baugenehmigung bedarf der Schriftform; sie ist nur insoweit zu begründen, als Abweichungen, Ausnahmen oder Befreiung |
 | 72.3 | §72 Baugenehmigung, Baubeginn | Abs. 3 | baugenehmigung | Die Baugenehmigung kann mit Auflagen, mit Bedingungen, einem Vorbehalt des Widerrufs und einem Vorbehalt der nachträglic |
@@ -283,8 +282,8 @@ Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 72a.4 | §72a Typengenehmigung | Abs. 4 | typengenehmigung | Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen. Die in der T |
 | 73.1 | §73 Geltungsdauer der Genehmigung | Abs. 1 | baugenehmigung | Die Baugenehmigung und die Teilbaugenehmigung einschließlich der durch die Baugenehmigung nach § 63 Absatz 1 Satz 1 Numm |
 | 73.2 | §73 Geltungsdauer der Genehmigung | Abs. 2 | baugenehmigung | Die Frist nach Absatz 1 Satz 1 Nummer 1 kann auf in Textform gestellten Antrag jeweils um drei Jahre verlängert werden.  |
-| 74.1 | §74 Teilbaugenehmigung 05.07.2024 | — | baugenehmigung | Teilbaugenehmigung 05.07.2024 |
-| 75.1 | §75 Vorbescheid 05.07.2024 | — | bauvorbescheid | Vorbescheid 05.07.2024 |
+| 74.1 | §74 Teilbaugenehmigung 05.07.2024 | — | baugenehmigung | Teilbaugenehmigung Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf in Textform gestellten Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung). § 72 gilt entsprechend. |
+| 75.1 | §75 Vorbescheid 05.07.2024 | — | bauvorbescheid | Vorbescheid Vor Einreichung des Bauantrags ist auf Antrag der Bauherrin oder des Bauherrn zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. §§ 63, 64, §§ 68 bis 70a, 72 Absatz 1 bis 5 und § 73 Absatz 1  |
 | 76.1 | §76 Fliegende Bauten | Abs. 1 | besonderes_verfahren | Fliegende Bauten sind bauliche Anlagen, die geeignet und bestimmt sind, an verschiedenen Orten wiederholt aufgestellt un |
 | 76.2 | §76 Fliegende Bauten | Abs. 2 | besonderes_verfahren | Fliegende Bauten bedürfen, bevor sie erstmals aufgestellt und in Gebrauch genommen werden, einer Ausführungsgenehmigung. |
 | 76.3 | §76 Fliegende Bauten | Abs. 3 | besonderes_verfahren | Die Ausführungsgenehmigung wird von der unteren Bauaufsichtsbehörde erteilt, in deren Bereich die Antragstellerin oder d |
@@ -300,10 +299,10 @@ Abschnitt 2 - Allgemeine Anforderungen an die Bauausführung 05.07.2024 |
 | 77.3 | §77 Bauaufsichtliche Zustimmung | Abs. 3 | besonderes_verfahren | Die Bauaufsichtsbehörde prüft 1. die Übereinstimmung mit den Vorschriften über die Zulässigkeit der baulichen Anlagen na |
 | 77.4 | §77 Bauaufsichtliche Zustimmung | Abs. 4 | besonderes_verfahren | Die Gemeinde ist vor Erteilung der Zustimmung zu hören. § 36 Absatz 2 Satz 2 Halbsatz 1 des Baugesetzbuchs gilt entsprec |
 | 77.5 | §77 Bauaufsichtliche Zustimmung | Abs. 5 | besonderes_verfahren | Anlagen, die der Landesverteidigung, dienstlichen Zwecken der Bundespolizei oder dem zivilen Bevölkerungsschutz dienen,  |
-| 78.1 | §78 Verbot unrechtmäßig gekennzeichneter Bau | — | bauproduktzulassung | Verbot unrechtmäßig gekennzeichneter Bauprodukte 05.07.2024 |
+| 78.1 | §78 Verbot unrechtmäßig gekennzeichneter Bau | — | bauproduktzulassung | Verbot unrechtmäßig gekennzeichneter Bauprodukte Sind Bauprodukte entgegen § 21 mit dem Ü-Zeichen gekennzeichnet, kann die Bauaufsichtsbehörde die Verwendung dieser Bauprodukte untersagen und deren Kennzeichnung entwerten oder beseitigen lassen. |
 | 79.1 | §79 Einstellung von Arbeiten | Abs. 1 | bauueberwachung | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauauf |
 | 79.2 | §79 Einstellung von Arbeiten | Abs. 2 | bauueberwachung | Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, kann die Bauaufsich |
-| 80.1 | §80 Beseitigung von Anlagen, Nutzungsuntersa | — | sanktion | - Seite 75 von 86 Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die |
+| 80.1 | §80 Beseitigung von Anlagen, Nutzungsuntersa | — | sanktion | Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die |
 | 81.1 | §81 Bauüberwachung | Abs. 1 | bauueberwachung | Die Bauaufsichtsbehörde kann die Einhaltung der öffentlich-rechtlichen Vorschriften und Anforderungen und die ordnungsge |
 | 81.2 | §81 Bauüberwachung | Abs. 2 | bauueberwachung | Das Prüfamt oder die Prüfingenieurin oder der Prüfingenieur für Standsicherheit oder für Brandschutz oder die Bauaufsich |
 | 82.1 | §82 Bauzustandsanzeigen, Aufnahme der Nutzun | Abs. 1 | baubeginn | Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Baua |

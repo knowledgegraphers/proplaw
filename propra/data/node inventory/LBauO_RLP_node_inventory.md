@@ -19,7 +19,7 @@
 | 2.11 | §2 Begriffe | Abs. 11 | begriffsbestimmung | Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen. |
 | 3.1 | §3 Allgemeine Anforderungen | Abs. 1 | allgemeine_anforderung | Bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 sind so anzuordnen, zu errichten, |
 | 3.2 | §3 Allgemeine Anforderungen | Abs. 2 | allgemeine_anforderung | Die oberste Bauaufsichtsbehörde macht zur Durchführung dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Recht |
-| 4.1 | §4 Soziale und ökologische Belange 15.12.20 | — | grundstuecksbebauung | Soziale und ökologische Belange 15.12.2022 |
+| 4.1 | §4 Soziale und ökologische Belange 15.12.20 | — | grundstuecksbebauung | Soziale und ökologische Belange Bei der Anordnung, Errichtung, Instandhaltung, Änderung und Nutzungsänderung baulicher Anlagen sind die allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverhältnisse, die Belange des Umwelt- und Klimaschutzes und die Belange und Sicherheitsbedürfnisse von Frauen, |
 | 5.1 | §5 Gestaltung | Abs. 1 | verkehrssicherheit | Bauliche Anlagen sind so zu gestalten, dass sie nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, We |
 | 5.2 | §5 Gestaltung | Abs. 2 | verkehrssicherheit | Bauliche Anlagen sind mit ihrer Umgebung so in Einklang zu bringen, dass sie benachbarte bauliche Anlagen sowie das Stra |
 | 6.1 | §6 Seite 11 von 92 Bebauung der Grundstücke | Abs. 1 | abstandsflaeche | Grundstücke, die mit umweltgefährdenden Stoffen belastet sind, dürfen nur bebaut werden, wenn von ihnen keine Gefährdung |
@@ -58,7 +58,7 @@
 | 12.2 | §12 Einfriedungen | Abs. 2 | standsicherheit | Für Einfriedungen und Abgrenzungen, die keine baulichen Anlagen sind, gelten die §§ 5 und 17 entsprechend. Dritter Teil  |
 | 13.1 | §13 Standsicherheit | Abs. 1 | schutzanforderung | Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen sowie für sich allein standsicher und dauerhaft sein.  |
 | 13.2 | §13 Standsicherheit | Abs. 2 | schutzanforderung | Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist zulässig, wenn öffentlichrechtlich und technisch ge |
-| 14.1 | §14 Schutz gegen schädliche Einwirkungen 01. | — | brandschutzanforderung | Schutz gegen schädliche Einwirkungen 01.08.2015 |
+| 14.1 | §14 Schutz gegen schädliche Einwirkungen 01. | — | brandschutzanforderung | Schutz gegen schädliche Einwirkungen Bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 müssen so angeordnet und beschaffen sein, dass durch Wasser, Feuchtigkeit, pflanzliche oder tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüss |
 | 15.1 | §15 Brandschutz | Abs. 1 | schutzanforderung | Bauliche Anlagen müssen so angeordnet und beschaffen sein, dass der Entstehung eines Brandes und der Ausbreitung von Feu |
 | 15.2 | §15 Brandschutz | Abs. 2 | schutzanforderung | Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in nicht brennbare, schwer entflammbare und  |
 | 15.3 | §15 Brandschutz | Abs. 3 | schutzanforderung | Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in feuerbeständige, hochfeuerhemm |
@@ -88,7 +88,7 @@
 | 19.2 | §19 Allgemeine bauaufsichtliche Zulassung | Abs. 2 | bauproduktzulassung | Die zur Begründung des Antrags erforderlichen Unterlagen sind beizufügen. Soweit erforderlich, sind Probestücke von der  |
 | 20.1 | §20 Allgemeines bauaufsichtliches Prüfzeugni | Abs. 1 | bauproduktzulassung | Bauprodukte, die nach allgemein anerkannten Prüfverfahren beurteilt werden, bedürfen anstelle einer allgemeinen bauaufsi |
 | 20.2 | §20 Allgemeines bauaufsichtliches Prüfzeugni | Abs. 2 | bauproduktzulassung | Ein allgemeines bauaufsichtliches Prüfzeugnis wird von einer Prüfstelle nach § 25 Satz 1 Nr. 1 für Bauprodukte nach Absa |
-| 21.1 | §21 Zustimmung im Einzelfall 29.06.2019 | — | bauproduktzulassung | Zustimmung im Einzelfall 29.06.2019 |
+| 21.1 | §21 Zustimmung im Einzelfall 29.06.2019 | — | bauproduktzulassung | Zustimmung im Einzelfall Mit Zustimmung der obersten Bauaufsichtsbehörde dürfen unter den Voraussetzungen des § 18b Abs. 1 im Einzelfall Bauprodukte verwendet werden, wenn ihre Verwendbarkeit im Sinne des § 18 Abs. 1 nachgewiesen ist. Die oberste Bauaufsichtsbehörde kann für genau begrenzte Fälle fe |
 | 22.1 | §22 Übereinstimmungsbestätigung | Abs. 1 | bauproduktzulassung | Bauprodukte bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 87a Abs. 2, den  |
 | 22.2 | §22 Übereinstimmungsbestätigung | Abs. 2 | bauproduktzulassung | Die Bestätigung der Übereinstimmung erfolgt durch Übereinstimmungserklärung des Herstellerunternehmens (§ 23). |
 | 22.3 | §22 Übereinstimmungsbestätigung | Abs. 3 | bauproduktzulassung | Die Übereinstimmungserklärung hat das Herstellerunternehmen durch die Kennzeichnung der Bauprodukte mit dem Übereinstimm |
@@ -258,15 +258,15 @@
 | 57.1 | §57 Unternehmen | Abs. 1 | behoerdenstruktur | Die Unternehmen sind dafür verantwortlich, dass die von ihnen übernommenen Arbeiten nach den geprüften oder, wenn eine P |
 | 57.2 | §57 Unternehmen | Abs. 2 | behoerdenstruktur | Haben Unternehmen für einzelne Bauarbeiten nicht die erforderliche Sachkunde und Erfahrung, so haben sie die Bauherrin o |
 | 57.3 | §57 Unternehmen | Abs. 3 | behoerdenstruktur | Die Unternehmen und Fachleute haben auf Verlangen der Bauaufsichtsbehörde für Bauarbeiten, bei denen die Sicherheit der  |
-| 58.1 | §58 Bauaufsichtsbehörden | Abs. 1 | behoerdenstruktur | Bauaufsichtsbehörden sind: - Seite 50 von 92 - 1. das fachlich zuständige Ministerium als oberste Bauaufsichtsbehörde, 2 |
+| 58.1 | §58 Bauaufsichtsbehörden | Abs. 1 | behoerdenstruktur | Bauaufsichtsbehörden sind: |
 | 58.2 | §58 Bauaufsichtsbehörden | Abs. 2 | behoerdenstruktur | Die unteren Bauaufsichtsbehörden müssen mit geeigneten Fachkräften besetzt sein. |
 | 58.3 | §58 Bauaufsichtsbehörden | Abs. 3 | behoerdenstruktur | Die Verbandsgemeinden, die großen kreisangehörigen und die kreisfreien Städte sowie die Landkreise nehmen die Bauaufsich |
 | 59.1 | §59 Aufgaben und Befugnisse der Bauaufsichts | Abs. 1 | genehmigungspflicht | Die Bauaufsichtsbehörden haben bei der Errichtung, Änderung, Instandhaltung, Nutzung, Nutzungsänderung und dem Abbruch b |
 | 59.2 | §59 Aufgaben und Befugnisse der Bauaufsichts | Abs. 2 | genehmigungspflicht | Die Bauaufsichtsbehörden haben im Rahmen ihrer Aufgaben zugleich die Befugnisse von allgemeinen Ordnungsbehörden nach de |
 | 59.3 | §59 Aufgaben und Befugnisse der Bauaufsichts | Abs. 3 | genehmigungspflicht | Die Bauaufsichtsbehörden können sachverständige Personen oder Stellen heranziehen. |
 | 59.4 | §59 Aufgaben und Befugnisse der Bauaufsichts | Abs. 4 | genehmigungspflicht | Die mit der Durchführung dieses Gesetzes beauftragten Personen sind befugt, zur Wahrnehmung ihrer Aufgaben Grundstücke u |
-| 60.1 | §60 Sachliche Zuständigkeit 01.10.2001 | — | genehmigungspflicht | - Seite 3 von 92 Titel Gültig ab Sechster Teil - Verfahren 01.10.2001 |
-| 61.1 | §61 Genehmigungsbedürftige Vorhaben | — | verfahrensfreies_vorhaben | - Seite 51 von 92 Die Errichtung, die Änderung, die Nutzungsänderung und der Abbruch baulicher Anlagen sowie anderer Anl |
+| 60.1 | §60 Sachliche Zuständigkeit 01.10.2001 | — | genehmigungspflicht | Sachliche Zuständigkeit Sachlich zuständig ist, soweit in diesem Gesetz oder in Vorschriften aufgrund dieses Gesetzes nichts anderes bestimmt ist, die untere Bauaufsichtsbehörde. Sechster Teil Verfahren |
+| 61.1 | §61 Genehmigungsbedürftige Vorhaben | — | verfahrensfreies_vorhaben | Die Errichtung, die Änderung, die Nutzungsänderung und der Abbruch baulicher Anlagen sowie anderer Anl |
 | 62.1 | §62 Genehmigungsfreie Vorhaben | Abs. 1 | kenntnisgabeverfahren | Unbeschadet einer nach anderen Vorschriften erforderlichen Genehmigung bedürfen keiner Baugenehmigung das Errichten, Her |
 | 63.1 | §63 Bauantrag | Abs. 1 | vereinfachtes_genehmigungsverfahren | Der Antrag auf Erteilung der Baugenehmigung (Bauantrag) ist von der Bauherrin oder dem Bauherrn bei der Bauaufsichtsbehö |
 | 63.2 | §63 Bauantrag | Abs. 2 | vereinfachtes_genehmigungsverfahren | Mit dem Bauantrag sind alle für die Beurteilung des Vorhabens und die Bearbeitung des Antrags erforderlichen Unterlagen  |
@@ -334,7 +334,7 @@ b) Behälter bis zu  |
 | 71.3 | §71 Ersetzung des gemeindlichen Einvernehmen | Abs. 3 | baugenehmigung | Wird die Baugenehmigung erteilt, findet § 121 der Gemeindeordnung keine Anwendung. Die Gemeinde ist vor der Entscheidung |
 | 71.4 | §71 Ersetzung des gemeindlichen Einvernehmen | Abs. 4 | baugenehmigung | Die Baugenehmigung kann, soweit sie als Ersatzvornahme gilt, nicht gesondert nach § 126 der Gemeindeordnung angefochten  |
 | 71.5 | §71 Ersetzung des gemeindlichen Einvernehmen | Abs. 5 | baugenehmigung | Wird die Baugenehmigung versagt, ist das rechtswidrig versagte Einvernehmen der Gemeinde im Widerspruchsverfahren durch  |
-| 72.1 | §72 Bauvorbescheid 01.08.2021 | — | baugenehmigung | Bauvorbescheid 01.08.2021 |
+| 72.1 | §72 Bauvorbescheid 01.08.2021 | — | baugenehmigung | Bauvorbescheid Vor Einreichung des Bauantrags kann die Bauherrin oder der Bauherr zu einzelnen Fragen des Vorhabens einen Bescheid (Bauvorbescheid) beantragen; bei Vorhaben, für die ein vereinfachtes Genehmigungsverfahren nach § 66 durchgeführt werden kann, beschränkt sich der Bauvorbescheid auf Fra |
 | 73.1 | §73 Teilbaugenehmigung | Abs. 1 | baugenehmigung | Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Teile oder Bauabschn |
 | 73.2 | §73 Teilbaugenehmigung | Abs. 2 | baugenehmigung | In der Baugenehmigung können, ungeachtet der Teilbaugenehmigung, für bereits ausgeführte Teile oder Bauabschnitte zusätz |
 | 74.1 | §74 Geltungsdauer der Baugenehmigung | Abs. 1 | baugenehmigung | Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von vier Jahren nach ihrer Zustellung oder Bekan |
@@ -374,8 +374,8 @@ b) Behälter bis zu  |
 | 79.2 | §79 Benutzung der baulichen Anlagen | Abs. 2 | bauueberwachung | Bei der Errichtung oder Änderung von Feuerungsanlagen muss sich die Bauherrin oder der Bauherr vor der Inbetriebnahme di |
 | 80.1 | §80 Baueinstellung | Abs. 1 | sanktion | Werden Bauarbeiten im Widerspruch zu baurechtlichen oder sonstigen öffentlich-rechtlichen Vorschriften ausgeführt oder w |
 | 80.2 | §80 Baueinstellung | Abs. 2 | sanktion | Werden Bauarbeiten trotz einer angeordneten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle versi |
-| 81.1 | §81 Beseitigungsanordnung und Benutzungsunte | — | bauueberwachung | Beseitigungsanordnung und Benutzungsuntersagung 01.10.2001 |
-| 82.1 | §82 Abbruch verfallender baulicher Anlagen 1 | — | baubeginn | Abbruch verfallender baulicher Anlagen 10.12.2008 |
+| 81.1 | §81 Beseitigungsanordnung und Benutzungsunte | — | bauueberwachung | Beseitigungsanordnung und Benutzungsuntersagung Verstoßen bauliche Anlagen oder andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 gegen baurechtliche oder sonstige öffentlich-rechtliche Vorschriften über die Errichtung, die Änderung, die Instandhaltung oder die Nutzungsänderung dieser  |
+| 82.1 | §82 Abbruch verfallender baulicher Anlagen 1 | — | baubeginn | Abbruch verfallender baulicher Anlagen Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Bauaufsichtsbehörde die nach § 54 Abs. 2 verantwortlichen Personen verpflichten, die Anlage abzubrechen oder zu beseitigen; die Bestimmungen des Denkmalschutzgesetzes bleiben u |
 | 83.1 | §83 Vorhaben des Bundes und der Länder | Abs. 1 | sicherheitsleistung | Vorhaben des Bundes und der Länder sowie ihrer rechtsfähigen Anstalten, Körperschaften und Stiftungen bedürfen anstelle  |
 | 83.2 | §83 Vorhaben des Bundes und der Länder | Abs. 2 | sicherheitsleistung | Der Antrag auf Zustimmung ist bei der Bauaufsichtsbehörde einzureichen; § 63 gilt entsprechend. Die bautechnischen Nachw |
 | 83.3 | §83 Vorhaben des Bundes und der Länder | Abs. 3 | sicherheitsleistung | Für das Zustimmungsverfahren gelten die §§ 65 und 66 Abs. 4 sowie die §§ 68 bis 74 entsprechend. Über die Zulässigkeit v |
@@ -423,4 +423,4 @@ b) Behälter bis zu  |
 | 91.4 | §91 Übergangsbestimmungen | Abs. 4 | schlussvorschrift | Die in der Anlage bestimmten Ausbildungsanforderungen finden keine Anwendung auf Personen, die zum 31. März 2025 ihr Stu |
 | 92.1 | §92 Außer-Kraft-Treten bestehender Vorschrif | Abs. 1 | schlussvorschrift | Mit dem In-Kraft-Treten dieses Gesetzes treten außer Kraft: 1. die Landesbauordnung Rheinland-Pfalz vom 8. März 1995 (GV |
 | 92.2 | §92 Außer-Kraft-Treten bestehender Vorschrif | Abs. 2 | schlussvorschrift | Rechtsverordnungen, die aufgrund des in Absatz 1 Nr. 1 genannten Gesetzes, aufgrund der Landesbauordnung für Rheinland-P |
-| 93.1 | §93 In-Kraft-Treten | — | schlussvorschrift | - Seite 90 von 92 Dieses Gesetz tritt am 1. Januar 1999 in Kraft. Anlage (zu § 64 Abs. 2 und zu § 64a Abs. 1) Leitlinien |
+| 93.1 | §93 In-Kraft-Treten | — | schlussvorschrift | Dieses Gesetz tritt am 1. Januar 1999 in Kraft. Anlage (zu § 64 Abs. 2 und zu § 64a Abs. 1) Leitlinien |

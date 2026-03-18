@@ -54,6 +54,118 @@ _STATE_REGISTRY = [
         "source_suffix": "BayBO",
         "jurisdiction": "DE-BY",
     },
+    {
+        "name": "NBauO",
+        "full_name": "Niedersächsische Bauordnung (NBauO)",
+        "inventory": "NBauO_node_inventory_fine.md",
+        "prefix": "NBauO_",
+        "source_suffix": "NBauO",
+        "jurisdiction": "DE-NI",
+    },
+    {
+        "name": "BauO_BE",
+        "full_name": "Bauordnung für Berlin (BauO BE)",
+        "inventory": "BauO_BE_node_inventory_fine.md",
+        "prefix": "BauO_BE_",
+        "source_suffix": "BauO_BE",
+        "jurisdiction": "DE-BE",
+    },
+    {
+        "name": "BauO_HE",
+        "full_name": "Hessische Bauordnung (HBO)",
+        "inventory": "BauO_HE_node_inventory_fine.md",
+        "prefix": "BauO_HE_",
+        "source_suffix": "BauO_HE",
+        "jurisdiction": "DE-HE",
+    },
+    {
+        "name": "BauO_NRW",
+        "full_name": "Bauordnung für das Land Nordrhein-Westfalen (BauO NRW)",
+        "inventory": "BauO_NRW_node_inventory_fine.md",
+        "prefix": "BauO_NRW_",
+        "source_suffix": "BauO_NRW",
+        "jurisdiction": "DE-NW",
+    },
+    {
+        "name": "BauO_LSA",
+        "full_name": "Bauordnung des Landes Sachsen-Anhalt (BauO LSA)",
+        "inventory": "BauO_LSA_node_inventory_fine.md",
+        "prefix": "BauO_LSA_",
+        "source_suffix": "BauO_LSA",
+        "jurisdiction": "DE-ST",
+    },
+    {
+        "name": "BauO_MV",
+        "full_name": "Landesbauordnung Mecklenburg-Vorpommern (LBauO M-V)",
+        "inventory": "BauO_MV_node_inventory_fine.md",
+        "prefix": "BauO_MV_",
+        "source_suffix": "BauO_MV",
+        "jurisdiction": "DE-MV",
+    },
+    {
+        "name": "HBauO",
+        "full_name": "Hamburgische Bauordnung (HBauO)",
+        "inventory": "HBauO_node_inventory_fine.md",
+        "prefix": "HBauO_",
+        "source_suffix": "HBauO",
+        "jurisdiction": "DE-HH",
+    },
+    {
+        "name": "LBO_SH",
+        "full_name": "Landesbauordnung Schleswig-Holstein (LBO)",
+        "inventory": "LBO_SH_node_inventory_fine.md",
+        "prefix": "LBO_SH_",
+        "source_suffix": "LBO_SH",
+        "jurisdiction": "DE-SH",
+    },
+    {
+        "name": "LBO_SL",
+        "full_name": "Landesbauordnung Saarland (LBO)",
+        "inventory": "LBO_SL_node_inventory_fine.md",
+        "prefix": "LBO_SL_",
+        "source_suffix": "LBO_SL",
+        "jurisdiction": "DE-SL",
+    },
+    {
+        "name": "LBauO_RLP",
+        "full_name": "Landesbauordnung Rheinland-Pfalz (LBauO RLP)",
+        "inventory": "LBauO_RLP_node_inventory_fine.md",
+        "prefix": "LBauO_RLP_",
+        "source_suffix": "LBauO_RLP",
+        "jurisdiction": "DE-RP",
+    },
+    {
+        "name": "SaechsBO",
+        "full_name": "Sächsische Bauordnung (SächsBO)",
+        "inventory": "SaechsBO_node_inventory_fine.md",
+        "prefix": "SaechsBO_",
+        "source_suffix": "SaechsBO",
+        "jurisdiction": "DE-SN",
+    },
+    {
+        "name": "ThuerBO",
+        "full_name": "Thüringer Bauordnung (ThürBO)",
+        "inventory": "ThuerBO_node_inventory_fine.md",
+        "prefix": "ThuerBO_",
+        "source_suffix": "ThuerBO",
+        "jurisdiction": "DE-TH",
+    },
+    {
+        "name": "BW_LBO",
+        "full_name": "Landesbauordnung für Baden-Württemberg (LBO BW)",
+        "inventory": "BW_LBO_node_inventory.md",
+        "prefix": "BW_LBO_",
+        "source_suffix": "BW_LBO",
+        "jurisdiction": "DE-BW",
+    },
+    {
+        "name": "BremLBO",
+        "full_name": "Bremische Landesbauordnung (BremLBO)",
+        "inventory": "BremLBO_node_inventory_fine.md",
+        "prefix": "BremLBO_",
+        "source_suffix": "BremLBO",
+        "jurisdiction": "DE-HB",
+    },
 ]
 
 # Sections to include (add § numbers as we go)
@@ -68,6 +180,7 @@ _SECTIONS = [
     "52", "53", "54", "55", "56", "57", "58", "59", "60",
     "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72",
     "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86",
+    "87",
 ]
 
 # Section number -> (title, type for section anchor node)
@@ -162,6 +275,7 @@ _SECTION_ANCHORS = {
     "84": ("Ordnungswidrigkeiten", "sanktion"),
     "85": ("Rechtsvorschriften", "schlussvorschrift"),
     "86": ("Örtliche Bauvorschriften", "oertliche_bauvorschrift"),
+    "87": ("Übergangsvorschriften", "schlussvorschrift"),
 }
 
 
@@ -201,6 +315,24 @@ def _add_structural_edges(G: nx.DiGraph) -> int:
             )
             added += 1
     return added
+
+
+def _fix_orphans(G: nx.DiGraph) -> int:
+    """Connect orphan content nodes to their parent § section anchor."""
+    fixed = 0
+    for nid in list(G.nodes):
+        if G.degree(nid) != 0 or "ROOT" in nid:
+            continue
+        m = re.match(r"^(.+?)_§(\d+[a-z]?)", nid)
+        if not m:
+            continue
+        prefix, sec = m.group(1), m.group(2)
+        anchor = f"{prefix}_§{sec}"
+        if anchor in G and anchor != nid and not G.has_edge(nid, anchor):
+            src = G.nodes[nid].get("source_paragraph", "")
+            G.add_edge(nid, anchor, relation="supplements", sourced_from=src, structural=True)
+            fixed += 1
+    return fixed
 
 
 def _load_mbo_nodes() -> list:
@@ -366,7 +498,8 @@ def build() -> nx.DiGraph:
 
     # 3. Structural edges (supplements: content nodes → section anchors)
     structural = _add_structural_edges(G)
-    print(f"\nStructural edges: {structural} supplements added")
+    orphan_fixed = _fix_orphans(G)
+    print(f"\nStructural edges: {structural} supplements added, {orphan_fixed} orphans fixed")
 
     # 3. Domain edges
     print("\nDomain edges:")
