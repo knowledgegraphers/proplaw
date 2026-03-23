@@ -397,7 +397,7 @@ const AdvisorPage = () => {
       );
 
       const nextActionsText = data.next_action
-        ? `\n\n**Nächster Schritt:**\n- ${data.next_action}`
+        ? `\n\n**${t("advisor.next_action")}:**\n- ${data.next_action}`
         : "";
       const content = `**${data.verdict}**\n\n${data.explanation}${nextActionsText}`;
 

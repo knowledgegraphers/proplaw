@@ -144,6 +144,7 @@ const translations: Record<Language, Record<string, string>> = {
     "advisor.loading.2": "Searching legal sources…",
     "advisor.loading.3": "Assembling your answer…",
     "advisor.loading.timeout": "This is taking longer than expected. Please wait…",
+    "advisor.next_action": "Next step",
 
     // Permit page
     "permit.badge": "Member Feature",
@@ -327,6 +328,7 @@ const translations: Record<Language, Record<string, string>> = {
     "advisor.loading.2": "Rechtliche Quellen werden durchsucht…",
     "advisor.loading.3": "Antwort wird zusammengestellt…",
     "advisor.loading.timeout": "Das dauert länger als erwartet. Bitte warten…",
+    "advisor.next_action": "Nächster Schritt",
 
     // Permit page
     "permit.badge": "Mitglieder-Funktion",
