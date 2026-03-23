@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-TH",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 14187,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung und Warenautomaten",
+          "score": 0.6929,
+          "text_preview": "§ 10 Anlagen der Außenwerbung und Warenautomaten\n- Seite 17 von 89 -\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen i",
+          "text_full": "§ 10 Anlagen der Außenwerbung und Warenautomaten\n- Seite 17 von 89 -\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Schaukästen sowie für Zettelanschläge und Bogenanschläge oder Lichtwerbung bestimmte Säulen, Tafeln und Flächen.\n(2) Für Werbeanlagen, die bauliche Anlagen sind, gelten die in diesem Gesetz an bauliche Anlagen gestellten Anforderungen. Werbeanlagen, die keine baulichen Anlagen sind, dürfen weder bauliche Anlagen noch das Straßenbild, Ortsbild oder Landschaftsbild verunstalten oder die Sicherheit und Leichtigkeit des öffentlichen Verkehrs gefährden. Die störende Häufung von Werbeanlagen ist unzulässig.\n(3) Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. Ausgenommen sind, soweit in anderen Rechtsvorschriften nichts anderes bestimmt ist,\n1. Werbeanlagen an der Stätte der Leistung,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6651,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwen",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Campingplätze, Wochenendplätze, Zeltplätze, Spiel- und Sportflächen,\n4. Stellplätze für Kraftfahrzeuge und Abstellplätze für Fahrräder,\n5. Gerüste und Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n6. künstliche Hohlräume unter der Erdoberfläche und\n7. Freizeit- und Vergnügungsparks. Anlagen sind bauliche Anlagen und andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) Gebäude werden in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 63 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6553,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare bauliche Anlagen:\na) Baustelleneinrichtungen, einschließlich Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anl",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare bauliche Anlagen:\na) Baustelleneinrichtungen, einschließlich Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten, und\ng) ortsveränderliche Antennen einschließlich der Masten, die für längstens zwei Jahre aufgestellt werden; bei Masten mit mehr als 10 m Höhe muss vor Baubeginn die Standsicherheit der Maßnahme durch eine qualifizierte Tragwerksplanerin oder einen qualifizier-\n- Seite 54 von 89 ten Tragwerksplaner im Sinne des § 72 Abs. 2 beurteilt und im erforderlichen Umfang nachgewiesen werden;\n14. folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb oder einem Betrieb der gartenbaulichen Erzeugung im Sinne des § 35 Abs. 1 Nr."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 28 Besondere Sachkunde- und Sorgfaltsanforderungen",
+          "score": 0.6508,
+          "text_preview": "Vierter Abschnitt Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer",
+          "text_full": "Vierter Abschnitt Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung und Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "score": 0.622,
+          "text_preview": "§ 10 Anlagen der Außenwerbung und Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Anlagen der Außenwerbung und Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        }
+      ],
+      "top_score": 0.6929
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6543,
+          "text_preview": "Anlagen und Räume, die in den Nummern 1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n- Seite 12 von 89 -\n(6) Oberirdische Geschoss",
+          "text_full": "Anlagen und Räume, die in den Nummern 1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n- Seite 12 von 89 -\n(6) Oberirdische Geschosse sind Geschosse, deren Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume und -flächen für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 63 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5959,
+          "text_preview": "600 m haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Beförderung von Schülerinnen und Schülern dienen,\nf) Schutzhütten für wandernde Personen, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und ei",
+          "text_full": "600 m haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Beförderung von Schülerinnen und Schülern dienen,\nf) Schutzhütten für wandernde Personen, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 4 m, außer im Außenbereich,\nh) vor der Außenwand eines Gebäudes aus lichtdurchlässigen Baustoffen errichtete unbe2 3 heizte Wintergärten mit einer Grundfläche bis zu 20 m und 75 m Brutto-Rauminhalt,\ni) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Abs. 1 des Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210) in der jeweils geltenden Fassung und\nj) 2 Wochenendhäuser mit einer Grundfläche bis zu 40 m und einer Firsthöhe bis zu 4 m in genehmigten Wochenendhausgebieten;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 m;\n3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 50 Aufenthaltsräume",
+          "score": 0.5433,
+          "text_preview": "§ 50 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer",
+          "text_full": "§ 50 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer Betracht. Die Sätze 1 und 2 gelten nicht für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2.\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens einem Achtel der NettoRaumfläche des Raumes, einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggien, haben.\n(3) Aufenthaltsräume, deren Benutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 53 Barrierefreies Bauen",
+          "score": 0.5393,
+          "text_preview": "Büro-, Verwaltungs- und Gerichtsgebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten und\n6. Stellplätze und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Flächen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellpl",
+          "text_full": "Büro-, Verwaltungs- und Gerichtsgebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten und\n6. Stellplätze und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Flächen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen, Besucher, Benutzerinnen und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.\n(3) Für bauliche Anlagen, die überwiegend von Menschen mit Behinderung oder aufgrund von Alter oder Krankheit beeinträchtigten Menschen genutzt werden, oder ihrer Betreuung dienen, gilt Absatz 2 Satz 3 und 4 entsprechend.\n- Seite 45 von 89 -\n(4) Abweichungen nach § 73 von den Absätzen 1 bis 3 können auch zugelassen werden, soweit die Anforderungen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können, insbesondere\n1. wegen schwieriger Geländeverhältnisse,\n2. wegen des Einbaus eines sonst nicht erforderlichen Aufzugs,\n3. wegen ungünstiger vorhandener Bebauung oder\n4. im Hinblick auf die Sicherheit der Menschen mit Behinderung."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 64 Genehmigungsfreistellung",
+          "score": 0.5313,
+          "text_preview": "für die Errichtung, Änderung oder Nutzungsänderung\n- Seite 56 von 89 -\na) eines oder mehrerer Gebäude, wenn dadurch dem Wohnen dienende Nutzungseinheiten mit einer Größe von insgesamt mehr als 5.000 m2 Grundfläche geschaffen werden, und\nb) baulicher Anlagen, die öffentlich zugänglich sind, wenn dadu",
+          "text_full": "für die Errichtung, Änderung oder Nutzungsänderung\n- Seite 56 von 89 -\na) eines oder mehrerer Gebäude, wenn dadurch dem Wohnen dienende Nutzungseinheiten mit einer Größe von insgesamt mehr als 5.000 m2 Grundfläche geschaffen werden, und\nb) baulicher Anlagen, die öffentlich zugänglich sind, wenn dadurch die gleichzeitige Nutzung durch mehr als 100 zusätzliche Besucherinnen und Besucher ermöglicht wird, die innerhalb eines vom Landesamt für Umwelt, Bergbau und Naturschutz im Internet bekannt gemachten angemessenen Sicherheitsabstands um einen Betriebsbereich im Sinne des § 3 Abs. 5a des Bundes-Immissionsschutzgesetzes (BImSchG) in der Fassung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 S."
+        }
+      ],
+      "top_score": 0.6543
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.589,
+          "text_preview": "Anlagen und Räume, die in den Nummern 1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n- Seite 12 von 89 -\n(6) Oberirdische Geschoss",
+          "text_full": "Anlagen und Räume, die in den Nummern 1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n- Seite 12 von 89 -\n(6) Oberirdische Geschosse sind Geschosse, deren Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume und -flächen für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 52 Notwendige Stellplätze und notwendige Abstellplätze für Fahrräder",
+          "score": 0.5547,
+          "text_preview": "§ 52 Notwendige Stellplätze und notwendige Abstellplätze für Fahrräder\n(1) Bei der Errichtung von Anlagen, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen zu erwarten ist, müssen im erforderlichen Umfang geeignete Stellplätze hergestellt werden, wenn der Zuund Abgangsverkehr mittels Kraftfa",
+          "text_full": "§ 52 Notwendige Stellplätze und notwendige Abstellplätze für Fahrräder\n(1) Bei der Errichtung von Anlagen, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen zu erwarten ist, müssen im erforderlichen Umfang geeignete Stellplätze hergestellt werden, wenn der Zuund Abgangsverkehr mittels Kraftfahrzeugen erfolgt (notwendige Stellplätze); die Stellplätze können auch in Garagen hergestellt werden. Geeignete schwellenlos erreichbare Abstellplätze für Fahrräder sind in solcher Zahl herzustellen, dass sie für die ordnungsgemäße Nutzung der Anlagen ausreichen\n- Seite 43 von 89 (notwendige Abstellplätze für Fahrräder). Bei der Bemessung des Bedarfs von Stellplätzen und Abstellplätzen für Fahrräder sind insbesondere zu berücksichtigen:\n1. die Zahl und die Art der durch die ständige Benutzung und den Besuch der Anlagen zu erwartenden Kraftfahrzeuge und Fahrräder,\n2. die örtlichen Verkehrsverhältnisse,\n3. die zu erwartende Nutzung des öffentlichen Personenverkehrs, auch unter Berücksichtigung geplanter Änderungen-, und\n4. gemeindliche Mobilitätskonzepte. Bei Änderungen oder Nutzungsänderungen ist nur der Mehrbedarf zu decken."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 53 Barrierefreies Bauen",
+          "score": 0.5331,
+          "text_preview": "Büro-, Verwaltungs- und Gerichtsgebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten und\n6. Stellplätze und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Flächen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellpl",
+          "text_full": "Büro-, Verwaltungs- und Gerichtsgebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten und\n6. Stellplätze und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Flächen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen, Besucher, Benutzerinnen und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.\n(3) Für bauliche Anlagen, die überwiegend von Menschen mit Behinderung oder aufgrund von Alter oder Krankheit beeinträchtigten Menschen genutzt werden, oder ihrer Betreuung dienen, gilt Absatz 2 Satz 3 und 4 entsprechend.\n- Seite 45 von 89 -\n(4) Abweichungen nach § 73 von den Absätzen 1 bis 3 können auch zugelassen werden, soweit die Anforderungen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können, insbesondere\n1. wegen schwieriger Geländeverhältnisse,\n2. wegen des Einbaus eines sonst nicht erforderlichen Aufzugs,\n3. wegen ungünstiger vorhandener Bebauung oder\n4. im Hinblick auf die Sicherheit der Menschen mit Behinderung."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 63 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5308,
+          "text_preview": "1 und 2 in Verbindung mit § 201 BauGB dienen,\nb) 2 andere Lager- und Abstellplätze mit einer Fläche bis zu 100 m , außer im Außenbereich,\nc) nicht überdachte Stellplätze und Abstellplätze für Fahrräder mit einer Fläche bis zu jeweils insgesamt 100 m je Grundstück und deren Zufahrten, außer im Außenb",
+          "text_full": "1 und 2 in Verbindung mit § 201 BauGB dienen,\nb) 2 andere Lager- und Abstellplätze mit einer Fläche bis zu 100 m , außer im Außenbereich,\nc) nicht überdachte Stellplätze und Abstellplätze für Fahrräder mit einer Fläche bis zu jeweils insgesamt 100 m je Grundstück und deren Zufahrten, außer im Außenbereich, und\nd) Kinderspielplätze;\n15. folgende sonstige bauliche Anlagen:\na) Zapfsäulen und Tankautomaten genehmigter Tankstellen sowie Ladestationen für Elektromobilität und die damit verbundene Änderung der Nutzung,\nb) Regale mit einer Oberkante Lagerguthöhe bis zu 7,50 m,\nc) Grabdenkmale auf Friedhöfen, Feldkreuze, Denkmäler, Skulpturen und sonstige Kunstwerke jeweils mit einer Höhe bis zu 4 m,\nd) Waren- und Leistungsautomaten sowie Packstationen von Post- und Paketdienstleistern mit einem Brutto-Rauminhalt bis zu 50 m und einer Höhe bis zu 3 m und\ne) andere unbedeutende Anlagen oder unbedeutende Teile von Anlagen, wie Hauseingangsüberdachungen, Markisen, Rollläden, Terrassen, Maschinenfundamente, Straßenfahrzeugwaagen, Pergolen, Jägerstände, Wildfütterungen, Bienenfreistände, Taubenhäuser, Hofeinfahrten und Teppichstangen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 32 Trennwände",
+          "score": 0.5276,
+          "text_preview": "§ 32 Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und ander",
+          "text_full": "§ 32 Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n- Seite 27 von 89 -\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr und\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Absatz 2 Nr. 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nr. 2 müssen feuerbeständig sein.\n(4) Trennwände sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen; werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        }
+      ],
+      "top_score": 0.589
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 78 Baugenehmigung und Baubeginn",
+          "score": 0.7301,
+          "text_preview": "(8) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform anzuzeigen (Baubeginnsanzeige).",
+          "text_full": "(8) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform anzuzeigen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 72",
+          "score": 0.7257,
+          "text_preview": "§ 72\nbleibt unberührt.\n(2) Über den Bauantrag ist innerhalb von drei Monaten nach Vorlage der vollständigen Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin oder dem Antragsteller aus wichtigem Grund um bis zu zwei Monate verlängern. Der Antrag",
+          "text_full": "§ 72\nbleibt unberührt.\n(2) Über den Bauantrag ist innerhalb von drei Monaten nach Vorlage der vollständigen Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin oder dem Antragsteller aus wichtigem Grund um bis zu zwei Monate verlängern. Der Antrag gilt als genehmigt, wenn über ihn nicht innerhalb der nach Satz 1 maßgeblichen Frist entschieden worden ist.\n(3) Absatz 1 gilt auch für Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fallen. Bei diesen Anlagen ist über den Bauantrag innerhalb eines Jahres nach Vollständigkeit der Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin oder\n- Seite 58 von 89 dem Antragsteller aus wichtigem Grund um bis zu einem Jahr verlängern. Der Antrag gilt als genehmigt, wenn über ihn nicht innerhalb der nach Satz 2 maßgeblichen Frist entschieden worden ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 78 Baugenehmigung und Baubeginn",
+          "score": 0.7199,
+          "text_preview": "§ 78 Baugenehmigung und Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen",
+          "text_full": "§ 78 Baugenehmigung und Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n- Seite 70 von 89 -\n(2) Die Baugenehmigung bedarf der Schriftform; sie ist nur insoweit zu begründen, als Abweichungen, Ausnahmen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und benachbarte Personen nicht nach § 76 Abs. 2 Satz 1 zugestimmt haben.\n(3) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt des Widerrufs oder der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden. Nach Widerruf oder nach Ablauf der gesetzten Frist ist die bauliche Anlage ohne Entschädigung zu beseitigen; ein ordnungsgemäßer Zustand ist herzustellen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 89 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7162,
+          "text_preview": "§ 89 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde und die Prüfingenieurin oder der Prüfingenieur können verlangen, dass ihnen Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt oder die Anlagen erst genutzt werden, wenn die",
+          "text_full": "§ 89 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde und die Prüfingenieurin oder der Prüfingenieur können verlangen, dass ihnen Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt oder die Anlagen erst genutzt werden, wenn die Bauaufsichtsbehörde oder die Prüfingenieurin oder der Prüfingenieur zugestimmt hat.\n(2) Die Bauherrschaft hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. Mit der Anzeige nach Satz 1 sind\n1. bei Bauvorhaben nach § 72 Abs. 2 Satz 3 eine Bescheinigung der Prüfingenieurin oder des Prüfingenieurs über die ordnungsgemäße Bauausführung hinsichtlich der Standsicherheit,\n2. bei Bauvorhaben nach § 72 Abs. 3 Satz 3 eine Bescheinigung der Prüfingenieurin oder des Prüfingenieurs über die ordnungsgemäße Bauausführung hinsichtlich des Brandschutzes, soweit die Nachweise nicht durch die Bauaufsichtsbehörde geprüft wurden, und\n- Seite 77 von 89 -\n3. in den Fällen nach § 88 Abs. 2 Satz 2 die jeweilige Bestätigung vorzulegen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 84 Bauaufsichtliche Zustimmung",
+          "score": 0.7104,
+          "text_preview": "§ 84 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Bauherrschaft die Leitung der Entwurfsarbeiten und der Bauüberwachung einer Baudienststelle des Bundes oder der Länder übertragen hat und\n2. di",
+          "text_full": "§ 84 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Bauherrschaft die Leitung der Entwurfsarbeiten und der Bauüberwachung einer Baudienststelle des Bundes oder der Länder übertragen hat und\n2. die Baudienststelle nach Nummer 1 mit beamtetem Personal des höheren technischen Verwaltungsdienstes der Fachrichtung Hochbau oder Bauingenieurwesen oder diesen gleichgestellten Bediensteten mit entsprechender Vorbildung besetzt ist, die über die erforderlichen Kenntnisse der Bautechnik, der Baugestaltung und des öffentlichen Baurechts verfügen. Bauliche Anlagen nach Satz 1 bedürfen jedoch der Zustimmung der oberen Bauaufsichtsbehörde. Außer bei der Errichtung und Änderung von Sonderbauten entfällt die Zustimmung nach Satz 2, wenn die Gemeinde nicht innerhalb von zwei Monaten ab Eingang des Ersuchens der Baudienststelle widerspricht und, soweit ihre öffentlich-rechtlich geschützten Belange von Abweichungen, Ausnahmen\n- Seite 74 von 89 und Befreiungen berührt sein können, die benachbarten Personen innerhalb eines Monats ab Eingang des Ersuchens der Baudienststelle dem Vorhaben zustimmen."
+        }
+      ],
+      "top_score": 0.7301
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.6624,
+          "text_preview": "§ 6 Abstandsflächen\n(1) Zur ausreichenden Belichtung und Belüftung sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Für bauliche Anlagen, andere Anlagen und Einrichtungen, von denen Wirkungen wie von Gebäuden ausgehen, gilt Satz 1 gegenüber Gebäuden und ",
+          "text_full": "§ 6 Abstandsflächen\n(1) Zur ausreichenden Belichtung und Belüftung sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Für bauliche Anlagen, andere Anlagen und Einrichtungen, von denen Wirkungen wie von Gebäuden ausgehen, gilt Satz 1 gegenüber Gebäuden und Nachbargrenzen entsprechend. Eine Abstandsfläche ist nicht erforderlich\n1. vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Rechtsvorschriften an die Grenze gebaut werden muss oder gebaut werden darf,\n2. wenn ein Vorhaben nach § 34 Abs. 1 oder 3a BauGB zulässig ist,\n3. für Windenergieanlagen, die im Außenbereich im Sinne des § 35 BauGB errichtet werden oder\n4. für Antennen im Außenbereich im Sinne des § 35 BauGB einschließlich der Masten mit einer Breite des Mastes von höchstens 1,50 m und einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich.\n(2) Abstandsflächen müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.6336,
+          "text_preview": "Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie\n- Seite 14 von 89 nicht überbaut werden. Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Abstandsflächen d",
+          "text_full": "Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie\n- Seite 14 von 89 nicht überbaut werden. Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinanderstehen und\n2. Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden der Gebäudeklassen 1 und 2. In den Fällen des Satzes 1 findet Absatz 1 Satz 1 keine Anwendung.\n(4) Die Tiefe der Abstandsfläche bemisst sich nach der Höhe (H). H ist das lotrechte Maß von jedem Punkt des oberen Abschlusses der Wand oder der Dachhaut bis zur Geländeoberfläche. Die Abstandsfläche ist von dem Punkt der Geländeoberfläche, an dem H ermittelt wird, senkrecht zur Wand zu messen.\n(5) Die Tiefe der Abstandsflächen beträgt 0,4 H, mindestens 3 m. In Gewerbe- und Industriegebieten sowie in Sondergebieten, deren Nutzung mit einem Gewerbe- oder Industriegebiet vergleichbar ist, genügt eine Tiefe von 0,2 H, mindestens 3 m."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.5816,
+          "text_preview": "Vor den Außenwänden von Gebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. Sind aufgrund einer städtebaulichen Satzung oder einer Satzung nach § 97 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer",
+          "text_full": "Vor den Außenwänden von Gebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. Sind aufgrund einer städtebaulichen Satzung oder einer Satzung nach § 97 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 bis 3 liegen müssten, finden die Sätze 1 bis 3 keine Anwendung, es sei denn, mit der Satzung ist die Geltung dieser Regelungen angeordnet.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende Bauteile, wie Gesimse und Dachüberstände,\n2. bei Vorbauten, wie Balkonen, Erkern, Treppen, Treppenräumen und Aufzügen,\na) die Seiten, die nicht mehr als 1,60 m vor die Außenwand vortreten und\nb) die den Nachbargrenzen gegenüberliegenden vorderen Seiten, wenn die Vorbauten insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen, nicht mehr als 1,60 m vor die Außenwand vortreten und mindestens 2 m von der gegenüberliegenden Nachbargrenze entfernt bleiben,\n3. untergeordnete Dachaufbauten, wie Schornsteine, Abgasanlagen und Antennen,\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 41 Umwehrungen",
+          "score": 0.5786,
+          "text_preview": "§ 41 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n",
+          "text_full": "§ 41 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. nicht begehbare Oberlichte und Glasabdeckungen in Flächen, die im Allgemeinen zum Begehen bestimmt sind, wenn sie weniger als 0,50 m aus diesen Flächen herausragen,\n3. Dächer oder Dachteile, die zum auch nur zeitweiligen Aufenthalt von Menschen bestimmt sind,\n4. Öffnungen in begehbaren Decken sowie in Dächern oder Dachteilen nach Nummer 3, wenn sie nicht sicher abgedeckt sind,\n5. nicht begehbare Glasflächen in Decken sowie in Dächern oder Dachteilen nach Nummer 3,\n6. die freien Seiten von Treppenläufen, Treppenabsätzen und Treppenöffnungen, und\n7. Kellerlichtschächte und Betriebsschächte, die an Verkehrsflächen liegen, wenn sie nicht verkehrssicher abgedeckt sind.\n(2) In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abzudecken."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 63 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5785,
+          "text_preview": "600 m haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Beförderung von Schülerinnen und Schülern dienen,\nf) Schutzhütten für wandernde Personen, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und ei",
+          "text_full": "600 m haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Beförderung von Schülerinnen und Schülern dienen,\nf) Schutzhütten für wandernde Personen, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 4 m, außer im Außenbereich,\nh) vor der Außenwand eines Gebäudes aus lichtdurchlässigen Baustoffen errichtete unbe2 3 heizte Wintergärten mit einer Grundfläche bis zu 20 m und 75 m Brutto-Rauminhalt,\ni) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Abs. 1 des Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210) in der jeweils geltenden Fassung und\nj) 2 Wochenendhäuser mit einer Grundfläche bis zu 40 m und einer Firsthöhe bis zu 4 m in genehmigten Wochenendhausgebieten;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 m;\n3."
+        }
+      ],
+      "top_score": 0.6624
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7216,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen, die in diesem Gesetz oder",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen, die in diesem Gesetz oder in den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften gestellt werden, erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Rechtsvorschriften anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vom 2. Mai 1992 (ABl. L 1 vom 3.1.1994, S. 3) in der jeweils geltenden Fassung genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche",
+          "score": 0.7133,
+          "text_preview": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche\nSicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang ",
+          "text_full": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche\nSicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änderung ihrer Nutzung. Zweiter Teil Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung und Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "score": 0.702,
+          "text_preview": "§ 10 Anlagen der Außenwerbung und Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Anlagen der Außenwerbung und Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6898,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 95 Rechtsverordnungen",
+          "score": 0.6789,
+          "text_preview": "§ 95 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Satz 1, § 17 Abs. 1 und § 18 Abs. 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung\n1. die nähere Bestimmung allgemeiner Anforderungen nach den §§ 4 bis 51,\n2. Anforderungen an Feuerungsanlag",
+          "text_full": "§ 95 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Satz 1, § 17 Abs. 1 und § 18 Abs. 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung\n1. die nähere Bestimmung allgemeiner Anforderungen nach den §§ 4 bis 51,\n2. Anforderungen an Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung nach § 45,\n3. Anforderungen an Garagen und Stellplätze sowie Gebäude und Räume für Abstellplätze für Fahrräder nach § 2 Abs. 7 und § 52,\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen nach § 54 für die Errichtung, Änderung, Unterhaltung, den Betrieb und die Nutzung ergeben, sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfungen von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen und\n6."
+        }
+      ],
+      "top_score": 0.7216
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 63 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.593,
+          "text_preview": "600 m haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Beförderung von Schülerinnen und Schülern dienen,\nf) Schutzhütten für wandernde Personen, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und ei",
+          "text_full": "600 m haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Beförderung von Schülerinnen und Schülern dienen,\nf) Schutzhütten für wandernde Personen, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 4 m, außer im Außenbereich,\nh) vor der Außenwand eines Gebäudes aus lichtdurchlässigen Baustoffen errichtete unbe2 3 heizte Wintergärten mit einer Grundfläche bis zu 20 m und 75 m Brutto-Rauminhalt,\ni) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Abs. 1 des Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210) in der jeweils geltenden Fassung und\nj) 2 Wochenendhäuser mit einer Grundfläche bis zu 40 m und einer Firsthöhe bis zu 4 m in genehmigten Wochenendhausgebieten;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 m;\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 51 Wohnungen",
+          "score": 0.5788,
+          "text_preview": "§ 51 Wohnungen\n(1) Fensterlose Küchen und Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Für Wohngebäude der Gebäudeklassen 3 bis 5 sind\n1. barrierefrei zugängliche Abstellräume für Kinderwagen und Mobilitätshilfsmittel,\n2. leicht erreichbare Abstellräume für Fahrräder ",
+          "text_full": "§ 51 Wohnungen\n(1) Fensterlose Küchen und Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Für Wohngebäude der Gebäudeklassen 3 bis 5 sind\n1. barrierefrei zugängliche Abstellräume für Kinderwagen und Mobilitätshilfsmittel,\n2. leicht erreichbare Abstellräume für Fahrräder und\n3. für jede Wohnung ein Abstellraum herzustellen; die Abstellräume müssen ausreichend groß sein.\n(3) In jeder Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette vorhanden sein.\n(4) Zum Schutz von Leben und Gesundheit müssen in Wohnungen Schlafräume und Kinderzimmer sowie Flure, die zu Aufenthaltsräumen führen, jeweils mindestens einen geeigneten Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Bauteile die §§ 6, 30, 31 und 33 bis 35 nicht anzuwenden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.577,
+          "text_preview": "Anlagen und Räume, die in den Nummern 1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n- Seite 12 von 89 -\n(6) Oberirdische Geschoss",
+          "text_full": "Anlagen und Räume, die in den Nummern 1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n- Seite 12 von 89 -\n(6) Oberirdische Geschosse sind Geschosse, deren Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume und -flächen für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 50 Aufenthaltsräume",
+          "score": 0.5628,
+          "text_preview": "§ 50 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer",
+          "text_full": "§ 50 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer Betracht. Die Sätze 1 und 2 gelten nicht für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2.\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens einem Achtel der NettoRaumfläche des Raumes, einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggien, haben.\n(3) Aufenthaltsräume, deren Benutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5571,
+          "text_preview": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) jeweils für mehr als sechs Personen oder\nb) für Personen mit Intensivpflegebedarf bestimmt sind ode",
+          "text_full": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) jeweils für mehr als sechs Personen oder\nb) für Personen mit Intensivpflegebedarf bestimmt sind oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als zwölf Personen bestimmt sind,\n10. Krankenhäuser,\n11. Wohnheime,\n12. Einrichtungen zur Unterbringung von Personen sowie Tageseinrichtungen für Kinder, Menschen mit Behinderung und alte Menschen, ausgenommen Tageseinrichtungen einschließlich Tagespflege für nicht mehr als zehn Kinder,\n13. Schulen, Hochschulen und ähnliche Einrichtungen,\n14. Justizvollzugsanstalten und bauliche Anlagen für den Maßregelvollzug,\n15. Camping- und Wochenendplätze,\n16. Freizeit- und Vergnügungsparks,\n17. Fliegende Bauten, soweit sie einer Ausführungsgenehmigung bedürfen,\n18. Regallager mit einer Oberkante Lagerguthöhe von mehr als 7,50 m,\n19. bauliche Anlagen, deren Nutzung durch Umgang mit oder Lagerung von Stoffen mit Explosionsoder erhöhter Brandgefahr verbunden ist, oder\n20."
+        }
+      ],
+      "top_score": 0.593
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7622,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mögli",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7478,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 29",
+          "score": 0.7171,
+          "text_preview": "§ 29\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 19.07.2024 Bauteilen",
+          "text_full": "§ 29\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 19.07.2024 Bauteilen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 45 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung",
+          "score": 0.7038,
+          "text_preview": "§ 45 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach der Lage, Größe, ",
+          "text_full": "§ 45 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach der Lage, Größe, baulichen Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht zu reinigen sein. Die Sätze 1 bis 3 gel-\n- Seite 41 von 89 ten nicht für Feuerungsanlagen, die nach dem Stand der Technik ohne eine Einrichtung zur Ableitung der Abgase betrieben werden können.\n(4) Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behälter und feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7016,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe sind nach den Anforderungen an ihr Brandverhalten zu unterscheiden in\n1. nichtbrennbare,\n2. schwer entflammbare oder\n3. normal entflammbare. Baustoffe, die nicht mindestens normal entflammbar sind (leicht ",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe sind nach den Anforderungen an ihr Brandverhalten zu unterscheiden in\n1. nichtbrennbare,\n2. schwer entflammbare oder\n3. normal entflammbare. Baustoffe, die nicht mindestens normal entflammbar sind (leicht entflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leicht entflammbar sind.\n(2) Bauteile sind nach den Anforderungen an ihre Feuerwiderstandsfähigkeit zu unterscheiden in\n1. feuerbeständige,\n2. hochfeuerhemmende oder\n3. feuerhemmende; die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall und bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile sind zusätzlich nach dem Brandverhalten ihrer Baustoffe zu unterscheiden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n- Seite 25 von 89 -\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        }
+      ],
+      "top_score": 0.7622
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.7187,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der\n- Seite 33 von 89 Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über Hubrettungs",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der\n- Seite 33 von 89 Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über Hubrettungsfahrzeuge verfügt. Der zweite Rettungsweg über Rettungsgeräte der Feuerwehr ist nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.714,
+          "text_preview": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen, selbstständige Betriebsstätten, müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege ",
+          "text_full": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen, selbstständige Betriebsstätten, müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für eingeschossige, zu ebener Erde liegende Nutzungseinheiten nicht erforderlich, wenn im Brandfall die Rettung über einen direkten Ausgang ins Freie möglich ist.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6988,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 63 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6613,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare bauliche Anlagen:\na) Baustelleneinrichtungen, einschließlich Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anl",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare bauliche Anlagen:\na) Baustelleneinrichtungen, einschließlich Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten, und\ng) ortsveränderliche Antennen einschließlich der Masten, die für längstens zwei Jahre aufgestellt werden; bei Masten mit mehr als 10 m Höhe muss vor Baubeginn die Standsicherheit der Maßnahme durch eine qualifizierte Tragwerksplanerin oder einen qualifizier-\n- Seite 54 von 89 ten Tragwerksplaner im Sinne des § 72 Abs. 2 beurteilt und im erforderlichen Umfang nachgewiesen werden;\n14. folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb oder einem Betrieb der gartenbaulichen Erzeugung im Sinne des § 35 Abs. 1 Nr."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 38 Notwendige Treppenräume, Ausgänge",
+          "score": 0.6503,
+          "text_preview": "§ 38 Notwendige Treppenräume, Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung de",
+          "text_full": "§ 38 Notwendige Treppenräume, Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lang möglich ist. Notwendige Treppen sind ohne eigenen Treppenraum zulässig\n- Seite 34 von 89 -\n1. in Gebäuden der Gebäudeklassen 1 und 2,\n2. für die Verbindung von höchstens zwei Geschossen innerhalb derselben Nutzungseinheit von insgesamt nicht mehr als 200 m2 Grundfläche, wenn in jedem Geschoss ein anderer Rettungsweg erreicht werden kann,\n3. als Außentreppe, wenn ihre Benutzung ausreichend sicher ist und im Brandfall nicht gefährdet werden kann und\n4. innerhalb von Wohnungen.\n(2) Von jeder Stelle eines Aufenthaltsraumes und eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein. Übereinanderliegende Kellergeschosse müssen jeweils mindestens zwei Ausgänge in notwendige Treppenräume oder ins Freie haben."
+        }
+      ],
+      "top_score": 0.7187
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7478,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n- Seite 13 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, durch Baulast gesicherte Zufahrt zu einer befahrbaren öff",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n- Seite 13 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, durch Baulast gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten können, die diesem Gesetz oder den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften widersprechen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 90 Baulasten und Baulastenverzeichnis",
+          "score": 0.7206,
+          "text_preview": "Der Verzicht ist mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Das Baulastenverzeichnis ist von der Bauaufsichtsbehörde zu führen. In das Baulastenverzeichnis können auch\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ",
+          "text_full": "Der Verzicht ist mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Das Baulastenverzeichnis ist von der Bauaufsichtsbehörde zu führen. In das Baulastenverzeichnis können auch\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte eingetragen werden.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen lassen. Sechster Teil Marktüberwachung nach der Verordnung (EU) Nr. 305/2011"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 90 Baulasten und Baulastenverzeichnis",
+          "score": 0.6998,
+          "text_preview": "§ 90 Baulasten und Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öf",
+          "text_full": "§ 90 Baulasten und Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffentlich-rechtlichen Vorschriften ergeben (Baulasten). Baulasten werden unbeschadet der Rechte Dritter mit der Eintragung in das Baulastenverzeichnis wirksam und wirken auch gegenüber Rechtsnachfolgerinnen oder Rechtsnachfolgern.\n(2) Die Erklärung nach Absatz 1 bedarf der Schriftform; die Unterschrift muss öffentlich oder von einer Vermessungsstelle nach § 17 Abs. 2 des Thüringer Vermessungs- und Geoinformationsgesetzes vom\n16. Dezember 2008 (GVBl. S. 574) in der jeweils geltenden Fassung beglaubigt oder vor der Bauaufsichtsbehörde geleistet oder vor ihr anerkannt werden.\n(3) Die Baulast geht durch Verzicht der Bauaufsichtsbehörde unter. Der Verzicht ist zu erklären, wenn ein öffentliches Interesse an der Baulast nicht mehr besteht. Vor dem Verzicht sollen die oder der Verpflichtete und die durch die Baulast Begünstigten angehört werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.6983,
+          "text_preview": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die E",
+          "text_full": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der Flächen entgegenstehen. Satz 1 findet keine Anwendung, soweit Bebauungspläne, andere städtebauliche Satzungen oder Satzungen nach § 97 Festsetzungen zu den nicht überbauten Flächen treffen.\n(2) Bei der Errichtung von Gebäuden mit mehr als drei Wohnungen ist auf dem Baugrundstück oder in unmittelbarer Nähe auf einem anderen geeigneten Grundstück, dessen dauerhafte Nutzung für diesen Zweck durch Baulast gesichert sein muss, ein ausreichend großer Spielplatz für Kleinkinder bis zur Vollendung des sechsten Lebensjahres anzulegen. Dies gilt nicht, wenn in unmittelbarer Nähe eine Gemeinschaftsanlage oder ein sonstiger für die Kleinkinder nutzbarer Spielplatz geschaffen wird oder vorhanden ist oder ein solcher Spielplatz wegen der Art und der Lage der Wohnungen nicht erforderlich ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche",
+          "score": 0.6948,
+          "text_preview": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche\nSicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang ",
+          "text_full": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche\nSicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änderung ihrer Nutzung. Zweiter Teil Das Grundstück und seine Bebauung"
+        }
+      ],
+      "top_score": 0.7478
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.8187,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 29",
+          "score": 0.7834,
+          "text_preview": "§ 29\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 19.07.2024 Bauteilen",
+          "text_full": "§ 29\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 19.07.2024 Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 43 Leitungsanlagen, Installationsschächte und -kanäle",
+          "score": 0.77,
+          "text_preview": "§ 43 Leitungsanlagen, Installationsschächte und -kanäle\n(1) Leitungen dürfen durch raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur hindurchgeführt werden, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder Vorkehrungen gegen eine Brand",
+          "text_full": "§ 43 Leitungsanlagen, Installationsschächte und -kanäle\n(1) Leitungen dürfen durch raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur hindurchgeführt werden, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder Vorkehrungen gegen eine Brandausbreitung getroffen sind; dies gilt nicht\n1. für Gebäude der Gebäudeklassen 1 und 2,\n2. innerhalb von Wohnungen und\n3. 2 innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m2 Grundfläche in nicht mehr als zwei Geschossen.\n- Seite 40 von 89 -\n(2) In notwendigen Treppenräumen, in Räumen nach § 38 Abs. 3 Satz 2 und in notwendigen Fluren sind Leitungsanlagen nur zulässig, wenn eine Nutzung als Rettungsweg im Brandfall ausreichend lang möglich ist.\n(3) Für Installationsschächte und -kanäle gelten Absatz 1 und § 44 Abs. 2 Satz 1 und Abs. 3 entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 35 Dächer",
+          "score": 0.7633,
+          "text_preview": "§ 35 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn d",
+          "text_full": "§ 35 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m und\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m Brutto-Rauminhalt einen Abstand von mindestens 5 m\n- Seite 31 von 89 einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. der Nummer 1 ein Abstand von mindestens 6 m,\n2. der Nummer 2 ein Abstand von mindestens 9 m und\n3. der Nummer 3 ein Abstand von mindestens 12 m. Für die Abstände nach den Sätzen 1 und 2 findet § 6 Abs. 2 entsprechende Anwendung.\n(3) Die Absätze 1 und 2 gelten nicht für\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.762,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mögli",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        }
+      ],
+      "top_score": 0.8187
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 72 Bautechnische Nachweise",
+          "score": 0.7928,
+          "text_preview": "Der Standsicherheitsnachweis muss\n1. bei Gebäuden der Gebäudeklassen 4 und 5,\n2. bei unterirdischen Mittelgaragen und Großgaragen im Sinne der Rechtsverordnung nach § 95 Abs. 1 Nr. 3 oder\n3. wenn dies nach Maßgabe eines in der Rechtsverordnung nach § 95 Abs. 3 Satz 1 Nr. 3 geregelten Kriterienkatalo",
+          "text_full": "Der Standsicherheitsnachweis muss\n1. bei Gebäuden der Gebäudeklassen 4 und 5,\n2. bei unterirdischen Mittelgaragen und Großgaragen im Sinne der Rechtsverordnung nach § 95 Abs. 1 Nr. 3 oder\n3. wenn dies nach Maßgabe eines in der Rechtsverordnung nach § 95 Abs. 3 Satz 1 Nr. 3 geregelten Kriterienkatalogs erforderlich ist, bei\na) Gebäuden der Gebäudeklassen 1 bis 3,\nb) Behältern, Brücken, Stützmauern, Tribünen,\nc) sonstigen baulichen Anlagen, die keine Gebäude sind, mit einer Höhe von mehr als 10 m und\nd) Fundamenten für Windenergieanlagen mit einer Höhe von mehr als 10 m, deren weitere Bestandteile dem Anwendungsbereich der Richtlinie 2006/42/EG unterliegen, bauaufsichtlich geprüft sein; dies gilt nicht für Wohngebäude der Gebäudeklassen 1 und 2.\n- Seite 64 von 89 -\n(3) Bei Bauvorhaben der Gebäudeklasse 4, ausgenommen Sonderbauten sowie Mittel- und Großgaragen im Sinne der Rechtsverordnung nach § 95 Abs. 1 Nr. 3, muss der Brandschutznachweis von\n1. einer für das Bauvorhaben bauvorlageberechtigten Person, die die erforderlichen Kenntnisse des Brandschutzes nachgewiesen hat,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 97 Örtliche Bauvorschriften",
+          "score": 0.7767,
+          "text_preview": "§ 97 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung im eigenen Wirkungskreis örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen, Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern,\n2. das Verbot von ",
+          "text_full": "§ 97 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung im eigenen Wirkungskreis örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen, Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern,\n2. das Verbot von Werbeanlagen und Warenautomaten aus ortsgestalterischen Gründen,\n3. die Lage, Größe, Beschaffenheit, Ausstattung und Unterhaltung von Kinderspielplätzen,\n4. die Gestaltung der Stellplätze für Kraftfahrzeuge, der Abstellmöglichkeiten für Fahrräder, der Stellplätze für bewegliche Abfallbehälter und der unbebauten Flächen der bebauten Grundstücke sowie über die Notwendigkeit, Art, Gestaltung und Höhe von Einfriedungen,\n5. von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist,\n6. die Begrünung baulicher Anlagen und\n7."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7735,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n- Seite 13 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, durch Baulast gesicherte Zufahrt zu einer befahrbaren öff",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n- Seite 13 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, durch Baulast gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten können, die diesem Gesetz oder den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften widersprechen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.7462,
+          "text_preview": "§ 6 Abstandsflächen\n(1) Zur ausreichenden Belichtung und Belüftung sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Für bauliche Anlagen, andere Anlagen und Einrichtungen, von denen Wirkungen wie von Gebäuden ausgehen, gilt Satz 1 gegenüber Gebäuden und ",
+          "text_full": "§ 6 Abstandsflächen\n(1) Zur ausreichenden Belichtung und Belüftung sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Für bauliche Anlagen, andere Anlagen und Einrichtungen, von denen Wirkungen wie von Gebäuden ausgehen, gilt Satz 1 gegenüber Gebäuden und Nachbargrenzen entsprechend. Eine Abstandsfläche ist nicht erforderlich\n1. vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Rechtsvorschriften an die Grenze gebaut werden muss oder gebaut werden darf,\n2. wenn ein Vorhaben nach § 34 Abs. 1 oder 3a BauGB zulässig ist,\n3. für Windenergieanlagen, die im Außenbereich im Sinne des § 35 BauGB errichtet werden oder\n4. für Antennen im Außenbereich im Sinne des § 35 BauGB einschließlich der Masten mit einer Breite des Mastes von höchstens 1,50 m und einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich.\n(2) Abstandsflächen müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7343,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone a",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrschaft an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens und die Namen und Anschriften der Entwurfsverfasserin oder des Entwurfsverfassers, der bauleitenden Personen und der Unternehmerinnen oder Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind oder deren Erhaltung in der Baugenehmigung zur Auflage gemacht ist, müssen während der Bauausführung geschützt werden."
+        }
+      ],
+      "top_score": 0.7928
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 78 Baugenehmigung und Baubeginn",
+          "score": 0.6943,
+          "text_preview": "(8) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform anzuzeigen (Baubeginnsanzeige).",
+          "text_full": "(8) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform anzuzeigen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 75 Behandlung des Bauantrags",
+          "score": 0.6941,
+          "text_preview": "(2) Die Bauaufsichtsbehörde hat den Bauantrag innerhalb von zehn Arbeitstagen auf Vollständigkeit zu prüfen und der Bauherrschaft den Eingang des Antrags zu bestätigen. Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde die Bauherrschaft zur",
+          "text_full": "(2) Die Bauaufsichtsbehörde hat den Bauantrag innerhalb von zehn Arbeitstagen auf Vollständigkeit zu prüfen und der Bauherrschaft den Eingang des Antrags zu bestätigen. Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde die Bauherrschaft zur Behebung der Mängel innerhalb einer angemessenen Frist auf; werden die Mängel innerhalb der Frist nicht behoben, gilt der Antrag als zurückgenommen.\n(3) Betrifft das Bauvorhaben eine Anlage, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fällt, gilt ergänzend zu Absatz 1 und 2, dass\n1. auf Antrag der Bauherrschaft das bauaufsichtliche Verfahren sowie alle sonstigen Zulassungsverfahren, die für die Durchführung des Bauvorhabens nach Bundes- oder Landesrecht erforderlich sind, über eine einheitliche Stelle nach § 71a VwVfG abgewickelt werden,\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 89 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.6851,
+          "text_preview": "§ 89 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde und die Prüfingenieurin oder der Prüfingenieur können verlangen, dass ihnen Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt oder die Anlagen erst genutzt werden, wenn die",
+          "text_full": "§ 89 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde und die Prüfingenieurin oder der Prüfingenieur können verlangen, dass ihnen Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt oder die Anlagen erst genutzt werden, wenn die Bauaufsichtsbehörde oder die Prüfingenieurin oder der Prüfingenieur zugestimmt hat.\n(2) Die Bauherrschaft hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. Mit der Anzeige nach Satz 1 sind\n1. bei Bauvorhaben nach § 72 Abs. 2 Satz 3 eine Bescheinigung der Prüfingenieurin oder des Prüfingenieurs über die ordnungsgemäße Bauausführung hinsichtlich der Standsicherheit,\n2. bei Bauvorhaben nach § 72 Abs. 3 Satz 3 eine Bescheinigung der Prüfingenieurin oder des Prüfingenieurs über die ordnungsgemäße Bauausführung hinsichtlich des Brandschutzes, soweit die Nachweise nicht durch die Bauaufsichtsbehörde geprüft wurden, und\n- Seite 77 von 89 -\n3. in den Fällen nach § 88 Abs. 2 Satz 2 die jeweilige Bestätigung vorzulegen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 72",
+          "score": 0.6735,
+          "text_preview": "§ 72\nbleibt unberührt.\n(2) Über den Bauantrag ist innerhalb von drei Monaten nach Vorlage der vollständigen Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin oder dem Antragsteller aus wichtigem Grund um bis zu zwei Monate verlängern. Der Antrag",
+          "text_full": "§ 72\nbleibt unberührt.\n(2) Über den Bauantrag ist innerhalb von drei Monaten nach Vorlage der vollständigen Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin oder dem Antragsteller aus wichtigem Grund um bis zu zwei Monate verlängern. Der Antrag gilt als genehmigt, wenn über ihn nicht innerhalb der nach Satz 1 maßgeblichen Frist entschieden worden ist.\n(3) Absatz 1 gilt auch für Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fallen. Bei diesen Anlagen ist über den Bauantrag innerhalb eines Jahres nach Vollständigkeit der Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin oder\n- Seite 58 von 89 dem Antragsteller aus wichtigem Grund um bis zu einem Jahr verlängern. Der Antrag gilt als genehmigt, wenn über ihn nicht innerhalb der nach Satz 2 maßgeblichen Frist entschieden worden ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 86 Baueinstellung",
+          "score": 0.6533,
+          "text_preview": "§ 86 Baueinstellung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Das gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Regelungen nach § 78 Abs. 6 bis",
+          "text_full": "§ 86 Baueinstellung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Das gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Regelungen nach § 78 Abs. 6 bis 8 begonnen wurde,\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Vorhabens von den genehmigten Bauvorlagen oder\nb) eines genehmigungsfreigestellten Vorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die\na) entgegen der Verordnung (EU) Nr. 305/2011 keine CE-Kennzeichnung oder entgegen"
+        }
+      ],
+      "top_score": 0.6943
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 19,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 76 Beteiligung benachbarter Personen und der Öffentlichkeit",
+          "score": 0.7554,
+          "text_preview": "(2) Die Benachrichtigung nach Absatz 1 Satz 1 entfällt, wenn die benachbarten Personen dem Bauvorhaben zugestimmt haben. Haben benachbarte Personen dem Bauvorhaben nicht zugestimmt, ist ihnen die Baugenehmigung mit dem Teil der Bauvorlagen, auf den sich die Einwendungen beziehen, zuzustellen.\n(3) Be",
+          "text_full": "(2) Die Benachrichtigung nach Absatz 1 Satz 1 entfällt, wenn die benachbarten Personen dem Bauvorhaben zugestimmt haben. Haben benachbarte Personen dem Bauvorhaben nicht zugestimmt, ist ihnen die Baugenehmigung mit dem Teil der Bauvorlagen, auf den sich die Einwendungen beziehen, zuzustellen.\n(3) Bei baulichen Anlagen, die aufgrund ihrer Beschaffenheit oder ihres Betriebs geeignet sind, die Allgemeinheit oder benachbarte Personen zu gefährden, zu benachteiligen oder zu belästigen, kann die Bauaufsichtsbehörde auf Antrag der Bauherrschaft das Bauvorhaben in ihrem amtlichen Veröffentlichungsblatt sowie zusätzlich im Internet oder in örtlichen Tageszeitungen, die im Bereich des Standorts der Anlage verbreitet sind, öffentlich bekannt machen. Bei der Errichtung, Änderung oder Nutzungsänderung\n1. eines oder mehrerer Gebäude, wenn dadurch dem Wohnen dienende Nutzungseinheiten mit einer Größe von insgesamt mehr als 5.000 m2 Grundfläche geschaffen werden,\n2. baulicher Anlagen, die öffentlich zugänglich sind, wenn dadurch die gleichzeitige Nutzung durch mehr als 100 zusätzliche Besucherinnen und Besucher ermöglicht wird, und\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 78 Baugenehmigung und Baubeginn",
+          "score": 0.7469,
+          "text_preview": "Um die Erfüllung von mit der Baugenehmigung verbundenen Verpflichtungen zu gewährleisten, kann eine Sicherheitsleistung bis zur Höhe der für die Erfüllung der Verpflichtung voraussichtlich anfallenden Kosten verlangt werden.\n(4) Die Baugenehmigung ist unbeschadet der privaten Rechte Dritter zu ertei",
+          "text_full": "Um die Erfüllung von mit der Baugenehmigung verbundenen Verpflichtungen zu gewährleisten, kann eine Sicherheitsleistung bis zur Höhe der für die Erfüllung der Verpflichtung voraussichtlich anfallenden Kosten verlangt werden.\n(4) Die Baugenehmigung ist unbeschadet der privaten Rechte Dritter zu erteilen.\n(5) Der Gemeinde ist, wenn sie nicht Bauaufsichtsbehörde ist, die Entscheidung der Bauaufsichtsbehörde durch eine Übermittlung des Genehmigungsbescheids zur Kenntnis zu geben.\n(6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der Bauherrschaft zugegangen ist,\n2. die Prüfungen nach § 72 Abs. 2 und 3 erfolgt sind und\n3. die Baubeginnsanzeige der Bauaufsichtsbehörde vorliegt.\n(7) Vor Baubeginn muss die Grundfläche der baulichen Anlage abgesteckt und ihre Höhenlage festgelegt sein. Die Bauaufsichtsbehörde kann verlangen, dass Absteckung und Höhenlage von ihr abgenommen oder die Einhaltung der festgelegten Grundfläche und Höhenlage nachgewiesen wird. Baugenehmigungen, Bauvorlagen und bautechnische Nachweise, soweit es sich nicht um Bauvorlagen handelt, müssen an der Baustelle von Baubeginn an vorliegen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 86 Baueinstellung",
+          "score": 0.7213,
+          "text_preview": "§ 86 Baueinstellung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Das gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Regelungen nach § 78 Abs. 6 bis",
+          "text_full": "§ 86 Baueinstellung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Das gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Regelungen nach § 78 Abs. 6 bis 8 begonnen wurde,\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Vorhabens von den genehmigten Bauvorlagen oder\nb) eines genehmigungsfreigestellten Vorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die\na) entgegen der Verordnung (EU) Nr. 305/2011 keine CE-Kennzeichnung oder entgegen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 78 Baugenehmigung und Baubeginn",
+          "score": 0.72,
+          "text_preview": "§ 78 Baugenehmigung und Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen",
+          "text_full": "§ 78 Baugenehmigung und Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n- Seite 70 von 89 -\n(2) Die Baugenehmigung bedarf der Schriftform; sie ist nur insoweit zu begründen, als Abweichungen, Ausnahmen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und benachbarte Personen nicht nach § 76 Abs. 2 Satz 1 zugestimmt haben.\n(3) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt des Widerrufs oder der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden. Nach Widerruf oder nach Ablauf der gesetzten Frist ist die bauliche Anlage ohne Entschädigung zu beseitigen; ein ordnungsgemäßer Zustand ist herzustellen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 17 Bauarten",
+          "score": 0.6997,
+          "text_preview": "5 werden diese Bauarten mit der Angabe der maßgebenden technischen Regeln bekannt gemacht. § 22 Abs. 2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Satz 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine",
+          "text_full": "5 werden diese Bauarten mit der Angabe der maßgebenden technischen Regeln bekannt gemacht. § 22 Abs. 2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Satz 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) Bauarten bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 96 Abs. 2, den allgemeinen Bauartgenehmigungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen für Bauarten oder den vorhabenbezogenen Bauartgenehmigungen. Als Übereinstim-\n- Seite 20 von 89 mung gilt auch eine Abweichung, die nicht wesentlich ist. § 24 Abs. 2 gilt für die anwendende Person der Bauart entsprechend."
+        }
+      ],
+      "top_score": 0.7554
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 87 Beseitigung von Anlagen, Nutzungsuntersagung",
+          "score": 0.7715,
+          "text_preview": "§ 87 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergeste",
+          "text_full": "§ 87 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, kann die Bauaufsichtsbehörde diese Nutzung untersagen.\n(2) Die Bauaufsichtsbehörde kann die Beseitigung einer Anlage auch dann anordnen, wenn diese nicht genutzt wird und zu verfallen droht und ein öffentliches oder schutzwürdiges privates Interesse an ihrem Erhalt nicht besteht. Fünfter Abschnitt Bauüberwachung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 97 Örtliche Bauvorschriften",
+          "score": 0.742,
+          "text_preview": "die Untersagung oder Einschränkung der Herstellung von Stellplätzen in bestimmten Teilen des Gemeindegebiets oder für bestimmte Nutzungen in bestimmten Teilen des Gemeindegebiets, wenn Gründe des öffentlichen Verkehrs oder städtebauliche Gründe dies rechtfertigen. Örtliche Bauvorschriften sollen die",
+          "text_full": "die Untersagung oder Einschränkung der Herstellung von Stellplätzen in bestimmten Teilen des Gemeindegebiets oder für bestimmte Nutzungen in bestimmten Teilen des Gemeindegebiets, wenn Gründe des öffentlichen Verkehrs oder städtebauliche Gründe dies rechtfertigen. Örtliche Bauvorschriften sollen die Nutzung erneuerbarer Energien nicht verhindern.\n(2) Örtliche Bauvorschriften können auch durch Bebauungsplan oder, soweit das Baugesetzbuch dies vorsieht, durch andere Satzungen nach den Bestimmungen des Baugesetzbuchs erlassen werden. Werden die örtlichen Bauvorschriften durch Bebauungsplan oder durch eine sonstige städtebauliche Satzung nach dem Baugesetzbuch erlassen, so sind die Bestimmungen des Ersten und des Dritten Abschnitts des Ersten Teils, des Ersten Abschnitts des Zweiten Teils sowie die §§ 13, 13a, 30, 31, 33, 36, 214 und 215 BauGB entsprechend anzuwenden.\n(3) Anforderungen nach den Absätzen 1 und 2 können innerhalb der örtlichen Bauvorschrift auch in Form zeichnerischer Darstellungen gestellt werden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 86 Baueinstellung",
+          "score": 0.7328,
+          "text_preview": "§ 86 Baueinstellung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Das gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Regelungen nach § 78 Abs. 6 bis",
+          "text_full": "§ 86 Baueinstellung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Das gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Regelungen nach § 78 Abs. 6 bis 8 begonnen wurde,\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Vorhabens von den genehmigten Bauvorlagen oder\nb) eines genehmigungsfreigestellten Vorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die\na) entgegen der Verordnung (EU) Nr. 305/2011 keine CE-Kennzeichnung oder entgegen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7316,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone a",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrschaft an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens und die Namen und Anschriften der Entwurfsverfasserin oder des Entwurfsverfassers, der bauleitenden Personen und der Unternehmerinnen oder Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind oder deren Erhaltung in der Baugenehmigung zur Auflage gemacht ist, müssen während der Bauausführung geschützt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 89 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7293,
+          "text_preview": "Eine bauliche Anlage darf erst genutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs-, Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher nutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt. Feuerstätten dürfen erst in Betrieb genommen werd",
+          "text_full": "Eine bauliche Anlage darf erst genutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs-, Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher nutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt. Feuerstätten dürfen erst in Betrieb genommen werden, wenn die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger die sichere Abgasabführung und beim Anschluss an eine Abgasanlage deren Tauglichkeit bescheinigt hat; Verbrennungsmotoren und Blockheizkraftwerke erst nach Bescheinigung der Tauglichkeit und sicheren Nutzbarkeit der Leitungen zur Abführung von Verbrennungsgasen durch vorgenannte Personen. Sechster Abschnitt Baulasten"
+        }
+      ],
+      "top_score": 0.7715
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 98 Bestehende bauliche Anlagen",
+          "score": 0.7406,
+          "text_preview": "§ 98 Bestehende bauliche Anlagen\n(1) Werden in diesem Gesetz oder in Vorschriften aufgrund dieses Gesetzes andere Anforderungen als nach dem bisherigen Recht gestellt, kann verlangt werden, dass bestehende oder nach genehmigten Bauvorlagen bereits begonnene bauliche Anlagen angepasst werden, wenn di",
+          "text_full": "§ 98 Bestehende bauliche Anlagen\n(1) Werden in diesem Gesetz oder in Vorschriften aufgrund dieses Gesetzes andere Anforderungen als nach dem bisherigen Recht gestellt, kann verlangt werden, dass bestehende oder nach genehmigten Bauvorlagen bereits begonnene bauliche Anlagen angepasst werden, wenn dies zur Abwehr von erheblichen Gefahren für Leben und Gesundheit notwendig ist.\n- Seite 86 von 89 -\n(2) Sollen bauliche Anlagen wesentlich geändert werden, kann gefordert werden, dass auch die nicht unmittelbar berührten Teile der baulichen Anlage mit diesem Gesetz oder den aufgrund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn\n1. die Bauteile, die diesen Vorschriften nicht mehr entsprechen, mit den beabsichtigten Arbeiten in einem konstruktiven Zusammenhang stehen und\n2. die Durchführung dieser Vorschriften bei den von den Arbeiten nicht berührten Teilen der baulichen Anlage keine unzumutbaren Mehrkosten verursacht."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 95 Rechtsverordnungen",
+          "score": 0.7027,
+          "text_preview": "§ 95 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Satz 1, § 17 Abs. 1 und § 18 Abs. 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung\n1. die nähere Bestimmung allgemeiner Anforderungen nach den §§ 4 bis 51,\n2. Anforderungen an Feuerungsanlag",
+          "text_full": "§ 95 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Satz 1, § 17 Abs. 1 und § 18 Abs. 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung\n1. die nähere Bestimmung allgemeiner Anforderungen nach den §§ 4 bis 51,\n2. Anforderungen an Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung nach § 45,\n3. Anforderungen an Garagen und Stellplätze sowie Gebäude und Räume für Abstellplätze für Fahrräder nach § 2 Abs. 7 und § 52,\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen nach § 54 für die Errichtung, Änderung, Unterhaltung, den Betrieb und die Nutzung ergeben, sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfungen von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen und\n6."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 95 Rechtsverordnungen",
+          "score": 0.6979,
+          "text_preview": "das Anerkennungsverfahren nach § 27, die Voraussetzungen für die Anerkennung, ihre Rücknahme, ihren Widerruf und ihr Erlöschen zu regeln, insbesondere auch Altersgrenzen festzulegen, sowie eine ausreichende berufliche Haftpflichtversicherung zu fordern. Die oberste Bauaufsichtsbehörde kann durch Rec",
+          "text_full": "das Anerkennungsverfahren nach § 27, die Voraussetzungen für die Anerkennung, ihre Rücknahme, ihren Widerruf und ihr Erlöschen zu regeln, insbesondere auch Altersgrenzen festzulegen, sowie eine ausreichende berufliche Haftpflichtversicherung zu fordern. Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung die Zuständigkeit nach Satz 1 Nr. 1 Buchst. a und Nr. 2 auf eine Behörde eines anderen Landes übertragen, die der Aufsicht einer obersten Bauaufsichtsbehörde untersteht oder an deren Willensbildung eine oberste Bauaufsichtsbehörde mitwirkt.\n(5) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung festlegen, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 17 Abs. 2 sowie die §§ 20 bis 28 ganz oder teilweise anwendbar sind, wenn dies nach anderen Rechtsvorschriften verlangt oder zugelassen ist.\n(6) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass die Anforderungen der aufgrund des § 31 des Gesetzes über überwachungsbedürftige Anlagen (ÜAnlG) vom 27. Juli 2021 (BGBl. I S. 3146 -3162-) und des § 49 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 90 Baulasten und Baulastenverzeichnis",
+          "score": 0.6941,
+          "text_preview": "Der Verzicht ist mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Das Baulastenverzeichnis ist von der Bauaufsichtsbehörde zu führen. In das Baulastenverzeichnis können auch\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ",
+          "text_full": "Der Verzicht ist mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Das Baulastenverzeichnis ist von der Bauaufsichtsbehörde zu führen. In das Baulastenverzeichnis können auch\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte eingetragen werden.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen lassen. Sechster Teil Marktüberwachung nach der Verordnung (EU) Nr. 305/2011"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 28 Besondere Sachkunde- und Sorgfaltsanforderungen",
+          "score": 0.6934,
+          "text_preview": "§ 28 Besondere Sachkunde- und Sorgfaltsanforderungen\n(1) Bei Bauprodukten, deren Herstellung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der allgemeinen bauaufsichtlichen Zulassung, in ",
+          "text_full": "§ 28 Besondere Sachkunde- und Sorgfaltsanforderungen\n(1) Bei Bauprodukten, deren Herstellung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der allgemeinen bauaufsichtlichen Zulassung, in der Zustimmung im Einzelfall oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass die Herstellerin oder der Hersteller über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 27 Satz 1 Nr. 1 zu erbringen hat.\n(2) Für Bauprodukte, die wegen ihrer besonderen Eigenschaften oder ihres besonderen Verwendungszwecks einer außergewöhnlichen Sorgfalt beim Einbau, beim Transport, bei der Instandhaltung oder bei der Reinigung bedürfen, kann in der allgemeinen bauaufsichtlichen Zulassung, in der Zustimmung im Einzelfall oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde die Überwachung dieser Tätigkeiten durch eine Überwachungsstelle nach § 27 Satz 1 Nr. 2 vorgeschrieben werden, soweit diese Tätigkeiten nicht bereits durch die Verordnung (EU) Nr. 305/2011 erfasst sind."
+        }
+      ],
+      "top_score": 0.7406
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.7087,
+          "text_preview": "Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie\n- Seite 14 von 89 nicht überbaut werden. Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Abstandsflächen d",
+          "text_full": "Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie\n- Seite 14 von 89 nicht überbaut werden. Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinanderstehen und\n2. Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden der Gebäudeklassen 1 und 2. In den Fällen des Satzes 1 findet Absatz 1 Satz 1 keine Anwendung.\n(4) Die Tiefe der Abstandsfläche bemisst sich nach der Höhe (H). H ist das lotrechte Maß von jedem Punkt des oberen Abschlusses der Wand oder der Dachhaut bis zur Geländeoberfläche. Die Abstandsfläche ist von dem Punkt der Geländeoberfläche, an dem H ermittelt wird, senkrecht zur Wand zu messen.\n(5) Die Tiefe der Abstandsflächen beträgt 0,4 H, mindestens 3 m. In Gewerbe- und Industriegebieten sowie in Sondergebieten, deren Nutzung mit einem Gewerbe- oder Industriegebiet vergleichbar ist, genügt eine Tiefe von 0,2 H, mindestens 3 m."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.7063,
+          "text_preview": "§ 6 Abstandsflächen\n(1) Zur ausreichenden Belichtung und Belüftung sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Für bauliche Anlagen, andere Anlagen und Einrichtungen, von denen Wirkungen wie von Gebäuden ausgehen, gilt Satz 1 gegenüber Gebäuden und ",
+          "text_full": "§ 6 Abstandsflächen\n(1) Zur ausreichenden Belichtung und Belüftung sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Für bauliche Anlagen, andere Anlagen und Einrichtungen, von denen Wirkungen wie von Gebäuden ausgehen, gilt Satz 1 gegenüber Gebäuden und Nachbargrenzen entsprechend. Eine Abstandsfläche ist nicht erforderlich\n1. vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Rechtsvorschriften an die Grenze gebaut werden muss oder gebaut werden darf,\n2. wenn ein Vorhaben nach § 34 Abs. 1 oder 3a BauGB zulässig ist,\n3. für Windenergieanlagen, die im Außenbereich im Sinne des § 35 BauGB errichtet werden oder\n4. für Antennen im Außenbereich im Sinne des § 35 BauGB einschließlich der Masten mit einer Breite des Mastes von höchstens 1,50 m und einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich.\n(2) Abstandsflächen müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.6585,
+          "text_preview": "Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach Satz 1 Nr. 1, 2 und 4 darf auf einem Grundstück insgesamt 18 m nicht überschreiten.\n(8) Bei rechtmäßig bestehenden Gebäuden sind abweichend von den Absätzen 1 bis 7 auch zulässig:\n1. Änderungen i",
+          "text_full": "Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach Satz 1 Nr. 1, 2 und 4 darf auf einem Grundstück insgesamt 18 m nicht überschreiten.\n(8) Bei rechtmäßig bestehenden Gebäuden sind abweichend von den Absätzen 1 bis 7 auch zulässig:\n1. Änderungen innerhalb des Gebäudes,\n2. Nutzungsänderungen,\n3. die Errichtung und Änderung von Vor- und Anbauten, die für sich genommen die Tiefe der Abstandsflächen nach Absatz 5 einhalten,\n4. die Errichtung und Änderung von Aufbauten, wenn deren Abstandsflächen nicht über die Abstandsflächen des bestehenden Gebäudes hinausgehen,\n5. der Ersatz von Gebäuden oder Gebäudeteilen bis zu den bisherigen Abmessungen,\n6. die Errichtung vor die Außenwand vortretender Aufzüge, Treppen und Treppenräume, wenn zu Nachbargrenzen ein Abstand von mindestens 2 m eingehalten wird und\n7. Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen, wenn sie eine Stärke von nicht mehr als 0,40 m aufweisen. Satz 1 Nr. 1 bis 6 gilt nicht für Gebäude nach Absatz 7 Nr. 1.\n(9) Die Zulassung von Abweichungen nach § 73 setzt keine atypische Grundstückssituation voraus."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6197,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze Dritter Teil Bauliche Anlagen Erster Abschnitt Gestal",
+          "score": 0.6147,
+          "text_preview": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze Dritter Teil Bauliche Anlagen Erster Abschnitt Gestal\ntung",
+          "text_full": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze Dritter Teil Bauliche Anlagen Erster Abschnitt Gestal\ntung"
+        }
+      ],
+      "top_score": 0.7087
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7076,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mögli",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.6844,
+          "text_preview": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen, selbstständige Betriebsstätten, müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege ",
+          "text_full": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen, selbstständige Betriebsstätten, müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für eingeschossige, zu ebener Erde liegende Nutzungseinheiten nicht erforderlich, wenn im Brandfall die Rettung über einen direkten Ausgang ins Freie möglich ist.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6336,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.6271,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der\n- Seite 33 von 89 Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über Hubrettungs",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der\n- Seite 33 von 89 Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über Hubrettungsfahrzeuge verfügt. Der zweite Rettungsweg über Rettungsgeräte der Feuerwehr ist nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 33 Brandwände",
+          "score": 0.578,
+          "text_preview": "§ 33 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n(2) Brandwände sin",
+          "text_full": "§ 33 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n(2) Brandwände sind erforderlich\n1. als Gebäudeabschlusswand, wenn diese Abschlusswände an oder mit einem Abstand von weniger als 2,50 m gegenüber der Grundstücksgrenze errichtet werden, es sei denn, dass ein Abstand von mindestens 5 m zu bestehenden oder nach den baurechtlichen Rechtsvorschriften zulässigen künftigen Gebäuden gesichert ist; § 6 Abs. 2 findet entsprechende Anwendung,\n2. als Gebäudeabschlusswand bei aneinandergebauten Gebäuden auf demselben Grundstück und zwischen Gebäuden auf demselben Grundstück mit einem Abstand von weniger als 5 m zueinander,\n3. als innere Brandwand zur Unterteilung ausgedehnter Gebäude in Abständen von nicht mehr als 40 m,\n4. als innere Brandwand zur Unterteilung landwirtschaftlich genutzter Gebäude in Brandabschnitte von nicht mehr als 10.000 m Brutto-Rauminhalt und\n5."
+        }
+      ],
+      "top_score": 0.7076
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6261,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen, die in diesem Gesetz oder",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen, die in diesem Gesetz oder in den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften gestellt werden, erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Rechtsvorschriften anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vom 2. Mai 1992 (ABl. L 1 vom 3.1.1994, S. 3) in der jeweils geltenden Fassung genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 76 Beteiligung benachbarter Personen und der Öffentlichkeit",
+          "score": 0.6142,
+          "text_preview": "über die für die Genehmigung zuständige Behörde, bei der der Antrag nebst Unterlagen zur Einsicht ausgelegt wird sowie wo und wann Einsicht genommen werden kann,\n3. dass Personen, deren Belange berührt sind, und Vereinigungen, welche die Anforderungen nach § 3 Abs. 1 oder § 2 Abs. 2 des Umwelt-Recht",
+          "text_full": "über die für die Genehmigung zuständige Behörde, bei der der Antrag nebst Unterlagen zur Einsicht ausgelegt wird sowie wo und wann Einsicht genommen werden kann,\n3. dass Personen, deren Belange berührt sind, und Vereinigungen, welche die Anforderungen nach § 3 Abs. 1 oder § 2 Abs. 2 des Umwelt-Rechtsbehelfsgesetzes in der Fassung vom 23. August 2017 (BGBl. I S. 3290) in der jeweils geltenden Fassung erfüllen (betroffene Öffentlichkeit), Einwendungen bei einer in der Bekanntmachung bezeichneten Stelle bis zu zwei Wochen nach Ablauf der Auslegungsfrist erheben können; dabei ist darauf hinzuweisen, dass mit Ablauf der Frist alle öffentlich-rechtlichen Einwendungen ausgeschlossen sind und der Ausschluss von umweltbezogenen Einwendungen nur für das Genehmigungsverfahren gilt, und\n4. dass die Zustellung der Entscheidung über die Einwendungen durch öffentliche Bekanntmachung ersetzt werden kann. Bei der Bekanntmachung nach Absatz 3 Satz 2 ist zusätzlich über\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 83 Fliegende Bauten",
+          "score": 0.6125,
+          "text_preview": "Das Ergebnis der Gebrauchsabnahme oder der Verzicht darauf ist in das Prüfbuch einzutragen.\n(8) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen erteilen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhält",
+          "text_full": "Das Ergebnis der Gebrauchsabnahme oder der Verzicht darauf ist in das Prüfbuch einzutragen.\n(8) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen erteilen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere, weil die Betriebssicherheit oder Standsicherheit nicht oder nicht mehr gewährleistet ist oder weil von der Ausführungsgenehmigung abgewichen wird. Ist die Aufstellung oder der Gebrauch untersagt, ist dies in das Prüfbuch nach Absatz 5 Satz 2 einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n(9) Bei Fliegenden Bauten, die von Besucherinnen oder Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. Das Ergebnis der jeweiligen Nachabnahme ist in das Prüfbuch einzutragen.\n(10) § 74 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 81 Typengenehmigung",
+          "score": 0.5998,
+          "text_preview": "(3) Typengenehmigungen anderer Länder gelten auch in Thüringen, soweit die obere Bauaufsichtsbehörde innerhalb von acht Wochen nach Eingang des vollständigen Antrags bestätigt hat, dass die Voraussetzungen nach Absatz 1 erfüllt sind; die Bestätigung kann innerhalb dieser Frist auch mit Auflagen und ",
+          "text_full": "(3) Typengenehmigungen anderer Länder gelten auch in Thüringen, soweit die obere Bauaufsichtsbehörde innerhalb von acht Wochen nach Eingang des vollständigen Antrags bestätigt hat, dass die Voraussetzungen nach Absatz 1 erfüllt sind; die Bestätigung kann innerhalb dieser Frist auch mit Auflagen und Nebenbestimmungen versehen werden. Die Bestätigung gilt als erteilt, wenn über sie nicht innerhalb der Frist nach Satz 1 entschieden worden ist.\n(4) Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen. Die in der Typengenehmigung entschiedenen Fragen sind von der Bauaufsichtsbehörde nicht mehr zu prüfen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 20 Verwendbarkeitsnachweise",
+          "score": 0.5898,
+          "text_preview": "§ 20 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis nach den §§ 21 bis 23 ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung nach § 96 Abs. 2 Nr. 3 wesen",
+          "text_full": "§ 20 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis nach den §§ 21 bis 23 ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung nach § 96 Abs. 2 Nr. 3 wesentlich abweicht oder\n3. dies in einer Rechtsverordnung nach § 95 Abs. 5 vorgesehen ist.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt, das\n- Seite 21 von 89 -\n1. von einer allgemein anerkannten Regel der Technik abweicht oder\n2. für die Erfüllung der Anforderungen, die in diesem Gesetz oder in den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften gestellt werden, nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 96 enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        }
+      ],
+      "top_score": 0.6261
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-TH",
+      "latency_ms": 19,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 59 Bauleitung",
+          "score": 0.7763,
+          "text_preview": "§ 59 Bauleitung\n(1) Die bauleitende Person (Bauleitung) hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Vorschriften durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. Sie hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der ",
+          "text_full": "§ 59 Bauleitung\n(1) Die bauleitende Person (Bauleitung) hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Vorschriften durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. Sie hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Bau-\n- Seite 48 von 89 stelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmen zu achten. Die Verantwortlichkeit der Unternehmen bleibt unberührt.\n(2) Die die Bauleitung übernehmenden Personen müssen über die für ihre Aufgabe erforderliche Sachkunde und Erfahrung verfügen. Verfügen sie auf einzelnen Teilgebieten nicht über die erforderliche Sachkunde, so sind geeignete Fachbauleitungen heranzuziehen. Diese treten insoweit an die Stelle der bauleitenden Person. Die Bauleitung hat die Tätigkeit der Fachbauleitungen und ihre Tätigkeit aufeinander abzustimmen. Fünfter Teil Bauaufsichtsbehörden, Verfahren Erster Abschnitt Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 60 Aufbau und Zuständigkeit der Bauaufsichtsbehörden",
+          "score": 0.7678,
+          "text_preview": "(4) Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Bauaufsichtsbehörden müssen insbesondere auch Personen mit Ingenieur- oder Hochschulabschluss im Bauwesen, die über die erfo",
+          "text_full": "(4) Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Bauaufsichtsbehörden müssen insbesondere auch Personen mit Ingenieur- oder Hochschulabschluss im Bauwesen, die über die erforderlichen Kenntnisse der Bautechnik, der Baugestaltung und des öffentlichen Baurechts verfügen, und Personen, die die Befähigung zum Richteramt oder zum höheren nichttechnischen Verwaltungsdienst besitzen, angehören; die oberste Bauaufsichtsbehörde kann Ausnahmen von diesen Anforderungen gestatten."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 56 Bauherrschaft",
+          "score": 0.7399,
+          "text_preview": "§ 56 Bauherrschaft\n(1) Die Bauherrin oder der Bauherr (Bauherrschaft) hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 57 bis 59 zu bestellen, soweit sie nicht selbst zur Erfüllung de",
+          "text_full": "§ 56 Bauherrschaft\n(1) Die Bauherrin oder der Bauherr (Bauherrschaft) hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 57 bis 59 zu bestellen, soweit sie nicht selbst zur Erfüllung der Verpflichtungen nach den Bestimmungen dieses Gesetzes oder nach den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften geeignet ist. Der Bauherrschaft obliegen außerdem die nach den öffentlichrechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Sie hat die zur Erfüllung der Anforderungen nach diesem Gesetz oder nach den aufgrund dieses Gesetzes erlassenen Rechtsvorschriften erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den\n- Seite 47 von 89 angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. Die Bauherrschaft hat vor Baubeginn den Namen der bauleitenden Person und während der Bauausführung einen Wechsel dieser Person unverzüglich der unteren Bauaufsichtsbehörde in Textform mitzuteilen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 17 Bauarten",
+          "score": 0.7321,
+          "text_preview": "(6) Bei Bauarten, deren Anwendung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, d",
+          "text_full": "(6) Bei Bauarten, deren Anwendung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass die anwendende Person über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 27 Satz 1 Nr. 1 zu erbringen hat.\n(7) Für Bauarten, die einer außergewöhnlichen Sorgfalt bei der Ausführung oder der Instandhaltung bedürfen, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde die Überwachung dieser Tätigkeiten durch eine Überwachungsstelle nach § 27 Satz 1 Nr. 2 vorgeschrieben werden. Dritter Abschnitt Bauprodukte"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Thüringen",
+          "jurisdiction": "DE-TH",
+          "source_paragraph": "§ 95 Rechtsverordnungen",
+          "score": 0.7177,
+          "text_preview": "die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen einschließlich des Nachweises der Befähigung dieser Personen, zu regeln.\n(2) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung Näheres über\n1. Prüfingenieurinnen, Prüfin",
+          "text_full": "die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen einschließlich des Nachweises der Befähigung dieser Personen, zu regeln.\n(2) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung Näheres über\n1. Prüfingenieurinnen, Prüfingenieure und Prüfämter und\n2. Prüfsachverständige, die im Auftrag der Bauherrschaft oder der oder des sonstigen nach Bauordnungsrecht Verantwortlichen die Einhaltung bauordnungsrechtlicher Anforderungen prüfen und bescheinigen, zu bestimmen. In den Rechtsverordnungen nach Satz 1 sind, soweit erforderlich,\n1. die Fachbereiche und die Fachrichtungen, in denen Prüfingenieurinnen, Prüfingenieure, Prüfämter und Prüfsachverständige tätig werden,\n2. die Anerkennungsvoraussetzungen und das Anerkennungsverfahren,\n- Seite 82 von 89 -\n3. das Erlöschen, die Rücknahme und der Widerruf der Anerkennung, einschließlich der Festlegung einer Altersgrenze,\n4. die Aufgabenerledigung und\n5. die Vergütung zu regeln."
+        }
+      ],
+      "top_score": 0.7763
+    }
+  ]
+}

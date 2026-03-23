@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-BB",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 17394,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.7315,
+          "text_preview": "Teil 3 Bauliche Anlagen, andere Anlagen und Einrichtungen\nAbschnitt 1 Gestaltung",
+          "text_full": "Teil 3 Bauliche Anlagen, andere Anlagen und Einrichtungen\nAbschnitt 1 Gestaltung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6804,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist, oder wenn die Anlage nach ihrem Verwe",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist, oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Zu den baulichen Anlagen zählen auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Campingplätze, Wochenendhausplätze, Spielplätze und Sportplätze,\n4. Stellplätze für Kraftfahrzeuge und Abstellplätze für Fahrräder,\n5. Gerüste,\n6. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n7. künstliche Hohlräume unter der Geländeoberfläche,\n8. Seilbahnen.\n(2) Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) Gebäude geringer Höhe sind Gebäude, bei denen der Fußboden eines oberirdischen Geschosses nicht höher als 7 m über der Geländeoberfläche liegt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6606,
+          "text_preview": "Garagen sind Gebäude oder Gebäudeteile zum Abstellen von\n\n Kraftfahrzeugen. Ausstellungsräume, Verkaufsräume, Werkräume oder Lagerräume für Kraftfahrzeuge gelten nicht als Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu besti",
+          "text_full": "Garagen sind Gebäude oder Gebäudeteile zum Abstellen von\n\n Kraftfahrzeugen. Ausstellungsräume, Verkaufsräume, Werkräume oder Lagerräume für Kraftfahrzeuge gelten nicht als Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Bauprodukte sind\n1. Baustoffe, Bauteile und Anlagen, die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Baustoffen und Bauteilen vorgefertigte bauliche Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, wie Fertighäuser, Fertiggaragen und Silos.\n(10) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 81 Örtliche Bauvorschriften",
+          "score": 0.6321,
+          "text_preview": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach",
+          "text_full": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.631,
+          "text_preview": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\nTeil 3 Bauliche Anlagen, andere Anlagen und Einrichtungen\nAbschnitt 1 Gestaltung",
+          "text_full": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\nTeil 3 Bauliche Anlagen, andere Anlagen und Einrichtungen\nAbschnitt 1 Gestaltung"
+        }
+      ],
+      "top_score": 0.7315
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 41 Wohnungen",
+          "score": 0.6036,
+          "text_preview": "§ 41 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen br",
+          "text_full": "§ 41 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen brauchen nicht abgeschlossen zu sein. Wohnungen in Gebäuden, die nicht nur zum Wohnen dienen, müssen einen besonderen Zugang haben; gemeinsame Zugänge können gestattet werden, wenn Gefahren oder unzumutbare Belästigungen für die Benutzer der Wohnungen nicht entstehen.\n(2) Jede Wohnung muss eine für ihre Bestimmung ausreichende Größe und eine entsprechende Zahl besonnter Aufenthaltsräume haben. Es dürfen nicht alle Aufenthaltsräume nach Norden liegen.\n(3) Einzelne Aufenthaltsräume sind in Kellergeschossen zulässig, wenn\n1. der Fußboden der Aufenthaltsräume nicht mehr als 1,50 m unter der Geländeoberfläche liegt und\n2. die Geländeoberfläche, die sich an die Außenwände mit notwendigen Fenstern anschließt, in einer Entfernung von 2 m und in Breite der Aufenthaltsräume vor den notwendigen Fenstern nicht mehr als 0,50 m über dem Fußboden der Aufenthaltsräume liegt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag",
+          "score": 0.5838,
+          "text_preview": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 fest",
+          "text_full": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 festgesetzten notwendigen Stellplätze hergestellt werden.\n(2) Die notwendigen Stellplätze sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck rechtlich\n\n gesichert ist.\n(3) Soweit der Bauherr durch örtliche Bauvorschrift zur Herstellung von notwendigen Stellplätzen verpflichtet ist, kann die Gemeinde durch öffentlich-rechtlichen Vertrag mit dem Bauherrn vereinbaren, dass der Bauherr seine Verpflichtung ganz oder teilweise durch Zahlung eines Geldbetrages an die Gemeinde ablöst(Stellplatzablösevertrag). Der Anspruch der Gemeinde auf Zahlung des im Stellplatzablösevertrag vereinbarten Geldbetrages entsteht mit Baubeginn.\n(4) Der Geldbetrag je Stellplatz soll den anteiligen durchschnittlichen Grunderwerbs- und Herstellungskosten für 25 m Stellplatz- und Bewegungsfläche entsprechen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 38 Kleinkläranlagen, Gruben und Sickeranlagen",
+          "score": 0.5299,
+          "text_preview": "(4) Kleinkläranlagen, Sammelgruben, Sickeranlagen und Dungstätten dürfen nicht unter Aufenthaltsräumen angelegt werden und müssen von Öffnungen zu Aufenthaltsräumen mindestens 5 m und von den Grundstücksgrenzen mindestens 2 m entfernt sein. Satz 1 gilt nicht für biologische Hauskläranlagen mit Bauar",
+          "text_full": "(4) Kleinkläranlagen, Sammelgruben, Sickeranlagen und Dungstätten dürfen nicht unter Aufenthaltsräumen angelegt werden und müssen von Öffnungen zu Aufenthaltsräumen mindestens 5 m und von den Grundstücksgrenzen mindestens 2 m entfernt sein. Satz 1 gilt nicht für biologische Hauskläranlagen mit Bauartzulassung."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 40 Aufenthaltsräume",
+          "score": 0.5251,
+          "text_preview": "§ 40 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen diese lichte Höhe über mindestens die Hälfte ihrer Grundfläche haben; Raumteile mit einer lichten Höhe unter 1,50 m",
+          "text_full": "§ 40 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen diese lichte Höhe über mindestens die Hälfte ihrer Grundfläche haben; Raumteile mit einer lichten Höhe unter 1,50 m bleiben dabei außer Betracht. Bei nachträglichem Ausbau von Dachräumen genügt eine lichte Höhe von 2,30 m.\n(2) Aufenthaltsräume müssen ausreichend mit Tageslicht beleuchtet und belüftet werden können. Das Rohbaumaß der Belichtungsöffnungen muss mindestens ein Achtel der Grundfläche des Raumes einschließlich der Grundfläche verglaster Vorbauten oder Loggien betragen; die\n\n Grundfläche von Vorbauten, die die Beleuchtung des Raumes mit Tageslicht beeinträchtigen, ist mit einzubeziehen.\n(3) Aufenthaltsräume, deren Nutzung eine Beleuchtung mit Tageslicht verbietet, sind ohne Belichtungsöffnungen zulässig. Aufenthaltsräume ohne Belichtungsöffnungen müssen durch technische Einrichtungen ausreichend beleuchtet und belüftet werden können."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 45 Barrierefreies Bauen",
+          "score": 0.5142,
+          "text_preview": "§ 45 Barrierefreies Bauen\n(1) In Wohngebäuden mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein. In Gebäuden mit Aufzügen und mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein.\n(2) Bauliche Anlagen und andere Anlagen und Einrichtung",
+          "text_full": "§ 45 Barrierefreies Bauen\n(1) In Wohngebäuden mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein. In Gebäuden mit Aufzügen und mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein.\n(2) Bauliche Anlagen und andere Anlagen und Einrichtungen, die überwiegend oder ausschließlich von kranken, behinderten oder alten Menschen genutzt werden oder ihrer Betreuung dienen, müssen barrierefrei sein.\n(3) Bauliche Anlagen und andere Anlagen und Einrichtungen, die für die Öffentlichkeit bestimmt oder allgemein zugänglich sind, müssen in den dem allgemeinen Besucherverkehr dienenden Teilen barrierefrei sein.\n(4) Gebäude, die für eine größere Zahl von Personen oder für die Öffentlichkeit bestimmt sind, müssen mit einer ausreichenden Zahl, mindestens jedoch mit einer Toilette für Benutzer von Rollstühlen ausgestattet sein.\n(5) Bauliche Anlagen nach den Absätzen 2 und 3 müssen eine ausreichende Zahl von Stellplätzen für die Kraftfahrzeuge behinderter Menschen haben."
+        }
+      ],
+      "top_score": 0.6036
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 17,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag",
+          "score": 0.5209,
+          "text_preview": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 fest",
+          "text_full": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 festgesetzten notwendigen Stellplätze hergestellt werden.\n(2) Die notwendigen Stellplätze sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck rechtlich\n\n gesichert ist.\n(3) Soweit der Bauherr durch örtliche Bauvorschrift zur Herstellung von notwendigen Stellplätzen verpflichtet ist, kann die Gemeinde durch öffentlich-rechtlichen Vertrag mit dem Bauherrn vereinbaren, dass der Bauherr seine Verpflichtung ganz oder teilweise durch Zahlung eines Geldbetrages an die Gemeinde ablöst(Stellplatzablösevertrag). Der Anspruch der Gemeinde auf Zahlung des im Stellplatzablösevertrag vereinbarten Geldbetrages entsteht mit Baubeginn.\n(4) Der Geldbetrag je Stellplatz soll den anteiligen durchschnittlichen Grunderwerbs- und Herstellungskosten für 25 m Stellplatz- und Bewegungsfläche entsprechen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 25 Raumabschließende Bauteile",
+          "score": 0.502,
+          "text_preview": "zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n4. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss,\n5. zum Abschluss von offenen Gängen, die als Rettungswege genutzt werden.\n(6) Raumabschließende Bauteile sind bis an andere raumabschließende Bauteile, die",
+          "text_full": "zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n4. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss,\n5. zum Abschluss von offenen Gängen, die als Rettungswege genutzt werden.\n(6) Raumabschließende Bauteile sind bis an andere raumabschließende Bauteile, die Außenwand oder bis unter die Dachhaut zu führen. Der Anschluss der raumabschließenden Bauteile an andere Bauteile muss den Anforderungen des Absatzes 1 genügen.\n(7) In raumabschließenden Bauteilen sind Öffnungen zulässig, wenn sie nach Zahl und Größe auf das für die Nutzung erforderliche Maß beschränkt sind. Die Öffnungen sind mit Abschlüssen, wie Klappen, Türen oder Tore, zu versehen. Dies gilt nicht für raumabschließende Bauteile innerhalb von Wohnungen.\n(8) Die Absätze 4 und 5 gelten nicht für die in § 24 Abs. 2 Satz 3 genannten baulichen Anlagen oder Teile baulicher Anlagen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.4952,
+          "text_preview": "Teil 3 Bauliche Anlagen, andere Anlagen und Einrichtungen\nAbschnitt 1 Gestaltung",
+          "text_full": "Teil 3 Bauliche Anlagen, andere Anlagen und Einrichtungen\nAbschnitt 1 Gestaltung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 34 Aufzüge",
+          "score": 0.4918,
+          "text_preview": "(5) In Gebäuden, in denen der Fußboden eines Aufenthaltsraumes mehr als 13 m über der Geländeoberfläche liegt, müssen Aufzüge in ausreichender Zahl eingebaut werden. Dabei sind Aufenthaltsräume im obersten Geschoss nicht zu berücksichtigen, die eine Nutzungseinheit mit Aufenthaltsräumen im darunter ",
+          "text_full": "(5) In Gebäuden, in denen der Fußboden eines Aufenthaltsraumes mehr als 13 m über der Geländeoberfläche liegt, müssen Aufzüge in ausreichender Zahl eingebaut werden. Dabei sind Aufenthaltsräume im obersten Geschoss nicht zu berücksichtigen, die eine Nutzungseinheit mit Aufenthaltsräumen im darunter liegenden Geschoss bilden. Satz 1 gilt nicht, wenn das Dach bestehender Gebäude nachträglich ausgebaut wird. Einer der Aufzüge muss zur Aufnahme von Krankentragen und Rollstühlen geeignet sein."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 31 Notwendige Treppenräume und Ausgänge",
+          "score": 0.481,
+          "text_preview": "(8) Für Öffnungen in den Wänden notwendiger Treppenräume zu notwendigen Fluren genügen selbstschließende Rauchschutzabschlüsse, zu Nutzungseinheiten mit nicht mehr als 200 m2 Grundfläche genügen vollwandige und dichtschließende Abschlüsse.\n(9) Notwendige Treppenräume müssen beleuchtet werden können.",
+          "text_full": "(8) Für Öffnungen in den Wänden notwendiger Treppenräume zu notwendigen Fluren genügen selbstschließende Rauchschutzabschlüsse, zu Nutzungseinheiten mit nicht mehr als 200 m2 Grundfläche genügen vollwandige und dichtschließende Abschlüsse.\n(9) Notwendige Treppenräume müssen beleuchtet werden können. Innenliegende notwendige Treppenräume in Gebäuden mittlerer Höhe müssen eine Sicherheitsbeleuchtung haben.\n(10) Notwendige Treppenräume müssen in jedem oberirdischen Geschoss unmittelbar ins Freie führende Fenster mit einem freien Querschnitt von 0,50 m haben, die geöffnet werden können. In Gebäuden, deren Fußboden eines Aufenthaltsraumes mehr als 13 m über der Geländeoberfläche liegt, sowie bei innenliegenden notwendigen Treppenräumen, muss an der obersten Stelle eines notwendigen Treppenraumes eine Öffnung zur Rauchableitung mit einem freien Querschnitt von mindestens 1 m vorhanden sein. Der Abschluss der Öffnung muss vom Erdgeschoss und vom obersten Treppenabsatz aus geöffnet werden können.\n(11) Die Absätze 1 bis 10 gelten nicht für Wohngebäude mit nicht mehr als zwei Wohnungen."
+        }
+      ],
+      "top_score": 0.5209
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "score": 0.7254,
+          "text_preview": "Die Einhaltung der festgelegten Grundfläche und Höhenlage ist der Bauaufsichtsbehörde binnen zwei Wochen nach Baubeginn durch Vorlage einer Einmessungsbescheinigung eines Vermessungsingenieurs nachzuweisen. Der Nachweis nach Satz 2 kann auch durch eine Einmessungsbescheinigung erfolgen, die auf eine",
+          "text_full": "Die Einhaltung der festgelegten Grundfläche und Höhenlage ist der Bauaufsichtsbehörde binnen zwei Wochen nach Baubeginn durch Vorlage einer Einmessungsbescheinigung eines Vermessungsingenieurs nachzuweisen. Der Nachweis nach Satz 2 kann auch durch eine Einmessungsbescheinigung erfolgen, die auf einer nach § 23 des Brandenburgischen Vermessungsgesetzes durchgeführten Einmessung beruht.\n(4) Baugenehmigung, Bauvorlagen, Ausführungszeichnungen und Baufreigabeschein müssen an der Baustelle von Baubeginn an vorliegen.\n(5) Der Zeitpunkt der Fertigstellung genehmigungs- oder anzeigepflichtiger baulicher Anlagen (§ 76 Abs. 2 Satz 1) ist der Bauaufsichtsbehörde vom Bauherrn zwei Wochen vorher schriftlich mitzuteilen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "score": 0.7242,
+          "text_preview": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten\n(1) Mit der Bauausführung darf erst begonnen werden, wenn\n1. eine erforderliche Baugenehmigung vorliegt oder die Voraussetzung des § 58 Abs. 3 Satz 1 erfüllt ist,\n2. nach anderen Rechtsvorschriften erforderl",
+          "text_full": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten\n(1) Mit der Bauausführung darf erst begonnen werden, wenn\n1. eine erforderliche Baugenehmigung vorliegt oder die Voraussetzung des § 58 Abs. 3 Satz 1 erfüllt ist,\n2. nach anderen Rechtsvorschriften erforderliche Genehmigungen vorliegen,\n\n3. die erforderlichen Prüfberichte oder Bescheinigungen über die Prüfung der bautechnischen Nachweise vorliegen. Die Bauaufsichtsbehörde kann sich die Freigabe der Bauarbeiten für die Baugrube, für einzelne Bauabschnitte oder für das gesamte Bauvorhaben vorbehalten. Die Bauaufsichtsbehörde kann einen vorzeitigen Beginn der Bauarbeiten für die Baugrube zulassen.\n(2) Der Bauherr hat den Zeitpunkt des Baubeginns genehmigungs- oder anzeigepflichtiger Vorhaben spätestens eine Woche vor Baubeginn der Bauaufsichtsbehörde unter Vorlage der nach Absatz 1 Satz 1 Nr. 2 und 3 erforderlichen Nachweise schriftlich mitzuteilen.\n(3) Vor Baubeginn muss die Grundfläche der baulichen Anlage abgesteckt und ihre Höhenlage festgelegt sein."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 56 Baugenehmigungsverfahren Bei genehmigungspflichtigen Anlagen prüft die Bauaufsichtsbehörde die Zulässigkeit nach",
+          "score": 0.7012,
+          "text_preview": "§ 56 Baugenehmigungsverfahren Bei genehmigungspflichtigen Anlagen prüft die Bauaufsichtsbehörde die Zulässigkeit nach\n1. den Vorschriften des Baugesetzbuchs,\n2. den Vorschriften dieses Gesetzes und aufgrund dieses Gesetzes,\n3. anderen öffentlich-rechtlichen Vorschriften, soweit diese für das Vorhabe",
+          "text_full": "§ 56 Baugenehmigungsverfahren Bei genehmigungspflichtigen Anlagen prüft die Bauaufsichtsbehörde die Zulässigkeit nach\n1. den Vorschriften des Baugesetzbuchs,\n2. den Vorschriften dieses Gesetzes und aufgrund dieses Gesetzes,\n3. anderen öffentlich-rechtlichen Vorschriften, soweit diese für das Vorhaben beachtlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 69 Geltungsdauer der Genehmigung Die Geltungsdauer der Baugenehmigung und des Vorbescheides beträgt sechs Jahre. Die Baugene",
+          "score": 0.7012,
+          "text_preview": "§ 69 Geltungsdauer der Genehmigung Die Geltungsdauer der Baugenehmigung und des Vorbescheides beträgt sechs Jahre. Die Baugene\nhmigung erlischt nicht, wenn das Vorhaben innerhalb der Frist nach Satz 1 begonnen worden und spätestens ein Jahr nach Ablauf der Frist fertig gestellt ist.",
+          "text_full": "§ 69 Geltungsdauer der Genehmigung Die Geltungsdauer der Baugenehmigung und des Vorbescheides beträgt sechs Jahre. Die Baugene\nhmigung erlischt nicht, wenn das Vorhaben innerhalb der Frist nach Satz 1 begonnen worden und spätestens ein Jahr nach Ablauf der Frist fertig gestellt ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 67 Baugenehmigung",
+          "score": 0.7006,
+          "text_preview": "§ 67 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen. Die Baugenehmigung schließt die für das Vorhaben erforderlichen weiteren behördlichen Entscheidungen ein.\n(2) Die Erlaubnis nach einer aufgrund des § 14 des Geräte-",
+          "text_full": "§ 67 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen. Die Baugenehmigung schließt die für das Vorhaben erforderlichen weiteren behördlichen Entscheidungen ein.\n(2) Die Erlaubnis nach einer aufgrund des § 14 des Geräte- und Produktsicherheitsgesetzes erlassenen Rechtsverordnung und die Genehmigung nach § 7 des Atomgesetzes schließen eine Baugenehmigung ein. Absatz 1 Satz 2 gilt nicht für wasserrechtliche Entscheidungen über betriebsbedingte Gewässernutzungen, für Entscheidungen in Selbstverwaltungsangelegenheiten der Gemeinden und Gemeindeverbände sowie für Entscheidungen in Planfeststellungs- oder Plangenehmigungsverfahren.\n(3) Wird die Baugenehmigung unter Auflagen, Bedingungen oder befristet erteilt, kann eine Sicherheitsleistung verlangt werden. Befristet genehmigte Vorhaben müssen spätestens sechs Monate nach Fristablauf beseitigt sein. In den Fällen des § 35 Abs. 1 Nr. 2 bis 6 des Baugesetzbuches wird die Baugenehmigung erst erteilt, wenn der Bauaufsichtsbehörde die Verpflichtungserklärung nach § 35 Abs."
+        }
+      ],
+      "top_score": 0.7254
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.6677,
+          "text_preview": "§ 6 Abstandsflächen\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften das Gebäude an die Grundstücksgren",
+          "text_full": "§ 6 Abstandsflächen\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften das Gebäude an die Grundstücksgrenze gebaut werden muss oder darf.\n(2) Die Abstandsflächen müssen auf dem Grundstück selbst liegen. Die Abstandsflächen dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen oder öffentlichen Wasserflächen liegen, jedoch nur bis zu deren Mitte. Eine geringfügige Erstreckung von Abstandsflächen auf das Nachbargrundstück mit einer Breite von nicht mehr als 4 m und einer Tiefe von nicht mehr als 1 m, höchstens jedoch einer Fläche von insgesamt nicht mehr als 2 m , ist zulässig. Abweichend von\n\n Satz 1 dürfen sich Abstandsflächen ganz oder teilweise auf ein Nachbargrundstück erstrecken, wenn rechtlich gesichert ist, dass sie nicht überbaut werden und sich nicht mit anderen Abstandsflächen überdecken.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75° zueinander stehen,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.6589,
+          "text_preview": "In Gewerbeund Industriegebieten sowie in Sondergebieten, die nicht der Erholung dienen, beträgt die Tiefe der Abstandsflächen 0,25 H, mindestens 3 m. Bestimmt eine örtliche Bauvorschrift nach § 81 eine geringere oder größere Tiefe der Abstandsflächen, so gilt diese Tiefe.\n(6) Vor den Außenwänden von",
+          "text_full": "In Gewerbeund Industriegebieten sowie in Sondergebieten, die nicht der Erholung dienen, beträgt die Tiefe der Abstandsflächen 0,25 H, mindestens 3 m. Bestimmt eine örtliche Bauvorschrift nach § 81 eine geringere oder größere Tiefe der Abstandsflächen, so gilt diese Tiefe.\n(6) Vor den Außenwänden von Wohngebäuden mit nicht mehr als zwei oberirdischen Geschossen und nicht mehr als 9 m Gebäudehöhe genügt als Tiefe der Abstandsfläche 3 m. Absatz 2 Satz 3 ist nicht anzuwenden.\n(7) Bei der Bemessung der Abstandsflächen werden folgende untergeordnete Bauteile nicht berücksichtigt:\n1. Pfeiler, Gesimse, Dachüberstände und andere Bauteile, die nicht mehr als 1 m vor die Außenwand vortreten,\n2. Stufen, Podeste und Überdachungen vor Hauseingängen, die nicht mehr als 1,5 m vor die Außenwand vortreten,\n3. untergeordnete Vorbauten, wie a. Wintergärten mit nicht mehr als 5 m Breite, wenn sie über nicht mehr als zwei Geschosse reichen und nicht mehr als 3 m vortreten, b. Balkone mit nicht mehr als 5 m Breite, wenn sie nicht mehr als 2 m vortreten, c. andere Vorbauten mit nicht mehr als 3 m Breite, wenn sie über nicht mehr als zwei Geschosse reichen und nicht mehr als 1 m vortreten,\n4."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor",
+          "score": 0.6376,
+          "text_preview": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Ano",
+          "text_full": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Bauart und Anordnung aller für die Stand- oder die Verkehrssicherheit, den Brand-, den Wärme-, den Schall- oder den Gesundheitsschutz wesentlichen Bauteile,\n5. die Brandschutzeinrichtungen, die Brandschutzvorkehrungen und die Löschwasserrückhaltung,\n6. die Feuerungsanlagen und Heizräume,\n7. die Anordnung und Herstellung der Aufzüge sowie der Treppen, Treppenräume, Flure, Ausgänge und sonstigen Rettungswege,\n8. die zulässige Zahl der Benutzer, Anordnung und Zahl der zulässigen Sitzplätze und Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n9. die Lüftung,\n10. die Beleuchtung und Energieversorgung,\n11. die Wasserversorgung,\n12. die Aufbewahrung und Beseitigung von Abwasser und von festen Abfallstoffen,\n13."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 31 Notwendige Treppenräume und Ausgänge",
+          "score": 0.5947,
+          "text_preview": "Führt der Ausgang eines notwendigen Treppenraumes nicht unmittelbar ins Freie, so muss zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie ein Flur als Sicherheitsschleuse angeordnet sein. Weitere Öffnungen der Sicherheitsschleuse dürfen nur zu notwendigen Fluren führen.\n(5) In Geschossen",
+          "text_full": "Führt der Ausgang eines notwendigen Treppenraumes nicht unmittelbar ins Freie, so muss zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie ein Flur als Sicherheitsschleuse angeordnet sein. Weitere Öffnungen der Sicherheitsschleuse dürfen nur zu notwendigen Fluren führen.\n(5) In Geschossen mit mehreren Nutzungseinheiten von jeweils mehr als 200 m2 Grundfläche oder mit mehr als vier Nutzungseinheiten müssen notwendige Flure angeordnet sein; dies gilt nicht für Wohngebäude geringer Höhe.\n(6) Die Wände von notwendigen Treppenräumen und Sicherheitsschleusen müssen in der Bauart von Brandwänden, bei Gebäuden geringer Höhe in der Bauart der tragenden und raumabschließenden Bauteile hergestellt sein. Dies gilt nicht für Außenwände aus nichtbrennbaren Baustoffen, wenn die Benutzung der notwendigen Treppe im Brandfall nicht gefährdet werden kann.\n(7) Reichen die Treppenraumwände nicht bis unter das Dach, so muss der obere Abschluss aus raumabschließenden Bauteilen bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 33 Umwehrungen und Abdeckungen",
+          "score": 0.5723,
+          "text_preview": "§ 33 Umwehrungen und Abdeckungen\n(1) In, an und auf baulichen Anlagen sind Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen, so zu umwehren, dass Personen nicht abstürzen können. Dies gilt nicht, wenn die Umwehrung dem Zweck der ",
+          "text_full": "§ 33 Umwehrungen und Abdeckungen\n(1) In, an und auf baulichen Anlagen sind Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen, so zu umwehren, dass Personen nicht abstürzen können. Dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht.\n(2) In Flächen, die im Allgemeinen zum Begehen bestimmt sind, sind Licht- und Betriebsschächte sowie nicht begehbare Oberlichte und Glasabdeckungen zu umwehren oder verkehrssicher abzudecken. Abdeckungen an und in öffentlichen Verkehrsflächen müssen gegen unbefugtes Abheben gesichert sein.\n(3) Die Höhe von Umwehrungen muss mindestens 0,90 m, ab einer Absturzhöhe von 12 m mindestens 1,10 m betragen. Eine geringere Höhe ist zulässig, wenn aufgrund anderer technischer Einrichtungen oder der Tiefe der Brüstung keine Absturzgefahr besteht.\nAbschnitt 6 Technische Gebäudeausrüstungen"
+        }
+      ],
+      "top_score": 0.6677
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor",
+          "score": 0.7378,
+          "text_preview": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Ano",
+          "text_full": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Bauart und Anordnung aller für die Stand- oder die Verkehrssicherheit, den Brand-, den Wärme-, den Schall- oder den Gesundheitsschutz wesentlichen Bauteile,\n5. die Brandschutzeinrichtungen, die Brandschutzvorkehrungen und die Löschwasserrückhaltung,\n6. die Feuerungsanlagen und Heizräume,\n7. die Anordnung und Herstellung der Aufzüge sowie der Treppen, Treppenräume, Flure, Ausgänge und sonstigen Rettungswege,\n8. die zulässige Zahl der Benutzer, Anordnung und Zahl der zulässigen Sitzplätze und Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n9. die Lüftung,\n10. die Beleuchtung und Energieversorgung,\n11. die Wasserversorgung,\n12. die Aufbewahrung und Beseitigung von Abwasser und von festen Abfallstoffen,\n13."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.7318,
+          "text_preview": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen, andere Anlagen und Einrichtungen im Sinne von § 1 Abs. 1 Satz 2 sowie ihre Teile sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass\n1. die öffentliche Sicherheit oder Ordnung, insbesondere Leben, Gesundheit und Eigentum, nicht g",
+          "text_full": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen, andere Anlagen und Einrichtungen im Sinne von § 1 Abs. 1 Satz 2 sowie ihre Teile sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass\n1. die öffentliche Sicherheit oder Ordnung, insbesondere Leben, Gesundheit und Eigentum, nicht gefährdet werden,\n2. sie die allgemeinen Anforderungen ihrem Zweck entsprechend dauerhaft erfüllen und ohne Missstände benutzbar sind und\n3. die natürlichen Lebensgrundlagen geschont werden.\n(2) Bauprodukte und Bauarten dürfen nur verwendet werden, wenn die baulichen Anlagen unter Verwendung der Bauprodukte und bei ordnungsgemäßer Instandhaltung während einer ihrem Zweck entsprechenden, angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder der Vorschriften aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(3) Die oberste Bauaufsichtsbehörde kann Regeln der Technik durch Bekanntmachung im Amtsblatt für Brandenburg als Technische Baubestimmungen einführen. Bei der Bekanntmachung kann hinsichtlich des Inhalts der Technischen Baubestimmungen auf die Fundstelle verwiesen werden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 81 Örtliche Bauvorschriften",
+          "score": 0.6824,
+          "text_preview": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach",
+          "text_full": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor",
+          "score": 0.681,
+          "text_preview": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor\nschriften wegen der besonderen Art oder Nutzung von baulichen Anlagen oder Räumen oder wegen besonderer Anforderungen nicht bedarf.\n(2) Sonderbauten sind insbesondere\n1. Hoch",
+          "text_full": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor\nschriften wegen der besonderen Art oder Nutzung von baulichen Anlagen oder Räumen oder wegen besonderer Anforderungen nicht bedarf.\n(2) Sonderbauten sind insbesondere\n1. Hochhäuser,\n2. Verkaufsstätten,\n3. Gast- und Beherbergungsstätten,\n4. Versammlungsstätten,\n5. Büro- und Verwaltungsgebäude,\n6. Krankenhäuser, Entbindungs- und Säuglingsheime,\n7. Krankenhäuser, Heime und sonstige Einrichtungen zur Unterbringung und Pflege von Personen,\n8. Einrichtungen für Kinder und Jugendliche,\n9. Schulen und Sportstätten,\n10. bauliche Anlagen und Räume von großer Ausdehnung oder mit erhöhter Brand-, Explosionsoder Verkehrsgefahr,\n11. bauliche Anlagen und Räume, die für land- oder forstwirtschaftliche Betriebe oder für Gewerbe- oder Industriebetriebe bestimmt sind,\n12. bauliche Anlagen und Räume, deren Nutzung mit einer starken Emission schädlicher Stoffe und Strahlen verbunden ist,\n13. Fliegende Bauten,\n\n14. Zelte, soweit sie nicht Fliegende Bauten sind,\n15. Camping- und Wochenendhausplätze,\n16. Seilbahnen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "score": 0.6728,
+          "text_preview": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "text_full": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten"
+        }
+      ],
+      "top_score": 0.7378
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor",
+          "score": 0.6549,
+          "text_preview": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor\nschriften wegen der besonderen Art oder Nutzung von baulichen Anlagen oder Räumen oder wegen besonderer Anforderungen nicht bedarf.\n(2) Sonderbauten sind insbesondere\n1. Hoch",
+          "text_full": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor\nschriften wegen der besonderen Art oder Nutzung von baulichen Anlagen oder Räumen oder wegen besonderer Anforderungen nicht bedarf.\n(2) Sonderbauten sind insbesondere\n1. Hochhäuser,\n2. Verkaufsstätten,\n3. Gast- und Beherbergungsstätten,\n4. Versammlungsstätten,\n5. Büro- und Verwaltungsgebäude,\n6. Krankenhäuser, Entbindungs- und Säuglingsheime,\n7. Krankenhäuser, Heime und sonstige Einrichtungen zur Unterbringung und Pflege von Personen,\n8. Einrichtungen für Kinder und Jugendliche,\n9. Schulen und Sportstätten,\n10. bauliche Anlagen und Räume von großer Ausdehnung oder mit erhöhter Brand-, Explosionsoder Verkehrsgefahr,\n11. bauliche Anlagen und Räume, die für land- oder forstwirtschaftliche Betriebe oder für Gewerbe- oder Industriebetriebe bestimmt sind,\n12. bauliche Anlagen und Räume, deren Nutzung mit einer starken Emission schädlicher Stoffe und Strahlen verbunden ist,\n13. Fliegende Bauten,\n\n14. Zelte, soweit sie nicht Fliegende Bauten sind,\n15. Camping- und Wochenendhausplätze,\n16. Seilbahnen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 41 Wohnungen",
+          "score": 0.6041,
+          "text_preview": "§ 41 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen br",
+          "text_full": "§ 41 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen brauchen nicht abgeschlossen zu sein. Wohnungen in Gebäuden, die nicht nur zum Wohnen dienen, müssen einen besonderen Zugang haben; gemeinsame Zugänge können gestattet werden, wenn Gefahren oder unzumutbare Belästigungen für die Benutzer der Wohnungen nicht entstehen.\n(2) Jede Wohnung muss eine für ihre Bestimmung ausreichende Größe und eine entsprechende Zahl besonnter Aufenthaltsräume haben. Es dürfen nicht alle Aufenthaltsräume nach Norden liegen.\n(3) Einzelne Aufenthaltsräume sind in Kellergeschossen zulässig, wenn\n1. der Fußboden der Aufenthaltsräume nicht mehr als 1,50 m unter der Geländeoberfläche liegt und\n2. die Geländeoberfläche, die sich an die Außenwände mit notwendigen Fenstern anschließt, in einer Entfernung von 2 m und in Breite der Aufenthaltsräume vor den notwendigen Fenstern nicht mehr als 0,50 m über dem Fußboden der Aufenthaltsräume liegt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor",
+          "score": 0.5936,
+          "text_preview": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Ano",
+          "text_full": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Bauart und Anordnung aller für die Stand- oder die Verkehrssicherheit, den Brand-, den Wärme-, den Schall- oder den Gesundheitsschutz wesentlichen Bauteile,\n5. die Brandschutzeinrichtungen, die Brandschutzvorkehrungen und die Löschwasserrückhaltung,\n6. die Feuerungsanlagen und Heizräume,\n7. die Anordnung und Herstellung der Aufzüge sowie der Treppen, Treppenräume, Flure, Ausgänge und sonstigen Rettungswege,\n8. die zulässige Zahl der Benutzer, Anordnung und Zahl der zulässigen Sitzplätze und Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n9. die Lüftung,\n10. die Beleuchtung und Energieversorgung,\n11. die Wasserversorgung,\n12. die Aufbewahrung und Beseitigung von Abwasser und von festen Abfallstoffen,\n13."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag",
+          "score": 0.5934,
+          "text_preview": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 fest",
+          "text_full": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 festgesetzten notwendigen Stellplätze hergestellt werden.\n(2) Die notwendigen Stellplätze sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck rechtlich\n\n gesichert ist.\n(3) Soweit der Bauherr durch örtliche Bauvorschrift zur Herstellung von notwendigen Stellplätzen verpflichtet ist, kann die Gemeinde durch öffentlich-rechtlichen Vertrag mit dem Bauherrn vereinbaren, dass der Bauherr seine Verpflichtung ganz oder teilweise durch Zahlung eines Geldbetrages an die Gemeinde ablöst(Stellplatzablösevertrag). Der Anspruch der Gemeinde auf Zahlung des im Stellplatzablösevertrag vereinbarten Geldbetrages entsteht mit Baubeginn.\n(4) Der Geldbetrag je Stellplatz soll den anteiligen durchschnittlichen Grunderwerbs- und Herstellungskosten für 25 m Stellplatz- und Bewegungsfläche entsprechen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 45 Barrierefreies Bauen",
+          "score": 0.5761,
+          "text_preview": "§ 45 Barrierefreies Bauen\n(1) In Wohngebäuden mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein. In Gebäuden mit Aufzügen und mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein.\n(2) Bauliche Anlagen und andere Anlagen und Einrichtung",
+          "text_full": "§ 45 Barrierefreies Bauen\n(1) In Wohngebäuden mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein. In Gebäuden mit Aufzügen und mit mehr als vier Wohnungen müssen die Wohnungen eines Geschosses barrierefrei sein.\n(2) Bauliche Anlagen und andere Anlagen und Einrichtungen, die überwiegend oder ausschließlich von kranken, behinderten oder alten Menschen genutzt werden oder ihrer Betreuung dienen, müssen barrierefrei sein.\n(3) Bauliche Anlagen und andere Anlagen und Einrichtungen, die für die Öffentlichkeit bestimmt oder allgemein zugänglich sind, müssen in den dem allgemeinen Besucherverkehr dienenden Teilen barrierefrei sein.\n(4) Gebäude, die für eine größere Zahl von Personen oder für die Öffentlichkeit bestimmt sind, müssen mit einer ausreichenden Zahl, mindestens jedoch mit einer Toilette für Benutzer von Rollstühlen ausgestattet sein.\n(5) Bauliche Anlagen nach den Absätzen 2 und 3 müssen eine ausreichende Zahl von Stellplätzen für die Kraftfahrzeuge behinderter Menschen haben."
+        }
+      ],
+      "top_score": 0.6549
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 12 Brandschutz",
+          "score": 0.7661,
+          "text_preview": "§ 12 Brandschutz\n(1) Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räu",
+          "text_full": "§ 12 Brandschutz\n(1) Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räumen und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anforderungen an das Brandverhalten unterschieden in\n1. normalentflammbar,\n2. schwerentflammbar,\n3. nichtbrennbar. Baustoffe, die nicht mindestens normalentflammbar sind (leicht-entflammbare Baustoffe), dürfen nur in einem Verbund mit anderen Baustoffen verwendet werden, der den Anforderungen nach Satz 1 entspricht.\n(3) Bauliche Anlagen, bei denen nach Lage, Bauart oder Nutzung Blitzschlag leicht eintreten oder zu schweren Folgen führen kann, sind mit dauernd wirksamen Blitzschutzanlagen zu versehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 36 Feuerungsanlagen, Anlagen zur Wärmeerzeugung und Brennstoffversorgungsanlagen",
+          "score": 0.7177,
+          "text_preview": "§ 36 Feuerungsanlagen, Anlagen zur Wärmeerzeugung und Brennstoffversorgungsanlagen\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) sowie Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebs- und brandsicher sein.\n(2) Die Abgase von Feuerstätten sind durch Abgasanlagen",
+          "text_full": "§ 36 Feuerungsanlagen, Anlagen zur Wärmeerzeugung und Brennstoffversorgungsanlagen\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) sowie Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebs- und brandsicher sein.\n(2) Die Abgase von Feuerstätten sind durch Abgasanlagen über Dach und so ins Freie abzuleiten, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Die Weiterleitung von Schall in fremde Räume muss ausreichend gedämmt sein. Abgasanlagen müssen leicht und sicher zu reinigen sein.\n(3) Feuerstätten sowie Behälter für brennbare Gase und Flüssigkeiten dürfen in Räumen nur aufgestellt werden, wenn nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume keine Gefahren entstehen.\n(4) Behälter für brennbare Gase und Flüssigkeiten sind so aufzustellen und feste Brennstoffe sind so zu lagern, dass keine Gefahren oder unzumutbare Belästigungen entstehen.\n(5) Für die Aufstellung ortsfester Verbrennungsmotoren, Blockheizkraftanlagen, Brennstoffzellen oder anderer Anlagen zur Wärmeerzeugung sowie für die Ableitung der bei der Wärmeerzeugung entstehenden Gase gelten die Absätze 1 bis 4 entsprechend."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 36 Feuerungsanlagen, Anlagen zur Wärmeerzeugung und Brennstoffversorgungsanlagen",
+          "score": 0.7145,
+          "text_preview": "(6) Feuerungsanlagen und ortsfeste Anlagen zur Wärmeerzeugung durch Verbrennung dürfen erst in Betrieb genommen werden, wenn der Bezirksschornsteinfegermeister schriftlich bescheinigt hat, dass sie den Anforderungen der Absätze 1 bis 5 und der für sie geltenden Vorschriften aufgrund dieses Gesetzes ",
+          "text_full": "(6) Feuerungsanlagen und ortsfeste Anlagen zur Wärmeerzeugung durch Verbrennung dürfen erst in Betrieb genommen werden, wenn der Bezirksschornsteinfegermeister schriftlich bescheinigt hat, dass sie den Anforderungen der Absätze 1 bis 5 und der für sie geltenden Vorschriften aufgrund dieses Gesetzes entsprechen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 23 Allgemeine Anforderungen an das Brandverhalten von Bauteilen",
+          "score": 0.7013,
+          "text_preview": "§ 23 Allgemeine Anforderungen an das Brandverhalten von Bauteilen\n(1) Einer Brandbeanspruchung von einer oder mehreren Seiten müssen\n1. feuerhemmende Bauteile 30 Minuten,\n2. hochfeuerhemmende Bauteile 60 Minuten,\n3. feuerbeständige Bauteile 90 Minuten lang standhalten.\n(2) Hochfeuerhemmende Bauteile",
+          "text_full": "§ 23 Allgemeine Anforderungen an das Brandverhalten von Bauteilen\n(1) Einer Brandbeanspruchung von einer oder mehreren Seiten müssen\n1. feuerhemmende Bauteile 30 Minuten,\n2. hochfeuerhemmende Bauteile 60 Minuten,\n3. feuerbeständige Bauteile 90 Minuten lang standhalten.\n(2) Hochfeuerhemmende Bauteile, deren tragende oder aussteifende Teile aus brennbaren Baustoffen bestehen, müssen allseitig eine brandschutztechnisch wirksame Bekleidung aus nichtbrennbaren Baustoffen und Dämmstoffe aus nichtbrennbaren Baustoffen haben.\n(3) Tragende oder aussteifende Bauteile, die feuerbeständig sein müssen, müssen aus nichtbrennbaren Baustoffen bestehen.\n(4) Raumabschließende Bauteile, die feuerbeständig sein müssen, müssen eine in der raumabschließenden Ebene des Bauteils durchgehende Schicht aus nichtbrennbaren Baustoffen haben."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 66 Bautechnische Nachweise",
+          "score": 0.6743,
+          "text_preview": "(5) Die Prüfung der Brandschutznachweise erfolgt bei Sonderbauten durch die Bauaufsichtsbehörde oder einen Prüfingenieur für Brandschutz. Die Vollständigkeit und Richtigkeit der Brandschutznachweise ist durch einen Prüfbericht zu bestätigen. Bei Gebäuden, die keine\n\n Sonderbauten sind, erfolgt die P",
+          "text_full": "(5) Die Prüfung der Brandschutznachweise erfolgt bei Sonderbauten durch die Bauaufsichtsbehörde oder einen Prüfingenieur für Brandschutz. Die Vollständigkeit und Richtigkeit der Brandschutznachweise ist durch einen Prüfbericht zu bestätigen. Bei Gebäuden, die keine\n\n Sonderbauten sind, erfolgt die Prüfung der Brandschutznachweise durch die Bauaufsichtsbehörde im Rahmen der Beurteilung der Bauvorlagen.\n(6) Die Prüfung der Nachweise des Wärmeschutzes und der Energieeinsparung erfolgt bei Sonderbauten durch Prüfsachverständige, soweit diese Nachweise nicht durch Prüfsachverständige erstellt sind. Die Vollständigkeit und Richtigkeit der Nachweise ist durch eine Prüfbescheinigung zu bestätigen.\n(7) Einer Prüfung der bautechnischen Nachweise für Gebäude geringer Höhe ohne Aufenthaltsräume mit nicht mehr als 150 m2 Grundfläche sowie sonstiger baulicher Anlagen mit nicht mehr als 10 m Bauhöhe bedarf es nicht.\n(8) Einer Prüfung der Standsicherheitsnachweise bedarf es nicht, soweit Standsicherheitsnachweise vorgelegt werden, die von einer nach dem Recht eines Landes der Bundesrepublik Deutschland für eine Typenprüfung zuständigen Behörde allgemein geprüft sind."
+        }
+      ],
+      "top_score": 0.7661
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 29 Erster und zweiter Rettungsweg",
+          "score": 0.7455,
+          "text_preview": "Bei Gebäuden mittlerer Höhe darf der zweite Rettungsweg eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein, wenn die Feuerwehr über die erforderlichen Rettungsgeräte, wie Hubrettungsfahrzeuge, verfügt. Bei Gebäuden oder Nutzungseinheiten, die für eine größere Zahl von",
+          "text_full": "Bei Gebäuden mittlerer Höhe darf der zweite Rettungsweg eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein, wenn die Feuerwehr über die erforderlichen Rettungsgeräte, wie Hubrettungsfahrzeuge, verfügt. Bei Gebäuden oder Nutzungseinheiten, die für eine größere Zahl von Personen bestimmt sind, sind die Sätze 1 und 2 nicht anzuwenden.\n(4) Flure und offene Gänge, über die Rettungswege von Aufenthaltsräumen oder Nutzungseinheiten zu notwendigen Treppenräumen oder zu Ausgängen ins Freie führen (notwendige Flure) müssen so angeordnet und ausgebildet sein, dass im Brandfall ihre Benutzung als Rettungsweg ausreichend lange möglich ist. Als notwendige Flure gelten nicht\n1. Flure innerhalb von Wohnungen,\n2. Flure innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen und deren Grundfläche in einem Geschoss nicht mehr als 400 m beträgt.\n(5) Notwendige Flure von mehr als 30 m Länge sind durch nichtabschließbare selbstschließende Rauchschutzabschlüsse in Rauchabschnitte zu unterteilen. Die Rauchschutzabschlüsse sind bis unter die Rohdecke zu führen; sie dürfen bis unter die Unterdecke geführt werden, wenn diese feuerhemmend ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 29 Erster und zweiter Rettungsweg",
+          "score": 0.7126,
+          "text_preview": "§ 29 Erster und zweiter Rettungsweg\n(1) Rettungswege müssen so angeordnet und ausgebildet sein, dass im Brandfall ihre Benutzung ausreichend lange möglich ist. Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen oder selbstständige Betriebsstätten, müssen in jedem Gesch",
+          "text_full": "§ 29 Erster und zweiter Rettungsweg\n(1) Rettungswege müssen so angeordnet und ausgebildet sein, dass im Brandfall ihre Benutzung ausreichend lange möglich ist. Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen oder selbstständige Betriebsstätten, müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. Beide Rettungswege dürfen innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum) oder wenn die Nutzungseinheit zu ebener Erde liegt und die Flucht ins Freie sicher möglich ist.\n(2) Für Nutzungseinheiten, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über mindestens eine notwendige Treppe führen. Der zweite Rettungsweg muss eine weitere notwendige Treppe oder eine Außentreppe sein.\n(3) Bei Gebäuden geringer Höhe darf der zweite Rettungsweg eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 25 Raumabschließende Bauteile",
+          "score": 0.6954,
+          "text_preview": "zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n4. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss,\n5. zum Abschluss von offenen Gängen, die als Rettungswege genutzt werden.\n(6) Raumabschließende Bauteile sind bis an andere raumabschließende Bauteile, die",
+          "text_full": "zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n4. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss,\n5. zum Abschluss von offenen Gängen, die als Rettungswege genutzt werden.\n(6) Raumabschließende Bauteile sind bis an andere raumabschließende Bauteile, die Außenwand oder bis unter die Dachhaut zu führen. Der Anschluss der raumabschließenden Bauteile an andere Bauteile muss den Anforderungen des Absatzes 1 genügen.\n(7) In raumabschließenden Bauteilen sind Öffnungen zulässig, wenn sie nach Zahl und Größe auf das für die Nutzung erforderliche Maß beschränkt sind. Die Öffnungen sind mit Abschlüssen, wie Klappen, Türen oder Tore, zu versehen. Dies gilt nicht für raumabschließende Bauteile innerhalb von Wohnungen.\n(8) Die Absätze 4 und 5 gelten nicht für die in § 24 Abs. 2 Satz 3 genannten baulichen Anlagen oder Teile baulicher Anlagen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 31 Notwendige Treppenräume und Ausgänge",
+          "score": 0.6924,
+          "text_preview": "Führt der Ausgang eines notwendigen Treppenraumes nicht unmittelbar ins Freie, so muss zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie ein Flur als Sicherheitsschleuse angeordnet sein. Weitere Öffnungen der Sicherheitsschleuse dürfen nur zu notwendigen Fluren führen.\n(5) In Geschossen",
+          "text_full": "Führt der Ausgang eines notwendigen Treppenraumes nicht unmittelbar ins Freie, so muss zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie ein Flur als Sicherheitsschleuse angeordnet sein. Weitere Öffnungen der Sicherheitsschleuse dürfen nur zu notwendigen Fluren führen.\n(5) In Geschossen mit mehreren Nutzungseinheiten von jeweils mehr als 200 m2 Grundfläche oder mit mehr als vier Nutzungseinheiten müssen notwendige Flure angeordnet sein; dies gilt nicht für Wohngebäude geringer Höhe.\n(6) Die Wände von notwendigen Treppenräumen und Sicherheitsschleusen müssen in der Bauart von Brandwänden, bei Gebäuden geringer Höhe in der Bauart der tragenden und raumabschließenden Bauteile hergestellt sein. Dies gilt nicht für Außenwände aus nichtbrennbaren Baustoffen, wenn die Benutzung der notwendigen Treppe im Brandfall nicht gefährdet werden kann.\n(7) Reichen die Treppenraumwände nicht bis unter das Dach, so muss der obere Abschluss aus raumabschließenden Bauteilen bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten der Grundstücke",
+          "score": 0.6892,
+          "text_preview": "§ 5 Zugänge und Zufahrten der Grundstücke\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuer",
+          "text_full": "§ 5 Zugänge und Zufahrten der Grundstücke\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt.\n(2) Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Absatzes 1 anstelle eines Zuoder Durchgangs eine Zu- oder Durchfahrt zu schaffen.\n(3) Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Absatz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind.\n(4) Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, so sind die dafür erforderlichen Aufstell- und Bewegungsflächen herzustellen."
+        }
+      ],
+      "top_score": 0.7455
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 81 Örtliche Bauvorschriften",
+          "score": 0.8251,
+          "text_preview": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach",
+          "text_full": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden, Teilung der Grundstücke",
+          "score": 0.7897,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden, Teilung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn\n\n1. das Grundstück nach Lage, Form, Größe und Beschaffenheit für die beabsichtigte Bebauung geeignet ist,\n2. das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkeh",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden, Teilung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn\n\n1. das Grundstück nach Lage, Form, Größe und Beschaffenheit für die beabsichtigte Bebauung geeignet ist,\n2. das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder die Nutzung einer befahrbaren Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche rechtlich gesichert ist; für Wohngebäude geringer Höhe sind nicht befahrbare Wohnwege von nicht mehr als 50 m Länge zulässig,\n3. bis zum Beginn der Benutzung des Gebäudes die Zufahrtswege sowie die Wasserversorgungs- und Abwasserbeseitigungsanlagen benutzbar sind.\n(2) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist zulässig, wenn rechtlich gesichert ist, dass keine Verhältnisse eintreten können, die den Vorschriften dieses Gesetzes widersprechen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor",
+          "score": 0.76,
+          "text_preview": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Ano",
+          "text_full": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Bauart und Anordnung aller für die Stand- oder die Verkehrssicherheit, den Brand-, den Wärme-, den Schall- oder den Gesundheitsschutz wesentlichen Bauteile,\n5. die Brandschutzeinrichtungen, die Brandschutzvorkehrungen und die Löschwasserrückhaltung,\n6. die Feuerungsanlagen und Heizräume,\n7. die Anordnung und Herstellung der Aufzüge sowie der Treppen, Treppenräume, Flure, Ausgänge und sonstigen Rettungswege,\n8. die zulässige Zahl der Benutzer, Anordnung und Zahl der zulässigen Sitzplätze und Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n9. die Lüftung,\n10. die Beleuchtung und Energieversorgung,\n11. die Wasserversorgung,\n12. die Aufbewahrung und Beseitigung von Abwasser und von festen Abfallstoffen,\n13."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.7107,
+          "text_preview": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die E",
+          "text_full": "§ 7 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der Flächen entgegenstehen. Satz 1 findet keine Anwendung, soweit Bebauungspläne oder andere Satzungen Festsetzungen zu den nicht überbauten Flächen treffen.\n(2) Bei der Errichtung oder Änderung baulicher Anlagen können die Bauaufsichtsbehörden verlangen, dass die Geländeoberfläche des Grundstücks erhalten oder in ihrer Höhenlage verändert wird, um eine Störung des Straßen-, Orts- oder Landschaftsbildes zu vermeiden oder zu beseitigen oder um die Geländeoberfläche der Höhe der Verkehrsflächen oder der Nachbargrundstücke anzugleichen.\n(3) Kinderspielplätze sind so anzuordnen und auszustatten, dass die Kinder nicht gefährdet werden. Bei der Errichtung von Gebäuden mit mehr als vier Wohnungen müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 festgesetzten Kinderspielplätze hergestellt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden, Teilung der Grundstücke",
+          "score": 0.7067,
+          "text_preview": "(3) Durch die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist, dürfen keine Verhältnisse geschaffen werden, die den Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften, insbesondere den Vorschriften über die Abstandsflächen, den Brandschutz",
+          "text_full": "(3) Durch die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist, dürfen keine Verhältnisse geschaffen werden, die den Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften, insbesondere den Vorschriften über die Abstandsflächen, den Brandschutz und die Erschließung, zuwiderlaufen. Entspricht die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist, nicht den Anforderungen des Satzes 1 oder des § 19 Abs. 2 des Baugesetzbuchs, so darf eine die Teilung vorbereitende Liegenschaftsvermessung nur vorgenommen werden, wenn die erforderliche Abweichung nach § 60 zugelassen oder die erforderliche Befreiung erteilt ist."
+        }
+      ],
+      "top_score": 0.8251
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 12 Brandschutz",
+          "score": 0.813,
+          "text_preview": "§ 12 Brandschutz\n(1) Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räu",
+          "text_full": "§ 12 Brandschutz\n(1) Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räumen und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anforderungen an das Brandverhalten unterschieden in\n1. normalentflammbar,\n2. schwerentflammbar,\n3. nichtbrennbar. Baustoffe, die nicht mindestens normalentflammbar sind (leicht-entflammbare Baustoffe), dürfen nur in einem Verbund mit anderen Baustoffen verwendet werden, der den Anforderungen nach Satz 1 entspricht.\n(3) Bauliche Anlagen, bei denen nach Lage, Bauart oder Nutzung Blitzschlag leicht eintreten oder zu schweren Folgen führen kann, sind mit dauernd wirksamen Blitzschutzanlagen zu versehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 25 Raumabschließende Bauteile",
+          "score": 0.7745,
+          "text_preview": "§ 25 Raumabschließende Bauteile\n(1) Raumabschließende Bauteile, wie Decken oder Trennwände, müssen bei Brandbeanspruchung ausreichend lang widerstandsfähig gegen strahlende Wärme sowie die Ausbreitung von Feuer und Brandgasen sein.\n(2) Raumabschließende Bauteile müssen feuerbeständig, in Gebäuden ge",
+          "text_full": "§ 25 Raumabschließende Bauteile\n(1) Raumabschließende Bauteile, wie Decken oder Trennwände, müssen bei Brandbeanspruchung ausreichend lang widerstandsfähig gegen strahlende Wärme sowie die Ausbreitung von Feuer und Brandgasen sein.\n(2) Raumabschließende Bauteile müssen feuerbeständig, in Gebäuden geringer Höhe mindestens feuerhemmend sein. Im Keller von Gebäuden geringer Höhe mit mehr als zwei Nutzungseinheiten müssen die raumabschließenden Bauteile feuerbeständig sein. Bauteile zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr müssen feuerbeständig sein. In oberirdischen Geschossen müssen die Trennwände notwendiger Flure mindestens feuerhemmend sein.\n(3) Raumabschließende Bauteile im Dachraum von Gebäuden mittlerer Höhe müssen mindestens hochfeuerhemmend sein, wenn im Dachraum Aufenthaltsräume liegen; im obersten Geschoss genügen feuerhemmende Bauteile.\n(4) Raumabschließende Decken sind erforderlich zwischen Geschossen.\n(5) Raumabschließende Trennwände sind innerhalb von Geschossen erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen,\n2. zum Abschluss von notwendigen Fluren,\n3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 66 Bautechnische Nachweise",
+          "score": 0.7689,
+          "text_preview": "(5) Die Prüfung der Brandschutznachweise erfolgt bei Sonderbauten durch die Bauaufsichtsbehörde oder einen Prüfingenieur für Brandschutz. Die Vollständigkeit und Richtigkeit der Brandschutznachweise ist durch einen Prüfbericht zu bestätigen. Bei Gebäuden, die keine\n\n Sonderbauten sind, erfolgt die P",
+          "text_full": "(5) Die Prüfung der Brandschutznachweise erfolgt bei Sonderbauten durch die Bauaufsichtsbehörde oder einen Prüfingenieur für Brandschutz. Die Vollständigkeit und Richtigkeit der Brandschutznachweise ist durch einen Prüfbericht zu bestätigen. Bei Gebäuden, die keine\n\n Sonderbauten sind, erfolgt die Prüfung der Brandschutznachweise durch die Bauaufsichtsbehörde im Rahmen der Beurteilung der Bauvorlagen.\n(6) Die Prüfung der Nachweise des Wärmeschutzes und der Energieeinsparung erfolgt bei Sonderbauten durch Prüfsachverständige, soweit diese Nachweise nicht durch Prüfsachverständige erstellt sind. Die Vollständigkeit und Richtigkeit der Nachweise ist durch eine Prüfbescheinigung zu bestätigen.\n(7) Einer Prüfung der bautechnischen Nachweise für Gebäude geringer Höhe ohne Aufenthaltsräume mit nicht mehr als 150 m2 Grundfläche sowie sonstiger baulicher Anlagen mit nicht mehr als 10 m Bauhöhe bedarf es nicht.\n(8) Einer Prüfung der Standsicherheitsnachweise bedarf es nicht, soweit Standsicherheitsnachweise vorgelegt werden, die von einer nach dem Recht eines Landes der Bundesrepublik Deutschland für eine Typenprüfung zuständigen Behörde allgemein geprüft sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 28 Dächer",
+          "score": 0.7682,
+          "text_preview": "§ 28 Dächer\n(1) Dächer müssen so angeordnet und ausgebildet sein, dass andere Gebäude nicht durch Feuer, Flugfeuer oder strahlende Wärme gefährdet werden.\n(2) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme widerstandsfähig sein (harte Bedachung).\n(3) ",
+          "text_full": "§ 28 Dächer\n(1) Dächer müssen so angeordnet und ausgebildet sein, dass andere Gebäude nicht durch Feuer, Flugfeuer oder strahlende Wärme gefährdet werden.\n(2) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme widerstandsfähig sein (harte Bedachung).\n(3) Gebäude geringer Höhe, die keine harte Bedachung haben, sind zulässig, wenn sie einen Abstand einhalten von\n1. 5 m zu Nebengebäuden ohne Feuerstätten,\n2. 10 m zur Grundstücksgrenze; dies gilt nicht zu öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen,\n3. 15 m zu Gebäuden mit harter Bedachung,\n4. 20 m zu Gebäuden ohne harte Bedachung. Für Gebäude geringer Höhe mit nicht mehr als zwei Wohnungen genügt abweichend von Satz 1 Nr. 2 ein Abstand von 5 m und abweichend von Satz 1 Nr. 3 und 4 ein Abstand von 10 m.\n(4) Lichtdurchlässige Bedachungen müssen aus nichtbrennbaren Baustoffen bestehen. Für Lichtkuppeln, Eingangsüberdachungen und Vordächer von Wohngebäuden genügen schwerentflammbare Baustoffe, die nicht brennend abtropfen können."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 24 Tragende oder aussteifende Bauteile",
+          "score": 0.7516,
+          "text_preview": "§ 24 Tragende oder aussteifende Bauteile\n(1) Tragende oder aussteifende Bauteile, wie Wände, Stützen oder Decken, müssen bei Brandbeanspruchung ohne Verlust der Tragfähigkeit ausreichend lang standsicher sein.\n\n(2) Tragende oder aussteifende Bauteile müssen feuerbeständig, in Gebäuden geringer Höhe ",
+          "text_full": "§ 24 Tragende oder aussteifende Bauteile\n(1) Tragende oder aussteifende Bauteile, wie Wände, Stützen oder Decken, müssen bei Brandbeanspruchung ohne Verlust der Tragfähigkeit ausreichend lang standsicher sein.\n\n(2) Tragende oder aussteifende Bauteile müssen feuerbeständig, in Gebäuden geringer Höhe mindestens feuerhemmend sein. Im Keller von Gebäuden geringer Höhe mit mehr als zwei Nutzungseinheiten müssen tragende oder aussteifende Bauteile feuerbeständig sein. Satz 1 gilt nicht für\n1. Hohlräume im Dach zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind,\n2. Balkone, soweit diese nicht Teil des Rettungsweges sind,\n3. Nebengebäude ohne Aufenthaltsräume, Wintergärten und oberirdische Garagen, mit nicht mehr als einem Geschoss und nicht mehr als 50 m2 Grundfläche,\n4. freistehende Wohngebäude mit nicht mehr als zwei oberirdischen Geschossen und nicht mehr als zwei Wohnungen,\n5. freistehende landwirtschaftliche Betriebsgebäude.\n(3) Tragende oder aussteifende Bauteile im Dachraum von Gebäuden mittlerer Höhe müssen mindestens hochfeuerhemmend sein, wenn im Dachraum Aufenthaltsräume liegen; im obersten Geschoss genügen feuerhemmende Bauteile."
+        }
+      ],
+      "top_score": 0.813
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag",
+          "score": 0.8229,
+          "text_preview": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 fest",
+          "text_full": "§ 43 Stellplätze und Garagen, Stellplatzablösevertrag\n(1) Bei der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer örtlichen Bauvorschrift nach § 81 festgesetzten notwendigen Stellplätze hergestellt werden.\n(2) Die notwendigen Stellplätze sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck rechtlich\n\n gesichert ist.\n(3) Soweit der Bauherr durch örtliche Bauvorschrift zur Herstellung von notwendigen Stellplätzen verpflichtet ist, kann die Gemeinde durch öffentlich-rechtlichen Vertrag mit dem Bauherrn vereinbaren, dass der Bauherr seine Verpflichtung ganz oder teilweise durch Zahlung eines Geldbetrages an die Gemeinde ablöst(Stellplatzablösevertrag). Der Anspruch der Gemeinde auf Zahlung des im Stellplatzablösevertrag vereinbarten Geldbetrages entsteht mit Baubeginn.\n(4) Der Geldbetrag je Stellplatz soll den anteiligen durchschnittlichen Grunderwerbs- und Herstellungskosten für 25 m Stellplatz- und Bewegungsfläche entsprechen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden, Teilung der Grundstücke",
+          "score": 0.7607,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden, Teilung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn\n\n1. das Grundstück nach Lage, Form, Größe und Beschaffenheit für die beabsichtigte Bebauung geeignet ist,\n2. das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkeh",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden, Teilung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn\n\n1. das Grundstück nach Lage, Form, Größe und Beschaffenheit für die beabsichtigte Bebauung geeignet ist,\n2. das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder die Nutzung einer befahrbaren Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche rechtlich gesichert ist; für Wohngebäude geringer Höhe sind nicht befahrbare Wohnwege von nicht mehr als 50 m Länge zulässig,\n3. bis zum Beginn der Benutzung des Gebäudes die Zufahrtswege sowie die Wasserversorgungs- und Abwasserbeseitigungsanlagen benutzbar sind.\n(2) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist zulässig, wenn rechtlich gesichert ist, dass keine Verhältnisse eintreten können, die den Vorschriften dieses Gesetzes widersprechen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 28 Dächer",
+          "score": 0.7418,
+          "text_preview": "§ 28 Dächer\n(1) Dächer müssen so angeordnet und ausgebildet sein, dass andere Gebäude nicht durch Feuer, Flugfeuer oder strahlende Wärme gefährdet werden.\n(2) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme widerstandsfähig sein (harte Bedachung).\n(3) ",
+          "text_full": "§ 28 Dächer\n(1) Dächer müssen so angeordnet und ausgebildet sein, dass andere Gebäude nicht durch Feuer, Flugfeuer oder strahlende Wärme gefährdet werden.\n(2) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme widerstandsfähig sein (harte Bedachung).\n(3) Gebäude geringer Höhe, die keine harte Bedachung haben, sind zulässig, wenn sie einen Abstand einhalten von\n1. 5 m zu Nebengebäuden ohne Feuerstätten,\n2. 10 m zur Grundstücksgrenze; dies gilt nicht zu öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen,\n3. 15 m zu Gebäuden mit harter Bedachung,\n4. 20 m zu Gebäuden ohne harte Bedachung. Für Gebäude geringer Höhe mit nicht mehr als zwei Wohnungen genügt abweichend von Satz 1 Nr. 2 ein Abstand von 5 m und abweichend von Satz 1 Nr. 3 und 4 ein Abstand von 10 m.\n(4) Lichtdurchlässige Bedachungen müssen aus nichtbrennbaren Baustoffen bestehen. Für Lichtkuppeln, Eingangsüberdachungen und Vordächer von Wohngebäuden genügen schwerentflammbare Baustoffe, die nicht brennend abtropfen können."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 58 Bauanzeigeverfahren",
+          "score": 0.7415,
+          "text_preview": "§ 58 Bauanzeigeverfahren\n(1) Für die Errichtung und Änderung von Wohngebäuden geringer Höhe, einschließlich der zugehörigen Stellplätze, Garagen und Nebenanlagen, sowie für Gewächshäuser mit nicht mehr als 5 m Höhe im Geltungsbereich eines rechtswirksamen Bebauungsplans nach § 30 Abs. 1 oder 2 des B",
+          "text_full": "§ 58 Bauanzeigeverfahren\n(1) Für die Errichtung und Änderung von Wohngebäuden geringer Höhe, einschließlich der zugehörigen Stellplätze, Garagen und Nebenanlagen, sowie für Gewächshäuser mit nicht mehr als 5 m Höhe im Geltungsbereich eines rechtswirksamen Bebauungsplans nach § 30 Abs. 1 oder 2 des Baugesetzbuchs wird abweichend von den §§ 56 und 57 auf Wunsch des Bauherrn ein Bauanzeigeverfahren durchgeführt, wenn das Vorhaben den Festsetzungen des Bebauungsplans nicht widerspricht und die Erschließung gesichert ist.\n(2) Die Bauaufsichtsbehörde hat dem Bauherrn binnen einer Woche den Tag des Eingangs der Bauanzeige bei der Bauaufsichtsbehörde zu bestätigen.\n(3) Mit der Bauausführung darf nach Ablauf eines Monats nach Eingang der Bauanzeige bei der Bauaufsichtsbehörde begonnen werden, sofern die Bauaufsichtsbehörde die Bauausführung nicht untersagt oder vorher freigegeben hat. Die Berechtigung zur Bauausführung erlischt nach vier Jahren. Die Berechtigung zur Bauausführung erlischt nicht, wenn das Vorhaben innerhalb der Frist nach Satz 2 begonnen worden und spätestens ein Jahr nach Ablauf der Frist fertig gestellt ist.\n(4) Die Bauausführung ist zu untersagen, wenn\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 81 Örtliche Bauvorschriften",
+          "score": 0.7397,
+          "text_preview": "§ 81 Örtliche Bauvorschriften\n(1) Die Gemeinden können örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen und anderer Anlagen und Einrichtungen sowie die Notwendigkeit oder das Verbot von Einfriedungen,\n2. besondere Anforderungen an die Art, ",
+          "text_full": "§ 81 Örtliche Bauvorschriften\n(1) Die Gemeinden können örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen und anderer Anlagen und Einrichtungen sowie die Notwendigkeit oder das Verbot von Einfriedungen,\n2. besondere Anforderungen an die Art, die Größe, die Gestaltung, die Farbe und den Anbringungsort von Werbeanlagen,\n3. den Ausschluss von Werbeanlagen an bestimmten baulichen Anlagen,\n4. eine besondere Erlaubnispflicht für Werbeanlagen, die ohne Baugenehmigung errichtet werden dürfen, soweit für diese Werbeanlagen besondere Anforderungen nach Nummer 2 bestehen. Die Gemeinde kann die örtlichen Bauvorschriften nach Satz 1 Nr. 1 und 2 erlassen, soweit dies zur Verwirklichung baugestalterischer und städtebaulicher Absichten oder zum Schutz bestimmter Bauten, Straßen, Plätze oder Ortsteile von geschichtlicher, künstlerischer oder städtebaulicher Bedeutung sowie von Baudenkmälern und Naturdenkmälern erforderlich ist.\n(2) Die Gemeinde kann durch örtliche Bauvorschriften andere als die nach § 6 Abs. 5 vorgeschriebenen Abstandsflächen festsetzen."
+        }
+      ],
+      "top_score": 0.8229
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 63 Behandlung des Bauantrags",
+          "score": 0.7033,
+          "text_preview": "§ 63 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hat binnen zwei Wochen nach Eingang des Bauantrags zu prüfen, ob die Bauvorlagen vollständig sind und den Eingang des Bauantrags schriftlich zu bestätigen.\n(2) Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, for",
+          "text_full": "§ 63 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hat binnen zwei Wochen nach Eingang des Bauantrags zu prüfen, ob die Bauvorlagen vollständig sind und den Eingang des Bauantrags schriftlich zu bestätigen.\n(2) Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde den Bauherrn mit der Eingangsbestätigung zur Behebung der Mängel innerhalb einer angemessenen Frist auf. Werden die Mängel nicht innerhalb der Frist behoben, gilt der Antrag als zurückgenommen.\n(3) Sind die Bauvorlagen vollständig, holt die Bauaufsichtsbehörde unverzüglich die Stellungnahmen der Behörden und Stellen ein, deren Zustimmung, Einvernehmen oder Benehmen zur Baugenehmigung erforderlich ist oder deren Aufgabenbereich durch das Vorhaben berührt wird. Soweit die Baugenehmigung die Entscheidung einer anderen Behörde einschließt, ist, vorbehaltlich einer anderen gesetzlichen Regelung, deren Benehmen zur Erteilung der Baugenehmigung erforderlich."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 69 Geltungsdauer der Genehmigung Die Geltungsdauer der Baugenehmigung und des Vorbescheides beträgt sechs Jahre. Die Baugene",
+          "score": 0.6769,
+          "text_preview": "§ 69 Geltungsdauer der Genehmigung Die Geltungsdauer der Baugenehmigung und des Vorbescheides beträgt sechs Jahre. Die Baugene\nhmigung erlischt nicht, wenn das Vorhaben innerhalb der Frist nach Satz 1 begonnen worden und spätestens ein Jahr nach Ablauf der Frist fertig gestellt ist.",
+          "text_full": "§ 69 Geltungsdauer der Genehmigung Die Geltungsdauer der Baugenehmigung und des Vorbescheides beträgt sechs Jahre. Die Baugene\nhmigung erlischt nicht, wenn das Vorhaben innerhalb der Frist nach Satz 1 begonnen worden und spätestens ein Jahr nach Ablauf der Frist fertig gestellt ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "score": 0.6741,
+          "text_preview": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "text_full": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 73 Baueinstellung und Nutzungsuntersagung",
+          "score": 0.652,
+          "text_preview": "§ 73 Baueinstellung und Nutzungsuntersagung\n(1) Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn\n1. die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde,\n2. bei der Ausführung eines Bauvorhabens von den genehmigten oder angezeigten Bauvorl",
+          "text_full": "§ 73 Baueinstellung und Nutzungsuntersagung\n(1) Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn\n1. die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde,\n2. bei der Ausführung eines Bauvorhabens von den genehmigten oder angezeigten Bauvorlagen abgewichen oder gegen baurechtliche Vorschriften verstoßen wird,\n3. Bauprodukte verwendet werden, die nach § 14 nicht gehandelt oder in den Verkehr gebracht werden dürfen,\n4. Bauprodukte verwendet werden, die unberechtigt mit dem CE-Zeichen (§ 14 Abs. 1 Nr. 2) oder dem Ü-Zeichen (§ 19 Abs. 4) gekennzeichnet sind.\n(2) Werden unzulässige Bauarbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so soll die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle\n\n vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen.\n(3) Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 57 Vereinfachtes Baugenehmigungsverfahren",
+          "score": 0.65,
+          "text_preview": "§ 57 Vereinfachtes Baugenehmigungsverfahren\n(1) Für die Errichtung und Änderung von Wohngebäuden geringer und mittlerer Höhe, einschließlich ihrer Garagen, Nebengebäude und Nebenanlagen, im Geltungsbereich eines rechtswirksamen Bebauungsplans nach § 30 Abs. 1 oder 2 des Baugesetzbuchs wird abweichen",
+          "text_full": "§ 57 Vereinfachtes Baugenehmigungsverfahren\n(1) Für die Errichtung und Änderung von Wohngebäuden geringer und mittlerer Höhe, einschließlich ihrer Garagen, Nebengebäude und Nebenanlagen, im Geltungsbereich eines rechtswirksamen Bebauungsplans nach § 30 Abs. 1 oder 2 des Baugesetzbuchs wird abweichend von § 56 auf Antrag des Bauherrn ein vereinfachtes Baugenehmigungsverfahren durchgeführt, wenn das Vorhaben den Festsetzungen des Bebauungsplans nicht widerspricht und die Erschließung gesichert ist.\n(2) Der Bauherr hat mit dem vollständigen Bauantrag die schriftliche Erklärung des Objektplaners vorzulegen, dass für das Vorhaben die Zulassung von Ausnahmen oder Befreiungen nach § 31 des Baugesetzbuchs sowie von Abweichungen nach den §§ 60 und 61 nicht erforderlich ist und das Vorhaben im Übrigen den öffentlich-rechtlichen Vorschriften entspricht.\n(3) Die Bauaufsichtsbehörde prüft die Beachtung\n1. der Festsetzungen des Bebauungsplans,\n2. anderer öffentlich-rechtlicher Vorschriften, soweit diese für das Vorhaben beachtlich sind.\n(4) Liegen die Voraussetzungen der Absätze 1 bis 3 vor, erteilt die Bauaufsichtsbehörde die Baugenehmigung binnen eines Monats nach Eingang des Bauantrags."
+        }
+      ],
+      "top_score": 0.7033
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 67 Baugenehmigung",
+          "score": 0.7145,
+          "text_preview": "5 Satz 2 des Baugesetzbuchs vorliegt und ihr für die Einhaltung der Rückbauverpflichtung Sicherheit in Höhe der Kosten der Beseitigung der baulichen Anlage oder gleichwertige Sicherheit geleistet ist. Dies gilt auch, soweit andere behördliche Gestattungen die Baugenehmigung einschließen oder ersetze",
+          "text_full": "5 Satz 2 des Baugesetzbuchs vorliegt und ihr für die Einhaltung der Rückbauverpflichtung Sicherheit in Höhe der Kosten der Beseitigung der baulichen Anlage oder gleichwertige Sicherheit geleistet ist. Dies gilt auch, soweit andere behördliche Gestattungen die Baugenehmigung einschließen oder ersetzen.\n(4) Die Baugenehmigung bedarf der Schriftform. In der Baugenehmigung ist anzugeben, welche weiteren behördlichen Entscheidungen sie einschließt. Dem Bauherrn ist die Baugenehmigung mit einer Ausfertigung der genehmigten Bauvorlagen zuzustellen.\n(5) Die Baugenehmigung gilt auch für und gegen den Rechtsnachfolger des Bauherrn.\n(6) Die Baugenehmigung wird unbeschadet der privaten Rechte Dritter erteilt.\n(7) Der amtsfreien Gemeinde oder dem Amt und dem Objektplaner ist die Entscheidung der Bauaufsichtsbehörde im bauaufsichtlichen Genehmigungsverfahren durch eine Ausfertigung des Bescheides bekannt zu geben."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 18 Bauarten",
+          "score": 0.7032,
+          "text_preview": "§ 18 Bauarten\n(1) Bauarten, die von Technischen Baubestimmungen wesentlich abweichen oder für die es allgemein anerkannte Regeln der Technik nicht gibt (nicht geregelte Bauarten), dürfen bei der Errichtung, Änderung und Instandhaltung baulicher Anlagen nur angewendet werden, wenn für sie\n1. eine all",
+          "text_full": "§ 18 Bauarten\n(1) Bauarten, die von Technischen Baubestimmungen wesentlich abweichen oder für die es allgemein anerkannte Regeln der Technik nicht gibt (nicht geregelte Bauarten), dürfen bei der Errichtung, Änderung und Instandhaltung baulicher Anlagen nur angewendet werden, wenn für sie\n1. eine allgemeine bauaufsichtliche Zulassung oder\n2. eine Zustimmung im Einzelfall erteilt worden ist. § 14 Abs. 5 und 6 sowie die §§ 15 bis 17 gelten entsprechend. Wenn Gefahren im Sinne des § 3 Abs. 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine allgemeine bauaufsichtliche Zulassung, ein allgemeines bauaufsichtliches Prüfzeugnis oder eine Zustimmung im Einzelfall nicht erforderlich ist.\n(2) Das für die Bauaufsicht zuständige Mitglied der Landesregierung kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, Absatz 1 ganz oder teilweise anwendbar ist, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 57 Vereinfachtes Baugenehmigungsverfahren",
+          "score": 0.7024,
+          "text_preview": "§ 57 Vereinfachtes Baugenehmigungsverfahren\n(1) Für die Errichtung und Änderung von Wohngebäuden geringer und mittlerer Höhe, einschließlich ihrer Garagen, Nebengebäude und Nebenanlagen, im Geltungsbereich eines rechtswirksamen Bebauungsplans nach § 30 Abs. 1 oder 2 des Baugesetzbuchs wird abweichen",
+          "text_full": "§ 57 Vereinfachtes Baugenehmigungsverfahren\n(1) Für die Errichtung und Änderung von Wohngebäuden geringer und mittlerer Höhe, einschließlich ihrer Garagen, Nebengebäude und Nebenanlagen, im Geltungsbereich eines rechtswirksamen Bebauungsplans nach § 30 Abs. 1 oder 2 des Baugesetzbuchs wird abweichend von § 56 auf Antrag des Bauherrn ein vereinfachtes Baugenehmigungsverfahren durchgeführt, wenn das Vorhaben den Festsetzungen des Bebauungsplans nicht widerspricht und die Erschließung gesichert ist.\n(2) Der Bauherr hat mit dem vollständigen Bauantrag die schriftliche Erklärung des Objektplaners vorzulegen, dass für das Vorhaben die Zulassung von Ausnahmen oder Befreiungen nach § 31 des Baugesetzbuchs sowie von Abweichungen nach den §§ 60 und 61 nicht erforderlich ist und das Vorhaben im Übrigen den öffentlich-rechtlichen Vorschriften entspricht.\n(3) Die Bauaufsichtsbehörde prüft die Beachtung\n1. der Festsetzungen des Bebauungsplans,\n2. anderer öffentlich-rechtlicher Vorschriften, soweit diese für das Vorhaben beachtlich sind.\n(4) Liegen die Voraussetzungen der Absätze 1 bis 3 vor, erteilt die Bauaufsichtsbehörde die Baugenehmigung binnen eines Monats nach Eingang des Bauantrags."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 73 Baueinstellung und Nutzungsuntersagung",
+          "score": 0.687,
+          "text_preview": "§ 73 Baueinstellung und Nutzungsuntersagung\n(1) Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn\n1. die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde,\n2. bei der Ausführung eines Bauvorhabens von den genehmigten oder angezeigten Bauvorl",
+          "text_full": "§ 73 Baueinstellung und Nutzungsuntersagung\n(1) Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn\n1. die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde,\n2. bei der Ausführung eines Bauvorhabens von den genehmigten oder angezeigten Bauvorlagen abgewichen oder gegen baurechtliche Vorschriften verstoßen wird,\n3. Bauprodukte verwendet werden, die nach § 14 nicht gehandelt oder in den Verkehr gebracht werden dürfen,\n4. Bauprodukte verwendet werden, die unberechtigt mit dem CE-Zeichen (§ 14 Abs. 1 Nr. 2) oder dem Ü-Zeichen (§ 19 Abs. 4) gekennzeichnet sind.\n(2) Werden unzulässige Bauarbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so soll die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle\n\n vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen.\n(3) Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 55 Genehmigungsfreie Vorhaben",
+          "score": 0.6863,
+          "text_preview": "§ 55 Genehmigungsfreie Vorhaben\n(1) Die Genehmigungsfreiheit nach den Absätzen 2 bis 13 gilt nur für selbstständige Einzelvorhaben und entbindet nicht von der Verpflichtung, die durch öffentlich-rechtliche Vorschriften an bauliche Anlagen und andere Anlagen und Einrichtungen gestellten Anforderungen",
+          "text_full": "§ 55 Genehmigungsfreie Vorhaben\n(1) Die Genehmigungsfreiheit nach den Absätzen 2 bis 13 gilt nur für selbstständige Einzelvorhaben und entbindet nicht von der Verpflichtung, die durch öffentlich-rechtliche Vorschriften an bauliche Anlagen und andere Anlagen und Einrichtungen gestellten Anforderungen einzuhalten, insbesondere auch die in örtlichen Bauvorschriften, einem Bebauungsplan nach § 30 Abs. 1 bis 3 oder einer Satzung nach § 34 Abs. 4 des Baugesetzbuchs getroffenen Festsetzungen zu beachten. Die Genehmigungsfreiheit entbindet nicht davon, den nach öffentlich-rechtlichen Vorschriften vorgeschriebenen Anzeigepflichten nachzukommen sowie sonstige für die Durchführung des Vorhabens erforderliche behördliche Entscheidungen einzuholen.\n(2) Keiner Baugenehmigung bedürfen die Errichtung oder Änderung folgender Gebäude:\n\n1. Gebäude ohne Aufenthaltsräume, Toiletten oder Feuerstätten mit nicht mehr als 75 m3 umbautem Raum, die nicht im Außenbereich liegen; dies gilt nicht für Garagen, Ställe sowie Gebäude, die Verkaufs- oder Ausstellungszwecken dienen,\n2."
+        }
+      ],
+      "top_score": 0.7145
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 74 Beseitigungsanordnung",
+          "score": 0.7545,
+          "text_preview": "§ 74 Beseitigungsanordnung\n(1) Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, so können die Bauaufsichtsbehörden die teilweise oder vollständige Beseitigung der baulichen Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände herges",
+          "text_full": "§ 74 Beseitigungsanordnung\n(1) Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, so können die Bauaufsichtsbehörden die teilweise oder vollständige Beseitigung der baulichen Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können.\n(2) Die Bauaufsichtsbehörde kann die Beseitigung einer baulichen Anlage auch dann anordnen, wenn diese nicht genutzt wird und zu verfallen droht und ein öffentliches oder schutzwürdiges privates Interesse an ihrer Erhaltung nicht besteht.\n(3) Absatz 1 gilt für Werbeanlagen entsprechend. Werden rechtswidrig errichtete Werbeanlagen trotz einer bestandskräftigen oder sofort vollziehbaren Beseitigungsanordnung nicht beseitigt oder kann der Beseitigungspflichtige nicht festgestellt werden, so soll die Bauaufsichtsbehörde die Werbeanlage in amtlichen Gewahrsam nehmen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 18 Bauarten",
+          "score": 0.753,
+          "text_preview": "§ 18 Bauarten\n(1) Bauarten, die von Technischen Baubestimmungen wesentlich abweichen oder für die es allgemein anerkannte Regeln der Technik nicht gibt (nicht geregelte Bauarten), dürfen bei der Errichtung, Änderung und Instandhaltung baulicher Anlagen nur angewendet werden, wenn für sie\n1. eine all",
+          "text_full": "§ 18 Bauarten\n(1) Bauarten, die von Technischen Baubestimmungen wesentlich abweichen oder für die es allgemein anerkannte Regeln der Technik nicht gibt (nicht geregelte Bauarten), dürfen bei der Errichtung, Änderung und Instandhaltung baulicher Anlagen nur angewendet werden, wenn für sie\n1. eine allgemeine bauaufsichtliche Zulassung oder\n2. eine Zustimmung im Einzelfall erteilt worden ist. § 14 Abs. 5 und 6 sowie die §§ 15 bis 17 gelten entsprechend. Wenn Gefahren im Sinne des § 3 Abs. 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine allgemeine bauaufsichtliche Zulassung, ein allgemeines bauaufsichtliches Prüfzeugnis oder eine Zustimmung im Einzelfall nicht erforderlich ist.\n(2) Das für die Bauaufsicht zuständige Mitglied der Landesregierung kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, Absatz 1 ganz oder teilweise anwendbar ist, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 73 Baueinstellung und Nutzungsuntersagung",
+          "score": 0.7375,
+          "text_preview": "§ 73 Baueinstellung und Nutzungsuntersagung\n(1) Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn\n1. die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde,\n2. bei der Ausführung eines Bauvorhabens von den genehmigten oder angezeigten Bauvorl",
+          "text_full": "§ 73 Baueinstellung und Nutzungsuntersagung\n(1) Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn\n1. die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde,\n2. bei der Ausführung eines Bauvorhabens von den genehmigten oder angezeigten Bauvorlagen abgewichen oder gegen baurechtliche Vorschriften verstoßen wird,\n3. Bauprodukte verwendet werden, die nach § 14 nicht gehandelt oder in den Verkehr gebracht werden dürfen,\n4. Bauprodukte verwendet werden, die unberechtigt mit dem CE-Zeichen (§ 14 Abs. 1 Nr. 2) oder dem Ü-Zeichen (§ 19 Abs. 4) gekennzeichnet sind.\n(2) Werden unzulässige Bauarbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so soll die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle\n\n vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen.\n(3) Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 45 Barrierefreies Bauen",
+          "score": 0.7317,
+          "text_preview": "(6) Lassen sich die Anforderungen der Absätze 1 bis 4 nur mit unverhältnismäßig hohem Aufwand oder unzumutbaren Mehrkosten verwirklichen, so kann die Bauaufsichtsbehörde zulassen, dass\n\n die Anforderungen auf einen Teil der baulichen Anlage beschränkt werden, wenn dabei die zweckentsprechende Nutzun",
+          "text_full": "(6) Lassen sich die Anforderungen der Absätze 1 bis 4 nur mit unverhältnismäßig hohem Aufwand oder unzumutbaren Mehrkosten verwirklichen, so kann die Bauaufsichtsbehörde zulassen, dass\n\n die Anforderungen auf einen Teil der baulichen Anlage beschränkt werden, wenn dabei die zweckentsprechende Nutzung durch die auf barrierefreie Zugänglichkeit angewiesenen Personen gewährleistet bleibt. Im Fall des Absatzes 1 muss die Zugänglichkeit der Wohnungen für die Benutzer von Rollstühlen gewährleistet bleiben. § 60 Abs. 1 Satz 1 bleibt unberührt.\nTeil 4 Die am Bau Beteiligten"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 78 Anpassung bestehender baulicher Anlagen",
+          "score": 0.7262,
+          "text_preview": "§ 78 Anpassung bestehender baulicher Anlagen\n(1) Wenn es zur Abwehr von erheblichen Gefahren für Leben oder Gesundheit erforderlich ist, können die Bauaufsichtsbehörden die Vorschriften dieses Gesetzes oder die aufgrund dieses Gesetzes erlassenen Vorschriften auch auf bestehende bauliche Anlagen und",
+          "text_full": "§ 78 Anpassung bestehender baulicher Anlagen\n(1) Wenn es zur Abwehr von erheblichen Gefahren für Leben oder Gesundheit erforderlich ist, können die Bauaufsichtsbehörden die Vorschriften dieses Gesetzes oder die aufgrund dieses Gesetzes erlassenen Vorschriften auch auf bestehende bauliche Anlagen und andere Anlagen und Einrichtungen anwenden.\n(2) Sollen bauliche Anlagen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile der baulichen Anlage mit diesem Gesetz oder den aufgrund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn\n1. die Bauteile, die diesen Vorschriften nicht mehr entsprechen, mit den beabsichtigten Arbeiten in einem konstruktiven Zusammenhang stehen und\n2. die Durchführung dieser Vorschriften bei den von den Arbeiten nicht berührten Teilen der baulichen Anlage keine unzumutbaren Mehrkosten verursacht.\nAbschnitt 4 Ordnungswidrigkeiten"
+        }
+      ],
+      "top_score": 0.7545
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 80 Ermächtigung zum Erlass von Rechtsverordnungen",
+          "score": 0.7617,
+          "text_preview": "§ 80 Ermächtigung zum Erlass von Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Abs. 1 bis 3 bezeichneten Anforderungen wird das für die Bauaufsicht zuständige Mitglied der Landesregierung ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung der in den §§ 3",
+          "text_full": "§ 80 Ermächtigung zum Erlass von Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Abs. 1 bis 3 bezeichneten Anforderungen wird das für die Bauaufsicht zuständige Mitglied der Landesregierung ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung der in den §§ 3 bis 13 und 23 bis 45 benannten Anforderungen an bauliche Anlagen und andere Anlagen und Einrichtungen, insbesondere über besondere oder erleichterte Anforderungen an Sonderbauten, sowie über deren Anwendung auf bestehende bauliche Anlagen,\n2. die erstmalige und wiederkehrende Prüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß instand gesetzt und instand gehalten werden müssen und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n3. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen, wie Bühnenbetriebe und technisch schwierige Fliegende Bauten, sowie den Nachweis der Befähigung dieser Personen,\n4. die Umsetzung der in Richtlinien der Europäischen Gemeinschaften enthaltenen bauordnungsrechtlichen Anforderungen in Landesrecht."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 80 Ermächtigung zum Erlass von Rechtsverordnungen",
+          "score": 0.7512,
+          "text_preview": "1, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen zu regeln, insbesondere auch Altersgrenzen festzulegen, sowie eine ausreichende Haftpflichtversicherung zu fordern.\n(5) Das für die Bauaufsicht zuständige Mitglied der Landesregierung wird ermächtigt, durch Rechtsverordnung",
+          "text_full": "1, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen zu regeln, insbesondere auch Altersgrenzen festzulegen, sowie eine ausreichende Haftpflichtversicherung zu fordern.\n(5) Das für die Bauaufsicht zuständige Mitglied der Landesregierung wird ermächtigt, durch Rechtsverordnung die Zuständigkeit für\n1. die Zustimmung im Einzelfall (§§ 17 und 18),\n2. die Erteilung von Typenprüfungen (§ 66 Abs. 8),\n3. die Genehmigung Fliegender Bauten (§ 71),\n4. die Prüfung bautechnischer Nachweise besonderen Schwierigkeitsgrades, einschließlich der Überprüfung der Bauausführung,\n5. die Zustimmung zu Vorhaben öffentlicher Bauherrn (§ 72),\n6. die Beratung der unteren Bauaufsichtsbehörden in bauaufsichtlichen Angelegenheiten zur landesweit einheitlichen Wahrnehmung auf eine der obersten Bauaufsichtsbehörde nachgeordnete Behörde zu übertragen. Die Zuständigkeiten für die Erledigung der Aufgaben nach Satz 1 Nr. 2 bis 4 und der Aufgaben nach § 71 sowie die für die Erledigung dieser Aufgaben erforderlichen Befugnisse können durch Beleihung nach § 21 des Landesorganisationsgesetzes übertragen werden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 60 Zulassung von Abweichungen",
+          "score": 0.7465,
+          "text_preview": "§ 60 Zulassung von Abweichungen\n(1) Die Bauaufsichtsbehörde kann auf Antrag Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn die Abweichungen\n1. dem Schutzziel der jeweiligen Anforderung entsprechen,\n2. unter Würdigung der öffentlich-",
+          "text_full": "§ 60 Zulassung von Abweichungen\n(1) Die Bauaufsichtsbehörde kann auf Antrag Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn die Abweichungen\n1. dem Schutzziel der jeweiligen Anforderung entsprechen,\n2. unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 Abs. 1, vereinbar sind. Satz 1 gilt entsprechend für die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist.\n(2) Zu Abweichungen von örtlichen Bauvorschriften nach § 81 ist das Einvernehmen der Gemeinde erforderlich. § 36 Abs. 2 Satz 2 des Baugesetzbuchs gilt entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 65 Rechtliche Sicherung",
+          "score": 0.7388,
+          "text_preview": "§ 65 Rechtliche Sicherung\n(1) Die zur Erfüllung öffentlich-rechtlicher Anforderungen zu übernehmenden Verpflichtungen sind durch Eintragung einer beschränkten persönlichen Dienstbarkeit im Grundbuch des zu belastenden Grundstücks zu Gunsten der Gebietskörperschaft rechtlich zu sichern, die die Aufga",
+          "text_full": "§ 65 Rechtliche Sicherung\n(1) Die zur Erfüllung öffentlich-rechtlicher Anforderungen zu übernehmenden Verpflichtungen sind durch Eintragung einer beschränkten persönlichen Dienstbarkeit im Grundbuch des zu belastenden Grundstücks zu Gunsten der Gebietskörperschaft rechtlich zu sichern, die die Aufgaben der Bauaufsichtsbehörde wahrnimmt.\n(2) Die Baugenehmigung kann erteilt werden, wenn die Dienstbarkeit oder eine entsprechende Vormerkung eingetragen oder nachgewiesen ist, dass der Antrag auf Eintragung der Dienstbarkeit oder Vormerkung beim Grundbuchamt eingegangen ist.\n(3) Die Dienstbarkeit soll im Rang vor Grundpfandrechten eingetragen werden. Davon kann abgewichen werden, wenn ein Rangrücktritt vorrangiger Rechte nicht möglich ist.\n(4) Eine beschränkte persönliche Dienstbarkeit ist nicht erforderlich, wenn die Miteigentümer die Verwaltung und Benutzung des dienenden Grundstücks geregelt sowie das Recht, die Aufhebung der Gemeinschaft zu verlangen, auf Dauer ausgeschlossen haben und dies gemäß § 1010 des Bürgerlichen Gesetzbuchs in Verbindung mit § 3 Abs. 4 bis 6 der Grundbuchordnung im Grundbuch eingetragen ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 78 Anpassung bestehender baulicher Anlagen",
+          "score": 0.7304,
+          "text_preview": "§ 78 Anpassung bestehender baulicher Anlagen\n(1) Wenn es zur Abwehr von erheblichen Gefahren für Leben oder Gesundheit erforderlich ist, können die Bauaufsichtsbehörden die Vorschriften dieses Gesetzes oder die aufgrund dieses Gesetzes erlassenen Vorschriften auch auf bestehende bauliche Anlagen und",
+          "text_full": "§ 78 Anpassung bestehender baulicher Anlagen\n(1) Wenn es zur Abwehr von erheblichen Gefahren für Leben oder Gesundheit erforderlich ist, können die Bauaufsichtsbehörden die Vorschriften dieses Gesetzes oder die aufgrund dieses Gesetzes erlassenen Vorschriften auch auf bestehende bauliche Anlagen und andere Anlagen und Einrichtungen anwenden.\n(2) Sollen bauliche Anlagen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile der baulichen Anlage mit diesem Gesetz oder den aufgrund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn\n1. die Bauteile, die diesen Vorschriften nicht mehr entsprechen, mit den beabsichtigten Arbeiten in einem konstruktiven Zusammenhang stehen und\n2. die Durchführung dieser Vorschriften bei den von den Arbeiten nicht berührten Teilen der baulichen Anlage keine unzumutbaren Mehrkosten verursacht.\nAbschnitt 4 Ordnungswidrigkeiten"
+        }
+      ],
+      "top_score": 0.7617
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.7308,
+          "text_preview": "§ 6 Abstandsflächen\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften das Gebäude an die Grundstücksgren",
+          "text_full": "§ 6 Abstandsflächen\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften das Gebäude an die Grundstücksgrenze gebaut werden muss oder darf.\n(2) Die Abstandsflächen müssen auf dem Grundstück selbst liegen. Die Abstandsflächen dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen oder öffentlichen Wasserflächen liegen, jedoch nur bis zu deren Mitte. Eine geringfügige Erstreckung von Abstandsflächen auf das Nachbargrundstück mit einer Breite von nicht mehr als 4 m und einer Tiefe von nicht mehr als 1 m, höchstens jedoch einer Fläche von insgesamt nicht mehr als 2 m , ist zulässig. Abweichend von\n\n Satz 1 dürfen sich Abstandsflächen ganz oder teilweise auf ein Nachbargrundstück erstrecken, wenn rechtlich gesichert ist, dass sie nicht überbaut werden und sich nicht mit anderen Abstandsflächen überdecken.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75° zueinander stehen,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 81 Örtliche Bauvorschriften",
+          "score": 0.7082,
+          "text_preview": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach",
+          "text_full": "Die Festsetzungen über die überbaubaren Grundstücksflächen und die Höhe der baulichen Anlagen müssen so bestimmt sein, dass die nach"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 6 Abstandsflächen",
+          "score": 0.6588,
+          "text_preview": "In Gewerbeund Industriegebieten sowie in Sondergebieten, die nicht der Erholung dienen, beträgt die Tiefe der Abstandsflächen 0,25 H, mindestens 3 m. Bestimmt eine örtliche Bauvorschrift nach § 81 eine geringere oder größere Tiefe der Abstandsflächen, so gilt diese Tiefe.\n(6) Vor den Außenwänden von",
+          "text_full": "In Gewerbeund Industriegebieten sowie in Sondergebieten, die nicht der Erholung dienen, beträgt die Tiefe der Abstandsflächen 0,25 H, mindestens 3 m. Bestimmt eine örtliche Bauvorschrift nach § 81 eine geringere oder größere Tiefe der Abstandsflächen, so gilt diese Tiefe.\n(6) Vor den Außenwänden von Wohngebäuden mit nicht mehr als zwei oberirdischen Geschossen und nicht mehr als 9 m Gebäudehöhe genügt als Tiefe der Abstandsfläche 3 m. Absatz 2 Satz 3 ist nicht anzuwenden.\n(7) Bei der Bemessung der Abstandsflächen werden folgende untergeordnete Bauteile nicht berücksichtigt:\n1. Pfeiler, Gesimse, Dachüberstände und andere Bauteile, die nicht mehr als 1 m vor die Außenwand vortreten,\n2. Stufen, Podeste und Überdachungen vor Hauseingängen, die nicht mehr als 1,5 m vor die Außenwand vortreten,\n3. untergeordnete Vorbauten, wie a. Wintergärten mit nicht mehr als 5 m Breite, wenn sie über nicht mehr als zwei Geschosse reichen und nicht mehr als 3 m vortreten, b. Balkone mit nicht mehr als 5 m Breite, wenn sie nicht mehr als 2 m vortreten, c. andere Vorbauten mit nicht mehr als 3 m Breite, wenn sie über nicht mehr als zwei Geschosse reichen und nicht mehr als 1 m vortreten,\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 3 Abs. 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vor",
+          "score": 0.6415,
+          "text_preview": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Ano",
+          "text_full": "(3) Die Anforderungen und Erleichterungen nach Absatz 1 können sich insbesondere erstrecken auf\n1. die Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Baugrundstücke,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Bauart und Anordnung aller für die Stand- oder die Verkehrssicherheit, den Brand-, den Wärme-, den Schall- oder den Gesundheitsschutz wesentlichen Bauteile,\n5. die Brandschutzeinrichtungen, die Brandschutzvorkehrungen und die Löschwasserrückhaltung,\n6. die Feuerungsanlagen und Heizräume,\n7. die Anordnung und Herstellung der Aufzüge sowie der Treppen, Treppenräume, Flure, Ausgänge und sonstigen Rettungswege,\n8. die zulässige Zahl der Benutzer, Anordnung und Zahl der zulässigen Sitzplätze und Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n9. die Lüftung,\n10. die Beleuchtung und Energieversorgung,\n11. die Wasserversorgung,\n12. die Aufbewahrung und Beseitigung von Abwasser und von festen Abfallstoffen,\n13."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6411,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist, oder wenn die Anlage nach ihrem Verwe",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist, oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Zu den baulichen Anlagen zählen auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Campingplätze, Wochenendhausplätze, Spielplätze und Sportplätze,\n4. Stellplätze für Kraftfahrzeuge und Abstellplätze für Fahrräder,\n5. Gerüste,\n6. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n7. künstliche Hohlräume unter der Geländeoberfläche,\n8. Seilbahnen.\n(2) Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) Gebäude geringer Höhe sind Gebäude, bei denen der Fußboden eines oberirdischen Geschosses nicht höher als 7 m über der Geländeoberfläche liegt."
+        }
+      ],
+      "top_score": 0.7308
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 29 Erster und zweiter Rettungsweg",
+          "score": 0.752,
+          "text_preview": "§ 29 Erster und zweiter Rettungsweg\n(1) Rettungswege müssen so angeordnet und ausgebildet sein, dass im Brandfall ihre Benutzung ausreichend lange möglich ist. Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen oder selbstständige Betriebsstätten, müssen in jedem Gesch",
+          "text_full": "§ 29 Erster und zweiter Rettungsweg\n(1) Rettungswege müssen so angeordnet und ausgebildet sein, dass im Brandfall ihre Benutzung ausreichend lange möglich ist. Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum, wie Wohnungen, Praxen oder selbstständige Betriebsstätten, müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. Beide Rettungswege dürfen innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum) oder wenn die Nutzungseinheit zu ebener Erde liegt und die Flucht ins Freie sicher möglich ist.\n(2) Für Nutzungseinheiten, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über mindestens eine notwendige Treppe führen. Der zweite Rettungsweg muss eine weitere notwendige Treppe oder eine Außentreppe sein.\n(3) Bei Gebäuden geringer Höhe darf der zweite Rettungsweg eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 12 Brandschutz",
+          "score": 0.6794,
+          "text_preview": "§ 12 Brandschutz\n(1) Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räu",
+          "text_full": "§ 12 Brandschutz\n(1) Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räumen und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anforderungen an das Brandverhalten unterschieden in\n1. normalentflammbar,\n2. schwerentflammbar,\n3. nichtbrennbar. Baustoffe, die nicht mindestens normalentflammbar sind (leicht-entflammbare Baustoffe), dürfen nur in einem Verbund mit anderen Baustoffen verwendet werden, der den Anforderungen nach Satz 1 entspricht.\n(3) Bauliche Anlagen, bei denen nach Lage, Bauart oder Nutzung Blitzschlag leicht eintreten oder zu schweren Folgen führen kann, sind mit dauernd wirksamen Blitzschutzanlagen zu versehen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 29 Erster und zweiter Rettungsweg",
+          "score": 0.6627,
+          "text_preview": "Bei Gebäuden mittlerer Höhe darf der zweite Rettungsweg eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein, wenn die Feuerwehr über die erforderlichen Rettungsgeräte, wie Hubrettungsfahrzeuge, verfügt. Bei Gebäuden oder Nutzungseinheiten, die für eine größere Zahl von",
+          "text_full": "Bei Gebäuden mittlerer Höhe darf der zweite Rettungsweg eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein, wenn die Feuerwehr über die erforderlichen Rettungsgeräte, wie Hubrettungsfahrzeuge, verfügt. Bei Gebäuden oder Nutzungseinheiten, die für eine größere Zahl von Personen bestimmt sind, sind die Sätze 1 und 2 nicht anzuwenden.\n(4) Flure und offene Gänge, über die Rettungswege von Aufenthaltsräumen oder Nutzungseinheiten zu notwendigen Treppenräumen oder zu Ausgängen ins Freie führen (notwendige Flure) müssen so angeordnet und ausgebildet sein, dass im Brandfall ihre Benutzung als Rettungsweg ausreichend lange möglich ist. Als notwendige Flure gelten nicht\n1. Flure innerhalb von Wohnungen,\n2. Flure innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen und deren Grundfläche in einem Geschoss nicht mehr als 400 m beträgt.\n(5) Notwendige Flure von mehr als 30 m Länge sind durch nichtabschließbare selbstschließende Rauchschutzabschlüsse in Rauchabschnitte zu unterteilen. Die Rauchschutzabschlüsse sind bis unter die Rohdecke zu führen; sie dürfen bis unter die Unterdecke geführt werden, wenn diese feuerhemmend ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten der Grundstücke",
+          "score": 0.6257,
+          "text_preview": "§ 5 Zugänge und Zufahrten der Grundstücke\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuer",
+          "text_full": "§ 5 Zugänge und Zufahrten der Grundstücke\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt.\n(2) Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Absatzes 1 anstelle eines Zuoder Durchgangs eine Zu- oder Durchfahrt zu schaffen.\n(3) Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Absatz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind.\n(4) Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, so sind die dafür erforderlichen Aufstell- und Bewegungsflächen herzustellen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 27 Außenwände",
+          "score": 0.5732,
+          "text_preview": "(5) Bei Außenwandkonstruktionen, die eine Brandausbreitung über diese Bauteile begünstigen können, wie Doppelfassaden oder hinterlüftete Außenwandbekleidungen, sind gegen die Brandausbreitung besondere Vorkehrungen zu treffen.",
+          "text_full": "(5) Bei Außenwandkonstruktionen, die eine Brandausbreitung über diese Bauteile begünstigen können, wie Doppelfassaden oder hinterlüftete Außenwandbekleidungen, sind gegen die Brandausbreitung besondere Vorkehrungen zu treffen."
+        }
+      ],
+      "top_score": 0.752
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 80 Ermächtigung zum Erlass von Rechtsverordnungen",
+          "score": 0.5988,
+          "text_preview": "1, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen zu regeln, insbesondere auch Altersgrenzen festzulegen, sowie eine ausreichende Haftpflichtversicherung zu fordern.\n(5) Das für die Bauaufsicht zuständige Mitglied der Landesregierung wird ermächtigt, durch Rechtsverordnung",
+          "text_full": "1, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen zu regeln, insbesondere auch Altersgrenzen festzulegen, sowie eine ausreichende Haftpflichtversicherung zu fordern.\n(5) Das für die Bauaufsicht zuständige Mitglied der Landesregierung wird ermächtigt, durch Rechtsverordnung die Zuständigkeit für\n1. die Zustimmung im Einzelfall (§§ 17 und 18),\n2. die Erteilung von Typenprüfungen (§ 66 Abs. 8),\n3. die Genehmigung Fliegender Bauten (§ 71),\n4. die Prüfung bautechnischer Nachweise besonderen Schwierigkeitsgrades, einschließlich der Überprüfung der Bauausführung,\n5. die Zustimmung zu Vorhaben öffentlicher Bauherrn (§ 72),\n6. die Beratung der unteren Bauaufsichtsbehörden in bauaufsichtlichen Angelegenheiten zur landesweit einheitlichen Wahrnehmung auf eine der obersten Bauaufsichtsbehörde nachgeordnete Behörde zu übertragen. Die Zuständigkeiten für die Erledigung der Aufgaben nach Satz 1 Nr. 2 bis 4 und der Aufgaben nach § 71 sowie die für die Erledigung dieser Aufgaben erforderlichen Befugnisse können durch Beleihung nach § 21 des Landesorganisationsgesetzes übertragen werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 45 Barrierefreies Bauen",
+          "score": 0.5841,
+          "text_preview": "(6) Lassen sich die Anforderungen der Absätze 1 bis 4 nur mit unverhältnismäßig hohem Aufwand oder unzumutbaren Mehrkosten verwirklichen, so kann die Bauaufsichtsbehörde zulassen, dass\n\n die Anforderungen auf einen Teil der baulichen Anlage beschränkt werden, wenn dabei die zweckentsprechende Nutzun",
+          "text_full": "(6) Lassen sich die Anforderungen der Absätze 1 bis 4 nur mit unverhältnismäßig hohem Aufwand oder unzumutbaren Mehrkosten verwirklichen, so kann die Bauaufsichtsbehörde zulassen, dass\n\n die Anforderungen auf einen Teil der baulichen Anlage beschränkt werden, wenn dabei die zweckentsprechende Nutzung durch die auf barrierefreie Zugänglichkeit angewiesenen Personen gewährleistet bleibt. Im Fall des Absatzes 1 muss die Zugänglichkeit der Wohnungen für die Benutzer von Rollstühlen gewährleistet bleiben. § 60 Abs. 1 Satz 1 bleibt unberührt.\nTeil 4 Die am Bau Beteiligten"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 71 Besondere Verfahrensvorschriften für Fliegende Bauten",
+          "score": 0.5832,
+          "text_preview": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige untere Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssic",
+          "text_full": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige untere Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit oder Standsicherheit nicht oder nicht mehr gewährleistet ist oder weil von der Ausführungsgenehmigung abgewichen wird. Wird die Aufstellung oder der Gebrauch aufgrund von Mängeln am Fliegenden Bau untersagt, so ist dies in das Prüfbuch einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n(8) Bei Fliegenden Bauten, die von Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. Das Ergebnis der Nachabnahme ist in das Prüfbuch einzutragen.\n\n(9) § 62 Abs. 2 und 4 und § 75 gelten entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 14 Bauprodukte",
+          "score": 0.5809,
+          "text_preview": "§ 14 Bauprodukte\n(1) Bauprodukte dürfen für die Errichtung, Änderung, Instandsetzung und Instandhaltung baulicher Anlagen nur verwendet werden, wenn sie für den Verwendungszweck\n1. von den nach Absatz 2 bekannt gemachten technischen Regeln nicht oder nicht wesentlich abweichen (geregelte Bauprodukte",
+          "text_full": "§ 14 Bauprodukte\n(1) Bauprodukte dürfen für die Errichtung, Änderung, Instandsetzung und Instandhaltung baulicher Anlagen nur verwendet werden, wenn sie für den Verwendungszweck\n1. von den nach Absatz 2 bekannt gemachten technischen Regeln nicht oder nicht wesentlich abweichen (geregelte Bauprodukte) oder nach Absatz 3 zulässig sind und wenn sie aufgrund des Übereinstimmungsnachweises nach § 19 das Übereinstimmungszeichen (Ü-Zeichen) tragen oder\n2. nach den Vorschriften a. des Bauproduktengesetzes, b. zur Umsetzung der Richtlinie 89/106/EWG des Rates zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Bauprodukte (Bauproduktenrichtlinie) vom 21. Dezember 1988 (ABl. EG Nr. L 40 S. 12) durch andere Mitgliedstaaten der\n\n Europäischen Union und andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder c. zur Umsetzung sonstiger Richtlinien der Europäischen Gemeinschaften, soweit diese die wesentlichen Anforderungen nach § 5 Abs. 1 des Bauproduktengesetzes berücksichtigen in den Verkehr gebracht und gehandelt werden dürfen, insbesondere das Zeichen der Europäischen Union (CE-Zeichen) tragen und dieses Zeichen die nach Absatz 7 Nr."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 15 Allgemeine bauaufsichtliche Zulassung",
+          "score": 0.5765,
+          "text_preview": "§ 15 Allgemeine bauaufsichtliche Zulassung\n(1) Das Deutsche Institut für Bautechnik erteilt eine allgemeine bauaufsichtliche Zulassung für nicht geregelte Bauprodukte, wenn deren Verwendbarkeit im Sinne des § 3 Abs. 2 nachgewiesen ist.\n(2) Die zur Begründung des Antrags erforderlichen Unterlagen sin",
+          "text_full": "§ 15 Allgemeine bauaufsichtliche Zulassung\n(1) Das Deutsche Institut für Bautechnik erteilt eine allgemeine bauaufsichtliche Zulassung für nicht geregelte Bauprodukte, wenn deren Verwendbarkeit im Sinne des § 3 Abs. 2 nachgewiesen ist.\n(2) Die zur Begründung des Antrags erforderlichen Unterlagen sind beizufügen. Soweit erforderlich, sind Probestücke vom Antragsteller zur Verfügung zu stellen oder durch Sachverständige, die das Deutsche Institut für Bautechnik bestimmen kann, zu entnehmen oder Probeausführungen unter Aufsicht der Sachverständigen herzustellen. § 63 Abs. 2 gilt entsprechend.\n(3) Das Deutsche Institut für Bautechnik kann für die Durchführung der Prüfung die sachverständige Stelle und für Probeausführungen die Ausführungsstelle und Ausführungszeit vorschreiben.\n(4) Die allgemeine bauaufsichtliche Zulassung wird widerruflich und für eine bestimmte Frist erteilt, die in der Regel fünf Jahre beträgt. Die Zulassung kann mit Nebenbestimmungen erteilt werden. Sie kann auf schriftlichen Antrag in der Regel um fünf Jahre verlängert werden, wenn der Antrag vor Ablauf der Geltungsdauer beim Deutschen Institut für Bautechnik eingegangen ist."
+        }
+      ],
+      "top_score": 0.5988
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BB",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 47 Bauherr",
+          "score": 0.7794,
+          "text_preview": "§ 47 Bauherr\n(1) Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines genehmigungspflichtigen Bauvorhabens geeignete am Bau Beteiligte zu bestellen, die den Anforderungen der §§ 48 bis 50 entsprechen, soweit er nicht selbst diese Anforderungen erfüllt. Dies gilt entsprechend für die te",
+          "text_full": "§ 47 Bauherr\n(1) Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines genehmigungspflichtigen Bauvorhabens geeignete am Bau Beteiligte zu bestellen, die den Anforderungen der §§ 48 bis 50 entsprechen, soweit er nicht selbst diese Anforderungen erfüllt. Dies gilt entsprechend für die technisch schwierige Beseitigung baulicher Anlagen. Der Bauherr hat die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anzeigen und Nachweise zu erbringen.\n(2) Wechseln der Bauherr oder der Objektplaner vor der Fertigstellung der baulichen Anlage, so hat dies der Bauherr der Bauaufsichtsbehörde unverzüglich schriftlich mitzuteilen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "score": 0.7653,
+          "text_preview": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten",
+          "text_full": "§ 68 Baubeginn, Baufreigabe, Einmessung, Mitteilungspflichten über den Stand der Bauarbeiten"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 48 Objektplaner, Bauvorlageberechtigung",
+          "score": 0.7437,
+          "text_preview": "(4) Bauvorlagen für die Errichtung und Änderung von Gebäuden müssen von einem Objektplaner erstellt sein, der bauvorlageberechtigt ist. Bauvorlageberechtigt ist, wer\n1. einen berufsqualifizierenden Hochschulabschluss eines geregelten Studiums in der Fachrichtung Architektur, Hochbau oder Bauingenieu",
+          "text_full": "(4) Bauvorlagen für die Errichtung und Änderung von Gebäuden müssen von einem Objektplaner erstellt sein, der bauvorlageberechtigt ist. Bauvorlageberechtigt ist, wer\n1. einen berufsqualifizierenden Hochschulabschluss eines geregelten Studiums in der Fachrichtung Architektur, Hochbau oder Bauingenieurwesen nachweist,\n2. danach mindestens zwei Jahre Berufserfahrung in der Objektplanung von Gebäuden hat,\n3. über ausreichende Kenntnisse des öffentlichen Baurechts, insbesondere des Bauordnungs-, Bauprodukten- und Bauplanungsrechts, verfügt und\n4. bei einer Kammer als bauvorlageberechtigter Architekt oder bauvorlageberechtigter Ingenieur eingetragen ist.\n\n Die Anforderungen des Satzes 2 Nr. 3 gelten als erfüllt, wenn im Rahmen des Studiums entsprechende Lehrveranstaltungen zur Vermittlung der Rechtsgrundlagen oder im Anschluss an das Studium vergleichbare Fortbildungsveranstaltungen besucht wurden. Personen, die ihre Berufsqualifikation nicht im Geltungsbereich des Grundgesetzes erworben haben, sind bauvorlageberechtigt, wenn ihre Berufsqualifikation nach den dafür geltenden Bestimmungen als gleichwertig anerkannt ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 80 Ermächtigung zum Erlass von Rechtsverordnungen",
+          "score": 0.7289,
+          "text_preview": "Dabei können für verschiedene Arten von Bauvorhaben, auch für Bauvorhaben, die keiner Baugenehmigung bedürfen, unterschiedliche Anforderungen und Verfahren festgelegt werden sowie der Gebrauch der von der obersten Bauaufsichtsbehörde veröffentlichten Vordrucke vorgeschrieben werden.\n(3) Das für die ",
+          "text_full": "Dabei können für verschiedene Arten von Bauvorhaben, auch für Bauvorhaben, die keiner Baugenehmigung bedürfen, unterschiedliche Anforderungen und Verfahren festgelegt werden sowie der Gebrauch der von der obersten Bauaufsichtsbehörde veröffentlichten Vordrucke vorgeschrieben werden.\n(3) Das für die Bauaufsicht zuständige Mitglied der Landesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften für bauaufsichtlich anerkannte, Sachverständige, insbesondere Prüfingenieure und Prüfsachverständige, zu erlassen über\n\n1. die Fachbereiche und Aufgabengebiete, in denen Prüfingenieure und Prüfsachverständige tätig werden,\n2. die Anforderungen an die Prüfingenieure und Prüfsachverständigen, insbesondere in Bezug auf deren Ausbildung, Fachkenntnisse, Berufserfahrung, persönliche Zuverlässigkeit sowie Fort- und Weiterbildung,\n3. das Anerkennungsverfahren, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen,\n4. die Überwachung der Prüfsachverständigen und die Aufsicht über Prüfingenieure,\n5. die Übertragung der Befugnis zur Anerkennung und zur Überwachung oder Aufsicht auf eine der obersten Bauaufsichtsbehörde nachgeordnete Behörde oder auf Dritte,\n6."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Brandenburg",
+          "jurisdiction": "DE-BB",
+          "source_paragraph": "§ 48 Objektplaner, Bauvorlageberechtigung",
+          "score": 0.7226,
+          "text_preview": "(5) Der Nachweis der Bauvorlageberechtigung wird durch Vorlage einer Urkunde oder Bescheinigung einer Architekten- oder Ingenieurkammer eines Landes geführt. Soweit Bedienstete einer Baudienststelle einer juristischen Person des öffentlichen Rechts im Rahmen ihrer dienstlichen Tätigkeit Bauvorlagen ",
+          "text_full": "(5) Der Nachweis der Bauvorlageberechtigung wird durch Vorlage einer Urkunde oder Bescheinigung einer Architekten- oder Ingenieurkammer eines Landes geführt. Soweit Bedienstete einer Baudienststelle einer juristischen Person des öffentlichen Rechts im Rahmen ihrer dienstlichen Tätigkeit Bauvorlagen erstellen, wird der Nachweis der Bauvorlageberechtigung durch eine Bescheinigung der Baudienststelle geführt.\n(6) Als Fachplaner ist bauvorlageberechtigt, wer unter Beschränkung auf sein Fachgebiet Bauvorlagen erstellt, die üblicherweise von Fachkräften mit anderer Ausbildung als nach Absatz 4 verfasst werden.\n(7) Bei geringfügigen oder technisch einfachen Vorhaben ist jeder Objektplaner bauvorlageberechtigt, der die Anforderungen des Absatzes 1 erfüllt. Die Anforderungen des Absatzes 1 gelten auch für Objektplaner, die für die Erarbeitung von Entwurfs- oder Ausführungsplanungen von Vorhaben bestellt sind, die keiner Genehmigung bedürfen."
+        }
+      ],
+      "top_score": 0.7794
+    }
+  ]
+}

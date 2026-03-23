@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-BW",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 15814,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6835,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind unmittelbar mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überw",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind unmittelbar mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Als bauliche Anlagen gelten auch\n1. Aufschüttungen und Abgrabungen,\n2. Ausstellungs-, Abstell- und Lagerplätze,\n3. Camping- und Wochenendplätze,\n4. Sport- und Spielflächen,\n5. Freizeit- und Vergnügungsparks,\n- Seite 8 von 89 -\n6. Stellplätze.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und außer Wohnungen allenfalls Räume für die Berufsausübung freiberuflich oder in ähnlicher Art Tätiger sowie die zugehörigen Garagen und Nebenräume enthalten.\n(4) Gebäude werden in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen",
+          "score": 0.6691,
+          "text_preview": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nFÜNFTER TEIL Der Bau und seine Teile",
+          "text_full": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nFÜNFTER TEIL Der Bau und seine Teile"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.628,
+          "text_preview": "(9) Anlagen der Außenwerbung (Werbeanlagen) sind alle örtlich gebundenen Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu gehören vor allem Schilder, Beschriftungen, Bemalungen, Lichtwerbunge",
+          "text_full": "(9) Anlagen der Außenwerbung (Werbeanlagen) sind alle örtlich gebundenen Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu gehören vor allem Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Schaukästen sowie für Anschläge oder Lichtwerbung bestimmte Säulen, Tafeln und Flächen. Keine Werbeanlagen im Sinne dieses Gesetzes sind\n1. Werbeanlagen, die im Zusammenhang mit allgemeinen Wahlen oder Abstimmungen angebracht oder aufgestellt werden, während der Dauer des Wahlkampfes,\n2. Werbeanlagen in Form von Anschlägen,\n3. Werbeanlagen an Baustellen, soweit sie sich auf das Vorhaben beziehen,\n4. Lichtwerbungen an Säulen, Tafeln oder Flächen, die allgemein dafür baurechtlich genehmigt sind,\n5. Auslagen und Dekorationen in Schaufenstern und Schaukästen,\n6. Werbemittel an Verkaufsstellen für Zeitungen und Zeitschriften.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 33 Wasserversorgungs- und Wasserentsorgungsanlagen, Anlagen für Abfallstoffe und Reststoffe",
+          "score": 0.6166,
+          "text_preview": "§ 33 Wasserversorgungs- und Wasserentsorgungsanlagen, Anlagen für Abfallstoffe und Reststoffe\nSECHSTER TEIL Einzelne Räume, Wohnungen und besondere Anlagen",
+          "text_full": "§ 33 Wasserversorgungs- und Wasserentsorgungsanlagen, Anlagen für Abfallstoffe und Reststoffe\nSECHSTER TEIL Einzelne Räume, Wohnungen und besondere Anlagen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27f Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und D",
+          "score": 0.6144,
+          "text_preview": "§ 27f Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und D\nachgeschossausbauten oder Aufstockungen zu Wohnzwecken",
+          "text_full": "§ 27f Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und D\nachgeschossausbauten oder Aufstockungen zu Wohnzwecken"
+        }
+      ],
+      "top_score": 0.6835
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 40,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 35 Wohnungen",
+          "score": 0.5795,
+          "text_preview": "§ 35 Wohnungen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen insgesamt Wohnungen mit einer BruttoGrundfläche barrierefrei erreichbar sein, die mindestens der Brutto-Grundfläche des Erdgeschosses abzüglich der Netto-Grundflächen von notwendigen Treppenräumen und Fluren entspricht. In diesen Wohn",
+          "text_full": "§ 35 Wohnungen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen insgesamt Wohnungen mit einer BruttoGrundfläche barrierefrei erreichbar sein, die mindestens der Brutto-Grundfläche des Erdgeschosses abzüglich der Netto-Grundflächen von notwendigen Treppenräumen und Fluren entspricht. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad und die Küche oder Kochnische barrierefrei nutzbar und mit dem Rollstuhl zugänglich sein. Die Sätze 1 und 2 gelten nicht, soweit die Anforderungen insbesondere wegen schwieriger Geländeverhältnisse, wegen des Einbaus eines sonst nicht erforderlichen Aufzugs oder wegen ungünstiger vorhandener Bebauung nur mit unverhältnismäßigem Mehraufwand erfüllt werden können. Die Sätze 1 bis 3 gelten nicht bei der Teilung von Wohnungen sowie bei Vorhaben zur Schaffung von zusätzlichem Wohnraum durch Ausbau, Anbau, Nutzungsänderung, Aufstockung oder Änderung des Daches, wenn die Baugenehmigung oder Kenntnisgabe für das Gebäude mindestens fünf Jahre zurückliegen.\n- Seite 44 von 89 -\n(2) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen",
+          "score": 0.572,
+          "text_preview": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen\n(1) Bei der Errichtung von Gebäuden mit Wohnungen ist für jede Wohnung ein geeigneter Stellplatz für Kraftfahrzeuge herzustellen (notwendiger Kfz-Stellplatz). Bei der Errichtung sonstiger baulicher Anlagen und anderer Anlagen, bei denen ein ",
+          "text_full": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen\n(1) Bei der Errichtung von Gebäuden mit Wohnungen ist für jede Wohnung ein geeigneter Stellplatz für Kraftfahrzeuge herzustellen (notwendiger Kfz-Stellplatz). Bei der Errichtung sonstiger baulicher Anlagen und anderer Anlagen, bei denen ein Zu- und Abfahrtsverkehr zu erwarten ist, sind notwendige Kfz-Stellplätze in solcher Zahl herzustellen, dass sie für die ordnungsgemäße Nutzung der Anlagen unter Berücksichtigung des öffentlichen Personennahverkehrs ausreichen. Statt notwendiger Kfz-Stellplätze ist die Herstellung notwendiger Garagen zulässig; nach Maßgabe des Absatzes 8 können Garagen auch verlangt werden. Bis zu einem Viertel der notwendigen Kfz-Stellplätze nach Satz 2 kann durch die Schaffung von Fahrradstellplätzen ersetzt werden. Dabei sind für einen Kfz-Stellplatz vier Fahrradstellplätze herzustellen; eine Anrechnung der so geschaffenen Fahrradstellplätze auf die Verpflichtung nach Absatz 2 erfolgt nicht.\n(2) Bei der Errichtung baulicher Anlagen, bei denen ein Zu- und Abfahrtsverkehr mit Fahrrädern zu erwarten ist, sind Fahrradstellplätze herzustellen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 34 Aufenthaltsräume",
+          "score": 0.5415,
+          "text_preview": "§ 34 Aufenthaltsräume\n(1) Die lichte Höhe von Aufenthaltsräumen muss mindestens betragen:\n1. 2,2 m über mindestens der Hälfte ihrer Grundfläche, wenn die Aufenthaltsräume ganz oder überwiegend im Dachraum liegen; dabei bleiben Raumteile mit einer lichten Höhe bis 1,5 m außer Betracht,\n2. 2,3 m in al",
+          "text_full": "§ 34 Aufenthaltsräume\n(1) Die lichte Höhe von Aufenthaltsräumen muss mindestens betragen:\n1. 2,2 m über mindestens der Hälfte ihrer Grundfläche, wenn die Aufenthaltsräume ganz oder überwiegend im Dachraum liegen; dabei bleiben Raumteile mit einer lichten Höhe bis 1,5 m außer Betracht,\n2. 2,3 m in allen anderen Fällen.\n(2) Aufenthaltsräume müssen ausreichend belüftet werden können; sie müssen unmittelbar ins Freie führende Fenster von solcher Zahl, Lage, Größe und Beschaffenheit haben, dass die Räume ausreichend mit Tageslicht beleuchtet werden können (notwendige Fenster). Das Rohbaumaß der Fensteröffnungen muss mindestens ein Zehntel der Grundfläche des Raumes betragen; Raumteile mit einer lichten Höhe bis 1,5 m bleiben außer Betracht. Ein geringeres Rohbaumaß ist bei geneigten Fenstern sowie bei Oberlichtern zulässig, wenn die ausreichende Beleuchtung mit Tageslicht gewährleistet bleibt.\n(3) Aufenthaltsräume, deren Fußboden unter der Geländeoberfläche liegt, sind zulässig, wenn das Gelände mit einer Neigung von höchstens 45° an die Außenwände vor notwendigen Fenstern anschließt. Die Oberkante der Brüstung notwendiger Fenster muss mindestens 1,3 m unter der Decke liegen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27b Trennwände",
+          "score": 0.5189,
+          "text_preview": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und ande",
+          "text_full": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Absatz 2 Nummern 1 und 3 müssen als raumabschließende Bauteile die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen als raumabschließende Bauteile feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Baustoffe in geschossübergreifenden Fugen müssen nichtbrennbar sein. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 39 Barrierefreie Anlagen",
+          "score": 0.5015,
+          "text_preview": "§ 39 Barrierefreie Anlagen\n(1) Bauliche Anlagen sowie andere Anlagen, die überwiegend von Menschen mit Behinderung oder alten Menschen genutzt werden, wie\n1. Einrichtungen zur Frühförderung behinderter Kinder, Sonderschulen, Tages- und Begegnungsstätten, Einrichtungen zur Berufsbildung, Werkstätten,",
+          "text_full": "§ 39 Barrierefreie Anlagen\n(1) Bauliche Anlagen sowie andere Anlagen, die überwiegend von Menschen mit Behinderung oder alten Menschen genutzt werden, wie\n1. Einrichtungen zur Frühförderung behinderter Kinder, Sonderschulen, Tages- und Begegnungsstätten, Einrichtungen zur Berufsbildung, Werkstätten, Wohnungen und Heime für Menschen mit Behinderung,\n2. Altentagesstätten, Altenbegegnungsstätten, Altenwohnungen, Altenwohnheime, Altenheime und Altenpflegeheime, sind so herzustellen, dass sie von diesen Personen zweckentsprechend ohne fremde Hilfe genutzt werden können (barrierefreie Anlagen).\n(2) Die Anforderungen nach Absatz 1 gelten auch für\n1. Gebäude der öffentlichen Verwaltung und Gerichte,\n2. Schalter- und Abfertigungsräume der Verkehrs- und Versorgungsbetriebe, der Post- und Telekommunikationsbetriebe sowie der Kreditinstitute,\n3. Kirchen und andere Anlagen für den Gottesdienst,\n4. Versammlungsstätten,\n5. Museen und öffentliche Bibliotheken,\n6. Sport-, Spiel- und Erholungsanlagen, Schwimmbäder,\n7. Camping- und Wochenendplätze mit mehr als 50 Stand- und Aufstellplätzen,\n8. Jugend- und Freizeitstätten,\n- Seite 49 von 89 -\n9. Messe-, Kongress- und Ausstellungsbauten,\n10."
+        }
+      ],
+      "top_score": 0.5795
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen",
+          "score": 0.5636,
+          "text_preview": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen\n(1) Bei der Errichtung von Gebäuden mit Wohnungen ist für jede Wohnung ein geeigneter Stellplatz für Kraftfahrzeuge herzustellen (notwendiger Kfz-Stellplatz). Bei der Errichtung sonstiger baulicher Anlagen und anderer Anlagen, bei denen ein ",
+          "text_full": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen\n(1) Bei der Errichtung von Gebäuden mit Wohnungen ist für jede Wohnung ein geeigneter Stellplatz für Kraftfahrzeuge herzustellen (notwendiger Kfz-Stellplatz). Bei der Errichtung sonstiger baulicher Anlagen und anderer Anlagen, bei denen ein Zu- und Abfahrtsverkehr zu erwarten ist, sind notwendige Kfz-Stellplätze in solcher Zahl herzustellen, dass sie für die ordnungsgemäße Nutzung der Anlagen unter Berücksichtigung des öffentlichen Personennahverkehrs ausreichen. Statt notwendiger Kfz-Stellplätze ist die Herstellung notwendiger Garagen zulässig; nach Maßgabe des Absatzes 8 können Garagen auch verlangt werden. Bis zu einem Viertel der notwendigen Kfz-Stellplätze nach Satz 2 kann durch die Schaffung von Fahrradstellplätzen ersetzt werden. Dabei sind für einen Kfz-Stellplatz vier Fahrradstellplätze herzustellen; eine Anrechnung der so geschaffenen Fahrradstellplätze auf die Verpflichtung nach Absatz 2 erfolgt nicht.\n(2) Bei der Errichtung baulicher Anlagen, bei denen ein Zu- und Abfahrtsverkehr mit Fahrrädern zu erwarten ist, sind Fahrradstellplätze herzustellen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 38 Sonderbauten",
+          "score": 0.5353,
+          "text_preview": "die zulässige Benutzerzahl, Anordnung und Zahl der zulässigen Sitze und Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n8. die Lüftung und Rauchableitung,\n9. die Beleuchtung und Energieversorgung,\n10. die Wasserversorgung,\n11. die Aufbewahrung und Entsorgung von Abwasser sowie vo",
+          "text_full": "die zulässige Benutzerzahl, Anordnung und Zahl der zulässigen Sitze und Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n8. die Lüftung und Rauchableitung,\n9. die Beleuchtung und Energieversorgung,\n10. die Wasserversorgung,\n11. die Aufbewahrung und Entsorgung von Abwasser sowie von Abfällen zur Beseitigung und zur Verwertung,\n12. die Stellplätze und Garagen sowie ihre Zu- und Abfahrten,\n13. die Anlage von Fahrradabstellplätzen,\n14. die Anlage von Grünstreifen, Baum- und anderen Pflanzungen sowie die Begrünung oder Beseitigung von Halden und Gruben,\n15. die Wasserdurchlässigkeit befestigter Flächen,\n- Seite 47 von 89 -\n16. den Betrieb und die Nutzung einschließlich des organisatorischen Brandschutzes und der Bestellung und der Qualifikation eines Brandschutzbeauftragten,\n17. Brandschutzanlagen, -einrichtungen und -vorkehrungen einschließlich der Löschwasserrückhaltung,\n18. die Zahl der Toiletten für Besucher.\n(2) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die insbesondere einen der nachfolgenden Tatbestände erfüllen:\n1. Hochhäuser (Gebäude mit einer Höhe nach § 2 Absatz 4 Satz 2 von mehr als 22 m),\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27b Trennwände",
+          "score": 0.5312,
+          "text_preview": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und ande",
+          "text_full": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Absatz 2 Nummern 1 und 3 müssen als raumabschließende Bauteile die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen als raumabschließende Bauteile feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Baustoffe in geschossübergreifenden Fugen müssen nichtbrennbar sein. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 38 Sonderbauten",
+          "score": 0.5174,
+          "text_preview": "Spielhallen,\n- Seite 48 von 89 -\n17. Justizvollzugsanstalten und bauliche Anlagen für den Maßregelvollzug,\n18. Regallager mit einer Oberkante Lagerguthöhe von mehr als 7,50 m,\n19. bauliche Anlagen mit einer Höhe von mehr als 30 m,\n20. Gebäude mit mehr als 1600 m² Grundfläche des Geschosses mit der g",
+          "text_full": "Spielhallen,\n- Seite 48 von 89 -\n17. Justizvollzugsanstalten und bauliche Anlagen für den Maßregelvollzug,\n18. Regallager mit einer Oberkante Lagerguthöhe von mehr als 7,50 m,\n19. bauliche Anlagen mit einer Höhe von mehr als 30 m,\n20. Gebäude mit mehr als 1600 m² Grundfläche des Geschosses mit der größten Ausdehnung, ausgenommen Wohngebäude und Gewächshäuser.\n(3) Als Nachweis dafür, dass diese Anforderungen erfüllt sind, können Bescheinigungen verlangt werden, die bei den Abnahmen vorzulegen sind; ferner können Nachprüfungen und deren Wiederholung in bestimmten Zeitabständen verlangt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 35 Wohnungen",
+          "score": 0.49,
+          "text_preview": "§ 35 Wohnungen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen insgesamt Wohnungen mit einer BruttoGrundfläche barrierefrei erreichbar sein, die mindestens der Brutto-Grundfläche des Erdgeschosses abzüglich der Netto-Grundflächen von notwendigen Treppenräumen und Fluren entspricht. In diesen Wohn",
+          "text_full": "§ 35 Wohnungen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen insgesamt Wohnungen mit einer BruttoGrundfläche barrierefrei erreichbar sein, die mindestens der Brutto-Grundfläche des Erdgeschosses abzüglich der Netto-Grundflächen von notwendigen Treppenräumen und Fluren entspricht. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad und die Küche oder Kochnische barrierefrei nutzbar und mit dem Rollstuhl zugänglich sein. Die Sätze 1 und 2 gelten nicht, soweit die Anforderungen insbesondere wegen schwieriger Geländeverhältnisse, wegen des Einbaus eines sonst nicht erforderlichen Aufzugs oder wegen ungünstiger vorhandener Bebauung nur mit unverhältnismäßigem Mehraufwand erfüllt werden können. Die Sätze 1 bis 3 gelten nicht bei der Teilung von Wohnungen sowie bei Vorhaben zur Schaffung von zusätzlichem Wohnraum durch Ausbau, Anbau, Nutzungsänderung, Aufstockung oder Änderung des Daches, wenn die Baugenehmigung oder Kenntnisgabe für das Gebäude mindestens fünf Jahre zurückliegen.\n- Seite 44 von 89 -\n(2) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind."
+        }
+      ],
+      "top_score": 0.5636
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 59 Baubeginn",
+          "score": 0.8045,
+          "text_preview": "§ 59 Baubeginn\n(1) Mit der Ausführung genehmigungspflichtiger Vorhaben darf erst nach Erteilung des Baufreigabescheins begonnen werden. Der Baufreigabeschein ist zu erteilen, wenn die in der Baugenehmigung für den Baubeginn enthaltenen Auflagen und Bedingungen erfüllt sind. Enthält die Baugenehmigun",
+          "text_full": "§ 59 Baubeginn\n(1) Mit der Ausführung genehmigungspflichtiger Vorhaben darf erst nach Erteilung des Baufreigabescheins begonnen werden. Der Baufreigabeschein ist zu erteilen, wenn die in der Baugenehmigung für den Baubeginn enthaltenen Auflagen und Bedingungen erfüllt sind. Enthält die Baugenehmigung keine solchen Auflagen oder Bedingungen, so ist der Baufreigabeschein mit der Baugenehmigung zu erteilen. Der Baufreigabeschein muss die Bezeichnung des Bauvorhabens und die Namen und Anschriften des Entwurfsverfassers und des Bauleiters enthalten und ist dem Bauherrn bekanntzugeben.\n(2) Der Bauherr hat den Baubeginn genehmigungspflichtiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als sechs Monaten vorher der Baurechtsbehörde elektronisch in Textform mitzuteilen.\n(3) Vor Baubeginn müssen bei genehmigungspflichtigen Vorhaben Grundriss und Höhenlage der baulichen Anlage auf dem Baugrundstück festgelegt sein. Die Baurechtsbehörde kann verlangen, dass diese Festlegungen durch einen Sachverständigen vorgenommen werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 62 Geltungsdauer der Baugenehmigung",
+          "score": 0.7662,
+          "text_preview": "§ 62 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn nicht innerhalb von drei Jahren nach Erteilung der Genehmigung mit der Bauausführung begonnen oder wenn sie nach diesem Zeitraum ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann ",
+          "text_full": "§ 62 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn nicht innerhalb von drei Jahren nach Erteilung der Genehmigung mit der Bauausführung begonnen oder wenn sie nach diesem Zeitraum ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann auf elektronisch in Textform gestellten Antrag jeweils bis zu drei Jahre schriftlich oder elektronisch in Textform verlängert werden. Die Frist kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Baurechtsbehörde eingegangen ist.\n(3) Wird die Nutzung einer Tierhaltungsanlage im Sinne des Anhangs 7 der Technischen Anleitung zur Reinhaltung der Luft innerhalb eines im Zusammenhang bebauten Ortsteils während eines Zeitraums von mehr als sechs Jahren durchgehend unterbrochen, erlischt die Baugenehmigung für die unterbrochene Nutzung. Wer ein berechtigtes Interesse an der Feststellung hat, kann beantragen, dass die Baurechtsbehörde das Erlöschen der Baugenehmigung feststellt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen",
+          "score": 0.7595,
+          "text_preview": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen\n(1) Die Baurechtsbehörde hat innerhalb von zehn Arbeitstagen nach Eingang den Bauantrag und die Bauvorlagen auf Vollständigkeit zu überprüfen. Sind sie unvollständig oder entsprechen sie nicht den Formanforderungen, hat die Baurechtsb",
+          "text_full": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen\n(1) Die Baurechtsbehörde hat innerhalb von zehn Arbeitstagen nach Eingang den Bauantrag und die Bauvorlagen auf Vollständigkeit zu überprüfen. Sind sie unvollständig oder entsprechen sie nicht den Formanforderungen, hat die Baurechtsbehörde dem Bauherrn unverzüglich mitzuteilen, welche Ergänzungen erforderlich sind und dass ohne Behebung der Mängel innerhalb der dem Bauherrn gesetzten, angemessenen Frist der Bauantrag zurückgewiesen werden kann. Stellt sich heraus, dass der Bauantrag gemäß den eingereichten Bauvorlagen nicht genehmigungsfähig ist, aber die notwendigen Änderungen oder Ergänzungen keinen neuen Bauantrag erfordern, soll dem Bauherrn die Gelegenheit zur Nachbesserung gegeben werden; bis zum Eingang der nachgebesserten Bauvorlagen bei der Baurechtsbehörde sind alle Fristabläufe gehemmt.\n- Seite 57 von 89 -\n(2) Sobald der Bauantrag und die Bauvorlagen vollständig sind, hat die Baurechtsbehörde unverzüglich\n1. dem Bauherrn ihren Eingang und den nach Absatz 5 ermittelten Zeitpunkt der Entscheidung, jeweils mit Datumsangabe, elektronisch in Textform mitzuteilen,\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen",
+          "score": 0.7498,
+          "text_preview": "Die Gemeinde ist vor der Erteilung der Genehmigung anzuhören. Dabei ist ihr Gelegenheit zu geben, binnen angemessener Frist erneut über das gemeindliche Einvernehmen zu entscheiden.\n(5) Die Baurechtsbehörde hat über den Bauantrag innerhalb von zwei Monaten, im vereinfachten Baugenehmigungsverfahren ",
+          "text_full": "Die Gemeinde ist vor der Erteilung der Genehmigung anzuhören. Dabei ist ihr Gelegenheit zu geben, binnen angemessener Frist erneut über das gemeindliche Einvernehmen zu entscheiden.\n(5) Die Baurechtsbehörde hat über den Bauantrag innerhalb von zwei Monaten, im vereinfachten Baugenehmigungsverfahren und in den Fällen des § 56 Abs. 6 sowie des § 57 Abs. 1 innerhalb eines Monats zu entscheiden. Die Frist nach Satz 1 beginnt, sobald die vollständigen Bauvorlagen und alle für die Entscheidung notwendigen Stellungnahmen und Mitwirkungen vorliegen, spätestens jedoch nach Ablauf der Fristen nach Absatz 3 und nach den §§ 36 Absatz 2 Satz 2, 36a Absatz 1 Satz 4, Absatz 2 Satz 2 BauGB sowie nach § 12 Absatz 2 Sätze 2 und 3 des Luftverkehrsgesetzes.\n(6) Die Fristen nach Absatz 3 dürfen nur ausnahmsweise bis zu einem Monat verlängert werden, im vereinfachten Baugenehmigungsverfahren jedoch nur, wenn das Einvernehmen der Gemeinde nach"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 58 Baugenehmigung",
+          "score": 0.7399,
+          "text_preview": "§ 58 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem genehmigungspflichtigen Vorhaben keine von der Baurechtsbehörde zu prüfenden öffentlich-rechtlichen Vorschriften entgegenstehen. Soweit nicht § 52 Anwendung findet, sind alle öffentlich-rechtlichen Vorschriften zu prüfen, die Anfor",
+          "text_full": "§ 58 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem genehmigungspflichtigen Vorhaben keine von der Baurechtsbehörde zu prüfenden öffentlich-rechtlichen Vorschriften entgegenstehen. Soweit nicht § 52 Anwendung findet, sind alle öffentlich-rechtlichen Vorschriften zu prüfen, die Anforderungen an das Bauvorhaben enthalten und über deren Einhaltung nicht eine andere Behörde in einem gesonderten Verfahren durch Verwaltungsakt entscheidet. Die Baugenehmigung wird in Schriftform oder elektronisch in Textform nach § 126b des Bürgerlichen Gesetzbuchs erteilt. Erleichterungen, Abweichungen, Ausnahmen und Befreiungen sind ausdrücklich auszusprechen. Die Baugenehmigung ist nur insoweit zu begründen, als sie Abweichungen, Ausnahmen oder Befreiungen von nachbarschützenden Vorschriften enthält und der Angrenzer Einwendungen erhoben hat. Die mit Genehmigungsvermerk versehenen Bauvorlagen sind dem Antragsteller mit der Baugenehmigung zuzustellen oder nach Maßgabe des § 9 Absatz 1 des Onlinezugangsgesetzes bekanntzugeben."
+        }
+      ],
+      "top_score": 0.8045
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 5 Abstandsflächen",
+          "score": 0.7046,
+          "text_preview": "§ 5 Abstandsflächen\n(1) Vor den Außenwänden von baulichen Anlagen müssen Abstandsflächen liegen, die von oberirdischen baulichen Anlagen freizuhalten sind. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden an Grundstücksgrenzen, wenn nach planungsrechtlichen Vorschriften\n1. an die Grenze ge",
+          "text_full": "§ 5 Abstandsflächen\n(1) Vor den Außenwänden von baulichen Anlagen müssen Abstandsflächen liegen, die von oberirdischen baulichen Anlagen freizuhalten sind. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden an Grundstücksgrenzen, wenn nach planungsrechtlichen Vorschriften\n1. an die Grenze gebaut werden muss, es sei denn, die vorhandene Bebauung erfordert eine Abstandsfläche, oder\n2. an die Grenze gebaut werden darf und öffentlich-rechtlich gesichert ist, dass auf dem Nachbargrundstück ebenfalls an die Grenze gebaut wird. Die öffentlich-rechtliche Sicherung ist nicht erforderlich, wenn nach einer festgesetzten oder in der näheren Umgebung im Sinne von § 34 Absatz 1 Satz 1 des Baugesetzbuchs (BauGB) vorhandenen Bauweise unabhängig von der Bebauung auf dem Nachbargrundstück an die Grenze gebaut werden darf.\n(2) Die Abstandsflächen müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen liegen, bei beidseitig anbaubaren Flächen jedoch nur bis zu deren Mitte.\n(3) Die Abstandsflächen dürfen sich nicht überdecken."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 6 Abstandsflächen in Sonderfällen",
+          "score": 0.6798,
+          "text_preview": "(2) Werden mit Gebäuden oder Gebäudeteilen nach Absatz 1 dennoch Abstandsflächen eingehalten, so müssen sie gegenüber Nachbargrenzen eine Tiefe von mindestens 0,5 m haben.\n(3) Geringere Tiefen der Abstandsflächen sind zuzulassen, wenn\n1. in überwiegend bebauten Gebieten die Gestaltung des Straßenbil",
+          "text_full": "(2) Werden mit Gebäuden oder Gebäudeteilen nach Absatz 1 dennoch Abstandsflächen eingehalten, so müssen sie gegenüber Nachbargrenzen eine Tiefe von mindestens 0,5 m haben.\n(3) Geringere Tiefen der Abstandsflächen sind zuzulassen, wenn\n1. in überwiegend bebauten Gebieten die Gestaltung des Straßenbildes oder besondere örtliche Verhältnisse dies erfordern oder\n2. Beleuchtung mit Tageslicht sowie Belüftung in ausreichendem Maße gewährleistet bleiben, Gründe des Brandschutzes nicht entgegenstehen und nachbarliche Belange nicht erheblich beeinträchtigt werden. In den Fällen der Nummer 1 können geringere Tiefen der Abstandsflächen auch verlangt werden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 7 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke Soweit nach diesem Gesetz oder nach Vorschriften auf G",
+          "score": 0.6136,
+          "text_preview": "§ 7 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke Soweit nach diesem Gesetz oder nach Vorschriften auf G\nrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, dürfen sie sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch B",
+          "text_full": "§ 7 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke Soweit nach diesem Gesetz oder nach Vorschriften auf G\nrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, dürfen sie sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie nicht überbaut werden und auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden. Vorschriften,\n- Seite 14 von 89 nach denen in den Abstandsflächen bauliche Anlagen zulässig sind oder ausnahmsweise zugelassen werden können, bleiben unberührt."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 6 Abstandsflächen in Sonderfällen",
+          "score": 0.6101,
+          "text_preview": "§ 6 Abstandsflächen in Sonderfällen\n(1) In den Abstandsflächen baulicher Anlagen sowie ohne eigene Abstandsflächen sind zulässig:\n1. Gebäude oder Gebäudeteile, die eine Wandhöhe von nicht mehr als 1 m haben,\n2. Garagen, Gewächshäuser und Gebäude ohne Aufenthaltsräume mit einer Wandhöhe bis 3 m und e",
+          "text_full": "§ 6 Abstandsflächen in Sonderfällen\n(1) In den Abstandsflächen baulicher Anlagen sowie ohne eigene Abstandsflächen sind zulässig:\n1. Gebäude oder Gebäudeteile, die eine Wandhöhe von nicht mehr als 1 m haben,\n2. Garagen, Gewächshäuser und Gebäude ohne Aufenthaltsräume mit einer Wandhöhe bis 3 m und einer Wandfläche bis 25 m²,\n3. bauliche Anlagen, die keine Gebäude sind, soweit sie nicht höher als 2,5 m sind oder ihre Wandfläche nicht mehr als 25 m² beträgt,\n4. landwirtschaftliche Gewächshäuser, die nicht unter Nummer 2 fallen, soweit sie mindestens 1 m Abstand zu Nachbargrenzen einhalten. Für die Ermittlung der Wandhöhe nach Satz 1 Nr. 2 ist der höchste Punkt der Geländeoberfläche zugrunde zu legen; hinsichtlich der Anrechnung auf die Wandhöhe gilt § 5 Absatz 5 Satz 1 und 2 Nummer 2 und 3 entsprechend. Die Grenzbebauung im Falle des Satzes 1 Nr. 2 darf entlang den einzelnen Nachbargrenzen 9 m und insgesamt 15 m nicht überschreiten. Der Anwendung des Satzes 1 Nummer 2 steht eine Nutzung der Dachfläche der baulichen Anlagen zu anderen Zwecken nicht entgegen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen",
+          "score": 0.5433,
+          "text_preview": "Ihre Zahl und Beschaffenheit richtet sich nach dem nach Art, Größe und Lage der Anlage regelmäßig zu erwartenden Bedarf (notwendige Fahrradstellplätze). Notwendige Fahrradstellplätze müssen von der öffentlichen Verkehrsfläche leicht erreichbar und gut zugänglich sein und eine wirksame Diebstahlsiche",
+          "text_full": "Ihre Zahl und Beschaffenheit richtet sich nach dem nach Art, Größe und Lage der Anlage regelmäßig zu erwartenden Bedarf (notwendige Fahrradstellplätze). Notwendige Fahrradstellplätze müssen von der öffentlichen Verkehrsfläche leicht erreichbar und gut zugänglich sein und eine wirksame Diebstahlsicherung ermöglichen; soweit sie für Wohnungen herzustellen sind müssen sie außerdem wettergeschützt sein.\n(3) Bei Änderungen oder Nutzungsänderungen von Anlagen sind Stellplätze oder Garagen in solcher Zahl herzustellen, dass die infolge der Änderung zusätzlich zu erwartenden Kraftfahrzeuge und Fahrräder aufgenommen werden können. Satz 1 gilt nicht bei der Teilung von Wohnungen sowie bei Vorhaben zur Schaffung von zusätzlichem Wohnraum durch Ausbau, Anbau, Nutzungsänderung, Aufstockung oder Änderung des Daches, wenn die Baugenehmigung oder Kenntnisgabe für das Gebäude mindestens fünf Jahre zurückliegen.\n(4) Die Baurechtsbehörde kann zulassen, dass notwendige Stellplätze oder Garagen erst innerhalb eines angemessenen Zeitraums nach Fertigstellung der Anlage hergestellt werden."
+        }
+      ],
+      "top_score": 0.7046
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 27,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7355,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf ",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die den in Vorschriften eines anderen Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz oder der Türkei genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Absatz 1 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen",
+          "score": 0.7354,
+          "text_preview": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nFÜNFTER TEIL Der Bau und seine Teile",
+          "text_full": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nFÜNFTER TEIL Der Bau und seine Teile"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 10 Höhenlage des Grundstücks",
+          "score": 0.7069,
+          "text_preview": "§ 10 Höhenlage des Grundstücks\nDRITTER TEIL Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Höhenlage des Grundstücks\nDRITTER TEIL Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.7056,
+          "text_preview": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen sowie Grundstücke, andere Anlagen und Einrichtungen im Sinne von § 1 Abs. 1 Satz 2 sind so anzuordnen und zu errichten, dass die öffentliche Sicherheit oder Ordnung, insbesondere Leben, Gesundheit oder die natürlichen Lebensgrundlagen, nicht bedroht ",
+          "text_full": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen sowie Grundstücke, andere Anlagen und Einrichtungen im Sinne von § 1 Abs. 1 Satz 2 sind so anzuordnen und zu errichten, dass die öffentliche Sicherheit oder Ordnung, insbesondere Leben, Gesundheit oder die natürlichen Lebensgrundlagen, nicht bedroht werden und dass sie ihrem Zweck entsprechend ohne Missstände benutzbar sind; dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Für den Abbruch baulicher Anlagen gilt dies entsprechend.\n(2) Bei der Planung, Errichtung und Änderung von Gebäuden und sonstigen baulichen Anlagen ist der besonderen Bedeutung von Energieeinsparung, -effizienz und erneuerbaren Energien sowie des Verteilnetzausbaus nach dem Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg Rechnung zu tragen.\n(3) In die Planung von Gebäuden sind die Belange von Personen mit kleinen Kindern, Menschen mit Behinderung und alten Menschen nach Möglichkeit einzubeziehen.\nZWEITER TEIL Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6926,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        }
+      ],
+      "top_score": 0.7355
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 35 Wohnungen",
+          "score": 0.5983,
+          "text_preview": "§ 35 Wohnungen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen insgesamt Wohnungen mit einer BruttoGrundfläche barrierefrei erreichbar sein, die mindestens der Brutto-Grundfläche des Erdgeschosses abzüglich der Netto-Grundflächen von notwendigen Treppenräumen und Fluren entspricht. In diesen Wohn",
+          "text_full": "§ 35 Wohnungen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen insgesamt Wohnungen mit einer BruttoGrundfläche barrierefrei erreichbar sein, die mindestens der Brutto-Grundfläche des Erdgeschosses abzüglich der Netto-Grundflächen von notwendigen Treppenräumen und Fluren entspricht. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad und die Küche oder Kochnische barrierefrei nutzbar und mit dem Rollstuhl zugänglich sein. Die Sätze 1 und 2 gelten nicht, soweit die Anforderungen insbesondere wegen schwieriger Geländeverhältnisse, wegen des Einbaus eines sonst nicht erforderlichen Aufzugs oder wegen ungünstiger vorhandener Bebauung nur mit unverhältnismäßigem Mehraufwand erfüllt werden können. Die Sätze 1 bis 3 gelten nicht bei der Teilung von Wohnungen sowie bei Vorhaben zur Schaffung von zusätzlichem Wohnraum durch Ausbau, Anbau, Nutzungsänderung, Aufstockung oder Änderung des Daches, wenn die Baugenehmigung oder Kenntnisgabe für das Gebäude mindestens fünf Jahre zurückliegen.\n- Seite 44 von 89 -\n(2) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 34 Aufenthaltsräume",
+          "score": 0.5525,
+          "text_preview": "§ 34 Aufenthaltsräume\n(1) Die lichte Höhe von Aufenthaltsräumen muss mindestens betragen:\n1. 2,2 m über mindestens der Hälfte ihrer Grundfläche, wenn die Aufenthaltsräume ganz oder überwiegend im Dachraum liegen; dabei bleiben Raumteile mit einer lichten Höhe bis 1,5 m außer Betracht,\n2. 2,3 m in al",
+          "text_full": "§ 34 Aufenthaltsräume\n(1) Die lichte Höhe von Aufenthaltsräumen muss mindestens betragen:\n1. 2,2 m über mindestens der Hälfte ihrer Grundfläche, wenn die Aufenthaltsräume ganz oder überwiegend im Dachraum liegen; dabei bleiben Raumteile mit einer lichten Höhe bis 1,5 m außer Betracht,\n2. 2,3 m in allen anderen Fällen.\n(2) Aufenthaltsräume müssen ausreichend belüftet werden können; sie müssen unmittelbar ins Freie führende Fenster von solcher Zahl, Lage, Größe und Beschaffenheit haben, dass die Räume ausreichend mit Tageslicht beleuchtet werden können (notwendige Fenster). Das Rohbaumaß der Fensteröffnungen muss mindestens ein Zehntel der Grundfläche des Raumes betragen; Raumteile mit einer lichten Höhe bis 1,5 m bleiben außer Betracht. Ein geringeres Rohbaumaß ist bei geneigten Fenstern sowie bei Oberlichtern zulässig, wenn die ausreichende Beleuchtung mit Tageslicht gewährleistet bleibt.\n(3) Aufenthaltsräume, deren Fußboden unter der Geländeoberfläche liegt, sind zulässig, wenn das Gelände mit einer Neigung von höchstens 45° an die Außenwände vor notwendigen Fenstern anschließt. Die Oberkante der Brüstung notwendiger Fenster muss mindestens 1,3 m unter der Decke liegen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 35 Wohnungen",
+          "score": 0.5438,
+          "text_preview": "(3) Jede Wohnung muss einen eigenen Wasserzähler haben. Dies gilt nicht bei Nutzungsänderungen, wenn die Anforderung nach Satz 1 nur mit unverhältnismäßigem Aufwand erfüllt werden kann.\n(4) In Gebäuden mit mehr als zwei Wohnungen müssen zur gemeinschaftlichen Benutzung möglichst ebenerdig zugänglich",
+          "text_full": "(3) Jede Wohnung muss einen eigenen Wasserzähler haben. Dies gilt nicht bei Nutzungsänderungen, wenn die Anforderung nach Satz 1 nur mit unverhältnismäßigem Aufwand erfüllt werden kann.\n(4) In Gebäuden mit mehr als zwei Wohnungen müssen zur gemeinschaftlichen Benutzung möglichst ebenerdig zugängliche oder durch Rampen oder Aufzüge leicht erreichbare Flächen zum Abstellen von Kinderwagen und Gehhilfen zur Verfügung stehen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 28b Notwendige Flure, offene Gänge",
+          "score": 0.5394,
+          "text_preview": "§ 28b Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausr",
+          "text_full": "§ 28b Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist.\n(2) Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. 2 innerhalb von Wohnungen oder innerhalb von Nutzungseinheiten mit nicht mehr als 200 m ,\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m ; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m sind, Trennwände nach § 27b Absatz 2 Nummer 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 15 Absatz 3 hat.\n(3) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen, mindestens jedoch 1,25 m. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig. Rampen mit einer Neigung bis zu 6 Prozent sind zulässig."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 38 Sonderbauten",
+          "score": 0.5389,
+          "text_preview": "§ 38 Sonderbauten\n(1) An Sonderbauten können zur Verwirklichung der allgemeinen Anforderungen nach § 3 Abs. 1 besondere Anforderungen im Einzelfall gestellt werden; Erleichterungen können zugelassen werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anl",
+          "text_full": "§ 38 Sonderbauten\n(1) An Sonderbauten können zur Verwirklichung der allgemeinen Anforderungen nach § 3 Abs. 1 besondere Anforderungen im Einzelfall gestellt werden; Erleichterungen können zugelassen werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die besonderen Anforderungen und Erleichterungen können insbesondere betreffen\n1. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück, von öffentlichen Verkehrsflächen und von oberirdischen Gewässern,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Bauart und Anordnung aller für die Standsicherheit, Verkehrssicherheit, den Brandschutz, Schallschutz oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n5. die Feuerungsanlagen und Heizräume,\n6. die Zahl, Anordnung und Herstellung der Treppen, Treppenräume, Flure, Aufzüge, Ausgänge und Rettungswege,\n7."
+        }
+      ],
+      "top_score": 0.5983
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.7504,
+          "text_preview": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist.",
+          "text_full": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.749,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 67 Bauabnahmen, Inbetriebnahme der Feuerungsanlagen",
+          "score": 0.7466,
+          "text_preview": "(5) Bei genehmigungspflichtigen und bei kenntnisgabepflichtigen Vorhaben dürfen die Feuerungsanlagen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Brandsicherheit und die sichere Abführung der Verbrennungsgase bescheinigt hat. Satz 1 gilt für ortsfeste Blockhe",
+          "text_full": "(5) Bei genehmigungspflichtigen und bei kenntnisgabepflichtigen Vorhaben dürfen die Feuerungsanlagen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Brandsicherheit und die sichere Abführung der Verbrennungsgase bescheinigt hat. Satz 1 gilt für ortsfeste Blockheizkraftwerke und Verbrennungsmotoren in Gebäuden entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 32 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung",
+          "score": 0.6999,
+          "text_preview": "§ 32 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baul",
+          "text_full": "§ 32 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht gereinigt werden können.\n- Seite 42 von 89 -\n(4) Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 30 Lüftungsanlagen",
+          "score": 0.6941,
+          "text_preview": "§ 30 Lüftungsanlagen\n(1) Lüftungsanlagen, raumlufttechnische Anlagen und Warmluftheizungen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbren",
+          "text_full": "§ 30 Lüftungsanlagen\n(1) Lüftungsanlagen, raumlufttechnische Anlagen und Warmluftheizungen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen."
+        }
+      ],
+      "top_score": 0.7504
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 28d Nutzungsänderungen und bauliche Änderungen im Bestand bei Bauteilen in Rettungswegen",
+          "score": 0.7277,
+          "text_preview": "§ 28d Nutzungsänderungen und bauliche Änderungen im Bestand bei Bauteilen in Rettungswegen",
+          "text_full": "§ 28d Nutzungsänderungen und bauliche Änderungen im Bestand bei Bauteilen in Rettungswegen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 28b Notwendige Flure, offene Gänge",
+          "score": 0.693,
+          "text_preview": "§ 28b Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausr",
+          "text_full": "§ 28b Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist.\n(2) Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. 2 innerhalb von Wohnungen oder innerhalb von Nutzungseinheiten mit nicht mehr als 200 m ,\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m ; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m sind, Trennwände nach § 27b Absatz 2 Nummer 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 15 Absatz 3 hat.\n(3) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen, mindestens jedoch 1,25 m. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig. Rampen mit einer Neigung bis zu 6 Prozent sind zulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 29 Aufzugsanlagen",
+          "score": 0.68,
+          "text_preview": "§ 29 Aufzugsanlagen\n(1) Aufzugsanlagen müssen betriebssicher und brandsicher sein. Sie sind so zu errichten und anzuordnen, dass die Brandweiterleitung ausreichend lange verhindert wird und bei ihrer Benutzung Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Gebäude mit einer Höhe nach §",
+          "text_full": "§ 29 Aufzugsanlagen\n(1) Aufzugsanlagen müssen betriebssicher und brandsicher sein. Sie sind so zu errichten und anzuordnen, dass die Brandweiterleitung ausreichend lange verhindert wird und bei ihrer Benutzung Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Gebäude mit einer Höhe nach § 2 Absatz 4 Satz 2 von mehr als 13 m müssen Aufzüge in ausreichender Zahl haben, von denen einer auch zur Aufnahme von Rollstühlen, Krankentragen und Lasten geeignet sein muss. Satz 1 gilt nicht bei der Aufstockung um bis zu zwei Geschosse, durch die die Höhe von 13 m überschritten wird, wenn die Baugenehmigung oder die Kenntnisgabe für die Errichtung des Gebäudes mindestens fünf Jahre zurückliegt. Zur Aufnahme von Rollstühlen bestimmte Aufzüge müssen von Menschen mit Behinderung ohne fremde Hilfe zweckentsprechend genutzt werden können. Aufzüge nach Satz 3 müssen von allen Nutzungseinheiten in dem Gebäude und von der öffentlichen Verkehrsfläche aus stufenlos erreichbar sein. Haltestellen im obersten Geschoss und in den Kellergeschossen sind nicht erforderlich, wenn sie nur unter besonderen Schwierigkeiten hergestellt werden können."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.6574,
+          "text_preview": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist.",
+          "text_full": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27b Trennwände",
+          "score": 0.6524,
+          "text_preview": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und ande",
+          "text_full": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Absatz 2 Nummern 1 und 3 müssen als raumabschließende Bauteile die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen als raumabschließende Bauteile feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Baustoffe in geschossübergreifenden Fugen müssen nichtbrennbar sein. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        }
+      ],
+      "top_score": 0.7277
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 29,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 10 Höhenlage des Grundstücks",
+          "score": 0.7839,
+          "text_preview": "§ 10 Höhenlage des Grundstücks\nDRITTER TEIL Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Höhenlage des Grundstücks\nDRITTER TEIL Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.7415,
+          "text_preview": "§ 4 Bebauung der Grundstücke\n- Seite 11 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche h",
+          "text_full": "§ 4 Bebauung der Grundstücke\n- Seite 11 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat; bei Wohnwegen kann auf die Befahrbarkeit verzichtet werden, wenn keine Bedenken wegen des Brandschutzes bestehen.\n(2) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten können, die den Vorschriften dieses Gesetzes oder den auf Grund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen.\n(3) Bauliche Anlagen mit Feuerstätten müssen von Wäldern, Mooren und Heiden mindestens 30 m entfernt sein; die gleiche Entfernung ist mit Gebäuden von Wäldern sowie mit Wäldern von Gebäuden einzuhalten. Dies gilt nicht für Gebäude, die nach den Festsetzungen des Bebauungsplans mit einem geringeren Abstand als nach Satz 1 zulässig sind, sowie für bauliche Änderungen und Nutzungsänderungen rechtmäßig bestehender baulicher Anlagen. Ausnahmen können zugelassen werden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 9 Nichtüberbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.7402,
+          "text_preview": "§ 9 Nichtüberbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) Die nichtüberbauten Flächen der bebauten Grundstücke müssen Grünflächen sein, soweit diese Flächen nicht für eine andere zulässige Verwendung benötigt werden. Ist eine Begrünung oder Bepflanzung der Grundstücke nicht oder nur",
+          "text_full": "§ 9 Nichtüberbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) Die nichtüberbauten Flächen der bebauten Grundstücke müssen Grünflächen sein, soweit diese Flächen nicht für eine andere zulässige Verwendung benötigt werden. Ist eine Begrünung oder Bepflanzung der Grundstücke nicht oder nur sehr eingeschränkt möglich, so sind die baulichen Anlagen zu begrünen, soweit ihre Beschaffenheit, Konstruktion und Gestaltung es zulassen und die Maßnahme wirtschaftlich zumutbar ist.\n(2) Bei der Errichtung von Gebäuden mit mehr als drei Wohnungen, die jeweils mindestens zwei Aufenthaltsräume haben, ist auf dem Baugrundstück oder in unmittelbarer Nähe auf einem anderen geeigneten Grundstück, dessen dauerhafte Nutzung für diesen Zweck öffentlich-rechtlich gesichert sein muss, ein ausreichend großer Spielplatz für Kleinkinder anzulegen. Kinderspielplätze müssen in geeigneter Lage und von anderen Anlagen, von denen Gefahren oder erhebliche Störungen ausgehen können, ausreichend entfernt oder gegen sie abgeschirmt sein; sie müssen für Kinder gefahrlos zu erreichen sein."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 10",
+          "score": 0.7401,
+          "text_preview": "§ 10\n- Höhenlage des Grundstücks 01.03.2010 DRITTER TEIL - Allgemeine Anforderungen an die Bauausführung 01.03.2010",
+          "text_full": "§ 10\n- Höhenlage des Grundstücks 01.03.2010 DRITTER TEIL - Allgemeine Anforderungen an die Bauausführung 01.03.2010"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 10 Höhenlage des Grundstücks Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks",
+          "score": 0.7328,
+          "text_preview": "§ 10 Höhenlage des Grundstücks Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks\nerhalten oder ihre Höhenlage verändert wird, um\n1. eine Verunstaltung des Straßen-, Orts- oder Landschaftsbildes zu vermeiden oder zu beseitigen,\n2. die Oberfläche des Grunds",
+          "text_full": "§ 10 Höhenlage des Grundstücks Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks\nerhalten oder ihre Höhenlage verändert wird, um\n1. eine Verunstaltung des Straßen-, Orts- oder Landschaftsbildes zu vermeiden oder zu beseitigen,\n2. die Oberfläche des Grundstücks der Höhe der Verkehrsfläche oder der Höhe der Nachbargrundstücke anzugleichen oder\n3. überschüssigen Bodenaushub zu vermeiden.\nDRITTER TEIL Allgemeine Anforderungen an die Bauausführung"
+        }
+      ],
+      "top_score": 0.7839
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.818,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27d Decken",
+          "score": 0.7837,
+          "text_preview": "§ 27d Decken\n(1) Decken und ihre Anschlüsse müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein.\n(2) Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebä",
+          "text_full": "§ 27d Decken\n(1) Decken und ihre Anschlüsse müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein.\n(2) Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemmend,\n3. in Gebäuden der Gebäudeklassen 2 und 3 feuerhemmend sein. Satz 1 gilt\n1. für Geschosse im Dachraum nur, wenn darüber Aufenthaltsräume möglich sind oder maßgebliche Lasten eingebaut werden sollen; § 27b Absatz 4 bleibt unberührt,\n2. nicht für Balkone, ausgenommen offene Gänge, die als notwendige Flure dienen.\n(3) Im Kellergeschoss müssen Decken\n1. in Gebäuden der Gebäudeklassen 3 bis 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklassen 1 und 2 feuerhemmend sein. Decken müssen feuerbeständig sein\n1. unter und über Räumen mit Explosions- oder erhöhter Brandgefahr, ausgenommen in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. zwischen dem landwirtschaftlich genutzten Teil und dem Wohnteil eines Gebäudes.\n(4) Öffnungen in Decken, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, sind nur zulässig\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.7632,
+          "text_preview": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist.",
+          "text_full": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27e Dächer",
+          "score": 0.7591,
+          "text_preview": "§ 27e Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn ",
+          "text_full": "§ 27e Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m und\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m Brutto-Rauminhalt einen Abstand von mindestens 5 m einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. von Satz 1 Nummer 1 ein Abstand von mindestens 6 m,\n2. von Satz 1 Nummer 2 ein Abstand von mindestens 9 m,\n3. von Satz 1 Nummer 3 ein Abstand von mindestens 12 m.\n(3) Die Absätze 1 und 2 gelten nicht für\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.756,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n- Seite 25 von 89 -\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar s",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n- Seite 25 von 89 -\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende,\n3. feuerhemmende; die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        }
+      ],
+      "top_score": 0.818
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 74 Örtliche Bauvorschriften",
+          "score": 0.7631,
+          "text_preview": "§ 74 Örtliche Bauvorschriften\n(1) Zur Durchführung baugestalterischer Absichten, zur Erhaltung schützenswerter Bauteile, zum Schutz bestimmter Bauten, Straßen, Plätze oder Ortsteile von geschichtlicher, künstlerischer oder städtebaulicher Bedeutung sowie zum Schutz von Kultur- und Naturdenkmalen kön",
+          "text_full": "§ 74 Örtliche Bauvorschriften\n(1) Zur Durchführung baugestalterischer Absichten, zur Erhaltung schützenswerter Bauteile, zum Schutz bestimmter Bauten, Straßen, Plätze oder Ortsteile von geschichtlicher, künstlerischer oder städtebaulicher Bedeutung sowie zum Schutz von Kultur- und Naturdenkmalen können die Gemeinden im Rahmen dieses Gesetzes in bestimmten bebauten oder unbebauten Teilen des Gemeindegebiets durch Satzung örtliche Bauvorschriften erlassen über\n1. Anforderungen an die äußere Gestaltung baulicher Anlagen einschließlich Regelungen über Gebäudehöhen und -tiefen sowie über die Begrünung,\n2. Anforderungen an Werbeanlagen und Automaten; dabei können sich die Vorschriften auch auf deren Art, Größe, Farbe und Anbringungsort sowie auf den Ausschluss bestimmter Werbeanlagen und Automaten beziehen,\n3. Anforderungen an die Gestaltung, Bepflanzung und Nutzung der unbebauten Flächen der bebauten Grundstücke und an die Gestaltung der Plätze für bewegliche Abfallbehälter sowie über Notwendigkeit oder Zulässigkeit und über Art, Gestaltung und Höhe von Einfriedungen,\n4. die Beschränkung oder den Ausschluss der Verwendung von Außenantennen,\n5."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 51 Kenntnisgabeverfahren",
+          "score": 0.7589,
+          "text_preview": "§ 51 Kenntnisgabeverfahren\n(1) Das Kenntnisgabeverfahren kann durchgeführt werden bei der Errichtung von\n1. Wohngebäuden,\n2. sonstigen Gebäuden der Gebäudeklassen 1 bis 3, ausgenommen Gaststätten,\n3. sonstigen baulichen Anlagen, die keine Gebäude sind,\n4. Nebengebäuden und Nebenanlagen zu Bauvorhabe",
+          "text_full": "§ 51 Kenntnisgabeverfahren\n(1) Das Kenntnisgabeverfahren kann durchgeführt werden bei der Errichtung von\n1. Wohngebäuden,\n2. sonstigen Gebäuden der Gebäudeklassen 1 bis 3, ausgenommen Gaststätten,\n3. sonstigen baulichen Anlagen, die keine Gebäude sind,\n4. Nebengebäuden und Nebenanlagen zu Bauvorhaben nach den Nummern 1 bis 3, ausgenommen Sonderbauten, soweit die Vorhaben nicht bereits nach § 50 verfahrensfrei sind und die Voraussetzungen des Absatzes 2 vorliegen; bei von baulichen Anlagen unabhängigen Anlagen zur photovoltaischen oder thermischen Solarnutzung gilt die Ausnahme für Sonderbauten nicht. Satz 1 gilt nicht für die Errichtung von\n1. einem oder mehreren Gebäuden, wenn die Größe der dem Wohnen dienenden Nutzungseinheiten insgesamt mehr als 5.000 m² Brutto-Grundfläche beträgt, und\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.7567,
+          "text_preview": "§ 4 Bebauung der Grundstücke\n- Seite 11 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche h",
+          "text_full": "§ 4 Bebauung der Grundstücke\n- Seite 11 von 89 -\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat; bei Wohnwegen kann auf die Befahrbarkeit verzichtet werden, wenn keine Bedenken wegen des Brandschutzes bestehen.\n(2) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten können, die den Vorschriften dieses Gesetzes oder den auf Grund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen.\n(3) Bauliche Anlagen mit Feuerstätten müssen von Wäldern, Mooren und Heiden mindestens 30 m entfernt sein; die gleiche Entfernung ist mit Gebäuden von Wäldern sowie mit Wäldern von Gebäuden einzuhalten. Dies gilt nicht für Gebäude, die nach den Festsetzungen des Bebauungsplans mit einem geringeren Abstand als nach Satz 1 zulässig sind, sowie für bauliche Änderungen und Nutzungsänderungen rechtmäßig bestehender baulicher Anlagen. Ausnahmen können zugelassen werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27f Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und D",
+          "score": 0.7552,
+          "text_preview": "§ 27f Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und D\nachgeschossausbauten oder Aufstockungen zu Wohnzwecken",
+          "text_full": "§ 27f Nutzungsänderungen und bauliche Änderungen im Bestand bei tragenden, aussteifenden und raumabschließenden Bauteilen und D\nachgeschossausbauten oder Aufstockungen zu Wohnzwecken"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 74 Örtliche Bauvorschriften",
+          "score": 0.7547,
+          "text_preview": "(2) Soweit Gründe des Verkehrs oder städtebauliche Gründe oder Gründe sparsamer Flächennutzung dies rechtfertigen, können die Gemeinden für das Gemeindegebiet oder für genau abgegrenzte Teile des Gemeindegebiets durch Satzung bestimmen, dass\n1. die Stellplatzverpflichtung (§ 37 Abs. 1) eingeschränkt",
+          "text_full": "(2) Soweit Gründe des Verkehrs oder städtebauliche Gründe oder Gründe sparsamer Flächennutzung dies rechtfertigen, können die Gemeinden für das Gemeindegebiet oder für genau abgegrenzte Teile des Gemeindegebiets durch Satzung bestimmen, dass\n1. die Stellplatzverpflichtung (§ 37 Abs. 1) eingeschränkt wird,\n2. die Stellplatzverpflichtung für Wohnungen (§ 37 Abs. 1) auf bis zu zwei Stellplätze erhöht wird; für diese Stellplätze gilt § 37 entsprechend,\n3. die Herstellung von Stellplätzen und Garagen eingeschränkt oder untersagt wird,\n4. Stellplätze und Garagen auf anderen Grundstücken als dem Baugrundstück herzustellen sind,\n5. Stellplätze und Garagen nur in einer platzsparenden Bauart hergestellt werden dürfen, zum Beispiel mehrgeschossig, als kraftbetriebene Hebebühnen oder als automatische Garagen,\n6. Abstellplätze für Fahrräder in ausreichender Zahl und geeigneter Beschaffenheit herzustellen sind.\n(3) Die Gemeinden können durch Satzung für das Gemeindegebiet oder genau abgegrenzte Teile des Gemeindegebiets bestimmen, dass\n1. zur Vermeidung von überschüssigem Bodenaushub die Höhenlage der Grundstücke erhalten oder verändert wird,\n2."
+        }
+      ],
+      "top_score": 0.7631
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 59 Baubeginn",
+          "score": 0.7423,
+          "text_preview": "(4) Bei Vorhaben im Kenntnisgabeverfahren darf mit der Ausführung zwei Wochen nach Eingang der vollständigen Bauvorlagen bei der Baurechtsbehörde begonnen werden, es sei denn, der Bauherr erhält eine Mitteilung nach § 53 Absatz 6 oder der Baubeginn wird nach § 47 Absatz 1 oder vorläufig aufgrund von",
+          "text_full": "(4) Bei Vorhaben im Kenntnisgabeverfahren darf mit der Ausführung zwei Wochen nach Eingang der vollständigen Bauvorlagen bei der Baurechtsbehörde begonnen werden, es sei denn, der Bauherr erhält eine Mitteilung nach § 53 Absatz 6 oder der Baubeginn wird nach § 47 Absatz 1 oder vorläufig aufgrund von § 15 Absatz 1 Satz 2 BauGB untersagt.\n(5) Bei Vorhaben im Kenntnisgabeverfahren hat der Bauherr vor Baubeginn\n1. die bautechnischen Nachweise von einem Sachverständigen prüfen zu lassen, soweit nichts anderes bestimmt ist; die Prüfung muss vor Baubeginn, spätestens jedoch vor Ausführung der jeweiligen Bauabschnitte abgeschlossen sein,\n- Seite 62 von 89 -\n2. Grundriss und Höhenlage von Gebäuden auf dem Baugrundstück durch einen Sachverständigen festlegen zu lassen, soweit nichts anderes bestimmt ist,\n3. dem bevollmächtigten Bezirksschornsteinfeger technische Angaben über Feuerungsanlagen sowie über ortsfeste Blockheizkraftwerke und Verbrennungsmotoren in Gebäuden vorzulegen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen",
+          "score": 0.7205,
+          "text_preview": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen\n(1) Die Baurechtsbehörde hat innerhalb von zehn Arbeitstagen nach Eingang den Bauantrag und die Bauvorlagen auf Vollständigkeit zu überprüfen. Sind sie unvollständig oder entsprechen sie nicht den Formanforderungen, hat die Baurechtsb",
+          "text_full": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen\n(1) Die Baurechtsbehörde hat innerhalb von zehn Arbeitstagen nach Eingang den Bauantrag und die Bauvorlagen auf Vollständigkeit zu überprüfen. Sind sie unvollständig oder entsprechen sie nicht den Formanforderungen, hat die Baurechtsbehörde dem Bauherrn unverzüglich mitzuteilen, welche Ergänzungen erforderlich sind und dass ohne Behebung der Mängel innerhalb der dem Bauherrn gesetzten, angemessenen Frist der Bauantrag zurückgewiesen werden kann. Stellt sich heraus, dass der Bauantrag gemäß den eingereichten Bauvorlagen nicht genehmigungsfähig ist, aber die notwendigen Änderungen oder Ergänzungen keinen neuen Bauantrag erfordern, soll dem Bauherrn die Gelegenheit zur Nachbesserung gegeben werden; bis zum Eingang der nachgebesserten Bauvorlagen bei der Baurechtsbehörde sind alle Fristabläufe gehemmt.\n- Seite 57 von 89 -\n(2) Sobald der Bauantrag und die Bauvorlagen vollständig sind, hat die Baurechtsbehörde unverzüglich\n1. dem Bauherrn ihren Eingang und den nach Absatz 5 ermittelten Zeitpunkt der Entscheidung, jeweils mit Datumsangabe, elektronisch in Textform mitzuteilen,\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 54 Fristen im Genehmigungsverfahren, gemeindliches Einvernehmen",
+          "score": 0.6759,
+          "text_preview": "Die Gemeinde ist vor der Erteilung der Genehmigung anzuhören. Dabei ist ihr Gelegenheit zu geben, binnen angemessener Frist erneut über das gemeindliche Einvernehmen zu entscheiden.\n(5) Die Baurechtsbehörde hat über den Bauantrag innerhalb von zwei Monaten, im vereinfachten Baugenehmigungsverfahren ",
+          "text_full": "Die Gemeinde ist vor der Erteilung der Genehmigung anzuhören. Dabei ist ihr Gelegenheit zu geben, binnen angemessener Frist erneut über das gemeindliche Einvernehmen zu entscheiden.\n(5) Die Baurechtsbehörde hat über den Bauantrag innerhalb von zwei Monaten, im vereinfachten Baugenehmigungsverfahren und in den Fällen des § 56 Abs. 6 sowie des § 57 Abs. 1 innerhalb eines Monats zu entscheiden. Die Frist nach Satz 1 beginnt, sobald die vollständigen Bauvorlagen und alle für die Entscheidung notwendigen Stellungnahmen und Mitwirkungen vorliegen, spätestens jedoch nach Ablauf der Fristen nach Absatz 3 und nach den §§ 36 Absatz 2 Satz 2, 36a Absatz 1 Satz 4, Absatz 2 Satz 2 BauGB sowie nach § 12 Absatz 2 Sätze 2 und 3 des Luftverkehrsgesetzes.\n(6) Die Fristen nach Absatz 3 dürfen nur ausnahmsweise bis zu einem Monat verlängert werden, im vereinfachten Baugenehmigungsverfahren jedoch nur, wenn das Einvernehmen der Gemeinde nach"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 67 Bauabnahmen, Inbetriebnahme der Feuerungsanlagen",
+          "score": 0.6733,
+          "text_preview": "§ 67 Bauabnahmen, Inbetriebnahme der Feuerungsanlagen\n(1) Soweit es bei genehmigungspflichtigen Vorhaben zur Wirksamkeit der Bauüberwachung erforderlich ist, kann in der Baugenehmigung oder der Teilbaugenehmigung, aber auch noch während der Bauausführung die Abnahme\n1. bestimmter Bauteile oder Bauar",
+          "text_full": "§ 67 Bauabnahmen, Inbetriebnahme der Feuerungsanlagen\n(1) Soweit es bei genehmigungspflichtigen Vorhaben zur Wirksamkeit der Bauüberwachung erforderlich ist, kann in der Baugenehmigung oder der Teilbaugenehmigung, aber auch noch während der Bauausführung die Abnahme\n1. bestimmter Bauteile oder Bauarbeiten und\n2. der baulichen Anlage nach ihrer Fertigstellung vorgeschrieben werden.\n(2) Schreibt die Baurechtsbehörde eine Abnahme vor, hat der Bauherr rechtzeitig elektronisch in Textform mitzuteilen, wann die Voraussetzungen für die Abnahme gegeben sind. Der Bauherr oder die Unternehmer haben auf Verlangen die für die Abnahmen erforderlichen Arbeitskräfte und Geräte zur Verfügung zu stellen.\n(3) Bei Beanstandungen kann die Abnahme abgelehnt werden. Über die Abnahme stellt die Baurechtsbehörde auf Verlangen des Bauherrn eine Bescheinigung aus (Abnahmeschein).\n(4) Die Baurechtsbehörde kann verlangen, dass bestimmte Bauarbeiten erst nach einer Abnahme durchgeführt oder fortgesetzt werden. Sie kann aus den Gründen des § 3 Abs. 1 auch verlangen, dass eine bauliche Anlage erst nach einer Abnahme in Gebrauch genommen wird."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 12 Baustelle",
+          "score": 0.6631,
+          "text_preview": "§ 12 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet oder abgebrochen werden können und Gefahren oder vermeidbare erhebliche Belästigungen nicht entstehen.\n- Seite 16 von 89 -\n(2) Bei der Ausführung genehmigungspflichtiger Vorhaben hat der Bauherr an",
+          "text_full": "§ 12 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet oder abgebrochen werden können und Gefahren oder vermeidbare erhebliche Belästigungen nicht entstehen.\n- Seite 16 von 89 -\n(2) Bei der Ausführung genehmigungspflichtiger Vorhaben hat der Bauherr an der Baustelle den von der Baurechtsbehörde nach § 59 Abs. 1 erteilten Baufreigabeschein anzubringen. Der Bauherr hat in den Baufreigabeschein Namen, Anschrift und Rufnummer der Unternehmer für die Rohbauarbeiten spätestens bei Baubeginn einzutragen; dies gilt nicht, wenn an der Baustelle ein besonderes Schild angebracht ist, das diese Angaben enthält. Der Baufreigabeschein muss dauerhaft, leicht lesbar und von der öffentlichen Verkehrsfläche aus sichtbar angebracht sein.\n(3) Bei Vorhaben im Kenntnisgabeverfahren hat der Bauherr spätestens bei Baubeginn an der Baustelle dauerhaft, leicht lesbar und von der öffentlichen Verkehrsfläche sichtbar anzugeben:\n1. Die Bezeichnung des Vorhabens,\n2. den Namen und die Anschrift des Entwurfsverfassers und des Bauleiters,\n3. den Namen, die Anschrift und die Rufnummer der Unternehmer für die Rohbauarbeiten."
+        }
+      ],
+      "top_score": 0.7423
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 12 Baustelle",
+          "score": 0.727,
+          "text_preview": "§ 12 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet oder abgebrochen werden können und Gefahren oder vermeidbare erhebliche Belästigungen nicht entstehen.\n- Seite 16 von 89 -\n(2) Bei der Ausführung genehmigungspflichtiger Vorhaben hat der Bauherr an",
+          "text_full": "§ 12 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet oder abgebrochen werden können und Gefahren oder vermeidbare erhebliche Belästigungen nicht entstehen.\n- Seite 16 von 89 -\n(2) Bei der Ausführung genehmigungspflichtiger Vorhaben hat der Bauherr an der Baustelle den von der Baurechtsbehörde nach § 59 Abs. 1 erteilten Baufreigabeschein anzubringen. Der Bauherr hat in den Baufreigabeschein Namen, Anschrift und Rufnummer der Unternehmer für die Rohbauarbeiten spätestens bei Baubeginn einzutragen; dies gilt nicht, wenn an der Baustelle ein besonderes Schild angebracht ist, das diese Angaben enthält. Der Baufreigabeschein muss dauerhaft, leicht lesbar und von der öffentlichen Verkehrsfläche aus sichtbar angebracht sein.\n(3) Bei Vorhaben im Kenntnisgabeverfahren hat der Bauherr spätestens bei Baubeginn an der Baustelle dauerhaft, leicht lesbar und von der öffentlichen Verkehrsfläche sichtbar anzugeben:\n1. Die Bezeichnung des Vorhabens,\n2. den Namen und die Anschrift des Entwurfsverfassers und des Bauleiters,\n3. den Namen, die Anschrift und die Rufnummer der Unternehmer für die Rohbauarbeiten."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 42 Bauherr",
+          "score": 0.7194,
+          "text_preview": "Kenntnisgabepflichtige Abbrucharbeiten dürfen nicht in Selbst-, Nachbarschafts- oder Gefälligkeitshilfe ausgeführt werden.\n(3) Bei der Errichtung von Gebäuden mit Aufenthaltsräumen und bei Bauvorhaben, die technisch besonders schwierig oder besonders umfangreich sind, kann die Baurechtsbehörde die B",
+          "text_full": "Kenntnisgabepflichtige Abbrucharbeiten dürfen nicht in Selbst-, Nachbarschafts- oder Gefälligkeitshilfe ausgeführt werden.\n(3) Bei der Errichtung von Gebäuden mit Aufenthaltsräumen und bei Bauvorhaben, die technisch besonders schwierig oder besonders umfangreich sind, kann die Baurechtsbehörde die Bestellung eines Bauleiters verlangen.\n(4) Genügt eine vom Bauherrn bestellte Person nicht den Anforderungen der §§ 43 bis 45, so kann die Baurechtsbehörde vor und während der Bauausführung verlangen, dass sie durch eine geeignete Person ersetzt wird oder dass geeignete Sachverständige herangezogen werden. Die Baurechtsbehörde kann die Bauarbeiten einstellen, bis geeignete Personen oder Sachverständige bestellt sind.\n(5) Die Baurechtsbehörde kann verlangen, dass ihr für bestimmte Arbeiten die Unternehmer benannt werden.\n(6) Wechselt der Bauherr, so hat der neue Bauherr dies der Baurechtsbehörde unverzüglich mitzuteilen.\n(7) Treten bei einem Vorhaben mehrere Personen als Bauherr auf, so müssen sie auf Verlangen der Baurechtsbehörde einen Vertreter bestellen, der ihr gegenüber die dem Bauherrn nach den öffentlichrechtlichen Vorschriften obliegenden Verpflichtungen zu erfüllen hat. § 18 Abs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 16a Bauarten",
+          "score": 0.7191,
+          "text_preview": "§ 19 Absatz 2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Absatz 1 Satz 1 nicht zu erwarten sind, kann die oberste Baurechtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) Bauarten bedürfen einer Bestätigung ",
+          "text_full": "§ 19 Absatz 2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Absatz 1 Satz 1 nicht zu erwarten sind, kann die oberste Baurechtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) Bauarten bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 73a Absatz 2, den allgemeinen Bauartgenehmigungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen für Bauarten oder den vorhabenbezogenen Bauartgenehmigungen. Als Übereinstimmung gilt auch eine Abweichung, die nicht wesentlich ist. § 21 Absatz 2 gilt für den Anwender der Bauart entsprechend.\n(6) Bei Bauarten, deren Anwendung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Baurechtsbehörde vorgeschrieben werden, dass der Anwender über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 24 Satz 1 Nummer 6 zu erbringen hat."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 58 Baugenehmigung",
+          "score": 0.7185,
+          "text_preview": "Im Fall des Satzes 1 finden Absatz 1 Satz 1, 2, 4 und 5 keine Anwendung.\n(2) Die Baugenehmigung gilt auch für und gegen den Rechtsnachfolger des Bauherrn.\n(3) Die Baugenehmigung wird unbeschadet privater Rechte Dritter erteilt.\n(4) Behelfsbauten dürfen nur befristet oder widerruflich genehmigt werde",
+          "text_full": "Im Fall des Satzes 1 finden Absatz 1 Satz 1, 2, 4 und 5 keine Anwendung.\n(2) Die Baugenehmigung gilt auch für und gegen den Rechtsnachfolger des Bauherrn.\n(3) Die Baugenehmigung wird unbeschadet privater Rechte Dritter erteilt.\n(4) Behelfsbauten dürfen nur befristet oder widerruflich genehmigt werden. Nach Ablauf der gesetzten Frist oder nach Widerruf ist die Anlage ohne Entschädigung zu beseitigen und ein ordnungsgemäßer Zustand herzustellen.\n(5) Die Gemeinde ist, wenn sie nicht Baurechtsbehörde ist, von jeder Baugenehmigung durch Bekanntgabe des Bescheides und der Pläne zu unterrichten.\n(6) Auch nach Erteilung der Baugenehmigung können Anforderungen gestellt werden, um Gefahren für Leben oder Gesundheit oder bei der Genehmigung nicht voraussehbare Gefahren oder erhebliche Nachteile oder Belästigungen von der Allgemeinheit oder den Benutzern der baulichen Anlagen abzuwenden. Bei Gefahr im Verzug kann bis zur Erfüllung dieser Anforderungen die Benutzung der baulichen Anlage eingeschränkt oder untersagt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 64 Einstellung von Arbeiten",
+          "score": 0.6926,
+          "text_preview": "(2) Werden Arbeiten trotz schriftlich oder mündlich verfügter Einstellung fortgesetzt, so kann die Baurechtsbehörde die Baustelle versiegeln und die an der Baustelle vorhandenen Baustoffe, Bauteile, Baugeräte, Baumaschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen.",
+          "text_full": "(2) Werden Arbeiten trotz schriftlich oder mündlich verfügter Einstellung fortgesetzt, so kann die Baurechtsbehörde die Baustelle versiegeln und die an der Baustelle vorhandenen Baustoffe, Bauteile, Baugeräte, Baumaschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen."
+        }
+      ],
+      "top_score": 0.727
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 65 Abbruchsanordnung und Nutzungsuntersagung",
+          "score": 0.7986,
+          "text_preview": "§ 65 Abbruchsanordnung und Nutzungsuntersagung\n(1) Der teilweise oder vollständige Abbruch einer Anlage, die im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet wurde, kann angeordnet werden, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. Werden Anlagen im Wi",
+          "text_full": "§ 65 Abbruchsanordnung und Nutzungsuntersagung\n(1) Der teilweise oder vollständige Abbruch einer Anlage, die im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet wurde, kann angeordnet werden, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden.\n(2) Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Baurechtsbehörde die Grundstückseigentümer und Erbbauberechtigten verpflichten, die Anlage abzubrechen oder zu beseitigen; die Bestimmungen des Denkmalschutzgesetzes bleiben unberührt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 37 Stellplätze für Kraftfahrzeuge und Fahrräder, Garagen",
+          "score": 0.7588,
+          "text_preview": "Sie hat die Herstellung auszusetzen, solange und soweit nachweislich ein Bedarf an Stellplätzen oder Garagen nicht besteht und die für die Herstellung erforderlichen Flächen für diesen Zweck durch Baulast gesichert sind.\n- Seite 45 von 89 -\n(5) Die notwendigen Stellplätze oder Garagen sind herzustel",
+          "text_full": "Sie hat die Herstellung auszusetzen, solange und soweit nachweislich ein Bedarf an Stellplätzen oder Garagen nicht besteht und die für die Herstellung erforderlichen Flächen für diesen Zweck durch Baulast gesichert sind.\n- Seite 45 von 89 -\n(5) Die notwendigen Stellplätze oder Garagen sind herzustellen\n1. auf dem Baugrundstück,\n2. auf einem anderen Grundstück in zumutbarer Entfernung oder\n3. mit Zustimmung der Gemeinde auf einem Grundstück in der Gemeinde. Die Herstellung auf einem anderen als dem Baugrundstück muss für diesen Zweck durch Baulast gesichert sein. Die Baurechtsbehörde kann, wenn Gründe des Verkehrs dies erfordern, mit Zustimmung der Gemeinde bestimmen, ob die Stellplätze oder Garagen auf dem Baugrundstück oder auf einem anderen Grundstück herzustellen sind.\n(6) Lassen sich notwendige Kfz-Stellplätze oder Garagen nach Absatz 5 nicht oder nur unter großen Schwierigkeiten herstellen, so kann die Baurechtsbehörde mit Zustimmung der Gemeinde zur Erfüllung der Stellplatzverpflichtung zulassen, dass der Bauherr einen Geldbetrag an die Gemeinde zahlt. Der Geldbetrag muss von der Gemeinde innerhalb eines angemessenen Zeitraums verwendet werden für\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 76 Bestehende bauliche Anlagen",
+          "score": 0.7583,
+          "text_preview": "§ 76 Bestehende bauliche Anlagen\n(1) Eine bauliche Anlage genießt Bestandsschutz, soweit sie genehmigt und genehmigungskonform errichtet worden ist und den Umfang der genehmigten Nutzung nicht verlassen hat. Eine bauliche Anlage genießt auch Bestandsschutz, wenn sie zum Zeitpunkt ihrer Errichtung de",
+          "text_full": "§ 76 Bestehende bauliche Anlagen\n(1) Eine bauliche Anlage genießt Bestandsschutz, soweit sie genehmigt und genehmigungskonform errichtet worden ist und den Umfang der genehmigten Nutzung nicht verlassen hat. Eine bauliche Anlage genießt auch Bestandsschutz, wenn sie zum Zeitpunkt ihrer Errichtung dem geltenden Recht ent-\n- Seite 80 von 89 sprochen hat oder wenn die bauliche Anlage zu einem späteren Zeitpunkt hätte genehmigt werden können und die Anlage nicht zwischenzeitlich zu anderen Zwecken genutzt wird.\n(2) Werden in diesem Gesetz oder in den auf Grund dieses Gesetzes erlassenen Vorschriften andere Anforderungen als nach dem bisherigen Recht gestellt, so kann verlangt werden, dass rechtmäßig bestehende oder nach genehmigten Bauvorlagen bereits begonnene Anlagen den neuen Vorschriften angepasst werden, wenn Leben oder Gesundheit bedroht sind.\n(3) Sollen rechtmäßig bestehende Anlagen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile der Anlage mit diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 14 Schutz baulicher Anlagen",
+          "score": 0.7463,
+          "text_preview": "§ 14 Schutz baulicher Anlagen\n(1) Geräusche, Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in einer baulichen Anlage ausgehen, sind so zu dämmen, dass Gefahren sowie erhebliche Nachteile oder Belästigungen nicht entstehen. Gebäude müssen einen ihrer Nutzung entsprechenden Schal",
+          "text_full": "§ 14 Schutz baulicher Anlagen\n(1) Geräusche, Erschütterungen oder Schwingungen, die von ortsfesten Einrichtungen in einer baulichen Anlage ausgehen, sind so zu dämmen, dass Gefahren sowie erhebliche Nachteile oder Belästigungen nicht entstehen. Gebäude müssen einen ihrer Nutzung entsprechenden Schallschutz haben.\n(2) Bauliche Anlagen müssen so angeordnet, beschaffen und gebrauchstauglich sein, dass durch Wasser, Feuchtigkeit, pflanzliche und tierische Schädlinge sowie andere chemische, physikalische oder biologische Einflüsse Gefahren oder unzumutbare Belästigungen bei sachgerechtem Gebrauch nicht entstehen.\n(3) Gebäude müssen einen ihrer Nutzung und den klimatischen Verhältnissen entsprechenden Wärmeschutz haben."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 74 Örtliche Bauvorschriften",
+          "score": 0.7396,
+          "text_preview": "die Unzulässigkeit von Niederspannungsfreileitungen in neuen Baugebieten und Sanierungsgebieten,\n6. das Erfordernis einer Kenntnisgabe für Vorhaben, die nach § 50 verfahrensfrei sind,\n7. andere als die in § 5 Abs. 7 vorgeschriebenen Maße. Die Gemeinden können solche Vorschriften auch erlassen, sowei",
+          "text_full": "die Unzulässigkeit von Niederspannungsfreileitungen in neuen Baugebieten und Sanierungsgebieten,\n6. das Erfordernis einer Kenntnisgabe für Vorhaben, die nach § 50 verfahrensfrei sind,\n7. andere als die in § 5 Abs. 7 vorgeschriebenen Maße. Die Gemeinden können solche Vorschriften auch erlassen, soweit dies zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung gewährleistet ist. Sie können zudem regeln, dass § 5 Abs. 7 keine Anwendung findet, wenn durch die Festsetzungen einer städtebau-\n- Seite 77 von 89 lichen Satzung Außenwände zugelassen oder vorgeschrieben werden, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach diesen Vorschriften liegen müssten. Anforderungen nach Satz 1 Nummer 1 und 3 sind nur zulässig, wenn sie gleichzeitig die Nutzung erneuerbarer Energien zulassen. Anforderungen in bereits bestehenden Satzungen, die dem Satz 2 widersprechende Anforderungen enthalten, werden unwirksam."
+        }
+      ],
+      "top_score": 0.7986
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 73 Rechtsverordnungen",
+          "score": 0.7747,
+          "text_preview": "§ 73 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Baurechtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen in den §§ 4 bi",
+          "text_full": "§ 73 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Baurechtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen in den §§ 4 bis 37,\n2. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen und Räume nach § 38 für ihre Errichtung, Unterhaltung und Nutzung ergeben, sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n- Seite 73 von 89 -\n3. eine von Zeit zu Zeit zu wiederholende Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n4. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen, wie Bühnenbetriebe und technisch schwierige Fliegende Bauten,\n5. den Nachweis der Befähigung der in Nummer 4 genannten Personen,\n6. die Förderung der Elektromobilität."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 73 Rechtsverordnungen",
+          "score": 0.7406,
+          "text_preview": "(7a) Die oberste Baurechtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2 und §§ 17 bis 25 ganz oder teilweise anwendbar sind, we",
+          "text_full": "(7a) Die oberste Baurechtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2 und §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen.\n(8) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass\n1. Ausführungsgenehmigungen für Fliegende Bauten nur durch bestimmte Behörden oder durch von ihr bestimmte Stellen erteilt und die in § 69 Abs. 6 bis 8 genannten Aufgaben der Baurechtsbehörde durch andere Behörden oder Stellen wahrgenommen werden; dabei kann die Vergütung dieser Stellen geregelt werden,\n2. die Anforderungen der auf Grund des § 34 des Produktsicherheitsgesetzes und des § 49 Abs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 52 Vereinfachtes Baugenehmigungsverfahren",
+          "score": 0.7377,
+          "text_preview": "(4) Über Abweichungen, Ausnahmen und Befreiungen von Vorschriften nach diesem Gesetz oder auf Grund dieses Gesetzes, die nach Absatz 2 nicht geprüft werden, entscheidet die Baurechtsbehörde auf besonderen Antrag im Rahmen des vereinfachten Baugenehmigungsverfahrens.",
+          "text_full": "(4) Über Abweichungen, Ausnahmen und Befreiungen von Vorschriften nach diesem Gesetz oder auf Grund dieses Gesetzes, die nach Absatz 2 nicht geprüft werden, entscheidet die Baurechtsbehörde auf besonderen Antrag im Rahmen des vereinfachten Baugenehmigungsverfahrens."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 73 Rechtsverordnungen",
+          "score": 0.7167,
+          "text_preview": "(6) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung die Befugnisse auf andere als in diesen Vorschriften aufgeführte Behörden zu übertragen für\n1. die Zuständigkeit für die vorhabenbezogene Bauartgenehmigung nach § 16a Absatz 2 Satz 1 Nummer 2 und den Verzicht darauf im Einzelfa",
+          "text_full": "(6) Die oberste Baurechtsbehörde wird ermächtigt, durch Rechtsverordnung die Befugnisse auf andere als in diesen Vorschriften aufgeführte Behörden zu übertragen für\n1. die Zuständigkeit für die vorhabenbezogene Bauartgenehmigung nach § 16a Absatz 2 Satz 1 Nummer 2 und den Verzicht darauf im Einzelfall nach § 16a Absatz 4 sowie die Entscheidungen über Zustimmungen im Einzelfall (§ 20),\n2. die Anerkennung von Prüf-, Zertifizierungs- und Überwachungsstellen (§ 24). Die Befugnis nach Nummer 2 kann auch auf eine Behörde eines anderen Landes übertragen werden, die der Aufsicht einer obersten Baurechtsbehörde untersteht oder an deren Willensbildung die oberste Baurechtsbehörde mitwirkt.\n(7) Die oberste Baurechtsbehörde kann durch Rechtsverordnung\n1. das Ü-Zeichen festlegen und zu diesem Zeichen zusätzliche Angaben verlangen,\n2. das Anerkennungsverfahren nach § 24, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen regeln, insbesondere auch Altersgrenzen festlegen, sowie eine ausreichende Haftpflichtversicherung fordern."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 77 Übergangsvorschriften",
+          "score": 0.7044,
+          "text_preview": "§ 77 Übergangsvorschriften\n(1) Die vor Inkrafttreten dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften eingeleiteten Verfahren sind nach den bisherigen Verfahrensvorschriften weiterzuführen. Die materiellen Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlass",
+          "text_full": "§ 77 Übergangsvorschriften\n(1) Die vor Inkrafttreten dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften eingeleiteten Verfahren sind nach den bisherigen Verfahrensvorschriften weiterzuführen. Die materiellen Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften sind in diesen Verfahren nur insoweit anzuwenden, als sie für den Antragsteller eine günstigere Regelung enthalten als das bisher geltende Recht. § 76 bleibt unberührt. Die Sätze 1 bis 3 gelten für Änderungsgesetze zu diesem Gesetz oder zu den aufgrund dieses Gesetzes erlassenen Vorschriften entsprechend, soweit nichts Abweichendes geregelt ist.\n(2) Wer bis zum Inkrafttreten dieses Gesetzes als Planverfasser für Bauvorlagen bestellt werden durfte, darf in bisherigem Umfang auch weiterhin als Entwurfsverfasser bestellt werden.\n(3) Bis zum Ablauf des 30. November 2017 für Bauarten erteilte allgemeine bauaufsichtliche Zulassungen oder Zustimmungen im Einzelfall gelten als Bauartgenehmigung nach § 16a Absatz 2 fort.\n(4) Bestehende Anerkennungen von Prüf-, Überwachungs- und Zertifizierungsstellen bleiben in dem bis zum Ablauf des 30. November 2017 geregelten Umfang wirksam."
+        }
+      ],
+      "top_score": 0.7747
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 7 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke Soweit nach diesem Gesetz oder nach Vorschriften auf G",
+          "score": 0.7248,
+          "text_preview": "§ 7 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke Soweit nach diesem Gesetz oder nach Vorschriften auf G\nrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, dürfen sie sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch B",
+          "text_full": "§ 7 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke Soweit nach diesem Gesetz oder nach Vorschriften auf G\nrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, dürfen sie sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie nicht überbaut werden und auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden. Vorschriften,\n- Seite 14 von 89 nach denen in den Abstandsflächen bauliche Anlagen zulässig sind oder ausnahmsweise zugelassen werden können, bleiben unberührt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 5 Abstandsflächen",
+          "score": 0.7097,
+          "text_preview": "§ 5 Abstandsflächen\n(1) Vor den Außenwänden von baulichen Anlagen müssen Abstandsflächen liegen, die von oberirdischen baulichen Anlagen freizuhalten sind. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden an Grundstücksgrenzen, wenn nach planungsrechtlichen Vorschriften\n1. an die Grenze ge",
+          "text_full": "§ 5 Abstandsflächen\n(1) Vor den Außenwänden von baulichen Anlagen müssen Abstandsflächen liegen, die von oberirdischen baulichen Anlagen freizuhalten sind. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden an Grundstücksgrenzen, wenn nach planungsrechtlichen Vorschriften\n1. an die Grenze gebaut werden muss, es sei denn, die vorhandene Bebauung erfordert eine Abstandsfläche, oder\n2. an die Grenze gebaut werden darf und öffentlich-rechtlich gesichert ist, dass auf dem Nachbargrundstück ebenfalls an die Grenze gebaut wird. Die öffentlich-rechtliche Sicherung ist nicht erforderlich, wenn nach einer festgesetzten oder in der näheren Umgebung im Sinne von § 34 Absatz 1 Satz 1 des Baugesetzbuchs (BauGB) vorhandenen Bauweise unabhängig von der Bebauung auf dem Nachbargrundstück an die Grenze gebaut werden darf.\n(2) Die Abstandsflächen müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen liegen, bei beidseitig anbaubaren Flächen jedoch nur bis zu deren Mitte.\n(3) Die Abstandsflächen dürfen sich nicht überdecken."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 6 Abstandsflächen in Sonderfällen",
+          "score": 0.6557,
+          "text_preview": "(2) Werden mit Gebäuden oder Gebäudeteilen nach Absatz 1 dennoch Abstandsflächen eingehalten, so müssen sie gegenüber Nachbargrenzen eine Tiefe von mindestens 0,5 m haben.\n(3) Geringere Tiefen der Abstandsflächen sind zuzulassen, wenn\n1. in überwiegend bebauten Gebieten die Gestaltung des Straßenbil",
+          "text_full": "(2) Werden mit Gebäuden oder Gebäudeteilen nach Absatz 1 dennoch Abstandsflächen eingehalten, so müssen sie gegenüber Nachbargrenzen eine Tiefe von mindestens 0,5 m haben.\n(3) Geringere Tiefen der Abstandsflächen sind zuzulassen, wenn\n1. in überwiegend bebauten Gebieten die Gestaltung des Straßenbildes oder besondere örtliche Verhältnisse dies erfordern oder\n2. Beleuchtung mit Tageslicht sowie Belüftung in ausreichendem Maße gewährleistet bleiben, Gründe des Brandschutzes nicht entgegenstehen und nachbarliche Belange nicht erheblich beeinträchtigt werden. In den Fällen der Nummer 1 können geringere Tiefen der Abstandsflächen auch verlangt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 10 Höhenlage des Grundstücks Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks",
+          "score": 0.6302,
+          "text_preview": "§ 10 Höhenlage des Grundstücks Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks\nerhalten oder ihre Höhenlage verändert wird, um\n1. eine Verunstaltung des Straßen-, Orts- oder Landschaftsbildes zu vermeiden oder zu beseitigen,\n2. die Oberfläche des Grunds",
+          "text_full": "§ 10 Höhenlage des Grundstücks Bei der Errichtung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks\nerhalten oder ihre Höhenlage verändert wird, um\n1. eine Verunstaltung des Straßen-, Orts- oder Landschaftsbildes zu vermeiden oder zu beseitigen,\n2. die Oberfläche des Grundstücks der Höhe der Verkehrsfläche oder der Höhe der Nachbargrundstücke anzugleichen oder\n3. überschüssigen Bodenaushub zu vermeiden.\nDRITTER TEIL Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27c Brandwände",
+          "score": 0.626,
+          "text_preview": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten landwirtschaftlich genutzten Gebäuden sowie als innere Brandwand zwischen dem Wohnteil und dem landwirtschaftlich genutzten Teil eines Gebäudes.\n(3) Absatz 2 Nummer 1 gilt nicht für\n1. Vorbauten nach § 5 Absatz 6 Nummer 2, soweit ihre sei",
+          "text_full": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten landwirtschaftlich genutzten Gebäuden sowie als innere Brandwand zwischen dem Wohnteil und dem landwirtschaftlich genutzten Teil eines Gebäudes.\n(3) Absatz 2 Nummer 1 gilt nicht für\n1. Vorbauten nach § 5 Absatz 6 Nummer 2, soweit ihre seitlichen Wände von dem Nachbargebäude oder der Nachbargrenze einen Abstand einhalten, der ihrer eigenen Ausladung entspricht, mindestens jedoch 1,25 m beträgt,\n2. Wände bis 5 m Breite nach § 5 Absatz 7 Satz 2,\n3. Gebäude oder Gebäudeteile, die nach § 6 Absatz 1 in den Abstandsflächen sowie ohne eigene Abstandsflächen zulässig sind,\n4. Wände, die gemäß § 5 Absatz 6 Satz 2 die Abstände nicht einhalten, soweit die verwendeten Dämmstoffe nichtbrennbar sind,\n5. Wände, die gemäß § 6 Absatz 3 Satz 1 Nummer 2 die Abstände nicht einhalten, wenn ohne Brandwand keine Bedenken wegen des Brandschutzes bestehen,\n6. Wände, die mit einem Winkel von mehr als 75° zu Nachbargrenzen oder zu bestehenden Gebäuden stehen, soweit Öffnungen in diesen Wänden zu Nachbargrenzen einen Abstand von 1,25 m beziehungsweise zu Öffnungen von bestehenden Gebäuden einen Abstand von 2,5 m einhalten, und\n7."
+        }
+      ],
+      "top_score": 0.7248
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.599,
+          "text_preview": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist.",
+          "text_full": "Größere Abstände können verlangt werden, soweit dies wegen des Brandschutzes oder zur Sicherheit der Gebäude erforderlich ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 67 Bauabnahmen, Inbetriebnahme der Feuerungsanlagen",
+          "score": 0.5957,
+          "text_preview": "(5) Bei genehmigungspflichtigen und bei kenntnisgabepflichtigen Vorhaben dürfen die Feuerungsanlagen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Brandsicherheit und die sichere Abführung der Verbrennungsgase bescheinigt hat. Satz 1 gilt für ortsfeste Blockhe",
+          "text_full": "(5) Bei genehmigungspflichtigen und bei kenntnisgabepflichtigen Vorhaben dürfen die Feuerungsanlagen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Brandsicherheit und die sichere Abführung der Verbrennungsgase bescheinigt hat. Satz 1 gilt für ortsfeste Blockheizkraftwerke und Verbrennungsmotoren in Gebäuden entsprechend."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.5805,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27c Brandwände",
+          "score": 0.5778,
+          "text_preview": "§ 27c Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n(2) Brandwände si",
+          "text_full": "§ 27c Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n(2) Brandwände sind erforderlich\n1. als Gebäudeabschlusswand, wenn diese Abschlusswände an oder mit einem Abstand von weniger als 2,5 m gegenüber der Grundstücksgrenze oder mit einem Abstand von weniger als 5 m zu bestehenden Gebäuden auf demselben Grundstück errichtet werden,\n- Seite 28 von 89 -\n2. als innere Brandwand zur Unterteilung ausgedehnter Gebäude in Abständen von nicht mehr als 40 m,\n3. als innere Brandwand zur Unterteilung landwirtschaftlich genutzter Gebäude in Brandabschnitte von nicht mehr als 10 000 m Brutto-Rauminhalt, wobei größere Brandabschnitte mit Brandwandabständen bis 60 m möglich sind, wenn die Nutzung des Gebäudes dies erfordert und keine Bedenken wegen des Brandschutzes bestehen,\n4."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 27b Trennwände",
+          "score": 0.5681,
+          "text_preview": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und ande",
+          "text_full": "§ 27b Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Absatz 2 Nummern 1 und 3 müssen als raumabschließende Bauteile die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen als raumabschließende Bauteile feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Baustoffe in geschossübergreifenden Fugen müssen nichtbrennbar sein. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        }
+      ],
+      "top_score": 0.599
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6393,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf ",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die den in Vorschriften eines anderen Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz oder der Türkei genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Absatz 1 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 17 Verwendbarkeitsnachweise",
+          "score": 0.6219,
+          "text_preview": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung nach § 73a Absatz 2 Nummer 3 wesent",
+          "text_full": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung nach § 73a Absatz 2 Nummer 3 wesentlich abweicht oder\n3. eine Verordnung nach § 73 Absatz 7a es vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt, das\n1. von einer allgemein anerkannten Regel der Technik abweicht oder\n2. für die Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 73a enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 51 Kenntnisgabeverfahren",
+          "score": 0.6182,
+          "text_preview": "(4) Kenntnisgabepflichtige Vorhaben müssen ebenso wie genehmigungspflichtige Vorhaben den öffentlich-rechtlichen Vorschriften entsprechen.",
+          "text_full": "(4) Kenntnisgabepflichtige Vorhaben müssen ebenso wie genehmigungspflichtige Vorhaben den öffentlich-rechtlichen Vorschriften entsprechen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 73 Rechtsverordnungen",
+          "score": 0.6078,
+          "text_preview": "§ 73 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Baurechtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen in den §§ 4 bi",
+          "text_full": "§ 73 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Baurechtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen in den §§ 4 bis 37,\n2. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen und Räume nach § 38 für ihre Errichtung, Unterhaltung und Nutzung ergeben, sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n- Seite 73 von 89 -\n3. eine von Zeit zu Zeit zu wiederholende Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n4. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen, wie Bühnenbetriebe und technisch schwierige Fliegende Bauten,\n5. den Nachweis der Befähigung der in Nummer 4 genannten Personen,\n6. die Förderung der Elektromobilität."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 18 Allgemeine bauaufsichtliche Zulassung",
+          "score": 0.5936,
+          "text_preview": "§ 18 Allgemeine bauaufsichtliche Zulassung\n(1) Das Deutsche Institut für Bautechnik erteilt unter den Voraussetzungen des § 17 Absatz 1 eine allgemeine bauaufsichtliche Zulassung für Bauprodukte, wenn deren Verwendbarkeit im Sinne des § 16b Absatz 1 nachgewiesen ist.\n(2) Die zur Begründung des Antra",
+          "text_full": "§ 18 Allgemeine bauaufsichtliche Zulassung\n(1) Das Deutsche Institut für Bautechnik erteilt unter den Voraussetzungen des § 17 Absatz 1 eine allgemeine bauaufsichtliche Zulassung für Bauprodukte, wenn deren Verwendbarkeit im Sinne des § 16b Absatz 1 nachgewiesen ist.\n(2) Die zur Begründung des Antrags erforderlichen Unterlagen sind beizufügen. Soweit erforderlich, sind Probestücke vom Antragsteller zur Verfügung zu stellen oder durch Sachverständige, die das Deutsche Institut für Bautechnik bestimmen kann, zu entnehmen oder Probeausführungen unter Aufsicht der Sachverständigen herzustellen. Der Antrag kann zurückgewiesen werden, wenn die Unterlagen unvollständig sind oder erhebliche Mängel aufweisen.\n(3) Das Deutsche Institut für Bautechnik kann für die Durchführung der Prüfung die sachverständige Stelle und für Probeausführungen die Ausführungsstelle und Ausführungszeit vorschreiben.\n(4) Die allgemeine bauaufsichtliche Zulassung wird widerruflich und für eine bestimmte Frist erteilt, die in der Regel fünf Jahre beträgt. Die Zulassung kann mit Nebenbestimmungen erteilt werden. Sie kann auf Antrag in Textform in der Regel um fünf Jahre verlängert werden; § 62 Abs."
+        }
+      ],
+      "top_score": 0.6393
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BW",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 42 Bauherr",
+          "score": 0.7971,
+          "text_preview": "§ 42 Bauherr\n(1) Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines genehmigungspflichtigen oder kenntnisgabepflichtigen Bauvorhabens einen geeigneten Entwurfsverfasser, geeignete Unternehmer und nach Maßgabe des Absatzes 3 einen geeigneten Bauleiter zu bestellen. Dem Bauherrn oblieg",
+          "text_full": "§ 42 Bauherr\n(1) Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines genehmigungspflichtigen oder kenntnisgabepflichtigen Bauvorhabens einen geeigneten Entwurfsverfasser, geeignete Unternehmer und nach Maßgabe des Absatzes 3 einen geeigneten Bauleiter zu bestellen. Dem Bauherrn obliegen die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anzeigen an die Baurechtsbehörde. Er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten.\n(2) Bei Bauarbeiten, die unter Einhaltung des Gesetzes zur Bekämpfung der Schwarzarbeit in Selbst-, Nachbarschafts- oder Gefälligkeitshilfe ausgeführt werden, ist die Bestellung von Unternehmern nicht erforderlich, wenn genügend Fachkräfte mit der nötigen Sachkunde, Erfahrung und Zuverlässigkeit mitwirken. §§ 43 und 45 bleiben unberührt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 66 Bauüberwachung",
+          "score": 0.7521,
+          "text_preview": "§ 66 Bauüberwachung\n(1) Die Baurechtsbehörde kann die Ordnungsmäßigkeit der Bauausführung und die ordnungsgemäße Erfüllung der Pflichten der am Bau Beteiligten nach den §§ 42 bis 45 überprüfen. Sie kann verlangen, dass Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden.\n(2) Die Ordnungsmä",
+          "text_full": "§ 66 Bauüberwachung\n(1) Die Baurechtsbehörde kann die Ordnungsmäßigkeit der Bauausführung und die ordnungsgemäße Erfüllung der Pflichten der am Bau Beteiligten nach den §§ 42 bis 45 überprüfen. Sie kann verlangen, dass Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden.\n(2) Die Ordnungsmäßigkeit der Bauausführung umfasst auch die Tauglichkeit der Gerüste und Absteifungen sowie die Bestimmungen zum Schutze der allgemeinen Sicherheit. Die Baurechtsbehörde und die von ihr Beauftragten können Proben von Bauprodukten, soweit erforderlich auch aus fertigen Bauteilen, entnehmen und prüfen oder prüfen lassen.\n(3) Den mit der Überwachung beauftragten Personen ist jederzeit Zutritt zu Baustellen und Betriebsstätten sowie Einblick in Genehmigungen und Zulassungen, Prüfzeugnisse, Übereinstimmungserklärungen, Übereinstimmungszertifikate, Überwachungsnachweise, Zeugnisse und Aufzeichnungen über die Prüfung von Bauprodukten, in die CE-Kennzeichnungen und Leistungserklärungen nach der Verordnung (EU) Nr. 305/2011, in die Bautagebücher und andere vorgeschriebene Aufzeichnungen zu gewähren."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 45 Bauleiter",
+          "score": 0.7507,
+          "text_preview": "§ 45 Bauleiter\n(1) Der Bauleiter hat darüber zu wachen, dass die Bauausführung den öffentlich-rechtlichen Vorschriften und den Entwürfen des Entwurfsverfassers entspricht. Er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinande",
+          "text_full": "§ 45 Bauleiter\n(1) Der Bauleiter hat darüber zu wachen, dass die Bauausführung den öffentlich-rechtlichen Vorschriften und den Entwürfen des Entwurfsverfassers entspricht. Er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmer zu achten; die Verantwortlichkeit der Unternehmer bleibt unberührt. Verstöße, denen nicht abgeholfen wird, hat er unverzüglich der Baurechtsbehörde mitzuteilen.\n(2) Hat der Bauleiter nicht für alle ihm obliegenden Aufgaben die erforderliche Sachkunde und Erfahrung, hat er den Bauherrn zu veranlassen, geeignete Fachbauleiter zu bestellen. Diese treten insoweit an die Stelle des Bauleiters. Der Bauleiter bleibt für das ordnungsgemäße Ineinandergreifen seiner Tätigkeiten mit denen der Fachbauleiter verantwortlich."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 70 Zustimmungsverfahren, Vorhaben der Landesverteidigung",
+          "score": 0.7333,
+          "text_preview": "Sie sind statt dessen der höheren Baurechtsbehörde vor Baubeginn in geeigneter Weise zur Kenntnis zu bringen.\n(4) Der Bauherr ist dafür verantwortlich, dass Entwurf und Ausführung von Vorhaben nach den Absätzen 1 und 3 den öffentlich-rechtlichen Vorschriften entsprechen.",
+          "text_full": "Sie sind statt dessen der höheren Baurechtsbehörde vor Baubeginn in geeigneter Weise zur Kenntnis zu bringen.\n(4) Der Bauherr ist dafür verantwortlich, dass Entwurf und Ausführung von Vorhaben nach den Absätzen 1 und 3 den öffentlich-rechtlichen Vorschriften entsprechen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Baden-Württemberg",
+          "jurisdiction": "DE-BW",
+          "source_paragraph": "§ 47 Aufgaben und Befugnisse der Baurechtsbehörden",
+          "score": 0.7241,
+          "text_preview": "§ 47 Aufgaben und Befugnisse der Baurechtsbehörden\n(1) Die Baurechtsbehörden haben darauf zu achten, dass die baurechtlichen Vorschriften sowie die anderen öffentlich-rechtlichen Vorschriften über die Errichtung und den Abbruch von Anlagen und Einrichtungen im Sinne des § 1 eingehalten und die auf G",
+          "text_full": "§ 47 Aufgaben und Befugnisse der Baurechtsbehörden\n(1) Die Baurechtsbehörden haben darauf zu achten, dass die baurechtlichen Vorschriften sowie die anderen öffentlich-rechtlichen Vorschriften über die Errichtung und den Abbruch von Anlagen und Einrichtungen im Sinne des § 1 eingehalten und die auf Grund dieser Vorschriften erlassenen Anordnungen befolgt werden. Sie haben zur Wahrnehmung dieser Aufgaben diejenigen Maßnahmen zu treffen, die nach pflichtgemäßem Ermessen erforderlich sind.\n(2) Die Baurechtsbehörden können zur Erfüllung ihrer Aufgaben Sachverständige heranziehen.\n(3) Die mit dem Vollzug dieses Gesetzes beauftragten Personen sind berechtigt, in Ausübung ihres Amtes Grundstücke und bauliche Anlagen einschließlich der Wohnungen zu betreten. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.\n(4) Die den Gemeinden und den Verwaltungsgemeinschaften nach § 46 Abs. 2 übertragenen Aufgaben der unteren Baurechtsbehörden sind Pflichtaufgaben nach Weisung. Für die Erhebung von Gebühren und Auslagen gilt das Kommunalabgabengesetz."
+        }
+      ],
+      "top_score": 0.7971
+    }
+  ]
+}

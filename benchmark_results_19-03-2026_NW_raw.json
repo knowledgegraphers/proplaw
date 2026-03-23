@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-NW",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 14949,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6801,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwen",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Campingplätze, Wochenendplätze und Zeltplätze,\n5. Stellplätze für Kraftfahrzeuge und Fahrradabstellplätze,\n6. Gerüste und\n7. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen. Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Absatz 1 Satz 2.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.6547,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, B",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Schaukästen sowie für Zettelanschläge und Bogenanschläge oder für Lichtwerbung bestimmte Säulen, Tafeln und Flächen.\n(2) Für Werbeanlagen, die bauliche Anlagen sind, gelten die in diesem Gesetz an bauliche Anlagen gestellten Anforderungen. Werbeanlagen, die keine baulichen Anlagen sind, dürfen weder bauliche Anlagen noch das Straßen-, Orts- und Landschaftsbild verunstalten oder die Sicherheit und Leichtigkeit des Verkehrs gefährden. Eine Verunstaltung liegt auch vor, wenn durch Werbeanlagen der Ausblick auf begrünte Flächen verdeckt oder die einheitliche Gestaltung und die architektonische Gliederung baulicher Anlagen gestört wird. Der Betrieb von Werbeanlagen darf nicht zu schädlichen Umwelteinwirkungen führen. Die störende Häufung von Werbeanlagen ist unzulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 50 Sonderbauten",
+          "score": 0.6228,
+          "text_preview": "die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9. die Anordnung und Herstellung v",
+          "text_full": "die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9. die Anordnung und Herstellung von Aufzügen, Treppen, Treppenräumen, Fluren, Ausgängen, sonstigen Rettungswegen,\n11. die Lüftung und Rauchableitung,\n12. die Feuerungsanlagen und Heizräume,\n13. die Wasserversorgung für Löschzwecke,\n14. die Aufbewahrung und Entsorgung von Abwasser und festen Abfallstoffen,\n15. die Stellplätze und Garagen mit und ohne einer Stromzuleitung für die Aufladung von Batterien für Elektrofahrzeuge sowie Fahrradabstellplätze,\n16. die barrierefreie Nutzbarkeit,\n17. die zulässige Zahl der Benutzerinnen und Benutzer, Anordnung und Zahl der zulässigen Sitzund Stehplätze bei Versammlungsstätten, Gaststätten, Vergnügungsstätten, Tribünen und Fliegenden Bauten,\n18. die Zahl der Toiletten für Besucherinnen und Besucher,\n19. Umfang, Inhalt und Zahl besonderer Bauvorlagen, insbesondere eines Brandschutzkonzepts,\n20. weitere zu erbringende Bescheinigungen,\n21."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6142,
+          "text_preview": "folgende Anlagen zur Ver- und Entsorgung:\na) Brunnen\nb) bauliche Anlagen, die der Telekommunikation, der allgemeinen Versorgung mit Elektrizität, Gas, Öl, Wärme und Wasser dienen, wie Transformatoren-, Schalt-, Regler- oder Pumpstationen, bis 20 m² Grundfläche und 5 m Höhe,\nc) Anlagen zur vorübergeh",
+          "text_full": "folgende Anlagen zur Ver- und Entsorgung:\na) Brunnen\nb) bauliche Anlagen, die der Telekommunikation, der allgemeinen Versorgung mit Elektrizität, Gas, Öl, Wärme und Wasser dienen, wie Transformatoren-, Schalt-, Regler- oder Pumpstationen, bis 20 m² Grundfläche und 5 m Höhe,\nc) Anlagen zur vorübergehenden Sicherstellung der Energie- oder Wärmeversorgung von gewerblich oder industriell genutzten Gebäuden für einen Zeitraum von bis zu 24 Monaten unter den Voraussetzungen des Satzes 2,\nd) Blockheizkraftwerke, Brennstoffzellen und Wärmepumpen, § 42 Absatz 7 bleibt unberührt,\nf) Anlagen zur Erzeugung und Nutzung von Wasserstoff einschließlich deren Umhausungen sowie die zugehörigen Gasspeicher, bei denen die Prozessschritte Erzeugung und Nutzung in einem werksmäßig hergestellten Gerät mit einer Speichermenge von bis zu 20 kg pro Gerät, kombiniert sind,\ng) Flüssiggastankstellen mit einem Flüssiggaslagerbehälter mit weniger als 3 t Fassungsvermögen für die Versorgung von Kraftfahrzeugen,\nh) Anlagen zur Verteilung von Wärme bei Wasserheizungsanlagen einschließlich der Wärmeerzeuger unter der Voraussetzung des Satzes 2, § 42 Absatz 7 bleibt unberührt,\ni) Wasserversorgungsanlagen einschließlic"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6089,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigten Messe- und Ausstellungsgeländen errichtet werden, au",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigten Messe- und Ausstellungsgeländen errichtet werden, ausgenommen Fliegende Bauten,\nf) bauliche Anlagen die zu Straßenfesten, Märkten oder ähnlichen Veranstaltungen nur für kurze Zeit aufgestellt werden und die keine Fliegenden Bauten sind,\ng) ortsveränderlich nutzbare und fahrbereit aufgestellte Geflügelställe zum Zweck der Freilandhaltung, die einem land- oder forstwirtschaftlichen Betrieb zur Aufstallung von maximal 800 Tieren dienen, sofern die Anlage maximal vier Wochen an einem Standort verbleibt und frühestens nach acht Wochen wieder auf diesen umgesetzt wird,\n14."
+        }
+      ],
+      "top_score": 0.6801
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6272,
+          "text_preview": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7",
+          "text_full": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(8) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen und Fahrrädern außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen und/oder Fahrrädern. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(9) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(10) Barrierefrei sind bauliche Anlagen, soweit sie für alle Menschen, insbesondere für Menschen mit Behinderungen, in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(11) Bauprodukte sind\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 46 Aufenthaltsräume",
+          "score": 0.6187,
+          "text_preview": "§ 46 Aufenthaltsräume\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens ein Achtel der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggie",
+          "text_full": "§ 46 Aufenthaltsräume\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens ein Achtel der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggien haben.\n(3) Aufenthaltsräume, deren Nutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5584,
+          "text_preview": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht",
+          "text_full": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht überdachte Stellplätze für Personenkraftwagen und Motorräder bis zu insgesamt 100 m²,\nd) Kinderspielplätze im Sinne des § 8 Absatz 4 Satz 1,\ne) Freischankflächen bis zu 40 m2 einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte, einer Verkaufsstelle des Lebensmittelhandwerks oder eines landwirtschaftlichen Betriebes,\n15."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.5402,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss, sowie\n4. zwischen Aufenthaltsräumen und Wohnungen einschließlich ihrer Zugänge und nicht ausgebauten Räumen im Dachraum.\n(3) Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen feuerbeständig sein. Trennwände nach Absatz 2 Nummer 4 müssen mindestens feuerhemmend sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.4933,
+          "text_preview": "3634) und weder Verkaufs- noch Ausstellungszwecken dienen,\nb) Garagen einschließlich überdachter Stellplätze mit einer mittleren Wandhöhe bis zu 3 m und einer Brutto-Grundfläche bis zu insgesamt 30 m², außer im Außenbereich,\nc) Gebäude bis zu 4 m Firsthöhe, die nur zum vorübergehenden Schutz von Pfl",
+          "text_full": "3634) und weder Verkaufs- noch Ausstellungszwecken dienen,\nb) Garagen einschließlich überdachter Stellplätze mit einer mittleren Wandhöhe bis zu 3 m und einer Brutto-Grundfläche bis zu insgesamt 30 m², außer im Außenbereich,\nc) Gebäude bis zu 4 m Firsthöhe, die nur zum vorübergehenden Schutz von Pflanzen und Tieren bestimmt sind und die einem land- oder forstwirtschaftlichen Betrieb dienen,\nd) Gewächshäuser ohne Verkaufsstätten mit einer Firsthöhe bis zu 5 m und nicht mehr als 1 600 m2 Grundfläche, auch ausgestattet mit Solaranlagen, die einem land- oder forstwirtschaftlichen Betrieb oder einem Betrieb der gartenbaulichen Erzeugung im Sinne des § 35 Absatz 1 Nummer 1 und 2 und des § 201 des Baugesetzbuchs dienen,\ne) Fahrgastunterstände des öffentlichen Personenverkehrs oder der Schülerbeförderung,\nf) Schutzhütten für Wanderer,\nh) Gartenlauben in Kleingartenanlagen nach dem Bundeskleingartengesetz vom 28. Februar 1983 (BGBl. I S. 210), das zuletzt durch Artikel 11 des Gesetzes vom 19. September 2006 (BGBl. I S."
+        }
+      ],
+      "top_score": 0.6272
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6578,
+          "text_preview": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7",
+          "text_full": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(8) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen und Fahrrädern außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen und/oder Fahrrädern. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(9) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(10) Barrierefrei sind bauliche Anlagen, soweit sie für alle Menschen, insbesondere für Menschen mit Behinderungen, in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(11) Bauprodukte sind\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5752,
+          "text_preview": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht",
+          "text_full": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht überdachte Stellplätze für Personenkraftwagen und Motorräder bis zu insgesamt 100 m²,\nd) Kinderspielplätze im Sinne des § 8 Absatz 4 Satz 1,\ne) Freischankflächen bis zu 40 m2 einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte, einer Verkaufsstelle des Lebensmittelhandwerks oder eines landwirtschaftlichen Betriebes,\n15."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 50 Sonderbauten",
+          "score": 0.5348,
+          "text_preview": "Versammlungsstätten\na) mit Versammlungsräumen, die einzeln für mehr als 200 Besucherinnen und Besucher bestimmt sind oder mit mehreren Versammlungsräumen, die insgesamt für mehr als 200 Besucherinnen und Besucher bestimmt sind, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien",
+          "text_full": "Versammlungsstätten\na) mit Versammlungsräumen, die einzeln für mehr als 200 Besucherinnen und Besucher bestimmt sind oder mit mehreren Versammlungsräumen, die insgesamt für mehr als 200 Besucherinnen und Besucher bestimmt sind, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen und Tribünen, die keine Fliegenden Bauten sind und deren Besucherbereich für mehr als 1 000 Besucherinnen und Besucher bestimmt ist, sowie solche Versammlungsstätten im Freien, die für mehr als 5 000 Besucherinnen und Besucher bestimmt sind, und\nc) Sportstadien und Freisportanlagen mit Tribünen, die keine Fliegenden Bauten sind, und die jeweils für insgesamt mehr als 5 000 Besucherinnen und Besucher bestimmt sind,\n7. Schank- und Speisegaststätten mit mehr als 200 Gastplätzen in Gebäuden oder mehr als 1 000 Gastplätzen im Freien, Beherbergungsstätten mit mehr als 30 Betten, Vergnügungsstätten sowie Wettbüros,\n8."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.5234,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss, sowie\n4. zwischen Aufenthaltsräumen und Wohnungen einschließlich ihrer Zugänge und nicht ausgebauten Räumen im Dachraum.\n(3) Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen feuerbeständig sein. Trennwände nach Absatz 2 Nummer 4 müssen mindestens feuerhemmend sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 46 Aufenthaltsräume",
+          "score": 0.5229,
+          "text_preview": "§ 46 Aufenthaltsräume\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens ein Achtel der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggie",
+          "text_full": "§ 46 Aufenthaltsräume\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens ein Achtel der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggien haben.\n(3) Aufenthaltsräume, deren Nutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        }
+      ],
+      "top_score": 0.6578
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 75 Geltungsdauer der Baugenehmigung",
+          "score": 0.7654,
+          "text_preview": "§ 75 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 ka",
+          "text_full": "§ 75 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 76 Teilbaugenehmigung",
+          "score": 0.7584,
+          "text_preview": "§ 76 Teilbaugenehmigung\n(1) Vor Einreichung des Bauantrags ist auf Antrag der Bauherrschaft zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. §§ 58 Absatz 3,",
+          "text_full": "§ 76 Teilbaugenehmigung\n(1) Vor Einreichung des Bauantrags ist auf Antrag der Bauherrschaft zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. §§ 58 Absatz 3, 69 bis 72, 74 Absatz 1 und 2 sowie 75 Absatz 2 gelten entsprechend.\n(2) Betreffen die Fragen nach Absatz 1 die Errichtung oder Änderung eines Gebäudes, müssen die dem Antrag auf Vorbescheid beizufügenden Bauvorlagen von einer Entwurfsverfasserin oder einem Entwurfsverfasser, die oder der bauvorlageberechtigt ist, erstellt sein. § 67 gilt entsprechend. Dies gilt nicht für einen Antrag auf Vorbescheid, mit dem nur über die Vereinbarkeit mit den planungsrechtlichen Vorschriften über die Art der baulichen Nutzung, die Bauweise und die überbaubare Grundstücksfläche entschieden werden soll."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 74 Baugenehmigung, Baubeginn",
+          "score": 0.7561,
+          "text_preview": "(9) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben nach § 60 Absatz 1 und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform mitzuteilen (Baubeginnsanzeige).",
+          "text_full": "(9) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben nach § 60 Absatz 1 und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform mitzuteilen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 79 Bauaufsichtliche Zustimmung",
+          "score": 0.7142,
+          "text_preview": "§ 79 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung, Bauüberwachung und Bauzustandsbesichtigung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes, eines Landes oder eines Landscha",
+          "text_full": "§ 79 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung, Bauüberwachung und Bauzustandsbesichtigung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes, eines Landes oder eines Landschaftsverbandes übertragen ist und\n2. die Baudienststelle mindestens mit einer Person, die einen Hochschulabschluss der Fachrichtungen Architektur oder Bauingenieurwesen und die insbesondere die erforderlichen Kenntnisse des öffentlichen Baurechts, der Bautechnik und der Baugestaltung hat, und mit sonstigen geeigneten Fachkräften ausreichend besetzt ist. Solche Anlagen bedürfen der Zustimmung der oberen Bauaufsichtsbehörde. Die Zustimmung ist nicht erforderlich, wenn die Gemeinde nicht widerspricht und, soweit ihre öffentlich-rechtlich geschützten Belange von Abweichungen, Ausnahmen und Befreiungen berührt sein können, die Nachbarn dem Bauvorhaben zustimmen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 66 Typengenehmigung",
+          "score": 0.7072,
+          "text_preview": "§ 66 Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Gese",
+          "text_full": "§ 66 Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Gesetz oder aufgrund dieses Gesetzes erlassenen Vorschriften entsprechen. Eine Typengenehmigung kann auch für bauliche Anlagen erteilt werden, die in unterschiedlicher Ausführung, aber nach einem bestimmten System und aus bestimmten Bauteilen an mehreren Stellen errichtet werden sollen. In der Typengenehmigung ist die zulässige Veränderbarkeit festzulegen. Für Fliegende Bauten wird eine Typengenehmigung nicht erteilt.\n(2) Die Typengenehmigung gilt für fünf Jahre. Die Frist kann auf Antrag jeweils bis zu fünf Jahren verlängert werden. § 75 Absatz 2 Satz 2 gilt entsprechend.\n(3) Typengenehmigungen anderer Länder gelten auch im Land Nordrhein-Westfalen."
+        }
+      ],
+      "top_score": 0.7654
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5815,
+          "text_preview": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7",
+          "text_full": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(8) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen und Fahrrädern außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen und/oder Fahrrädern. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(9) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(10) Barrierefrei sind bauliche Anlagen, soweit sie für alle Menschen, insbesondere für Menschen mit Behinderungen, in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(11) Bauprodukte sind\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 38 Umwehrungen",
+          "score": 0.5715,
+          "text_preview": "§ 38 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n",
+          "text_full": "§ 38 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. nicht begehbare Oberlichte und Glasabdeckungen in Flächen, die im Allgemeinen zum Begehen bestimmt sind, wenn sie weniger als 0,50 m aus diesen Flächen herausragen,\n3. Dächer oder Dachteile, die zum auch nur zeitweiligen Aufenthalt von Menschen bestimmt sind,\n4. Öffnungen in begehbaren Decken sowie in Dächern oder Dachteilen nach Nummer 3, wenn sie nicht sicher abgedeckt sind,\n5. nicht begehbare Glasflächen in Decken sowie in Dächern oder Dachteilen nach Nummer 3,\n6. die freien Seiten von Treppenläufen, Treppenabsätzen und Treppenöffnungen (Treppenaugen) sowie\n(2) In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abzudecken. An und in Verkehrsflächen liegende Abdeckungen müssen gegen unbefugtes Abheben gesichert sein."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.5657,
+          "text_preview": "(2) Zu- und Durchfahrten, Aufstellflächen und Bewegungsflächen müssen für Feuerwehrfahrzeuge ausreichend befestigt und tragfähig sein. Sie sind als solche zu kennzeichnen und ständig frei zu halten. Die Kennzeichnung von Zufahrten muss von der öffentlichen Verkehrsfläche aus sichtbar sein. Fahrzeuge",
+          "text_full": "(2) Zu- und Durchfahrten, Aufstellflächen und Bewegungsflächen müssen für Feuerwehrfahrzeuge ausreichend befestigt und tragfähig sein. Sie sind als solche zu kennzeichnen und ständig frei zu halten. Die Kennzeichnung von Zufahrten muss von der öffentlichen Verkehrsfläche aus sichtbar sein. Fahrzeuge dürfen auf den Flächen nach Satz 1 nicht abgestellt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5622,
+          "text_preview": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht",
+          "text_full": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht überdachte Stellplätze für Personenkraftwagen und Motorräder bis zu insgesamt 100 m²,\nd) Kinderspielplätze im Sinne des § 8 Absatz 4 Satz 1,\ne) Freischankflächen bis zu 40 m2 einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte, einer Verkaufsstelle des Lebensmittelhandwerks oder eines landwirtschaftlichen Betriebes,\n15."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 78 Fliegende Bauten",
+          "score": 0.5561,
+          "text_preview": "aufblasbare Spielgeräte mit einer Höhe des betretbaren Bereichs von bis zu 5 m oder mit überdachten Bereichen, bei denen die Entfernung zum Ausgang nicht mehr als 3 m, sofern ein Absinken der Überdachung konstruktiv verhindert wird, nicht mehr als 10 m, beträgt, oder\n7. andere Fliegende Bauten mit e",
+          "text_full": "aufblasbare Spielgeräte mit einer Höhe des betretbaren Bereichs von bis zu 5 m oder mit überdachten Bereichen, bei denen die Entfernung zum Ausgang nicht mehr als 3 m, sofern ein Absinken der Überdachung konstruktiv verhindert wird, nicht mehr als 10 m, beträgt, oder\n7. andere Fliegende Bauten mit einer Höhe bis zu 5 m, die nicht dazu bestimmt sind, von Besucherinnen und Besuchern betreten zu werden.\n(3) Die Ausführungsgenehmigung wird von der unteren Bauaufsichtsbehörde erteilt, in deren Bereich die Antragstellerin oder der Antragsteller ihre oder seine Hauptwohnung oder ihre oder seine gewerbliche Niederlassung hat. Hat die Antragstellerin oder der Antragsteller ihre oder seine Hauptwohnung oder ihre oder seine gewerbliche Niederlassung außerhalb der Bundesrepublik Deutschland, so ist die Bauaufsichtsbehörde zuständig, in deren Bereich der Fliegende Bau erstmals aufgestellt und in Gebrauch genommen werden soll.\n(4) Die oberste Bauaufsichtsbehörde kann bestimmen, dass Ausführungsgenehmigungen für Fliegende Bauten nur durch bestimmte Bauaufsichtsbehörden erstellt werden dürfen."
+        }
+      ],
+      "top_score": 0.5815
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7422,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder der a",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die den in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum (ABl. L 1 vom 3.1.1994, S. 3) genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Absatz 1 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6966,
+          "text_preview": "(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden, dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr",
+          "text_full": "(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden, dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änderung ihrer Nutzung. Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zweck entsprechend dauerhaft erfüllen und ohne Missstände benutzbar sein.\n(2) Die der Wahrung der Belange nach Absatz 1 dienenden allgemein anerkannten Regeln der Technik sind zu beachten. Von diesen Regeln kann abgewichen werden, wenn eine andere Lösung in gleicher Weise die Anforderungen des Absatzes 1 erfüllt. Als allgemein anerkannte Regeln der Technik gelten auch die von der obersten Bauaufsichtsbehörde durch Verwaltungsvorschrift als Technische Baubestimmungen eingeführten technischen Regeln. Zweiter Teil Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 17 Bauarten",
+          "score": 0.678,
+          "text_preview": "(5) Bauarten bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 88 Absatz 2, den allgemeinen Bauartgenehmigungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen für Bauarten oder den vorhabenbezogenen Bauartgenehmigungen. Als Übereinstimmung gilt auch eine ",
+          "text_full": "(5) Bauarten bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 88 Absatz 2, den allgemeinen Bauartgenehmigungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen für Bauarten oder den vorhabenbezogenen Bauartgenehmigungen. Als Übereinstimmung gilt auch eine Abweichung, die nicht wesentlich ist. § 24 Absatz 2 gilt für den Anwender der Bauart entsprechend.\n(6) Bei Bauarten, deren Anwendung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass der Anwender über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 25 Absatz 1 Satz 1 Nummer 6 zu erbringen hat. In der Rechtsverordnung können Mindestanforderungen an die Ausbildung, die durch Prüfung nachzuweisende Befähigung und die Ausbildungsstätten einschließlich der Anerkennungsvoraussetzungen gestellt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 87 Rechtsverordnungen",
+          "score": 0.6689,
+          "text_preview": "§ 87 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1 und 2, § 17 Absatz 1 und § 18 Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ ",
+          "text_full": "§ 87 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1 und 2, § 17 Absatz 1 und § 18 Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 47,\n2. Anforderungen an Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung (§ 42),\n3. Anforderungen an Stellplätze, Garagen und Fahrradabstellplätze (§ 48),\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen für Errichtung, Änderung, Unterhaltung, Betrieb und Nutzung ergeben (§ 50), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen oder\n6."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 50 Sonderbauten",
+          "score": 0.6632,
+          "text_preview": "§ 50 Sonderbauten\n(1) An Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften we",
+          "text_full": "§ 50 Sonderbauten\n(1) An Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterungen nach den Sätzen 1 und 2 können sich insbesondere erstrecken auf\n1. die Anordnung der baulichen Anlagen auf dem Grundstück,\n2. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Grundstücke,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Anlage von Zu- und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie die Begrünung oder Beseitigung von Halden und Gruben,\n6."
+        }
+      ],
+      "top_score": 0.7422
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 46 Aufenthaltsräume",
+          "score": 0.6333,
+          "text_preview": "§ 46 Aufenthaltsräume\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens ein Achtel der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggie",
+          "text_full": "§ 46 Aufenthaltsräume\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens ein Achtel der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggien haben.\n(3) Aufenthaltsräume, deren Nutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 47 Wohnungen",
+          "score": 0.5693,
+          "text_preview": "§ 47 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindes",
+          "text_full": "§ 47 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Dieser muss so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. Die Betriebsbereitschaft der Rauchwarnmelder hat die unmittelbare besitzhabende Person sicherzustellen, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(3) In Gebäuden der Gebäudeklassen 3 bis 5 mit Wohnungen sind leicht und barrierefrei erreichbare Abstellflächen für Kinderwagen und Mobilitätshilfen sowie für jede Wohnung eine ausreichend große Abstellfläche herzustellen.\n(5) An Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, sind keine Anforderungen wie an Sonderbauten (§ 50) zu stellen, wenn die Nutzungseinheiten\n1. einzeln für bis zu sechs Personen,\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 50 Sonderbauten",
+          "score": 0.5644,
+          "text_preview": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen oder\nb) für Personen mit Intensivpflegebedarf bestimmt sind, od",
+          "text_full": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen oder\nb) für Personen mit Intensivpflegebedarf bestimmt sind, oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als zwölf Personen bestimmt sind,\n9. Krankenhäuser,\n10. Wohnheime,\n11. Einrichtungen zur Unterbringung von Personen sowie Tageseinrichtungen für Kinder, Menschen mit Behinderung und alte Menschen, ausgenommen Tageseinrichtungen einschließlich Tagespflege für nicht mehr als zehn Kinder,\n12. Schulen, Hochschulen und ähnliche Einrichtungen,\n13. Justizvollzugsanstalten und bauliche Anlagen für den Maßregelvollzug,\n14. Camping- und Wochenendplätze,\n15. Freizeit- und Vergnügungsparks,\n16. Regallager mit einer Oberkante Lagerguthöhe von mehr als 9 m,\n18. Garagen mit mehr als 1 000 m² Nutzfläche."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 69 Abweichungen",
+          "score": 0.5637,
+          "text_preview": "zur praktischen Erprobung neuer Bau- und Wohnformen oder\n3. wenn die Einhaltung der Vorschrift im Einzelfall zu einer offenbar nicht beabsichtigten Härte führen würde. Gründe des allgemeinen Wohls liegen insbesondere bei Vorhaben zur Deckung dringenden Wohnbedarfs, bei Vorhaben zur Berücksichtigung ",
+          "text_full": "zur praktischen Erprobung neuer Bau- und Wohnformen oder\n3. wenn die Einhaltung der Vorschrift im Einzelfall zu einer offenbar nicht beabsichtigten Härte führen würde. Gründe des allgemeinen Wohls liegen insbesondere bei Vorhaben zur Deckung dringenden Wohnbedarfs, bei Vorhaben zur Berücksichtigung der Belange des Klimaschutzes und der Klimaanpassung oder aus Gründen der Stadtentwicklung vor. Bei den Vorhaben nach Satz 2 und 3 folgt die Atypik bereits aus dem festgestellten Sonderinteresse. (1a) § 58 Absatz 5 und § 88 Absatz 1 Satz 3 bleiben unberührt. Der Zulassung einer Abweichung bedarf es nicht, wenn sachverständige Personen nach § 87 Absatz 2 bescheinigt haben, dass das Vorhaben den Anforderungen an den Brandschutz oder an die Standsicherheit entspricht und das Vorliegen der Voraussetzungen für Abweichungen durch sie oder ihn bescheinigt wird.\n(2) Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und Befreiungen von den Festsetzungen eines Bebauungsplans oder einer sonstigen städtebaulichen Satzung oder von Regelungen der Baunutzungsverordnung ist in Textform zu beantragen. Der Antrag ist zu begründen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5434,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigten Messe- und Ausstellungsgeländen errichtet werden, au",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigten Messe- und Ausstellungsgeländen errichtet werden, ausgenommen Fliegende Bauten,\nf) bauliche Anlagen die zu Straßenfesten, Märkten oder ähnlichen Veranstaltungen nur für kurze Zeit aufgestellt werden und die keine Fliegenden Bauten sind,\ng) ortsveränderlich nutzbare und fahrbereit aufgestellte Geflügelställe zum Zweck der Freilandhaltung, die einem land- oder forstwirtschaftlichen Betrieb zur Aufstallung von maximal 800 Tieren dienen, sofern die Anlage maximal vier Wochen an einem Standort verbleibt und frühestens nach acht Wochen wieder auf diesen umgesetzt wird,\n14."
+        }
+      ],
+      "top_score": 0.6333
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7281,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher sein. Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. Brennbare Baustoffe sind zulässig, wen",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher sein. Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. Brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden. Die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Die Absätze 2 und 3 gelten nicht\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und zurEnergiebereitstellung",
+          "score": 0.7207,
+          "text_preview": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und zurEnergiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein. Feuerungsanlagen für feste Brennstoffe dürfen in einem Abstand von weniger als 100 m zu einem Wald, Moor oder Heide",
+          "text_full": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und zurEnergiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein. Feuerungsanlagen für feste Brennstoffe dürfen in einem Abstand von weniger als 100 m zu einem Wald, Moor oder Heide nur errichtet oder betrieben werden, wenn durch geeignete Maßnahmen gewährleistet ist, dass keine Brände in denselben durch diese Anlagen entstehen.\n(2) Für die Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung gilt Absatz 1 entsprechend.\n(3) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(4) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht und sicher gereinigt werden können."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6903,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare und\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentfla",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare und\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende und\n3. feuerhemmende. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall und bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 47 Wohnungen",
+          "score": 0.6751,
+          "text_preview": "§ 47 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindes",
+          "text_full": "§ 47 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Dieser muss so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. Die Betriebsbereitschaft der Rauchwarnmelder hat die unmittelbare besitzhabende Person sicherzustellen, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(3) In Gebäuden der Gebäudeklassen 3 bis 5 mit Wohnungen sind leicht und barrierefrei erreichbare Abstellflächen für Kinderwagen und Mobilitätshilfen sowie für jede Wohnung eine ausreichend große Abstellfläche herzustellen.\n(5) An Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, sind keine Anforderungen wie an Sonderbauten (§ 50) zu stellen, wenn die Nutzungseinheiten\n1. einzeln für bis zu sechs Personen,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.6506,
+          "text_preview": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn d",
+          "text_full": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m oder\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ Brutto-Rauminhalt einen Abstand von mindestens 5 m, einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. der Nummer 1 ein Abstand von mindestens 6 m,\n2. der Nummer 2 ein Abstand von mindestens 9 m und\n3. der Nummer 3 ein Abstand von mindestens 12 m.\n(3) Die Absätze 1 und 2 gelten nicht für\n1. Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ BruttoRauminhalt,\n2."
+        }
+      ],
+      "top_score": 0.7281
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7362,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. Beide Rettungswege dürfen jedoch innerhalb des Geschosses ",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. Beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Der zweite Rettungsweg über Rettungsgeräte der Feuerwehr ist nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen. Ein zweiter Rettungsweg ist nicht erforderlich,\n1. wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum) oder\n2. für zu ebener Erde liegende Räume, die einen unmittelbaren Ausgang ins Freie haben, der von jeder Stelle des Raumes in höchstens 15 m Entfernung erreichbar ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7228,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsge",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 36 Notwendige Flure, offene Gänge",
+          "score": 0.7096,
+          "text_preview": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flu-\nre), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall aus",
+          "text_full": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flu-\nre), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. innerhalb von Nutzungseinheiten mit nicht mehr als 200 m² und innerhalb von Wohnungen sowie\n(2) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig.\n(3) Notwendige Flure sind durch nichtabschließbare, rauchdichte und selbstschließende Abschlüsse in Rauchabschnitte zu unterteilen. Die Rauchabschnitte sollen nicht länger als 30 m sein. Die Abschlüsse sind bis an die Rohdecke zu führen. Sie dürfen bis an die Unterdecke der Flure geführt werden, wenn die Unterdecke feuerhemmend ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.7025,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zuoder Durchgang zu rückwärtigen Gebäuden zu schaffen, zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Fe",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zuoder Durchgang zu rückwärtigen Gebäuden zu schaffen, zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind. Soweit erforderliche Flächen nicht auf dem Grundstück liegen, müssen sie öffentlich-rechtlich gesichert sein."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 50 Sonderbauten",
+          "score": 0.6678,
+          "text_preview": "die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9. die Anordnung und Herstellung v",
+          "text_full": "die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9. die Anordnung und Herstellung von Aufzügen, Treppen, Treppenräumen, Fluren, Ausgängen, sonstigen Rettungswegen,\n11. die Lüftung und Rauchableitung,\n12. die Feuerungsanlagen und Heizräume,\n13. die Wasserversorgung für Löschzwecke,\n14. die Aufbewahrung und Entsorgung von Abwasser und festen Abfallstoffen,\n15. die Stellplätze und Garagen mit und ohne einer Stromzuleitung für die Aufladung von Batterien für Elektrofahrzeuge sowie Fahrradabstellplätze,\n16. die barrierefreie Nutzbarkeit,\n17. die zulässige Zahl der Benutzerinnen und Benutzer, Anordnung und Zahl der zulässigen Sitzund Stehplätze bei Versammlungsstätten, Gaststätten, Vergnügungsstätten, Tribünen und Fliegenden Bauten,\n18. die Zahl der Toiletten für Besucherinnen und Besucher,\n19. Umfang, Inhalt und Zahl besonderer Bauvorlagen, insbesondere eines Brandschutzkonzepts,\n20. weitere zu erbringende Bescheinigungen,\n21."
+        }
+      ],
+      "top_score": 0.7362
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7071,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen. D",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen. Dies gilt bei bestehenden Gebäuden nicht für eine Außenwand- und Dachdämmung. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen. Eine nach Satz 2 zulässige Überbauung ändert die Abstandsflächen des Gebäudes nicht."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.7045,
+          "text_preview": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n2024.\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind als Grünflächen\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n(2) Bei der Errichtung von Gebäuden",
+          "text_full": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n2024.\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind als Grünflächen\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n(2) Bei der Errichtung von Gebäuden mit mehr als drei Wohnungen ist auf dem Baugrundstück oder in unmittelbarer Nähe auf einem anderen geeigneten Grundstück, dessen dauerhafte Nutzung für diesen Zweck öffentlich-rechtlich gesichert sein muss, ein ausreichend großer Spielplatz für Kleinkinder anzulegen. Dies gilt nicht, wenn in unmittelbarer Nähe eine Gemeinschaftsanlage oder ein sonstiger für die Kinder nutzbarer Spielplatz geschaffen wird oder vorhanden oder ein solcher Spielplatz wegen der Art und der Lage der Wohnung nicht erforderlich ist. Bei bestehenden Gebäuden nach Satz 1 kann die Herstellung von Spielplätzen für Kleinkinder verlangt werden, wenn dies die Gesundheit und der Schutz der Kinder erfordern. Der Spielplatz muss barrierefrei erreichbar sein."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 50 Sonderbauten",
+          "score": 0.6946,
+          "text_preview": "§ 50 Sonderbauten\n(1) An Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften we",
+          "text_full": "§ 50 Sonderbauten\n(1) An Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten) können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 1 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterungen nach den Sätzen 1 und 2 können sich insbesondere erstrecken auf\n1. die Anordnung der baulichen Anlagen auf dem Grundstück,\n2. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Grundstücke,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Anlage von Zu- und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie die Begrünung oder Beseitigung von Halden und Gruben,\n6."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6778,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwen",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Campingplätze, Wochenendplätze und Zeltplätze,\n5. Stellplätze für Kraftfahrzeuge und Fahrradabstellplätze,\n6. Gerüste und\n7. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen. Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Absatz 1 Satz 2.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 69 Abweichungen",
+          "score": 0.6712,
+          "text_preview": "zur praktischen Erprobung neuer Bau- und Wohnformen oder\n3. wenn die Einhaltung der Vorschrift im Einzelfall zu einer offenbar nicht beabsichtigten Härte führen würde. Gründe des allgemeinen Wohls liegen insbesondere bei Vorhaben zur Deckung dringenden Wohnbedarfs, bei Vorhaben zur Berücksichtigung ",
+          "text_full": "zur praktischen Erprobung neuer Bau- und Wohnformen oder\n3. wenn die Einhaltung der Vorschrift im Einzelfall zu einer offenbar nicht beabsichtigten Härte führen würde. Gründe des allgemeinen Wohls liegen insbesondere bei Vorhaben zur Deckung dringenden Wohnbedarfs, bei Vorhaben zur Berücksichtigung der Belange des Klimaschutzes und der Klimaanpassung oder aus Gründen der Stadtentwicklung vor. Bei den Vorhaben nach Satz 2 und 3 folgt die Atypik bereits aus dem festgestellten Sonderinteresse. (1a) § 58 Absatz 5 und § 88 Absatz 1 Satz 3 bleiben unberührt. Der Zulassung einer Abweichung bedarf es nicht, wenn sachverständige Personen nach § 87 Absatz 2 bescheinigt haben, dass das Vorhaben den Anforderungen an den Brandschutz oder an die Standsicherheit entspricht und das Vorliegen der Voraussetzungen für Abweichungen durch sie oder ihn bescheinigt wird.\n(2) Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und Befreiungen von den Festsetzungen eines Bebauungsplans oder einer sonstigen städtebaulichen Satzung oder von Regelungen der Baunutzungsverordnung ist in Textform zu beantragen. Der Antrag ist zu begründen."
+        }
+      ],
+      "top_score": 0.7071
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.7827,
+          "text_preview": "für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile ",
+          "text_full": "für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben. In den Fällen des Absatzes 2 Satz 1 Nummer 4 sind anstelle von Brandwänden feuerhemmende Wände zulässig, wenn der Brutto-Rauminhalt des landwirtschaftlich oder vergleichbar genutzten Gebäudes oder Gebäudeteils nicht größer als 2 000 m³ ist.\n(4) Brandwände müssen bis zur Bedachung durchgehen und in allen Geschossen übereinander angeordnet sein. Abweichend davon dürfen anstelle innerer Brandwände Wände geschossweise versetzt angeordnet werden, wenn\n2. die Decken, soweit sie in Verbindung mit diesen Wänden stehen, feuerbeständig sind, aus nichtbrennbaren Baustoffen bestehen und keine Öffnungen haben,\n3. die Bauteile, die diese Wände und Decken unterstützen, feuerbeständig sind und aus nichtbrennbaren Baustoffen bestehen,\n4. die Außenwände in der Breite des Versatzes in dem Geschoss oberhalb oder unterhalb des Versatzes feuerbeständig sind und\n5."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.7742,
+          "text_preview": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten landwirtschaftlich genutzten Gebäuden oder angebauten Gebäuden mit vergleichbarer Nutzung sowie als innere Brandwand zwischen dem Wohnteil und dem landwirtschaftlich oder vergleichbar genutzten Teil eines Gebäudes. Gemeinsame Brandwände s",
+          "text_full": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten landwirtschaftlich genutzten Gebäuden oder angebauten Gebäuden mit vergleichbarer Nutzung sowie als innere Brandwand zwischen dem Wohnteil und dem landwirtschaftlich oder vergleichbar genutzten Teil eines Gebäudes. Gemeinsame Brandwände sind zulässig. In den Fällen des Satz 1 Nummer 2 und 3 können größere Abstände gestattet werden, wenn die Nutzung des Gebäudes es erfordert und wenn Bedenken wegen des Brandschutzes nicht bestehen.\n(3) Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. Anstelle von Brandwänden sind in den Fällen des Absatzes 2 Satz 1 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind,\n2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände und\n3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7686,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare und\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentfla",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare und\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende und\n3. feuerhemmende. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall und bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.7645,
+          "text_preview": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn d",
+          "text_full": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m oder\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ Brutto-Rauminhalt einen Abstand von mindestens 5 m, einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. der Nummer 1 ein Abstand von mindestens 6 m,\n2. der Nummer 2 ein Abstand von mindestens 9 m und\n3. der Nummer 3 ein Abstand von mindestens 12 m.\n(3) Die Absätze 1 und 2 gelten nicht für\n1. Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ BruttoRauminhalt,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 31 Decken",
+          "score": 0.7553,
+          "text_preview": "§ 31 Decken\n(1) Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemm",
+          "text_full": "§ 31 Decken\n(1) Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemmend und\n3. in Gebäuden der Gebäudeklassen 2 und 3 feuerhemmend sein. Satz 2 gilt\n1. für Geschosse im Dachraum nur, wenn darüber Aufenthaltsräume möglich sind; § 29 Absatz 4 bleibt unberührt, und\n2. nicht für Balkone und Altane, ausgenommen offene Gänge, die als notwendige Flure dienen.\n(2) Im Kellergeschoss müssen Decken\n1. in Gebäuden der Gebäudeklassen 3 bis 5 feuerbeständig und\n1. unter und über Räumen mit Explosions- oder erhöhter Brandgefahr, ausgenommen in Wohngebäuden der Gebäudeklassen 1 und 2 sowie\n2. zwischen dem landwirtschaftlich oder vergleichbar genutzten Teil und dem Wohnteil eines Gebäudes.\n(3) Der Anschluss der Decken an die Außenwand ist so herzustellen, dass er den Anforderungen aus Absatz 1 Satz 1 genügt.\n(4) Öffnungen in Decken, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, sind nur zulässig\n1. in Gebäuden der Gebäudeklassen 1 und 2,\n2."
+        }
+      ],
+      "top_score": 0.7827
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 27,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 89 Örtliche Bauvorschriften",
+          "score": 0.775,
+          "text_preview": "§ 89 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern,\n2. das Verbot von Werbeanlagen und",
+          "text_full": "§ 89 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern,\n2. das Verbot von Werbeanlagen und Warenautomaten aus ortsgestalterischen Gründen,\n3. die Lage, Größe, Beschaffenheit, Ausstattung und Unterhaltung von Kinderspielplätzen (§ 8 Absatz 2),\n5. die Gestaltung der Gemeinschaftsanlagen, der Lagerplätze, der Stellplätze für Kraftfahrzeuge, der Plätze für bewegliche Abfallbehälter und der unbebauten Flächen der bebauten Grundstücke sowie über die Notwendigkeit, Art, Gestaltung und Höhe von Einfriedungen; dabei kann bestimmt werden, dass Vorgärten nicht als Arbeitsflächen oder Lagerflächen benutzt werden dürfen,\n6. von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung sowie der Brandschutz gewährleistet sind, oder\n7. die Begrünung baulicher Anlagen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7624,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen. D",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen. Dies gilt bei bestehenden Gebäuden nicht für eine Außenwand- und Dachdämmung. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen. Eine nach Satz 2 zulässige Überbauung ändert die Abstandsflächen des Gebäudes nicht."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 49 Barrierefreies Bauen",
+          "score": 0.7526,
+          "text_preview": "§ 49 Barrierefreies Bauen\n(1) In Gebäuden der Gebäudeklasse 3 bis 5 mit Wohnungen müssen die Wohnungen barrierefrei sein. § 39 Absatz 4 bleibt unberührt.\n(2) Bauliche Anlagen, die öffentlich zugänglich sind, müssen barrierefrei sein. Öffentlich zugänglich sind bauliche Anlagen, wenn und soweit sie n",
+          "text_full": "§ 49 Barrierefreies Bauen\n(1) In Gebäuden der Gebäudeklasse 3 bis 5 mit Wohnungen müssen die Wohnungen barrierefrei sein. § 39 Absatz 4 bleibt unberührt.\n(2) Bauliche Anlagen, die öffentlich zugänglich sind, müssen barrierefrei sein. Öffentlich zugänglich sind bauliche Anlagen, wenn und soweit sie nach ihrem Zweck im Zeitraum ihrer Nutzung von im Vorhinein nicht bestimmbaren Personen aufgesucht werden können. Dies gilt insbesondere für\n1. Einrichtungen der Kultur, des Bildungs- und Erziehungswesens,\n2. Sport- und Freizeitstätten,\n3. Einrichtungen des Gesundheitswesens,\n4. Büro-, Verwaltungs- und Gerichtsgebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten sowie\n(3) Die Absätze 1 und 2 gelten jeweils nicht, soweit die Anforderungen wegen schwieriger Geländeverhältnisse oder wegen ungünstiger vorhandener Bebauung nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.7489,
+          "text_preview": "folgende tragende und nichttragende Bauteile:\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2, wenn eine berechtigte Person nach § 54 Absatz 4 der Bauherrschaft bescheinigt, dass die Änderung die Standsicherheit des Wohngebäudes im Ganzen u",
+          "text_full": "folgende tragende und nichttragende Bauteile:\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2, wenn eine berechtigte Person nach § 54 Absatz 4 der Bauherrschaft bescheinigt, dass die Änderung die Standsicherheit des Wohngebäudes im Ganzen und in seinen einzelnen Teilen nicht gefährdet,\nc) Fenster und Türen sowie die dafür bestimmten Öffnungen,\nd) Außenwandbekleidungen einschließlich Maßnahmen der Wärmedämmung, ausgenommen bei Hochhäusern, Verblendungen und Verputz baulicher Anlagen; örtliche Bauvorschriften nach § 89 sind zu beachten,\ne) Bedachungen einschließlich Maßnahmen der Wärmedämmung, ausgenommen bei Hochhäusern,\nf) Verkleidungen von Balkonbrüstungen,\ng) Erneuerung von Balkonen oder der Ersatz von Balkonen durch Altane auf dem eigenen Grundstück, sofern eine nach § 54 Absatz 4 berechtigte Person die statisch-konstruktive Unbedenklichkeit festgestellt und der Bauherrschaft bescheinigt hat,\n12."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.737,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen und durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        }
+      ],
+      "top_score": 0.775
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 74 Baugenehmigung, Baubeginn",
+          "score": 0.7239,
+          "text_preview": "(9) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben nach § 60 Absatz 1 und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform mitzuteilen (Baubeginnsanzeige).",
+          "text_full": "(9) Die Bauherrschaft hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben nach § 60 Absatz 1 und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform mitzuteilen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.7004,
+          "text_preview": "sonstigen Anlagen, die keine Gebäude sind, mit einer Höhe bis zu 10 m. Die Bauherrschaft kann beantragen, dass für Verfahren nach Satz 1 ein Baugenehmigungsverfahren durchgeführt wird. Im Übrigen ist die beabsichtigte Beseitigung von Anlagen mindestens einen Monat zuvor der Bauaufsichtsbehörde in Te",
+          "text_full": "sonstigen Anlagen, die keine Gebäude sind, mit einer Höhe bis zu 10 m. Die Bauherrschaft kann beantragen, dass für Verfahren nach Satz 1 ein Baugenehmigungsverfahren durchgeführt wird. Im Übrigen ist die beabsichtigte Beseitigung von Anlagen mindestens einen Monat zuvor der Bauaufsichtsbehörde in Textform durch die Bauherrschaft anzuzeigen. Bei nicht freistehenden Gebäuden muss durch eine berechtigte Person nach § 54 Absatz 4 beurteilt und im erforderlichen Umfang nachgewiesen werden, dass das Gebäude oder die Gebäude, an die das zu beseitigende Gebäude angebaut ist, während und nach der Beseitigung standsicher sind. Die Beseitigung ist, soweit notwendig, durch die qualifizierte Tragwerksplanerin oder den qualifizierten Tragwerksplaner zu überwachen. Die Sätze 4 und 5 gelten nicht, soweit an verfahrensfreie Gebäude angebaut ist. § 74 Absatz 9 gilt entsprechend.\n(4) Verfahrensfrei sind Instandhaltungsarbeiten."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 75 Geltungsdauer der Baugenehmigung",
+          "score": 0.6696,
+          "text_preview": "§ 75 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 ka",
+          "text_full": "§ 75 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 76 Teilbaugenehmigung",
+          "score": 0.669,
+          "text_preview": "§ 76 Teilbaugenehmigung\n(1) Vor Einreichung des Bauantrags ist auf Antrag der Bauherrschaft zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. §§ 58 Absatz 3,",
+          "text_full": "§ 76 Teilbaugenehmigung\n(1) Vor Einreichung des Bauantrags ist auf Antrag der Bauherrschaft zu einzelnen Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt drei Jahre. Die Frist kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. §§ 58 Absatz 3, 69 bis 72, 74 Absatz 1 und 2 sowie 75 Absatz 2 gelten entsprechend.\n(2) Betreffen die Fragen nach Absatz 1 die Errichtung oder Änderung eines Gebäudes, müssen die dem Antrag auf Vorbescheid beizufügenden Bauvorlagen von einer Entwurfsverfasserin oder einem Entwurfsverfasser, die oder der bauvorlageberechtigt ist, erstellt sein. § 67 gilt entsprechend. Dies gilt nicht für einen Antrag auf Vorbescheid, mit dem nur über die Vereinbarkeit mit den planungsrechtlichen Vorschriften über die Art der baulichen Nutzung, die Bauweise und die überbaubare Grundstücksfläche entschieden werden soll."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 72 Beteiligung der Nachbarinnen und Nachbarn und der Öffentlichkeit",
+          "score": 0.6524,
+          "text_preview": "(5) Nach der Bekanntmachung sind der Antrag und die Bauvorlagen sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Bauaufsichtsbehörde im Zeitpunkt der Bekanntmachung vorliegen, einen Monat zur Einsicht auszulegen. Bauvorlagen, die Geschäfts- oder Betriebsgeheimnisse enthalten, si",
+          "text_full": "(5) Nach der Bekanntmachung sind der Antrag und die Bauvorlagen sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Bauaufsichtsbehörde im Zeitpunkt der Bekanntmachung vorliegen, einen Monat zur Einsicht auszulegen. Bauvorlagen, die Geschäfts- oder Betriebsgeheimnisse enthalten, sind nicht auszulegen, für sie gilt § 10 Absatz 2 Bundes-Immissionsschutzgesetz entsprechend. Bis zwei Wochen nach Ablauf der Auslegungsfrist kann die Öffentlichkeit gegenüber der zuständigen Behörde schriftlich Einwendungen erheben, mit Ablauf dieser Frist sind alle öffentlich-rechtlichen Einwendungen ausgeschlossen. Satz 3 gilt für umweltbezogene Einwendungen nur für das Genehmigungsverfahren.\n(6) Bei mehr als 20 Nachbarinnen und Nachbarn, denen die Baugenehmigung nach Absatz 2 Satz 2 zuzustellen ist, kann die Zustellung durch öffentliche Bekanntmachung ersetzt werden. Wurde eine Öffentlichkeitsbeteiligung nach Absatz 4 durchgeführt, ist der Genehmigungsbescheid öffentlich bekannt zu machen."
+        }
+      ],
+      "top_score": 0.7239
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 74 Baugenehmigung, Baubeginn",
+          "score": 0.7175,
+          "text_preview": "§ 74 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschr",
+          "text_full": "§ 74 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n(2) Die Baugenehmigung ist schriftlich oder elektronisch zu erteilen. Sie ist nur insoweit zu begründen, als Abweichungen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und die Nachbarn nicht nach § 72 Absatz 2 zugestimmt hat. Eine Ausfertigung der mit einem Genehmigungsvermerk versehenen Bauvorlagen ist der Antragstellerin oder dem Antragsteller mit der Baugenehmigung zugänglich zu machen.\n(3) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden. Sie lässt aufgrund anderer Vorschriften bestehende Verpflichtungen zum Einholen von Genehmigungen, Bewilligungen, Erlaubnissen und Zustimmungen oder zum Erstatten von Anzeigen unberührt.\n(4) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.7174,
+          "text_preview": "sonstigen Anlagen, die keine Gebäude sind, mit einer Höhe bis zu 10 m. Die Bauherrschaft kann beantragen, dass für Verfahren nach Satz 1 ein Baugenehmigungsverfahren durchgeführt wird. Im Übrigen ist die beabsichtigte Beseitigung von Anlagen mindestens einen Monat zuvor der Bauaufsichtsbehörde in Te",
+          "text_full": "sonstigen Anlagen, die keine Gebäude sind, mit einer Höhe bis zu 10 m. Die Bauherrschaft kann beantragen, dass für Verfahren nach Satz 1 ein Baugenehmigungsverfahren durchgeführt wird. Im Übrigen ist die beabsichtigte Beseitigung von Anlagen mindestens einen Monat zuvor der Bauaufsichtsbehörde in Textform durch die Bauherrschaft anzuzeigen. Bei nicht freistehenden Gebäuden muss durch eine berechtigte Person nach § 54 Absatz 4 beurteilt und im erforderlichen Umfang nachgewiesen werden, dass das Gebäude oder die Gebäude, an die das zu beseitigende Gebäude angebaut ist, während und nach der Beseitigung standsicher sind. Die Beseitigung ist, soweit notwendig, durch die qualifizierte Tragwerksplanerin oder den qualifizierten Tragwerksplaner zu überwachen. Die Sätze 4 und 5 gelten nicht, soweit an verfahrensfreie Gebäude angebaut ist. § 74 Absatz 9 gilt entsprechend.\n(4) Verfahrensfrei sind Instandhaltungsarbeiten."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 72 Beteiligung der Nachbarinnen und Nachbarn und der Öffentlichkeit",
+          "score": 0.716,
+          "text_preview": "(2) Die Benachrichtigung entfällt, wenn die zu benachrichtigenden Nachbarinnen und Nachbarn die Lagepläne und Bauzeichnungen unterschrieben oder dem Bauvorhaben auf andere Weise zugestimmt haben. Haben die Nachbarinnen und Nachbarn dem Bauvorhaben nicht zugestimmt, ist ihnen die Baugenehmigung zuzus",
+          "text_full": "(2) Die Benachrichtigung entfällt, wenn die zu benachrichtigenden Nachbarinnen und Nachbarn die Lagepläne und Bauzeichnungen unterschrieben oder dem Bauvorhaben auf andere Weise zugestimmt haben. Haben die Nachbarinnen und Nachbarn dem Bauvorhaben nicht zugestimmt, ist ihnen die Baugenehmigung zuzustellen.\n(3) Bei baulichen Anlagen, die aufgrund ihrer Beschaffenheit oder ihres Betriebs geeignet sind, die Allgemeinheit oder die Nachbarschaft zu gefährden, zu benachteiligen oder zu belästigen, kann die Bauaufsichtsbehörde auf Antrag die Bauherrschaft das Bauvorhaben in ihrem amtlichen Veröffentlichungsblatt und außerdem entweder im Internet oder in örtlichen Tageszeitungen, die im Bereich des Standorts der Anlage verbreitet sind, öffentlich bekannt machen; verfährt die Bauaufsichtsbehörde nach Halbsatz 1, findet Absatz 1 keine Anwendung. Bei der Errichtung, Änderung oder Nutzungsänderung\n1. eines oder mehrerer Gebäude, wenn dadurch dem Wohnen dienende Nutzungseinheiten mit einer Größe von insgesamt mehr als 5 000 m² Brutto-Grundfläche geschaffen werden,\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 79 Bauaufsichtliche Zustimmung",
+          "score": 0.716,
+          "text_preview": "§ 79 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung, Bauüberwachung und Bauzustandsbesichtigung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes, eines Landes oder eines Landscha",
+          "text_full": "§ 79 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung, Bauüberwachung und Bauzustandsbesichtigung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes, eines Landes oder eines Landschaftsverbandes übertragen ist und\n2. die Baudienststelle mindestens mit einer Person, die einen Hochschulabschluss der Fachrichtungen Architektur oder Bauingenieurwesen und die insbesondere die erforderlichen Kenntnisse des öffentlichen Baurechts, der Bautechnik und der Baugestaltung hat, und mit sonstigen geeigneten Fachkräften ausreichend besetzt ist. Solche Anlagen bedürfen der Zustimmung der oberen Bauaufsichtsbehörde. Die Zustimmung ist nicht erforderlich, wenn die Gemeinde nicht widerspricht und, soweit ihre öffentlich-rechtlich geschützten Belange von Abweichungen, Ausnahmen und Befreiungen berührt sein können, die Nachbarn dem Bauvorhaben zustimmen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 70 Bauantrag, Bauvorlagen",
+          "score": 0.6892,
+          "text_preview": "§ 70 Bauantrag, Bauvorlagen\n(1) Der Bauantrag ist bei der unteren Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Bauvorhabens und die Bearbeitung des Bauantrags erforderlichen Unterlagen (Bauvorlagen) einzureichen. § 68 bleibt unberührt. Mit den Bauvorlagen",
+          "text_full": "§ 70 Bauantrag, Bauvorlagen\n(1) Der Bauantrag ist bei der unteren Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Bauvorhabens und die Bearbeitung des Bauantrags erforderlichen Unterlagen (Bauvorlagen) einzureichen. § 68 bleibt unberührt. Mit den Bauvorlagen für große Sonderbauten (§ 50 Absatz 2) ist ein Brandschutzkonzept einzureichen. Es kann gestattet werden, dass einzelne Bauvorlagen nachgereicht werden.\n(3) Für Bauvorhaben auf fremden Grundstücken kann die Zustimmung der Grundstückseigentümerin oder des Grundstückseigentümers zu dem Bauvorhaben gefordert werden."
+        }
+      ],
+      "top_score": 0.7175
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 82 Beseitigung von Anlagen, Nutzungsuntersagung",
+          "score": 0.7837,
+          "text_preview": "§ 82 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergeste",
+          "text_full": "§ 82 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, kann diese Nutzung untersagt werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7492,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher sein. Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. Brennbare Baustoffe sind zulässig, wen",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher sein. Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. Brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden. Die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Die Absätze 2 und 3 gelten nicht\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7383,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen. D",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen. Dies gilt bei bestehenden Gebäuden nicht für eine Außenwand- und Dachdämmung. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen. Eine nach Satz 2 zulässige Überbauung ändert die Abstandsflächen des Gebäudes nicht."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7378,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen und durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.7253,
+          "text_preview": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen\n(1) Verfahrensfrei sind:\n1. folgende Gebäude:\na) Gebäude bis zu 75 m³ Brutto-Rauminhalt ohne Aufenthaltsräume, Ställe, Toiletten oder Feuerstätten, im Außenbereich nur, wenn sie einem land- oder forstwirtschaftlichen Betrieb (§ 35 Absatz 1 Nu",
+          "text_full": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen\n(1) Verfahrensfrei sind:\n1. folgende Gebäude:\na) Gebäude bis zu 75 m³ Brutto-Rauminhalt ohne Aufenthaltsräume, Ställe, Toiletten oder Feuerstätten, im Außenbereich nur, wenn sie einem land- oder forstwirtschaftlichen Betrieb (§ 35 Absatz 1 Nummer 1 des Baugesetzbuchs in der Fassung der Bekanntmachung vom 3. November 2017 (BGBl. I S."
+        }
+      ],
+      "top_score": 0.7837
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 69 Abweichungen",
+          "score": 0.7846,
+          "text_preview": "§ 69 Abweichungen\n(1) Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarliche",
+          "text_full": "§ 69 Abweichungen\n(1) Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3, vereinbar ist; wird der Zweck der jeweiligen Anforderung nachweisbar auch unter Zulassung der beantragten Abweichung erreicht, soll die Abweichung zugelassen werden. Abweichungen von den § 4 bis § 16 und § 26 bis § 49 dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften sind bei bestehenden Anlagen zuzulassen,\n1. zur Modernisierung von Wohnungen und Wohngebäuden, der Teilung von Wohnungen oder der Schaffung von zusätzlichem Wohnraum durch Ausbau, Anbau, Nutzungsänderung oder Aufstockung, deren Baugenehmigung oder die Kenntnisgabe für die Errichtung des Gebäudes mindestens fünf Jahre zurückliegt,\n2. zur Verwirklichung von Vorhaben zur Einsparung von Wasser oder Energie,\n3. bei Nutzungsänderungen oder\n1. wenn Gründe des allgemeinen Wohls die Abweichung erfordern,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 87 Rechtsverordnungen",
+          "score": 0.7327,
+          "text_preview": "§ 87 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1 und 2, § 17 Absatz 1 und § 18 Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ ",
+          "text_full": "§ 87 Rechtsverordnungen\n(1) Zur Verwirklichung der in § 3 Absatz 1 Satz 1 und 2, § 17 Absatz 1 und § 18 Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 47,\n2. Anforderungen an Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung (§ 42),\n3. Anforderungen an Stellplätze, Garagen und Fahrradabstellplätze (§ 48),\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen für Errichtung, Änderung, Unterhaltung, Betrieb und Nutzung ergeben (§ 50), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen oder\n6."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 66 Typengenehmigung",
+          "score": 0.7,
+          "text_preview": "§ 66 Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Gese",
+          "text_full": "§ 66 Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Gesetz oder aufgrund dieses Gesetzes erlassenen Vorschriften entsprechen. Eine Typengenehmigung kann auch für bauliche Anlagen erteilt werden, die in unterschiedlicher Ausführung, aber nach einem bestimmten System und aus bestimmten Bauteilen an mehreren Stellen errichtet werden sollen. In der Typengenehmigung ist die zulässige Veränderbarkeit festzulegen. Für Fliegende Bauten wird eine Typengenehmigung nicht erteilt.\n(2) Die Typengenehmigung gilt für fünf Jahre. Die Frist kann auf Antrag jeweils bis zu fünf Jahren verlängert werden. § 75 Absatz 2 Satz 2 gilt entsprechend.\n(3) Typengenehmigungen anderer Länder gelten auch im Land Nordrhein-Westfalen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 59 Bestehende Anlagen",
+          "score": 0.6962,
+          "text_preview": "§ 59 Bestehende Anlagen\n(2) Sollen Anlagen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile der Anlage mit diesem Gesetz oder den aufgrund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn\n1. die Bauteile, die diesen Vorsch",
+          "text_full": "§ 59 Bestehende Anlagen\n(2) Sollen Anlagen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile der Anlage mit diesem Gesetz oder den aufgrund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn\n1. die Bauteile, die diesen Vorschriften nicht mehr entsprechen, mit den Änderungen in einem konstruktiven Zusammenhang stehen und\n2. die Durchführung dieser Vorschriften bei den von den Änderungen nicht berührten Teilen der Anlage keinen unverhältnismäßigen Mehraufwand verursacht. In diesem Zusammenhang sind angemessene Regelungen zur Barrierefreiheit zu treffen. Zweiter Abschnitt Genehmigungspflicht, Genehmigungsfreiheit"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 69 Abweichungen",
+          "score": 0.689,
+          "text_preview": "Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gelten die Sätze 1 und 2 entsprechend.",
+          "text_full": "Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gelten die Sätze 1 und 2 entsprechend."
+        }
+      ],
+      "top_score": 0.7846
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6386,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwen",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Campingplätze, Wochenendplätze und Zeltplätze,\n5. Stellplätze für Kraftfahrzeuge und Fahrradabstellplätze,\n6. Gerüste und\n7. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen. Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Absatz 1 Satz 2.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 62 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6163,
+          "text_preview": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht",
+          "text_full": "folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der §§ 35 Absatz 1 Nummer 1, 201 Baugesetzbuch dienen,\nb) Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m² Fläche, außer in Wohngebieten und im Außenbereich,\nc) nicht überdachte Stellplätze für Personenkraftwagen und Motorräder bis zu insgesamt 100 m²,\nd) Kinderspielplätze im Sinne des § 8 Absatz 4 Satz 1,\ne) Freischankflächen bis zu 40 m2 einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte, einer Verkaufsstelle des Lebensmittelhandwerks oder eines landwirtschaftlichen Betriebes,\n15."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.6146,
+          "text_preview": "(3) Veränderungen der Geländeoberfläche dürfen nur genehmigt werden, wenn dadurch keine Nachteile für Nachbargrundstücke oder öffentliche Verkehrsflächen entstehen und das Straßen-, Orts- oder Landschaftsbild nicht gestört wird. Dritter Teil Bauliche Anlagen Erster Abschnitt Gestaltung",
+          "text_full": "(3) Veränderungen der Geländeoberfläche dürfen nur genehmigt werden, wenn dadurch keine Nachteile für Nachbargrundstücke oder öffentliche Verkehrsflächen entstehen und das Straßen-, Orts- oder Landschaftsbild nicht gestört wird. Dritter Teil Bauliche Anlagen Erster Abschnitt Gestaltung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6088,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zuoder Durchgang zu rückwärtigen Gebäuden zu schaffen, zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Fe",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zuoder Durchgang zu rückwärtigen Gebäuden zu schaffen, zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind. Soweit erforderliche Flächen nicht auf dem Grundstück liegen, müssen sie öffentlich-rechtlich gesichert sein."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6009,
+          "text_preview": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7",
+          "text_full": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragen, im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(8) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen und Fahrrädern außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen und/oder Fahrrädern. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(9) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(10) Barrierefrei sind bauliche Anlagen, soweit sie für alle Menschen, insbesondere für Menschen mit Behinderungen, in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(11) Bauprodukte sind\n1."
+        }
+      ],
+      "top_score": 0.6386
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.6687,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. Beide Rettungswege dürfen jedoch innerhalb des Geschosses ",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. Beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Der zweite Rettungsweg über Rettungsgeräte der Feuerwehr ist nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen. Ein zweiter Rettungsweg ist nicht erforderlich,\n1. wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum) oder\n2. für zu ebener Erde liegende Räume, die einen unmittelbaren Ausgang ins Freie haben, der von jeder Stelle des Raumes in höchstens 15 m Entfernung erreichbar ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6497,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zuoder Durchgang zu rückwärtigen Gebäuden zu schaffen, zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Fe",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zuoder Durchgang zu rückwärtigen Gebäuden zu schaffen, zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind. Soweit erforderliche Flächen nicht auf dem Grundstück liegen, müssen sie öffentlich-rechtlich gesichert sein."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.6287,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsge",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 50 Sonderbauten",
+          "score": 0.582,
+          "text_preview": "die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9. die Anordnung und Herstellung v",
+          "text_full": "die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9. die Anordnung und Herstellung von Aufzügen, Treppen, Treppenräumen, Fluren, Ausgängen, sonstigen Rettungswegen,\n11. die Lüftung und Rauchableitung,\n12. die Feuerungsanlagen und Heizräume,\n13. die Wasserversorgung für Löschzwecke,\n14. die Aufbewahrung und Entsorgung von Abwasser und festen Abfallstoffen,\n15. die Stellplätze und Garagen mit und ohne einer Stromzuleitung für die Aufladung von Batterien für Elektrofahrzeuge sowie Fahrradabstellplätze,\n16. die barrierefreie Nutzbarkeit,\n17. die zulässige Zahl der Benutzerinnen und Benutzer, Anordnung und Zahl der zulässigen Sitzund Stehplätze bei Versammlungsstätten, Gaststätten, Vergnügungsstätten, Tribünen und Fliegenden Bauten,\n18. die Zahl der Toiletten für Besucherinnen und Besucher,\n19. Umfang, Inhalt und Zahl besonderer Bauvorlagen, insbesondere eines Brandschutzkonzepts,\n20. weitere zu erbringende Bescheinigungen,\n21."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.5745,
+          "text_preview": "§ 30 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n1. als Gebäudeabsc",
+          "text_full": "§ 30 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n1. als Gebäudeabschlusswand, ausgenommen von Gebäuden ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ Brutto-Rauminhalt, wenn diese Abschlusswände an oder mit einem Abstand von weniger als 2,50 m gegenüber der Nachbargrenze errichtet werden, es sei denn, dass ein Abstand von mindestens 5 m zu bestehenden oder nach den baurechtlichen Vorschriften zulässigen künftigen Gebäuden öffentlich-rechtlich gesichert ist,\n2. als innere Brandwand zur Unterteilung ausgedehnter Gebäude in Abständen von nicht mehr als 40 m,\n3. als innere Brandwand zur Unterteilung landwirtschaftlich oder vergleichbar genutzter Gebäude in Brandabschnitte von nicht mehr als 10 000 m³ Brutto-Rauminhalt und\n4."
+        }
+      ],
+      "top_score": 0.6687
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6487,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder der a",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die den in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum (ABl. L 1 vom 3.1.1994, S. 3) genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Absatz 1 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung",
+          "score": 0.6442,
+          "text_preview": "(8) Anlagen im Sinne des Absatzes 1 dürfen erst benutzt werden, wenn sie ordnungsgemäß fertig gestellt und sicher benutzbar sind, frühestens jedoch eine Woche nach dem in der Anzeige nach Absatz 2 genannten Zeitpunkt der Fertigstellung. Eine Anlage darf erst benutzt werden, wenn darüber hinaus Zufah",
+          "text_full": "(8) Anlagen im Sinne des Absatzes 1 dürfen erst benutzt werden, wenn sie ordnungsgemäß fertig gestellt und sicher benutzbar sind, frühestens jedoch eine Woche nach dem in der Anzeige nach Absatz 2 genannten Zeitpunkt der Fertigstellung. Eine Anlage darf erst benutzt werden, wenn darüber hinaus Zufahrtswege, Wasser- sowie Löschwasserversorgungs- und Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt. Die Bauaufsichtsbehörde soll auf Antrag gestatten, dass die Anlage ganz oder teilweise schon früher benutzt wird, wenn wegen der öffentlichen Sicherheit oder Ordnung Bedenken nicht bestehen. Sechster Abschnitt Baulasten"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 69 Abweichungen",
+          "score": 0.6135,
+          "text_preview": "Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gelten die Sätze 1 und 2 entsprechend.",
+          "text_full": "Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gelten die Sätze 1 und 2 entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 20 Verwendbarkeitsnachweise",
+          "score": 0.6124,
+          "text_preview": "§ 20 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 21 bis 23) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 88 Absatz 2 Nummer 3) wesentlich",
+          "text_full": "§ 20 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 21 bis 23) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 88 Absatz 2 Nummer 3) wesentlich abweicht oder\n3. eine Verordnung nach § 87 Absatz 7 es vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Vorschriften nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 88 enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5996,
+          "text_preview": "(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden, dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr",
+          "text_full": "(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet werden, dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änderung ihrer Nutzung. Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zweck entsprechend dauerhaft erfüllen und ohne Missstände benutzbar sein.\n(2) Die der Wahrung der Belange nach Absatz 1 dienenden allgemein anerkannten Regeln der Technik sind zu beachten. Von diesen Regeln kann abgewichen werden, wenn eine andere Lösung in gleicher Weise die Anforderungen des Absatzes 1 erfüllt. Als allgemein anerkannte Regeln der Technik gelten auch die von der obersten Bauaufsichtsbehörde durch Verwaltungsvorschrift als Technische Baubestimmungen eingeführten technischen Regeln. Zweiter Teil Das Grundstück und seine Bebauung"
+        }
+      ],
+      "top_score": 0.6487
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NW",
+      "latency_ms": 19,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 56 Bauleitende",
+          "score": 0.7954,
+          "text_preview": "§ 56 Bauleitende\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Be",
+          "text_full": "§ 56 Bauleitende\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmen zu achten. Die Verantwortlichkeit der Unternehmen bleibt unberührt.\n(2) Die Bauleiterin oder der Bauleiter muss über die für ihre oder seine Aufgabe erforderliche Sachkunde und Erfahrung verfügen. Verfügt er oder sie auf einzelnen Teilgebieten nicht über die erforderliche Sachkunde und Erfahrung, sind eine geeignete Fachbauleiterin oder ein geeigneter Fachbauleiter heranzuziehen. Diese treten insoweit an die Stelle der Bauleiterin oder des Bauleiters. Die Bauleiterin oder der Bauleiter hat die Tätigkeit der Fachbauleiterinnen und Fachbauleiter und ihre oder seine Tätigkeit aufeinander abzustimmen. Fünfter Teil Bauaufsichtsbehörden, Verfahren Erster Abschnitt Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 53 Bauherrschaft",
+          "score": 0.7808,
+          "text_preview": "§ 53 Bauherrschaft\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit sie oder er nicht selbst zur Erfüllung der Verpfl",
+          "text_full": "§ 53 Bauherrschaft\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit sie oder er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschriften geeignet ist. Der Bauherrin oder dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Sie oder er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. Die Bauherrin oder der Bauherr hat vor Baubeginn den Namen der Bauleiterin oder des Bauleiters und während der Bauausführung einen Wechsel dieser Person unverzüglich der Bauaufsichtsbehörde in Textform mitzuteilen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 58 Aufgaben und Befugnisse der Bauaufsichtsbehörden",
+          "score": 0.7326,
+          "text_preview": "§ 58 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die den Bauaufsichtsbehörden obliegenden Aufgaben gelten als solche der Gefahrenabwehr.",
+          "text_full": "§ 58 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die den Bauaufsichtsbehörden obliegenden Aufgaben gelten als solche der Gefahrenabwehr."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung",
+          "score": 0.7112,
+          "text_preview": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung\n(1) Die Bauzustandsbesichtigung zur Fertigstellung des Rohbaus und der abschließenden Fertigstellung genehmigter Anlagen (§ 60) wird von der Bauaufsichtsbehörde durchgeführt. § 83 Absatz 2 gilt entsprechend.\n(2) Die Fertigstellung des Rohbaus und di",
+          "text_full": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung\n(1) Die Bauzustandsbesichtigung zur Fertigstellung des Rohbaus und der abschließenden Fertigstellung genehmigter Anlagen (§ 60) wird von der Bauaufsichtsbehörde durchgeführt. § 83 Absatz 2 gilt entsprechend.\n(2) Die Fertigstellung des Rohbaus und die abschließende Fertigstellung genehmigter Anlagen sind der Bauaufsichtsbehörde von der Bauleiterin oder dem Bauleiter jeweils eine Woche vorher anzuzeigen, um der Bauaufsichtsbehörde eine Besichtigung des Bauzustandes zu ermöglichen. Mit der Anzeige der Rohbaufertigstellung sind die Bescheinigungen über die bis dahin erfolgten stichprobenhaften Kontrollen über die Übereinstimmung der Bauausführung mit dem Standsicherheitsnachweis einzureichen. Ist eine Bauleiterin oder ein Bauleiter der Bauaufsichtsbehörde nicht benannt worden, trifft die Pflicht die Bauherrschaft. Die Bauaufsichtsbehörde kann verlangen, dass ihr oder von ihr Beauftragten Beginn und Beendigung bestimmter Bauarbeiten von der Bauherrschaft oder der Bauleiterin oder dem Bauleiter angezeigt werden.\n(3) Der Rohbau ist fertiggestellt, wenn die tragenden Teile, Schornsteine, Brandwände und die Dachkonstruktion vollendet sind."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Nordrhein-Westfalen",
+          "jurisdiction": "DE-NW",
+          "source_paragraph": "§ 53 Bauherrschaft",
+          "score": 0.7021,
+          "text_preview": "Wechselt die Bauherrin oder der Bauherr, hat die neue Bauherrin oder der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich in Textform mitzuteilen.\n(2) Bei Bauarbeiten, die unter Einhaltung des Gesetzes zur Bekämpfung der Schwarzarbeit in Selbst- oder Nachbarschaftshilfe ausgeführt werden, ist ",
+          "text_full": "Wechselt die Bauherrin oder der Bauherr, hat die neue Bauherrin oder der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich in Textform mitzuteilen.\n(2) Bei Bauarbeiten, die unter Einhaltung des Gesetzes zur Bekämpfung der Schwarzarbeit in Selbst- oder Nachbarschaftshilfe ausgeführt werden, ist die Beauftragung von Unternehmen nicht erforderlich, wenn dabei genügend Fachkräfte mit der nötigen Sachkunde, Erfahrung und Zuverlässigkeit mitwirken. Die Beseitigung von nicht verfahrensfreien Anlagen darf nicht in Selbst- oder Nachbarschaftshilfe ausgeführt werden.\n(3) Treten bei einem Bauvorhaben mehrere Personen als Bauherrin oder als Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass ihr gegenüber eine Vertreterin oder ein Vertreter bestellt wird, der oder die die der Bauherrin oder dem Bauherrn nach den öffentlich-rechtlichen Vorschriften obliegenden Verpflichtungen zu erfüllen hat. Im Übrigen findet § 18 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Verwaltungsverfahrensgesetzes für das Land Nordrhein-Westfalen entsprechende Anwendung."
+        }
+      ],
+      "top_score": 0.7954
+    }
+  ]
+}

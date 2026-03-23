@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-SH",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 15179,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6752,
+          "text_preview": "Anlagen der technischen Gebäudeausrüstung:\na) Abgasanlagen in und an Gebäuden sowie freistehende Abgasanlagen mit einer Höhe bis zu 10 m; § 42 Absatz 6 gilt entsprechend,\nb) Aufzüge,\nc) sonstige Anlagen der technischen Gebäudeausrüstung, die nicht durch hochfeuerhemmende oder feuerbeständige Decken ",
+          "text_full": "Anlagen der technischen Gebäudeausrüstung:\na) Abgasanlagen in und an Gebäuden sowie freistehende Abgasanlagen mit einer Höhe bis zu 10 m; § 42 Absatz 6 gilt entsprechend,\nb) Aufzüge,\nc) sonstige Anlagen der technischen Gebäudeausrüstung, die nicht durch hochfeuerhemmende oder feuerbeständige Decken oder Wände geführt werden;\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.6701,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, B",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Schaukästen sowie für Zettelanschläge und Bogenanschläge oder Lichtwerbung bestimmte Säulen, Tafeln und Flächen.\n(2) Für Werbeanlagen, die bauliche Anlagen sind, gelten die in diesem Gesetz an bauliche Anlagen gestellten Anforderungen. Werbeanlagen, die keine baulichen Anlagen sind, dürfen weder bauliche Anlagen noch das Straßenbild, Orts- oder Landschaftsbild verunstalten oder die Sicherheit des Verkehrs gefährden. Die störende Häufung von Werbeanlagen ist unzulässig.\n(3) Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. Ausgenommen sind, soweit in anderen Vorschriften nichts anderes bestimmt ist,\n1. Werbeanlagen an der Stätte der Leistung,\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6663,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwen",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze, ausgenommen Bootslagerplätze am Meeresstrand,\n3. Sport- und Spielflächen,\n4. Camping- und Wochenendplätze,\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze für Kraftfahrzeuge und deren Zufahrten, Abstellanlagen für Fahrräder,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n9. künstliche Hohlräume unter der Erdoberfläche,\n10. Sportboothäfen. Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Absatz 1 Satz 2.\n(2) Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6457,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- oder Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten;\n14. folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb dienen,\nb) 2 notwendige Stellplätze mit einer Nutzfläche bis zu 50 m je Grundstück sowie deren Zufahrten und Fahrgassen,\nc) 2 Ausstellungsplätze, Abstellplätze und Lagerplätze bis zu 300 m Fläche, außer in Wohngebieten und im Außenbereich,\nd) Kleinkinderspielplätze im Sinne des § 8 Absatz 2 Satz 1;\n15."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.633,
+          "text_preview": "folgende tragende und nichttragende Bauteile:\na) nichttragende und nichtaussteifende Bauteile in baulichen Anlagen,\nb) Fenster und Türen sowie die dafür bestimmten Öffnungen bis zu einer Breite von 2 m bei oberirdischen Gebäuden der Gebäudeklassen 1 und 2,\nc) Außenwandbekleidungen einschließlich Maß",
+          "text_full": "folgende tragende und nichttragende Bauteile:\na) nichttragende und nichtaussteifende Bauteile in baulichen Anlagen,\nb) Fenster und Türen sowie die dafür bestimmten Öffnungen bis zu einer Breite von 2 m bei oberirdischen Gebäuden der Gebäudeklassen 1 und 2,\nc) Außenwandbekleidungen einschließlich Maßnahmen der Wärmedämmung und Verblendungen, ausgenommen bei oberirdischen Gebäuden der Gebäudeklassen 4 und 5 sowie Hochhäusern, und Verputz baulicher Anlagen,\nd) Bedachung einschließlich Maßnahmen der Wärmedämmung ausgenommen bei oberirdischen Gebäuden der Gebäudeklassen 4 und 5 sowie Hochhäusern;\n12."
+        }
+      ],
+      "top_score": 0.6752
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 27,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.5991,
+          "text_preview": "Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen oder Besucher u",
+          "text_full": "Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen oder Besucher und Benutzerinnen oder Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.\n(3) Für\n1. Wohnheime, Tagesstätten, Werkstätten und Heime für Menschen mit Behinderungen,\n2. Altenheime, Altenwohnheime, Altenpflegeheime und Altenbegegnungsstätten,\n3. Kindertagesstätten und Jugendhilfeeinrichtungen nach § 45 des Achten Buches Sozialgesetzbuch - Kinder und Jugendhilfe - in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), zuletzt geändert durch Artikel 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2652) gilt Absatz 2 für die gesamte Anlage und die gesamten Einrichtungen.\n(4) Abweichungen nach § 67 von den Absätzen 1 bis 3 können auch zugelassen werden, soweit die Anforderungen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können, insbesondere\n1. wegen schwieriger Geländeverhältnisse,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellanlagen für Fahrräder",
+          "score": 0.584,
+          "text_preview": "Im mehrgeschossigen Wohnungsbau gilt die Anzahl von 0,7 Stellplätzen je Wohnung in der Regel als ausreichend; besteht eine günstige Anbindung an den öffentlichen Personennahverkehr oder ist aufgrund eines kommunalen Mobilitätskonzepts zu erwarten, dass ein geringerer Stellplatzbedarf besteht, genügt",
+          "text_full": "Im mehrgeschossigen Wohnungsbau gilt die Anzahl von 0,7 Stellplätzen je Wohnung in der Regel als ausreichend; besteht eine günstige Anbindung an den öffentlichen Personennahverkehr oder ist aufgrund eines kommunalen Mobilitätskonzepts zu erwarten, dass ein geringerer Stellplatzbedarf besteht, genügt die Anzahl von 0,3 Stellplätzen je Wohnung. In den Abstellanlagen für Fahrräder sind im mehrgeschossigen Wohnungsbau mindestens 1,5 Abstellmöglich-\n- Seite 44 von 86 keiten je Wohnung vorzusehen. Wird die Anzahl, Größe oder Beschaffenheit durch eine örtliche Bauvorschrift nach § 86 Absatz 1 Nummer 5 festgelegt, ist diese maßgeblich.\n(2) Stellplätze und Garagen müssen so angeordnet und ausgeführt werden, dass ihre Benutzung die Gesundheit nicht schädigt und das Arbeiten und Wohnen, die Ruhe und die Erholung in der Umgebung durch Lärm oder Gerüche nicht über das zumutbare Maß hinaus stört. Stellplatzanlagen sollen durch Bepflanzungen mit standortheimischen Bäumen und Sträuchern gestaltet werden; § 8 Absatz 1 ist entsprechend anzuwenden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5824,
+          "text_preview": "eine vorläufige Untersagung gemäß § 15 Absatz 1 Satz 2 des Baugesetzbuchs beantragen, es sei denn, dass die Höhe 4 Meter nicht überschreitet,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 86 -\nf) Schutzhütten für Wanderer, die jederma",
+          "text_full": "eine vorläufige Untersagung gemäß § 15 Absatz 1 Satz 2 des Baugesetzbuchs beantragen, es sei denn, dass die Höhe 4 Meter nicht überschreitet,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 86 -\nf) Schutzhütten für Wanderer, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Überdachungen ebenerdiger Terrassen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 3 m,\nh) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210), zuletzt geändert durch Artikel 11 des Gesetzes vom 19. September 2006 (BGBl. I S. 2146),\ni) untergeordnete bauliche Anlagen zur Aufnahme sanitärer Anlagen auf Standplätzen von Campingplätzen mit einem Brutto-Rauminhalt bis zu 15 m , wenn hierfür entsprechende Festsetzungen in einem Bebauungsplan getroffen worden sind,\nj) Campinghäuser im Sinne des § 1 Absatz 6 der Camping- und Wochenendplatzverordnung vom 15. Juli 2020 (GVOBl. Schl.-H. S. 448) auf Aufstellplätzen von Wochenendplätzen auf genehmigten Campingplätzen;\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 47 Aufenthaltsräume",
+          "score": 0.5257,
+          "text_preview": "§ 47 Aufenthaltsräume\n- Seite 43 von 86 -\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,30 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu ",
+          "text_full": "§ 47 Aufenthaltsräume\n- Seite 43 von 86 -\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,30 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer Betracht.\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens 1/8 der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggien haben.\n(3) Aufenthaltsräume, deren Nutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.5238,
+          "text_preview": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung bis zu 50 m nutzbarer Grundfläche muss über Abstellraum von mindestens 3,50 2 2 2 m , jede Wohnung mit mehr als 50 ",
+          "text_full": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung bis zu 50 m nutzbarer Grundfläche muss über Abstellraum von mindestens 3,50 2 2 2 m , jede Wohnung mit mehr als 50 m nutzbarer Grundfläche über Abstellraum von mindestens 6 m verfügen. In Wohngebäuden der Gebäudeklassen 3 bis 5 sind stufenlos zugängliche Abstellräume für Kinderwagen, Fahrräder sowie abgetrennt auch für Rollstühle und Mobilitätshilfen herzustellen.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(4) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 6, 27, 28, 30, 31 und 32 nicht anzuwenden."
+        }
+      ],
+      "top_score": 0.5991
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5365,
+          "text_preview": "(6) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die festgelegte Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine G",
+          "text_full": "(6) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die festgelegte Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Vollgeschosse sind oberirdische Geschosse, die eine Höhe von mindestens 2,30 m haben. Das oberste Geschoss und Geschosse im Dachraum sind Vollgeschosse, wenn sie diese Höhe über mindestens drei Viertel der Geschossfläche des darunterliegenden Geschosses haben. Die Höhe der Geschosse wird von der Oberkante des Fußbodens bis zur Oberkante des Fußbodens der darüber liegenden Decke, bei Geschossen mit Dachflächen bis zur Oberkante der Dachhaut gemessen.\n(8) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.5311,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinhe",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n- Seite 28 von 86 -\n(3) Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen; werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellanlagen für Fahrräder",
+          "score": 0.5217,
+          "text_preview": "§ 49 Stellplätze, Garagen und Abstellanlagen für Fahrräder\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet oder geändert werden, wenn Stellplätze oder Garagen in ausreichender Anzahl, Größe und in geeigneter Beschaffenheit (notwe",
+          "text_full": "§ 49 Stellplätze, Garagen und Abstellanlagen für Fahrräder\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet oder geändert werden, wenn Stellplätze oder Garagen in ausreichender Anzahl, Größe und in geeigneter Beschaffenheit (notwendige Stellplätze oder Garagen) hergestellt werden. Satz 1 gilt für Abstellanlagen für Fahrräder entsprechend. Die notwendigen Stellplätze und Garagen sowie Abstellanlagen für Fahrräder sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert wird. Die Verpflichtung nach Satz 1 entfällt, wenn bei einem bestehenden Gebäude eine Wohnung geteilt oder Wohnraum durch Umnutzung, durch Aufstocken des Gebäudes oder durch Ausbau des Dachraums geschaffen wird."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5189,
+          "text_preview": "Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucherinnen oder Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr al",
+          "text_full": "Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucherinnen oder Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als 1 000 Besucherinnen oder Besucher fassen,\n8. Schank- und Speisegaststätten mit mehr als 40 Gastplätzen einschließlich Gastplätzen im Freien, die gemeinsame Rettungswege durch das Gebäude haben, oder mehr als 1 000 Gastplätzen im Freien, Beherbergungsstätten mit mehr als zwölf Betten und Vergnügungsstätten mit mehr als 150 m2 Grundfläche,\n9. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderungen, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen,\nb) für Personen mit Intensivpflegebedarf oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als zwölf Personen bestimmt sind,\n10. Krankenhäuser,\n11. Wohnheime,\n12."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.508,
+          "text_preview": "Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen oder Besucher u",
+          "text_full": "Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen oder Besucher und Benutzerinnen oder Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.\n(3) Für\n1. Wohnheime, Tagesstätten, Werkstätten und Heime für Menschen mit Behinderungen,\n2. Altenheime, Altenwohnheime, Altenpflegeheime und Altenbegegnungsstätten,\n3. Kindertagesstätten und Jugendhilfeeinrichtungen nach § 45 des Achten Buches Sozialgesetzbuch - Kinder und Jugendhilfe - in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), zuletzt geändert durch Artikel 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2652) gilt Absatz 2 für die gesamte Anlage und die gesamten Einrichtungen.\n(4) Abweichungen nach § 67 von den Absätzen 1 bis 3 können auch zugelassen werden, soweit die Anforderungen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können, insbesondere\n1. wegen schwieriger Geländeverhältnisse,\n2."
+        }
+      ],
+      "top_score": 0.5365
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7361,
+          "text_preview": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauh",
+          "text_full": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauherrin oder der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. Mit der Anzeige nach Satz 1 sind vorzulegen\n1. bei Bauvorhaben nach § 66 Absatz 2 Satz 5 und Absatz 3 Satz 1 eine Bescheinigung des Prüfamtes oder der Prüfingenieurin oder des Prüfingenieurs für Standsicherheit oder der Bauaufsichtsbehörde über die ordnungsgemäße Bauausführung hinsichtlich der Standsicherheit (§ 81 Absatz 2 Satz 1 Nummer 1),\n2. bei Bauvorhaben nach § 66 Absatz 2a Satz 3 und Absatz 3 Satz 3 eine Bescheinigung der Prüfingenieurin oder des Prüfingenieurs für Brandschutz oder der Bauaufsichtsbehörde über die ordnungsgemäße Bauausführung hinsichtlich des Brandschutzes (§ 81 Absatz 2 Satz 1 Nummer 2),\n3. in den Fällen des § 81 Absatz 2 Satz 2 die jeweilige Bestätigung."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 70a Beteiligung der Öffentlichkeit",
+          "score": 0.726,
+          "text_preview": "In der öffentlichen Bekanntmachung ist anzugeben, dass nach der öffentlichen Bekanntmachung die Baugenehmigung und ihre Begründung bis zum Ablauf der Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, schriftlich angefordert werden können; zusätzlich ist anzugeben, wo und wann die B",
+          "text_full": "In der öffentlichen Bekanntmachung ist anzugeben, dass nach der öffentlichen Bekanntmachung die Baugenehmigung und ihre Begründung bis zum Ablauf der Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, schriftlich angefordert werden können; zusätzlich ist anzugeben, wo und wann die Baugenehmigung und ihre Begründung eingesehen werden können. Mit dem Ende der Auslegungsfrist gilt die Baugenehmigung auch Dritten gegenüber, die keine Einwendungen erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7256,
+          "text_preview": "(3) Die Baugenehmigung kann mit Auflagen, mit Bedingungen, einem Vorbehalt des Widerrufs und einem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(4) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt. (4a) Die Bauaufsichtsbeh",
+          "text_full": "(3) Die Baugenehmigung kann mit Auflagen, mit Bedingungen, einem Vorbehalt des Widerrufs und einem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(4) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt. (4a) Die Bauaufsichtsbehörde hat, soweit andere Behörden zuständig sind, die für die Errichtung, Änderung, Nutzung oder Beseitigung von Anlagen nach anderen öffentlich-rechtlichen Vorschriften erforderlichen Genehmigungen, Zustimmungen, Bewilligungen und Erlaubnisse einzuholen und mit der Baugenehmigung gleichzeitig auszuhändigen, soweit durch Rechtsvorschriften nichts anderes bestimmt ist. Versagt eine andere Behörde, die nach anderen öffentlich-rechtlichen Vorschriften dazu befugt ist, diese Genehmigung, Bewilligung oder Erlaubnis, teilt sie dies, wenn bauaufsichtliche Gründe dem Bauantrag nicht entgegenstehen, unter Benachrichtigung der Bauaufsichtsbehörde der Antragstellerin oder dem Antragsteller durch schriftlichen Bescheid unmittelbar mit.\n(5) Der Gemeinde ist, wenn sie nicht Bauaufsichtsbehörde ist, die Entscheidung der Bauaufsichtsbehörde durch eine Übermittlung des Bescheides zur Kenntnis zu geben."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7249,
+          "text_preview": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen so",
+          "text_full": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n- Seite 69 von 86 (1a) Ist über einen Bauantrag im vereinfachten Genehmigungsverfahren nach § 63 zu entscheiden, gilt § 111a des Landesverwaltungsgesetzes mit folgenden Maßgaben entsprechend:\n1. Die Frist für die Entscheidung beginnt\na) drei Wochen nach Zugang des Bauantrags oder\nb) drei Wochen nach Zugang der verlangten Unterlagen, wenn die Bauaufsichtsbehörde vor Fristbeginn eine Aufforderung nach § 69 Absatz 2 versandt hat.\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 72a Typengenehmigung",
+          "score": 0.7135,
+          "text_preview": "§ 72a Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Ges",
+          "text_full": "§ 72a Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Gesetz oder aufgrund dieses Gesetzes erlassenen Vorschriften entsprechen. Eine Typengenehmigung kann auch für bauliche Anlagen erteilt werden, die in unterschiedlicher Ausführung, aber nach einem bestimmten System und aus bestimmten Bauteilen an mehreren Stellen errichtet werden sollen; in der Typengenehmigung ist die zulässige Veränderbarkeit festzulegen. Für Fliegende Bauten wird eine Typengenehmigung nicht erteilt.\n(2) Die Typengenehmigung gilt fünf Jahre. Die Frist kann auf Antrag jeweils bis zu fünf Jahren verlängert werden; § 73 Absatz 2 Satz 2 gilt entsprechend.\n(3) Die Typengenehmigungen anderer Länder gelten auch im Land Schleswig-Holstein, soweit sie bezogen auf den Aufstellungsort mit den Anforderungen des § 3 Absatz 2 Halbsatz 1 vereinbar sind; hierzu kann die oberste Bauaufsichtsbehörde Festsetzungen zum Geltungsbereich der Typengenehmigungen treffen."
+        }
+      ],
+      "top_score": 0.7361
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6573,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) Zur ausreichenden Belichtung und Belüftung sowie für einen ausreichenden Sozialabstand sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden au",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) Zur ausreichenden Belichtung und Belüftung sowie für einen ausreichenden Sozialabstand sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Satz 2 gilt nicht für Antennen im Außenbereich einschließlich\n1. der Masten mit einer maximalen Breite des Mastes von 1,50 m oder\n2. der Gittermasten mit jeweils einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden,\n1. die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf, oder\n2. soweit nach der umgebenden Bebauung im Sinne des § 34 Absatz 1 Satz 1 Baugesetzbuch abweichende Gebäudeabstände zulässig sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6173,
+          "text_preview": "Werden von einer städtebaulichen Satzung oder einer Satzung nach § 86 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 bis 3 liegen müssten, finden die Sätze 1 bis 3 keine Anwendung, es sei denn, die Satzung ordnet die Geltung ",
+          "text_full": "Werden von einer städtebaulichen Satzung oder einer Satzung nach § 86 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 bis 3 liegen müssten, finden die Sätze 1 bis 3 keine Anwendung, es sei denn, die Satzung ordnet die Geltung dieser Vorschriften an.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende Bauteile wie Gesimse und Dachüberstände,\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen,\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 m von der gegenüberliegenden Nachbargrenze entfernt bleiben,\n3. bei Gebäuden an der Grundstücksgrenze die Seitenwände von Vorbauten und Dachaufbauten, auch wenn sie nicht an der Grundstücksgrenze errichtet werden.\n(7) Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden Gebäuden unabhängig davon, ob diese den Anforderungen der Absätze 2 bis 6 entsprechen, außer Betracht, wenn sie mindestens 2,30 m von der Nachbargrenze zurückbleiben."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5972,
+          "text_preview": "eine vorläufige Untersagung gemäß § 15 Absatz 1 Satz 2 des Baugesetzbuchs beantragen, es sei denn, dass die Höhe 4 Meter nicht überschreitet,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 86 -\nf) Schutzhütten für Wanderer, die jederma",
+          "text_full": "eine vorläufige Untersagung gemäß § 15 Absatz 1 Satz 2 des Baugesetzbuchs beantragen, es sei denn, dass die Höhe 4 Meter nicht überschreitet,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 86 -\nf) Schutzhütten für Wanderer, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Überdachungen ebenerdiger Terrassen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 3 m,\nh) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210), zuletzt geändert durch Artikel 11 des Gesetzes vom 19. September 2006 (BGBl. I S. 2146),\ni) untergeordnete bauliche Anlagen zur Aufnahme sanitärer Anlagen auf Standplätzen von Campingplätzen mit einem Brutto-Rauminhalt bis zu 15 m , wenn hierfür entsprechende Festsetzungen in einem Bebauungsplan getroffen worden sind,\nj) Campinghäuser im Sinne des § 1 Absatz 6 der Camping- und Wochenendplatzverordnung vom 15. Juli 2020 (GVOBl. Schl.-H. S. 448) auf Aufstellplätzen von Wochenendplätzen auf genehmigten Campingplätzen;\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 38 Umwehrungen",
+          "score": 0.5715,
+          "text_preview": "§ 38 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n",
+          "text_full": "§ 38 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. nicht begehbare Oberlichte und Glasabdeckungen in Flächen, die im Allgemeinen zum Begehen bestimmt sind, wenn sie weniger als 0,50 m aus diesen Flächen herausragen,\n3. Dächer oder Dachteile, die zum auch nur zeitweiligen Aufenthalt von Menschen bestimmt sind,\n4. Öffnungen in begehbaren Decken sowie in Dächern oder Dachteilen nach Nummer 3, wenn sie nicht sicher abgedeckt sind,\n5. nicht begehbare Glasflächen in Decken sowie in Dächern oder Dachteilen nach Nummer 3,\n6. die freien Seiten von Treppenläufen, Treppenabsätzen und Treppenöffnungen (Treppenaugen),\n7. Kellerlichtschächte und Betriebsschächte, die an Verkehrsflächen liegen, wenn sie nicht verkehrssicher abgedeckt sind.\n(2) In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abzudecken."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 35 Notwendige Treppenräume, Ausgänge",
+          "score": 0.5667,
+          "text_preview": "Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n(3) Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines notwendigen Treppenraum",
+          "text_full": "Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n(3) Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines notwendigen Treppenraumes nicht unmittelbar ins Freie führt, muss der Raum zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie\n1. mindestens so breit sein wie die dazugehörigen Treppenläufe,\n2. Wände haben, die die Anforderungen an die Wände des Treppenraumes erfüllen,\n3. rauchdichte und selbstschließende Abschlüsse zu notwendigen Fluren haben und\n4. ohne Öffnungen zu anderen Räumen, ausgenommen zu notwendigen Fluren, sein.\n(4) Die Wände notwendiger Treppenräume müssen als raumabschließende Bauteile\n1. in Gebäuden der Gebäudeklasse 5 die Bauart von Brandwänden haben,\n2. in Gebäuden der Gebäudeklasse 4 auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend und\n3. in Gebäuden der Gebäudeklasse 3 feuerhemmend sein."
+        }
+      ],
+      "top_score": 0.6573
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7948,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n- Seite 5 von 86 -",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n- Seite 5 von 86 -"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 51 Sonderbauten",
+          "score": 0.7461,
+          "text_preview": "Erst-, Wiederholungs- und Nachprüfungen und die Bescheinigungen, die hierüber zu erbringen sind.\n- Seite 47 von 86 -\n(2) Die Bauaufsichtsbehörden können auch Anforderungen an die Beschaffenheit von Maschinen und anderen beweglichen Teilen, die in Verbindung mit baulichen Anlagen aufgestellt werden, ",
+          "text_full": "Erst-, Wiederholungs- und Nachprüfungen und die Bescheinigungen, die hierüber zu erbringen sind.\n- Seite 47 von 86 -\n(2) Die Bauaufsichtsbehörden können auch Anforderungen an die Beschaffenheit von Maschinen und anderen beweglichen Teilen, die in Verbindung mit baulichen Anlagen aufgestellt werden, stellen. Dies gilt auch für die Nachweise, dass die Anforderungen erfüllt sind, und für die heranzuziehenden sachverständigen Personen sowie sachverständigen Stellen.\nTeil 4 Die am Bau Beteiligten"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.7065,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\nAbschnitt 2 Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\nAbschnitt 2 Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 85 Verordnungsermächtigungen",
+          "score": 0.6938,
+          "text_preview": "(4a) Die oberste Bauaufsichtsbehörde kann durch Verordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die",
+          "text_full": "(4a) Die oberste Bauaufsichtsbehörde kann durch Verordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen.\n(5) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Verordnung zu bestimmen, dass die Anforderungen der aufgrund des § 31 des Gesetzes über überwachungsbedürftige Anlagen (ÜAnlG) und des § 49 Absatz 4 des Energiewirtschaftsgesetzes erlassenen Verordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich auch keine Arbeitnehmerinnen oder Arbeitnehmer beschäftigt werden. Sie kann auch die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten und Gebühren regeln."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6926,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        }
+      ],
+      "top_score": 0.7948
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.633,
+          "text_preview": "Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen oder Besucher u",
+          "text_full": "Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucherinnen oder Besucher und Benutzerinnen oder Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.\n(3) Für\n1. Wohnheime, Tagesstätten, Werkstätten und Heime für Menschen mit Behinderungen,\n2. Altenheime, Altenwohnheime, Altenpflegeheime und Altenbegegnungsstätten,\n3. Kindertagesstätten und Jugendhilfeeinrichtungen nach § 45 des Achten Buches Sozialgesetzbuch - Kinder und Jugendhilfe - in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), zuletzt geändert durch Artikel 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2652) gilt Absatz 2 für die gesamte Anlage und die gesamten Einrichtungen.\n(4) Abweichungen nach § 67 von den Absätzen 1 bis 3 können auch zugelassen werden, soweit die Anforderungen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können, insbesondere\n1. wegen schwieriger Geländeverhältnisse,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellanlagen für Fahrräder",
+          "score": 0.6191,
+          "text_preview": "Im mehrgeschossigen Wohnungsbau gilt die Anzahl von 0,7 Stellplätzen je Wohnung in der Regel als ausreichend; besteht eine günstige Anbindung an den öffentlichen Personennahverkehr oder ist aufgrund eines kommunalen Mobilitätskonzepts zu erwarten, dass ein geringerer Stellplatzbedarf besteht, genügt",
+          "text_full": "Im mehrgeschossigen Wohnungsbau gilt die Anzahl von 0,7 Stellplätzen je Wohnung in der Regel als ausreichend; besteht eine günstige Anbindung an den öffentlichen Personennahverkehr oder ist aufgrund eines kommunalen Mobilitätskonzepts zu erwarten, dass ein geringerer Stellplatzbedarf besteht, genügt die Anzahl von 0,3 Stellplätzen je Wohnung. In den Abstellanlagen für Fahrräder sind im mehrgeschossigen Wohnungsbau mindestens 1,5 Abstellmöglich-\n- Seite 44 von 86 keiten je Wohnung vorzusehen. Wird die Anzahl, Größe oder Beschaffenheit durch eine örtliche Bauvorschrift nach § 86 Absatz 1 Nummer 5 festgelegt, ist diese maßgeblich.\n(2) Stellplätze und Garagen müssen so angeordnet und ausgeführt werden, dass ihre Benutzung die Gesundheit nicht schädigt und das Arbeiten und Wohnen, die Ruhe und die Erholung in der Umgebung durch Lärm oder Gerüche nicht über das zumutbare Maß hinaus stört. Stellplatzanlagen sollen durch Bepflanzungen mit standortheimischen Bäumen und Sträuchern gestaltet werden; § 8 Absatz 1 ist entsprechend anzuwenden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6111,
+          "text_preview": "eine vorläufige Untersagung gemäß § 15 Absatz 1 Satz 2 des Baugesetzbuchs beantragen, es sei denn, dass die Höhe 4 Meter nicht überschreitet,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 86 -\nf) Schutzhütten für Wanderer, die jederma",
+          "text_full": "eine vorläufige Untersagung gemäß § 15 Absatz 1 Satz 2 des Baugesetzbuchs beantragen, es sei denn, dass die Höhe 4 Meter nicht überschreitet,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 86 -\nf) Schutzhütten für Wanderer, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Überdachungen ebenerdiger Terrassen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 3 m,\nh) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210), zuletzt geändert durch Artikel 11 des Gesetzes vom 19. September 2006 (BGBl. I S. 2146),\ni) untergeordnete bauliche Anlagen zur Aufnahme sanitärer Anlagen auf Standplätzen von Campingplätzen mit einem Brutto-Rauminhalt bis zu 15 m , wenn hierfür entsprechende Festsetzungen in einem Bebauungsplan getroffen worden sind,\nj) Campinghäuser im Sinne des § 1 Absatz 6 der Camping- und Wochenendplatzverordnung vom 15. Juli 2020 (GVOBl. Schl.-H. S. 448) auf Aufstellplätzen von Wochenendplätzen auf genehmigten Campingplätzen;\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.5749,
+          "text_preview": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung bis zu 50 m nutzbarer Grundfläche muss über Abstellraum von mindestens 3,50 2 2 2 m , jede Wohnung mit mehr als 50 ",
+          "text_full": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung bis zu 50 m nutzbarer Grundfläche muss über Abstellraum von mindestens 3,50 2 2 2 m , jede Wohnung mit mehr als 50 m nutzbarer Grundfläche über Abstellraum von mindestens 6 m verfügen. In Wohngebäuden der Gebäudeklassen 3 bis 5 sind stufenlos zugängliche Abstellräume für Kinderwagen, Fahrräder sowie abgetrennt auch für Rollstühle und Mobilitätshilfen herzustellen.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(4) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 6, 27, 28, 30, 31 und 32 nicht anzuwenden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.5699,
+          "text_preview": "§ 3 Allgemeine Anforderungen\n(1) Bei der Planung, Errichtung, Änderung und Nutzungsänderung baulicher Anlagen und der Gestaltung von Grundstücken ist auf den Schutz der natürlichen Grundlagen des Lebens sowie auf die besonderen Belange von Familien mit Kindern, von alten Menschen sowie Menschen mit ",
+          "text_full": "§ 3 Allgemeine Anforderungen\n(1) Bei der Planung, Errichtung, Änderung und Nutzungsänderung baulicher Anlagen und der Gestaltung von Grundstücken ist auf den Schutz der natürlichen Grundlagen des Lebens sowie auf die besonderen Belange von Familien mit Kindern, von alten Menschen sowie Menschen mit Behinderungen durch den Grundsatz barrierefreien Bauens Rücksicht zu nehmen.\n(2) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche Sicherheit, insbesondere Leben, Gesundheit, nicht gefährdet werden und keine unzumutbaren Belästigungen entstehen; dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nummer 305/2011 zu berücksichtigen.\n(3) Die der Wahrung der Anforderungen nach Absatz 2 dienenden allgemeinen anerkannten Regeln der Technik sind zu beachten. Von diesen Regeln kann abgewichen werden, wenn mit einer anderen Lösung in gleichem Maße nachweislich die allgemeinen Anforderungen des Absatzes 2 erfüllt werden. Als allgemein anerkannte Regeln der Technik gelten auch die von der obersten Bauaufsichtsbehörde durch Verwaltungsvorschrift als technische Baubestimmungen eingeführten technischen Regeln."
+        }
+      ],
+      "top_score": 0.633
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 14 Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung ein",
+          "score": 0.8043,
+          "text_preview": "§ 14 Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung ein\nes Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mö",
+          "text_full": "§ 14 Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung ein\nes Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind; hierbei sind auch die Belange der Menschen mit Behinderungen zu berücksichtigen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.749,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26",
+          "score": 0.7232,
+          "text_preview": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen 05.07.2024 und Bauteilen",
+          "text_full": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen 05.07.2024 und Bauteilen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7217,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Nach den Anforderungen an ihr Brandverhalten werden\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare Baustoffe unterschieden. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Nach den Anforderungen an ihr Brandverhalten werden\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare Baustoffe unterschieden. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen normalentflammbar sind.\n(2) Nach den Anforderungen an ihre Feuerwiderstandsfähigkeit werden\n1. feuerbeständige,\n2. hochfeuerhemmende,\n3. feuerhemmende Bauteile unterschieden. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 41 Lüftungsanlagen, raumlufttechnische Anlagen und Warmluftheizungen",
+          "score": 0.716,
+          "text_preview": "§ 41 Lüftungsanlagen, raumlufttechnische Anlagen und Warmluftheizungen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbren",
+          "text_full": "§ 41 Lüftungsanlagen, raumlufttechnische Anlagen und Warmluftheizungen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn ei-\n- Seite 41 von 86 ne Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen."
+        }
+      ],
+      "top_score": 0.8043
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7347,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsge",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt. Bei Sonderbauten ist der zweite Rettungsweg über\n- Seite 34 von 86 Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7035,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für eingeschossige, zu ebener Erde liegende Nutzungseinheiten nicht erforderlich, wenn im Brandfall die Rettung über einen direkten Ausgang ins Freie möglich ist.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6988,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 36 Notwendige Flure, offene Gänge",
+          "score": 0.688,
+          "text_preview": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen\n- Seite 37 von 86 so angeordnet und ausgebildet sein, dass die Nutzung ",
+          "text_full": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen\n- Seite 37 von 86 so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. 2 innerhalb von Nutzungseinheiten mit nicht mehr als 200 m und innerhalb von Wohnungen,\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m ; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m sind, Trennwände nach § 29 Absatz 2 Nummer 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 33 Absatz 1 hat.\n(2) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.6685,
+          "text_preview": "wegen des Einbaus eines sonst nicht erforderlichen Aufzugs,\n3. wegen ungünstiger vorhandener Bebauung oder\n4. im Hinblick auf die Sicherheit der Menschen mit Behinderungen.",
+          "text_full": "wegen des Einbaus eines sonst nicht erforderlichen Aufzugs,\n3. wegen ungünstiger vorhandener Bebauung oder\n4. im Hinblick auf die Sicherheit der Menschen mit Behinderungen."
+        }
+      ],
+      "top_score": 0.7347
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7231,
+          "text_preview": "§ 83 Baulasten, Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffen",
+          "text_full": "§ 83 Baulasten, Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffentlich-rechtlichen Vorschriften ergeben. Baulasten werden unbeschadet der privaten Rechte Dritter mit der Eintragung in das Baulastenverzeichnis wirksam und wirken auch gegenüber Rechtsnachfolgerinnen oder Rechtsnachfolgern.\n(2) Die Erklärung nach Absatz 1 bedarf der Schriftform; die Unterschrift muss beglaubigt oder vor der Bauaufsichtsbehörde geleistet oder vor ihr anerkannt werden.\n- Seite 77 von 86 -\n(3) Die Baulast geht durch Verzicht der Bauaufsichtsbehörde unter. Der Verzicht ist zu erklären, wenn ein öffentliches Interesse an der Baulast nicht mehr besteht. Vor dem Verzicht sollen die oder der Verpflichtete und die durch die Baulast Begünstigten angehört werden. Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde geführt. In das Baulastenverzeichnis können auch eingetragen werden\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 51 Sonderbauten",
+          "score": 0.717,
+          "text_preview": "§ 51 Sonderbauten\n(1) An Sonderbauten können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher An",
+          "text_full": "§ 51 Sonderbauten\n(1) An Sonderbauten können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterungen nach den Sätzen 1 und 2 können sich insbesondere erstrecken auf\n1. die Anordnung der baulichen Anlagen auf dem Grundstück,\n2. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Grundstücke,\n- Seite 46 von 86 -\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Anlage von Zu- und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie die Begrünung oder Beseitigung von Halden und Gruben,\n6. die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.7069,
+          "text_preview": "(4) Für die Beseitigung von Anlagen und für die Änderung ihrer Nutzung gelten die Absätze 2 und 3 entsprechend.\nTeil 2 Das Grundstück und seine Bebauung",
+          "text_full": "(4) Für die Beseitigung von Anlagen und für die Änderung ihrer Nutzung gelten die Absätze 2 und 3 entsprechend.\nTeil 2 Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7057,
+          "text_preview": "andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulas",
+          "text_full": "andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen lassen.\nTeil 6 Ordnungswidrigkeiten, Rechtsvorschriften, Übergangsvorschriften"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kleinkinderspielplätze",
+          "score": 0.7,
+          "text_preview": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kleinkinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht ",
+          "text_full": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kleinkinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der Flächen entgegenstehen. Satz 1 findet keine Anwendung, soweit Bebauungspläne oder andere Satzungen Festsetzungen zu den nicht überbauten Flächen treffen.\n- Seite 17 von 86 -\n(2) Bei der Errichtung von Gebäuden mit mehr als zehn Wohnungen ist auf dem Baugrundstück oder in unmittelbarer Nähe auf einem anderen geeigneten Grundstück, dessen dauerhafte Nutzung für diesen Zweck öffentlich-rechtlich gesichert sein muss, ein ausreichend großer Spielplatz für Kleinkinder anzulegen. Dies gilt nicht, wenn in unmittelbarer Nähe eine Gemeinschaftsanlage oder ein sonstiger für die Kinder nutzbarer Spielplatz geschaffen wird oder vorhanden oder ein solcher Spielplatz wegen der Art und der Lage der Wohnung nicht erforderlich ist."
+        }
+      ],
+      "top_score": 0.7231
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.818,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26",
+          "score": 0.7747,
+          "text_preview": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen 05.07.2024 und Bauteilen",
+          "text_full": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen 05.07.2024 und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.7668,
+          "text_preview": "Nummer 1 gilt nicht für Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m Brutto-Rauminhalt.\n(3) Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. Anstelle von Brandwänden sind in den Fällen",
+          "text_full": "Nummer 1 gilt nicht für Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m Brutto-Rauminhalt.\n(3) Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. Anstelle von Brandwänden sind in den Fällen des Absatzes 2 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind,\n- Seite 29 von 86 -\n2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände,\n3. für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben. In den Fällen des Absatzes 2 Nummer 4 sind anstelle von Brandwänden feuerbeständige Wände zulässig, wenn der Brutto-Rauminhalt des landwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2 000 m ist.\n(4) Brandwände müssen bis zur Bedachung durchgehen und in allen Geschossen übereinander angeordnet sein."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7641,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Nach den Anforderungen an ihr Brandverhalten werden\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare Baustoffe unterschieden. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Nach den Anforderungen an ihr Brandverhalten werden\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare Baustoffe unterschieden. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen normalentflammbar sind.\n(2) Nach den Anforderungen an ihre Feuerwiderstandsfähigkeit werden\n1. feuerbeständige,\n2. hochfeuerhemmende,\n3. feuerhemmende Bauteile unterschieden. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen",
+          "score": 0.7585,
+          "text_preview": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nAbschnitt 4 Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer",
+          "text_full": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nAbschnitt 4 Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer"
+        }
+      ],
+      "top_score": 0.818
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 18,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 51 Sonderbauten",
+          "score": 0.7708,
+          "text_preview": "§ 51 Sonderbauten\n(1) An Sonderbauten können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher An",
+          "text_full": "§ 51 Sonderbauten\n(1) An Sonderbauten können im Einzelfall zur Verwirklichung der allgemeinen Anforderungen nach § 3 Absatz 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung von Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf. Die Anforderungen und Erleichterungen nach den Sätzen 1 und 2 können sich insbesondere erstrecken auf\n1. die Anordnung der baulichen Anlagen auf dem Grundstück,\n2. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Flächen der Grundstücke,\n- Seite 46 von 86 -\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n4. die Anlage von Zu- und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie die Begrünung oder Beseitigung von Halden und Gruben,\n6. die Bauart und Anordnung aller für die Stand- und Verkehrssicherheit, den Brand-, Wärme-, Schall- oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.7524,
+          "text_preview": "Die Grundflächen der Nutzungseinheiten im Sinne dieses Gesetzes sind die Brutto-Grundflächen; bei der Berechnung der Brutto-Grundflächen nach Satz 1 bleiben Flächen in Kellergeschossen außer Betracht.\n(4) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Ta",
+          "text_full": "Die Grundflächen der Nutzungseinheiten im Sinne dieses Gesetzes sind die Brutto-Grundflächen; bei der Berechnung der Brutto-Grundflächen nach Satz 1 bleiben Flächen in Kellergeschossen außer Betracht.\n(4) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Hochhäuser (Gebäude mit einer Höhe nach Absatz 3 Satz 2 von mehr als 22 m),\n2. bauliche Anlagen mit einer Höhe von mehr als 30 m, ausgenommen Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fallen,\n3. 2 Gebäude mit mehr als 1 600 m2 Grundfläche des Geschosses mit der größten Ausdehnung, ausgenommen Wohngebäude,\n4. Verkaufsstätten, deren Verkaufsräume und Ladenstraßen eine Grundfläche von insgesamt mehr als 800 m haben,\n- Seite 10 von 86 -\n5. Gebäude mit Räumen, die einer Büro- oder Verwaltungsnutzung dienen und einzeln eine Grundfläche von mehr als 400 m haben,\n6. Gebäude mit Räumen, die einzeln für die Nutzung durch mehr als 100 Personen bestimmt sind,\n7."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.752,
+          "text_preview": "Für die Abstände nach den Sätzen 1 und 2 findet § 6 Absatz 2 entsprechende Anwendung.\n- Seite 32 von 86 (2a) Abweichungen von Absatz 2 sind auf Halligen, Warften sowie in Ortskernen mit bauhistorisch oder volkskundlich wertvollem Bestand zulässig, wenn wegen der Lage der Gebäude zueinander Bedenken ",
+          "text_full": "Für die Abstände nach den Sätzen 1 und 2 findet § 6 Absatz 2 entsprechende Anwendung.\n- Seite 32 von 86 (2a) Abweichungen von Absatz 2 sind auf Halligen, Warften sowie in Ortskernen mit bauhistorisch oder volkskundlich wertvollem Bestand zulässig, wenn wegen der Lage der Gebäude zueinander Bedenken hinsichtlich des Brandschutzes zurückgestellt werden können. (2b) Gebäude mit harter Bedachung müssen von Dächern vorhandener Gebäude mit weicher Bedachung nach Absatz 2 Satz 1 auf demselben Grundstück einen Abstand von mindestens 15 m, von Dächern vorhandener Gebäude mit weicher Bedachung nach Absatz 2 Satz 2 auf demselben Grundstück einen Abstand von mindestens 9 m einhalten. (2c) Zur Befestigung weicher Bedachung dürfen nur nichtbrennbare Stoffe verwendet werden.\n(3) Die Absätze 1 und 2 gelten nicht für\n1. 3 Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m BruttoRauminhalt,\n2. lichtdurchlässige Bedachungen aus nichtbrennbaren Baustoffen; brennbare Fugendichtungen und brennbare Dämmstoffe in nichtbrennbaren Profilen sind zulässig,\n3. Dachflächenfenster, Oberlichte und Lichtkuppeln von Wohngebäuden,\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.7474,
+          "text_preview": "Bei sonstigen nicht freistehenden Gebäuden muss die Standsicherheit von Gebäuden, an die das zu beseitigende Gebäude angebaut ist, bauaufsichtlich geprüft sein; Halbsatz 1 gilt entsprechend, wenn die Beseitigung eines Gebäudes sich auf andere Weise auf\n- Seite 58 von 86 die Standsicherheit anderer G",
+          "text_full": "Bei sonstigen nicht freistehenden Gebäuden muss die Standsicherheit von Gebäuden, an die das zu beseitigende Gebäude angebaut ist, bauaufsichtlich geprüft sein; Halbsatz 1 gilt entsprechend, wenn die Beseitigung eines Gebäudes sich auf andere Weise auf\n- Seite 58 von 86 die Standsicherheit anderer Gebäude auswirken kann. Die Sätze 5 und 6 gelten nicht, soweit an verfahrensfreie Gebäude angebaut ist. § 72 Absatz 6 Satz 1 Nummer 3 und Absatz 8 gilt entsprechend.\n(4) Verfahrensfrei sind Instandhaltungsarbeiten."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.732,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften der Entwurfsverfasserin oder des Entwurfsverfassers, der Bauleiterin oder des Bauleiters und der Unternehmerinnen oder Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        }
+      ],
+      "top_score": 0.7708
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 16,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7147,
+          "text_preview": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauh",
+          "text_full": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauherrin oder der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. Mit der Anzeige nach Satz 1 sind vorzulegen\n1. bei Bauvorhaben nach § 66 Absatz 2 Satz 5 und Absatz 3 Satz 1 eine Bescheinigung des Prüfamtes oder der Prüfingenieurin oder des Prüfingenieurs für Standsicherheit oder der Bauaufsichtsbehörde über die ordnungsgemäße Bauausführung hinsichtlich der Standsicherheit (§ 81 Absatz 2 Satz 1 Nummer 1),\n2. bei Bauvorhaben nach § 66 Absatz 2a Satz 3 und Absatz 3 Satz 3 eine Bescheinigung der Prüfingenieurin oder des Prüfingenieurs für Brandschutz oder der Bauaufsichtsbehörde über die ordnungsgemäße Bauausführung hinsichtlich des Brandschutzes (§ 81 Absatz 2 Satz 1 Nummer 2),\n3. in den Fällen des § 81 Absatz 2 Satz 2 die jeweilige Bestätigung."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.7098,
+          "text_preview": "(3) Die Bauherrin oder der Bauherr hat die erforderlichen Bauvorlagen bei der Gemeinde einzureichen; die Gemeinde legt, soweit die Bauvorlagen nicht elektronisch eingereicht wurden und sie nicht selbst Bauaufsichtsbehörde ist, eine Ausfertigung der Bauvorlagen unverzüglich der unteren Bauauf-\n- Seit",
+          "text_full": "(3) Die Bauherrin oder der Bauherr hat die erforderlichen Bauvorlagen bei der Gemeinde einzureichen; die Gemeinde legt, soweit die Bauvorlagen nicht elektronisch eingereicht wurden und sie nicht selbst Bauaufsichtsbehörde ist, eine Ausfertigung der Bauvorlagen unverzüglich der unteren Bauauf-\n- Seite 59 von 86 sichtsbehörde vor. Mit dem Bauvorhaben darf einen Monat nach Eingang der erforderlichen Bauvorlagen bei der Gemeinde begonnen werden. Teilt die Gemeinde der Bauherrin oder dem Bauherrn vor Ablauf der Frist mit, dass kein Genehmigungsverfahren durchgeführt werden soll und sie eine Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuchs nicht beantragen wird, darf die Bauherrin oder der Bauherr mit der Ausführung des Bauvorhabens beginnen; von der Mitteilung nach Halbsatz 1 hat die Gemeinde die Bauaufsichtsbehörde zu unterrichten. Das Recht zur Ausführung des Bauvorhabens entsprechend der eingereichten Bauvorlagen erlischt, wenn nicht innerhalb von drei Jahren nach Vorliegen der Voraussetzungen nach den Sätzen 2 und 3 mit dessen Ausführung begonnen wurde oder die Bauausführung mehr als drei Jahre unterbrochen worden ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.696,
+          "text_preview": "(2) Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde die Bauherrin oder den Bauherrn zur Behebung der Mängel innerhalb einer angemessenen Frist auf. Werden die Mängel innerhalb der Frist nicht behoben, gilt der Antrag als zurückgenommen. (",
+          "text_full": "(2) Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde die Bauherrin oder den Bauherrn zur Behebung der Mängel innerhalb einer angemessenen Frist auf. Werden die Mängel innerhalb der Frist nicht behoben, gilt der Antrag als zurückgenommen. (2a) Betrifft das Vorhaben eine Anlage, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fällt, gilt ergänzend Folgendes:\n1. auf Antrag der Bauherrin oder des Bauherrn werden das bauaufsichtliche Verfahren sowie alle sonstigen Zulassungsverfahren, die für die Durchführung des Vorhabens nach Bundes- oder Landesrecht erforderlich sind, über eine einheitliche Stelle im Sinne des § 138a des Landesverwaltungsgesetzes abgewickelt;\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.6775,
+          "text_preview": "(6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der Bauherrin oder dem Bauherrn zugegangen ist sowie\n- Seite 70 von 86 -\n2. die geprüften bautechnischen Nachweise nach § 66 Absatz 3 und\n3. die Baubeginnsanzeige der ",
+          "text_full": "(6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der Bauherrin oder dem Bauherrn zugegangen ist sowie\n- Seite 70 von 86 -\n2. die geprüften bautechnischen Nachweise nach § 66 Absatz 3 und\n3. die Baubeginnsanzeige der Bauaufsichtsbehörde vorliegen. Die nicht prüfpflichtigen bautechnischen Nachweise müssen bei Baubeginn der Bauherrin öder dem Bauherrn, die prüfpflichtigen bautechnischen Nachweise müssen spätestens zehn Werktage vor Baubeginn geprüft bei der Bauaufsichtsbehörde vorliegen.\n(7) Vor Baubeginn eines Gebäudes müssen die Grundrissfläche abgesteckt und seine Höhenlage festgelegt sein. Baugenehmigungen, Bauvorlagen sowie bautechnische Nachweise, soweit es sich nicht um Bauvorlagen handelt, müssen an der Baustelle von Baubeginn an vorliegen.\n(8) Die Bauherrin oder der Bauherr hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform mitzuteilen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 79 Einstellung von Arbeiten",
+          "score": 0.6523,
+          "text_preview": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 7",
+          "text_full": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 72 Absatz 6 und 8 begonnen wurde, oder\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Bauvorhabens von den genehmigten Bauvorlagen,\nb) eines genehmigungsfreigestellten Bauvorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die entgegen der Verordnung (EU) Nummer 305/2011 keine CE-Kennzeichnung oder entgegen § 21 kein Ü-Zeichen tragen,\n4. Bauprodukte verwendet werden, die unberechtigt mit der CE-Kennzeichnung oder dem Ü-Zeichen (§ 21 Absatz 3) gekennzeichnet sind,\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, kann die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen."
+        }
+      ],
+      "top_score": 0.7147
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 16,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7161,
+          "text_preview": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen so",
+          "text_full": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n- Seite 69 von 86 (1a) Ist über einen Bauantrag im vereinfachten Genehmigungsverfahren nach § 63 zu entscheiden, gilt § 111a des Landesverwaltungsgesetzes mit folgenden Maßgaben entsprechend:\n1. Die Frist für die Entscheidung beginnt\na) drei Wochen nach Zugang des Bauantrags oder\nb) drei Wochen nach Zugang der verlangten Unterlagen, wenn die Bauaufsichtsbehörde vor Fristbeginn eine Aufforderung nach § 69 Absatz 2 versandt hat.\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 77 Bauaufsichtliche Zustimmung",
+          "score": 0.7033,
+          "text_preview": "§ 77 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes oder eines Landes übertragen ist und\n2. die Baudienststell",
+          "text_full": "§ 77 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes oder eines Landes übertragen ist und\n2. die Baudienststelle mindestens mit einer oder einem Bediensteten mit der Befähigung zur Laufbahn der Laufbahngruppe 2, zweites Einstiegsamt, Fachrichtung Technische Dienste und mit sonstigen geeigneten Fachkräften ausreichend besetzt ist. Solche baulichen Anlagen bedürfen jedoch der Zustimmung der Bauaufsichtsbehörde. Die Zustimmung entfällt, wenn die Gemeinde nicht widerspricht und, soweit ihre öffentlich-rechtlich geschützten Belange von Abweichungen, Ausnahmen und Befreiungen berührt sein können, die Nachbarn dem Bauvorhaben zustimmen. Keiner Genehmigung, Genehmigungsfreistellung oder Zustimmung bedürfen unter den Voraussetzungen des Satzes 1 Baumaßnahmen in oder an bestehenden Gebäuden, soweit sie nicht zu einer Erweiterung des Bauvolumens oder zu einer nicht verfahrensfreien Nutzungsänderung führen, sowie die Beseitigung baulicher Anlagen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.6995,
+          "text_preview": "§ 69 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hört zum Bauantrag die Gemeinde und diejenigen Stellen,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist, oder\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Baua",
+          "text_full": "§ 69 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hört zum Bauantrag die Gemeinde und diejenigen Stellen,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist, oder\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Bauantrags nicht beurteilt werden kann; die Beteiligung oder Anhörung entfällt, wenn die Gemeinde oder die jeweilige Stelle dem Bauantrag bereits vor Einleitung des Baugenehmigungsverfahrens zugestimmt hat. Bedarf die Erteilung der Baugenehmigung der Zustimmung oder des Einvernehmens einer anderen Körperschaft, Behörde oder\n- Seite 65 von 86 sonstigen Stelle, so gilt diese als erteilt, wenn sie nicht einen Monat nach Eingang des Ersuchens verweigert wird; von der Frist nach Halbsatz 1 abweichende Regelungen durch Rechtsvorschrift bleiben unberührt. Stellungnahmen bleiben unberücksichtigt, wenn sie nicht innerhalb eines Monats nach Aufforderung zur Stellungnahme bei der Bauaufsichtsbehörde eingehen, es sei denn, die verspätete Stellungnahme ist für die Rechtmäßigkeit der Entscheidung über den Bauantrag von Bedeutung."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.6921,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften der Entwurfsverfasserin oder des Entwurfsverfassers, der Bauleiterin oder des Bauleiters und der Unternehmerinnen oder Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 79 Einstellung von Arbeiten",
+          "score": 0.692,
+          "text_preview": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 7",
+          "text_full": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 72 Absatz 6 und 8 begonnen wurde, oder\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Bauvorhabens von den genehmigten Bauvorlagen,\nb) eines genehmigungsfreigestellten Bauvorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die entgegen der Verordnung (EU) Nummer 305/2011 keine CE-Kennzeichnung oder entgegen § 21 kein Ü-Zeichen tragen,\n4. Bauprodukte verwendet werden, die unberechtigt mit der CE-Kennzeichnung oder dem Ü-Zeichen (§ 21 Absatz 3) gekennzeichnet sind,\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, kann die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen."
+        }
+      ],
+      "top_score": 0.7161
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 17,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 66 Bautechnische Nachweise",
+          "score": 0.7466,
+          "text_preview": "§ 66 Bautechnische Nachweise\n(1) Die Einhaltung der Anforderungen an die Standsicherheit, den Brand-, Schall-, Wärme- und Erschütterungsschutz ist nach näherer Maßgabe der Verordnung aufgrund § 85 Absatz 3 nachzuweisen (bautechnische Nachweise); dies gilt nicht für verfahrensfreie Bauvorhaben, einsc",
+          "text_full": "§ 66 Bautechnische Nachweise\n(1) Die Einhaltung der Anforderungen an die Standsicherheit, den Brand-, Schall-, Wärme- und Erschütterungsschutz ist nach näherer Maßgabe der Verordnung aufgrund § 85 Absatz 3 nachzuweisen (bautechnische Nachweise); dies gilt nicht für verfahrensfreie Bauvorhaben, einschließlich der Beseitigung von Anlagen, soweit nicht in diesem Gesetz oder in der Verordnung aufgrund § 85 Absatz 3 anderes bestimmt ist.\n(2) Bei\n1. Gebäuden der Gebäudeklassen 1 bis 3,\n2. sonstigen baulichen Anlagen, die keine Gebäude sind, prüft die Bauaufsichtsbehörde die bautechnischen Nachweise nicht, wenn diese von Personen aufgestellt worden sind, die in die Liste nach § 15 Absatz 1 Satz 1 Nummer 5 des Architekten- und Inge-\n- Seite 62 von 86 nieurkammergesetzes eingetragen sind; Absatz 3 Satz 1 Nummer 2 bleibt unberührt. § 65 Absatz 6 gilt entsprechend. Werden die bautechnischen Nachweise von verschiedenen Personen aufgestellt, ist jede Person für die von ihr gefertigten Unterlagen verantwortlich."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.743,
+          "text_preview": "Eine bauliche Anlage darf erst genutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungsund Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt. Feuerstätten dürfen erst in Betrieb genommen w",
+          "text_full": "Eine bauliche Anlage darf erst genutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungsund Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt. Feuerstätten dürfen erst in Betrieb genommen werden, wenn die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und die sichere Benutzbarkeit der Abgasanlagen bescheinigt hat; Verbrennungsmotoren und Blockheizkraftwerke dürfen erst dann in Betrieb genommen werden, wenn sie oder er die Tauglichkeit und sichere Benutzbarkeit der Leitungen zur Abführung von Verbrennungsgasen bescheinigt hat.\nAbschnitt 6 Baulasten"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 84 Ordnungswidrigkeiten",
+          "score": 0.7422,
+          "text_preview": "als Bauherrin oder Bauherr, Unternehmerin oder Unternehmer oder als Bauleiterin oder Bauleiter entgegen § 11 Absatz 2 Satz 1 die Gefahrenzone nicht oder nicht ausreichend abgrenzt und durch Warnzeichen kennzeichnet, oder entgegen § 11 Absatz 2 Satz 2 die Baustelle nicht oder nicht ausreichend mit ei",
+          "text_full": "als Bauherrin oder Bauherr, Unternehmerin oder Unternehmer oder als Bauleiterin oder Bauleiter entgegen § 11 Absatz 2 Satz 1 die Gefahrenzone nicht oder nicht ausreichend abgrenzt und durch Warnzeichen kennzeichnet, oder entgegen § 11 Absatz 2 Satz 2 die Baustelle nicht oder nicht ausreichend mit einem Bauzaun abgrenzt, mit Schutzvorrichtungen gegen herabfallende Gegenstände versieht oder beleuchtet. Ist eine Ordnungswidrigkeit nach Satz 1 Nummer 8 bis 10 begangen worden, können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, eingezogen werden; § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.\n(2) Ordnungswidrig handelt auch, wer wider besseres Wissen\n1. unrichtige Angaben macht oder unrichtige Pläne oder Unterlagen vorlegt, um einen nach diesem Gesetz vorgesehenen Verwaltungsakt zu erwirken oder zu verhindern,\n2. als Prüfingenieurin oder Prüfingenieur unrichtige Prüfberichte erstellt oder als Prüfsachverständige oder als Prüfsachverständiger unrichtige Bescheinigungen über die Einhaltung bauordnungsrechtlicher Anforderungen ausstellt,\n3. unrichtige Angaben im Kriterienkatalog nach § 66 Absatz 3 Satz 1 Nummer 2 macht."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7394,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften der Entwurfsverfasserin oder des Entwurfsverfassers, der Bauleiterin oder des Bauleiters und der Unternehmerinnen oder Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.738,
+          "text_preview": "Bei sonstigen nicht freistehenden Gebäuden muss die Standsicherheit von Gebäuden, an die das zu beseitigende Gebäude angebaut ist, bauaufsichtlich geprüft sein; Halbsatz 1 gilt entsprechend, wenn die Beseitigung eines Gebäudes sich auf andere Weise auf\n- Seite 58 von 86 die Standsicherheit anderer G",
+          "text_full": "Bei sonstigen nicht freistehenden Gebäuden muss die Standsicherheit von Gebäuden, an die das zu beseitigende Gebäude angebaut ist, bauaufsichtlich geprüft sein; Halbsatz 1 gilt entsprechend, wenn die Beseitigung eines Gebäudes sich auf andere Weise auf\n- Seite 58 von 86 die Standsicherheit anderer Gebäude auswirken kann. Die Sätze 5 und 6 gelten nicht, soweit an verfahrensfreie Gebäude angebaut ist. § 72 Absatz 6 Satz 1 Nummer 3 und Absatz 8 gilt entsprechend.\n(4) Verfahrensfrei sind Instandhaltungsarbeiten."
+        }
+      ],
+      "top_score": 0.7466
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7452,
+          "text_preview": "andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulas",
+          "text_full": "andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen lassen.\nTeil 6 Ordnungswidrigkeiten, Rechtsvorschriften, Übergangsvorschriften"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 85 Verordnungsermächtigungen",
+          "score": 0.7439,
+          "text_preview": "(4a) Die oberste Bauaufsichtsbehörde kann durch Verordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die",
+          "text_full": "(4a) Die oberste Bauaufsichtsbehörde kann durch Verordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen.\n(5) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Verordnung zu bestimmen, dass die Anforderungen der aufgrund des § 31 des Gesetzes über überwachungsbedürftige Anlagen (ÜAnlG) und des § 49 Absatz 4 des Energiewirtschaftsgesetzes erlassenen Verordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich auch keine Arbeitnehmerinnen oder Arbeitnehmer beschäftigt werden. Sie kann auch die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten und Gebühren regeln."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 67 Abweichungen, Ausnahmen und Befreiungen",
+          "score": 0.7121,
+          "text_preview": "(2) Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und Befreiungen von den Festsetzungen eines Bebauungsplans oder einer sonstigen städtebaulichen Satzung oder von Regelungen der Baunutzungsverordnung ist gesondert zu beantragen; der Antrag ist zu begründen. Für Anlagen, die keiner Gene",
+          "text_full": "(2) Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und Befreiungen von den Festsetzungen eines Bebauungsplans oder einer sonstigen städtebaulichen Satzung oder von Regelungen der Baunutzungsverordnung ist gesondert zu beantragen; der Antrag ist zu begründen. Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gilt Satz 1 entsprechend.\n(3) Über Abweichungen nach Absatz 1 Satz 1 von örtlichen Bauvorschriften sowie über Ausnahmen und Befreiungen nach Absatz 2 Satz 1 entscheidet bei verfahrensfreien Bauvorhaben die Gemeinde nach Maßgabe der Absätze 1 und 2. Im Übrigen lässt die Bauaufsichtsbehörde Abweichungen von örtlichen Bauvorschriften im Einvernehmen mit der Gemeinde zu; § 36 Absatz 2 Satz 2 BauGB gilt entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7073,
+          "text_preview": "(3) Die Baugenehmigung kann mit Auflagen, mit Bedingungen, einem Vorbehalt des Widerrufs und einem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(4) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt. (4a) Die Bauaufsichtsbeh",
+          "text_full": "(3) Die Baugenehmigung kann mit Auflagen, mit Bedingungen, einem Vorbehalt des Widerrufs und einem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(4) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt. (4a) Die Bauaufsichtsbehörde hat, soweit andere Behörden zuständig sind, die für die Errichtung, Änderung, Nutzung oder Beseitigung von Anlagen nach anderen öffentlich-rechtlichen Vorschriften erforderlichen Genehmigungen, Zustimmungen, Bewilligungen und Erlaubnisse einzuholen und mit der Baugenehmigung gleichzeitig auszuhändigen, soweit durch Rechtsvorschriften nichts anderes bestimmt ist. Versagt eine andere Behörde, die nach anderen öffentlich-rechtlichen Vorschriften dazu befugt ist, diese Genehmigung, Bewilligung oder Erlaubnis, teilt sie dies, wenn bauaufsichtliche Gründe dem Bauantrag nicht entgegenstehen, unter Benachrichtigung der Bauaufsichtsbehörde der Antragstellerin oder dem Antragsteller durch schriftlichen Bescheid unmittelbar mit.\n(5) Der Gemeinde ist, wenn sie nicht Bauaufsichtsbehörde ist, die Entscheidung der Bauaufsichtsbehörde durch eine Übermittlung des Bescheides zur Kenntnis zu geben."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 85 Verordnungsermächtigungen",
+          "score": 0.7055,
+          "text_preview": "§ 85 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3 Absatz 2, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Verordnung Vorschriften zu erlassen über\n- Seite 79 von 86 -\n1. die nähere Bestimmung allgemeiner Anforderung",
+          "text_full": "§ 85 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3 Absatz 2, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Verordnung Vorschriften zu erlassen über\n- Seite 79 von 86 -\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 49,\n2. Anforderungen an Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung (§ 42),\n3. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen für Errichtung, Änderung, Unterhaltung, Betrieb und Nutzung ergeben (§ 51), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n4. Erst-, Wiederholungs- und Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n5. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen wie Bühnenbetriebe und technisch schwierige Fliegende Bauten einschließlich des Nachweises der Befähigung dieser Personen,\n6."
+        }
+      ],
+      "top_score": 0.7452
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6494,
+          "text_preview": "Werden von einer städtebaulichen Satzung oder einer Satzung nach § 86 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 bis 3 liegen müssten, finden die Sätze 1 bis 3 keine Anwendung, es sei denn, die Satzung ordnet die Geltung ",
+          "text_full": "Werden von einer städtebaulichen Satzung oder einer Satzung nach § 86 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 bis 3 liegen müssten, finden die Sätze 1 bis 3 keine Anwendung, es sei denn, die Satzung ordnet die Geltung dieser Vorschriften an.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende Bauteile wie Gesimse und Dachüberstände,\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen,\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 m von der gegenüberliegenden Nachbargrenze entfernt bleiben,\n3. bei Gebäuden an der Grundstücksgrenze die Seitenwände von Vorbauten und Dachaufbauten, auch wenn sie nicht an der Grundstücksgrenze errichtet werden.\n(7) Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden Gebäuden unabhängig davon, ob diese den Anforderungen der Absätze 2 bis 6 entsprechen, außer Betracht, wenn sie mindestens 2,30 m von der Nachbargrenze zurückbleiben."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6433,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) Zur ausreichenden Belichtung und Belüftung sowie für einen ausreichenden Sozialabstand sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden au",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) Zur ausreichenden Belichtung und Belüftung sowie für einen ausreichenden Sozialabstand sind vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Satz 2 gilt nicht für Antennen im Außenbereich einschließlich\n1. der Masten mit einer maximalen Breite des Mastes von 1,50 m oder\n2. der Gittermasten mit jeweils einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden,\n1. die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf, oder\n2. soweit nach der umgebenden Bebauung im Sinne des § 34 Absatz 1 Satz 1 Baugesetzbuch abweichende Gebäudeabstände zulässig sind."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6197,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6163,
+          "text_preview": "Die Grundflächen der Nutzungseinheiten im Sinne dieses Gesetzes sind die Brutto-Grundflächen; bei der Berechnung der Brutto-Grundflächen nach Satz 1 bleiben Flächen in Kellergeschossen außer Betracht.\n(4) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Ta",
+          "text_full": "Die Grundflächen der Nutzungseinheiten im Sinne dieses Gesetzes sind die Brutto-Grundflächen; bei der Berechnung der Brutto-Grundflächen nach Satz 1 bleiben Flächen in Kellergeschossen außer Betracht.\n(4) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Hochhäuser (Gebäude mit einer Höhe nach Absatz 3 Satz 2 von mehr als 22 m),\n2. bauliche Anlagen mit einer Höhe von mehr als 30 m, ausgenommen Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fallen,\n3. 2 Gebäude mit mehr als 1 600 m2 Grundfläche des Geschosses mit der größten Ausdehnung, ausgenommen Wohngebäude,\n4. Verkaufsstätten, deren Verkaufsräume und Ladenstraßen eine Grundfläche von insgesamt mehr als 800 m haben,\n- Seite 10 von 86 -\n5. Gebäude mit Räumen, die einer Büro- oder Verwaltungsnutzung dienen und einzeln eine Grundfläche von mehr als 400 m haben,\n6. Gebäude mit Räumen, die einzeln für die Nutzung durch mehr als 100 Personen bestimmt sind,\n7."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6113,
+          "text_preview": "§ 67 Absatz 1 Satz 1 bleibt unberührt.\n(8) In den Abstandsflächen eines Gebäudes sowie ohne eigene Abstandsflächen sind, auch wenn sie nicht an die Grundstücksgrenze oder an das Gebäude angebaut werden, zulässig\n1. Garagen und Gebäude ohne Aufenthaltsräume und Feuerstätten mit einer mittleren Wandhö",
+          "text_full": "§ 67 Absatz 1 Satz 1 bleibt unberührt.\n(8) In den Abstandsflächen eines Gebäudes sowie ohne eigene Abstandsflächen sind, auch wenn sie nicht an die Grundstücksgrenze oder an das Gebäude angebaut werden, zulässig\n1. Garagen und Gebäude ohne Aufenthaltsräume und Feuerstätten mit einer mittleren Wandhöhe bis zu 3 m und einer Gesamtlänge je Grundstücksgrenze von 9 m,\n2. gebäudeunabhängige Solaranlagen mit einer Höhe bis zu 3 m und einer Gesamtlänge je Grundstücksgrenze von 9 m,\n3. Stützwände und geschlossene Einfriedungen in Gewerbe- und Industriegebieten, außerhalb dieser Baugebiete mit einer Höhe bis zu 2 m,\n4. Wärmepumpen einschließlich ihrer Fundamente und Einhausungen mit einer Höhe bis zu 2 m und einer Gesamtlänge je Grundstücksgrenze von 3 m. Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach Satz 1 Nummer 1, 2 und 4 darf auf einem Grundstück insgesamt 18 m nicht überschreiten.\n- Seite 16 von 86 -\n(9) Wird bei bestehenden Gebäuden, die in Gebieten liegen, die überwiegend dem Wohnen oder der Innenentwicklung von Städten und Gemeinden dienen, zusätzlicher Wohnraum geschaffen, gelten die Absätze 2 bis 5 nicht bei\n1."
+        }
+      ],
+      "top_score": 0.6494
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 14 Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung ein",
+          "score": 0.7571,
+          "text_preview": "§ 14 Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung ein\nes Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mö",
+          "text_full": "§ 14 Brandschutz Anlagen sind so zu planen, anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung ein\nes Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind; hierbei sind auch die Belange der Menschen mit Behinderungen zu berücksichtigen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.665,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für eingeschossige, zu ebener Erde liegende Nutzungseinheiten nicht erforderlich, wenn im Brandfall die Rettung über einen direkten Ausgang ins Freie möglich ist.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.6393,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsge",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt. Bei Sonderbauten ist der zweite Rettungsweg über\n- Seite 34 von 86 Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6336,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.5805,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        }
+      ],
+      "top_score": 0.7571
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 76 Fliegende Bauten",
+          "score": 0.6405,
+          "text_preview": "Wird die Aufstellung oder der Gebrauch untersagt, ist dies in das Prüfbuch einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten",
+          "text_full": "Wird die Aufstellung oder der Gebrauch untersagt, ist dies in das Prüfbuch einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n- Seite 73 von 86 -\n(9) Bei Fliegenden Bauten, die von Besucherinnen oder Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. Das Ergebnis der Nachabnahme ist in das Prüfbuch einzutragen.\n(10) § 68 Absatz 1 Satz 1 und Absatz 2 Satz 1, § 81 Absatz 1 und 4 gelten entsprechend."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6169,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n- Seite 5 von 86 -",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n- Seite 5 von 86 -"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 17 Verwendbarkeitsnachweise",
+          "score": 0.6099,
+          "text_preview": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 85a Absatz 2 Nummer 3) wesentlic",
+          "text_full": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 85a Absatz 2 Nummer 3) wesentlich abweicht oder\n3. eine Verordnung nach § 85 Absatz 4a es vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht, für das jedoch nachweislich die Gleichwertigkeit mit der allgemein anerkannten Regel der Technik gegeben ist, oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder der Anforderungen aus Vorschriften aufgrund dieses Gesetzes nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 85a enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 85 Verordnungsermächtigungen",
+          "score": 0.5886,
+          "text_preview": "(4a) Die oberste Bauaufsichtsbehörde kann durch Verordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die",
+          "text_full": "(4a) Die oberste Bauaufsichtsbehörde kann durch Verordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen.\n(5) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Verordnung zu bestimmen, dass die Anforderungen der aufgrund des § 31 des Gesetzes über überwachungsbedürftige Anlagen (ÜAnlG) und des § 49 Absatz 4 des Energiewirtschaftsgesetzes erlassenen Verordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich auch keine Arbeitnehmerinnen oder Arbeitnehmer beschäftigt werden. Sie kann auch die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten und Gebühren regeln."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 85 Verordnungsermächtigungen",
+          "score": 0.5886,
+          "text_preview": "die erforderlichen Anträge, Anzeigen, Nachweise, Bescheinigungen und Bestätigungen, auch bei verfahrensfreien Bauvorhaben,\n3. das Verfahren im Einzelnen. Sie kann dabei\n1. die Art der Übermittlung,\n2. für verschiedene Arten von Bauvorhaben unterschiedliche Anforderungen und Verfahren,\n3. den Gebrauc",
+          "text_full": "die erforderlichen Anträge, Anzeigen, Nachweise, Bescheinigungen und Bestätigungen, auch bei verfahrensfreien Bauvorhaben,\n3. das Verfahren im Einzelnen. Sie kann dabei\n1. die Art der Übermittlung,\n2. für verschiedene Arten von Bauvorhaben unterschiedliche Anforderungen und Verfahren,\n3. den Gebrauch der von der obersten Bauaufsichtsbehörde veröffentlichten Formulare vorschreiben. (3a) Die oberste Bauaufsichtsbehörde wird ermächtigt, zur Vereinfachung, Erleichterung oder Beschleunigung des bauaufsichtlichen Verfahrens oder zur Entlastung der Bauaufsichtsbehörden im Einvernehmen mit dem fachlich zuständigen Ministerium durch Verordnung Vorschriften zu erlassen über\n1. weitere und weitergehende Ausnahmen von der Genehmigungsbedürftigkeit oder Genehmigungsfreistellung,\n2. die Änderung des Baugenehmigungsverfahrens oder Genehmigungsfreistellungsverfahrens sowie die Einführung sonstiger Verfahren für bestimmte Vorhaben; sie kann auch vorschreiben, dass auf die behördliche Prüfung öffentlich-rechtlicher Vorschriften ganz oder teilweise verzichtet wird,\n- Seite 81 von 86 -\n3. den vollständigen oder teilweisen Wegfall der bautechnischen Prüfung bei bestimmten Arten von Bauvorhaben,\n4."
+        }
+      ],
+      "top_score": 0.6405
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SH",
+      "latency_ms": 18,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 56 Bauleiterin oder Bauleiter",
+          "score": 0.7904,
+          "text_preview": "§ 56 Bauleiterin oder Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren ba",
+          "text_full": "§ 56 Bauleiterin oder Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmerinnen oder Unternehmer, zu achten. Die Verantwortlichkeit der Unternehmerinnen oder Unternehmer bleibt unberührt.\n(2) Die Bauleiterin oder der Bauleiter muss über die für ihre oder seine Aufgabe erforderliche Sachkunde und Erfahrung verfügen. Verfügt sie oder er auf einzelnen Teilgebieten nicht über die erforderliche Sachkunde, so sind geeignete Fachbauleiterinnen oder Fachbauleiter heranzuziehen. Diese treten insoweit an die Stelle der Bauleiterin oder des Bauleiters. Die Bauleiterin oder der Bauleiter hat die Tätigkeit der Fachbauleiterinnen oder Fachbauleiter und ihre oder seine Tätigkeit aufeinander abzustimmen.\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 53 Bauherrin oder Bauherr",
+          "score": 0.7777,
+          "text_preview": "§ 53 Bauherrin oder Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit sie oder er nicht selbst zur Erfüllung d",
+          "text_full": "§ 53 Bauherrin oder Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit sie oder er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschriften geeignet ist. Der Bauherrin oder dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Sie oder er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den von der Entwurfsverfasserin oder vom Entwurfsverfasser festgelegten Eigenschaften von verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nummer 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. Die Bauherrin oder der Bauherr hat vor Baubeginn den Namen der Bauleiterin oder des Bauleiters und während der Bauausführung einen Wechsel dieser Person unverzüglich der Bauaufsichtsbehörde in Textform mitzuteilen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 57 Aufbau und Zuständigkeit der Bauaufsichtsbehörden",
+          "score": 0.7768,
+          "text_preview": "(3) Die Träger der Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Trägern der Bauaufsichtsbehörden müssen insbesondere auch Personen mit Ingenieur- oder Hochschulabschluss im Bauw",
+          "text_full": "(3) Die Träger der Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Trägern der Bauaufsichtsbehörden müssen insbesondere auch Personen mit Ingenieur- oder Hochschulabschluss im Bauwesen, die die erforderlichen Kenntnisse der Bautechnik, der Baugestaltung und des öffentlichen Baurechts haben, und Personen, die die Befähigung zum Richteramt oder für die Laufbahngruppe 2, zweites Einstiegsamt haben, angehören. Die oberste Bauaufsichtsbehörde kann Ausnahmen gestatten.\n(4) Fachaufsichtsbehörden sind\n1. über die unteren Bauaufsichtsbehörden nach Absatz 1 Satz 1 Nummer 2 und über die Bürgermeisterinnen oder Bürgermeister der amtsfreien Gemeinden sowie über die Amtsdirektorinnen oder die Amtsdirektoren, in ehrenamtlich verwalteten Ämtern die Amtsvorsteherinnen oder Amtsvorsteher, der Ämter, denen alle Aufgaben der unteren Bauaufsichtsbehörde übertragen wurden, die oberste Bauaufsichtsbehörde und\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 56 Bauleiterin oder Bauleiter",
+          "score": 0.7563,
+          "text_preview": "§ 56 Bauleiterin oder Bauleiter\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden",
+          "text_full": "§ 56 Bauleiterin oder Bauleiter\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Schleswig-Holstein",
+          "jurisdiction": "DE-SH",
+          "source_paragraph": "§ 51 Sonderbauten",
+          "score": 0.7374,
+          "text_preview": "Erst-, Wiederholungs- und Nachprüfungen und die Bescheinigungen, die hierüber zu erbringen sind.\n- Seite 47 von 86 -\n(2) Die Bauaufsichtsbehörden können auch Anforderungen an die Beschaffenheit von Maschinen und anderen beweglichen Teilen, die in Verbindung mit baulichen Anlagen aufgestellt werden, ",
+          "text_full": "Erst-, Wiederholungs- und Nachprüfungen und die Bescheinigungen, die hierüber zu erbringen sind.\n- Seite 47 von 86 -\n(2) Die Bauaufsichtsbehörden können auch Anforderungen an die Beschaffenheit von Maschinen und anderen beweglichen Teilen, die in Verbindung mit baulichen Anlagen aufgestellt werden, stellen. Dies gilt auch für die Nachweise, dass die Anforderungen erfüllt sind, und für die heranzuziehenden sachverständigen Personen sowie sachverständigen Stellen.\nTeil 4 Die am Bau Beteiligten"
+        }
+      ],
+      "top_score": 0.7904
+    }
+  ]
+}

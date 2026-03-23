@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-NI",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 20183,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.6658,
+          "text_preview": "41), die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen und Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwe",
+          "text_full": "41), die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen und Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Abs. 1 bis 3 auswirken kann.\n(15) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(16) 1Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderungen in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind. 2Hierbei ist die Nutzung behinderungsbedingt notwendiger Hilfsmittel zulässig.\n(17) Öffentliches Baurecht sind die Vorschriften dieses Gesetzes, die Vorschriften aufgrund dieses Gesetzes, das städtebauliche Planungsrecht und die sonstigen Vorschriften des öffentlichen Rechts, die Anforderungen an bauliche Anlagen, Bauprodukte oder Baumaßnahmen oder an andere Anlagen oder Einrichtungen nach § 1 Abs. 1 Satz 2 stellen oder die Bebaubarkeit von Grundstücken regeln."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.6555,
+          "text_preview": "§ 2 NBauO - Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene oder auf ihm ruhende, aus Bauprodukten hergestellte Anlagen. 2 Bauliche Anlagen sind auch\n1. Aufschüttungen, Abgrabungen und künstliche Hohlräume unterhalb der Erdoberfläche,\n2. Lager-, Abstell- und Ausstellungsplätze,\n3. Sp",
+          "text_full": "§ 2 NBauO - Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene oder auf ihm ruhende, aus Bauprodukten hergestellte Anlagen. 2 Bauliche Anlagen sind auch\n1. Aufschüttungen, Abgrabungen und künstliche Hohlräume unterhalb der Erdoberfläche,\n2. Lager-, Abstell- und Ausstellungsplätze,\n3. Spiel- und Sportplätze,\n4. Camping- und Wochenendplätze, © 2026 Wolters Kluwer Deutschland GmbH 7 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n9. Fahrradabstellanlagen (§ 48),\n10. Werbeanlagen (§ 50),\n11. Warenautomaten, die von einer allgemein zugänglichen Verkehrs- oder Grünfläche aus sichtbar sind,\n12. ortsfeste Feuerstätten und\n13. Anlagen, die auf ortsfesten Bahnen begrenzt beweglich sind oder dazu bestimmt sind, vorwiegend ortsfest benutzt zu werden.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) 1Gebäude sind in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 10 NBauO - Gestaltung baulicher Anlagen Bauliche Anlagen sind in der Form, im Maßstab, im Verhältnis der Baumassen und Baute",
+          "score": 0.6144,
+          "text_preview": "§ 10 NBauO - Gestaltung baulicher Anlagen Bauliche Anlagen sind in der Form, im Maßstab, im Verhältnis der Baumassen und Baute\nile zueinander, im Werkstoff einschließlich der Art seiner Verarbeitung und in der Farbe so durchzubilden, dass sie weder verunstaltet wirken noch das bestehende oder geplan",
+          "text_full": "§ 10 NBauO - Gestaltung baulicher Anlagen Bauliche Anlagen sind in der Form, im Maßstab, im Verhältnis der Baumassen und Baute\nile zueinander, im Werkstoff einschließlich der Art seiner Verarbeitung und in der Farbe so durchzubilden, dass sie weder verunstaltet wirken noch das bestehende oder geplante Straßen-, Orts- oder Landschaftsbild verunstalten."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.6052,
+          "text_preview": "(12) 1Baugrundstück ist das Grundstück im Sinne des Bürgerlichen Rechts, auf dem eine Baumaßnahme durchgeführt wird oder auf dem sich eine bauliche Anlage befindet. 2Das Baugrundstück kann auch aus mehreren aneinander grenzenden Grundstücken bestehen, wenn und solange durch Baulast gesichert ist, da",
+          "text_full": "(12) 1Baugrundstück ist das Grundstück im Sinne des Bürgerlichen Rechts, auf dem eine Baumaßnahme durchgeführt wird oder auf dem sich eine bauliche Anlage befindet. 2Das Baugrundstück kann auch aus mehreren aneinander grenzenden Grundstücken bestehen, wenn und solange durch Baulast gesichert ist, dass alle baulichen Anlagen auf den Grundstücken das öffentliche Baurecht so einhalten, als wären die Grundstücke ein Grundstück.\n(13) Baumaßnahme ist die Errichtung, die Änderung, der Abbruch, die Beseitigung, die Nutzungsänderung oder die Instandhaltung einer baulichen Anlage oder eines Teils einer baulichen Anlage.\n(14) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. EU Nr. L 88 S. 5; 2013 Nr. L 103 S. 10), zuletzt geändert durch die Delegierte Verordnung (EU) Nr. 574/2014 der Kommission vom 21. Februar 2014 (ABl. EU Nr. L 159 S."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 88 NBauO - Inkrafttreten",
+          "score": 0.5945,
+          "text_preview": "Abwasserbeseitigung, Telekommunikation oder Brandschutz Masten, Antennen und ähnliche bauliche Anlagen 4. Behälter 5. Einfriedungen, Stützmauern, Brücken und Durchlässe 6. Aufschüttungen, Abgrabungen und Erkundungsbohrungen 7. Bauliche Anlagen auf Camping- oder Wochenendplätzen 8. Bauliche Anlagen i",
+          "text_full": "Abwasserbeseitigung, Telekommunikation oder Brandschutz Masten, Antennen und ähnliche bauliche Anlagen 4. Behälter 5. Einfriedungen, Stützmauern, Brücken und Durchlässe 6. Aufschüttungen, Abgrabungen und Erkundungsbohrungen 7. Bauliche Anlagen auf Camping- oder Wochenendplätzen 8. Bauliche Anlagen in Gärten oder zur Freizeitgestaltung 9. Werbeanlagen, Hinweisschilder und Warenautomaten 10. Fliegende Bauten und sonstige vorübergehend aufgestellte oder genutzte bauliche 11. Anlagen Tragende und nichttragende Bauteile 12. Fenster, Türen, Außenwände und Dächer 13. Sonstige bauliche Anlagen und Teile baulicher Anlagen 14.\n1. Gebäude\n1.1 Gebäude und Vorbauten ohne Aufenthaltsräume, Toiletten und Feuerstätten, wenn die Gebäude und Vorbauten nicht mehr als 75 m3 - im Außenbereich nicht mehr als 40 m3 - Brutto-Rauminhalt haben und weder Verkaufsnoch Ausstellungszwecken noch dem Abstellen von Kraftfahrzeugen dienen,\n1."
+        }
+      ],
+      "top_score": 0.6658
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.6513,
+          "text_preview": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jewei",
+          "text_full": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jeweiligen Vorhabens maßgeblich ist.\n(8) Aufenthaltsraum ist ein Raum, der zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet ist.\n(9) 1Ein Stellplatz ist eine im Freien außerhalb der öffentlichen Verkehrsflächen gelegene Fläche zum Abstellen von Kraftfahrzeugen. 2Ein Einstellplatz ist eine Fläche zum Abstellen eines Kraftfahrzeuges auf einem Stellplatz oder in einer Garage.\n(10) 1Garagen sind Gebäude oder Gebäudeteile, einschließlich überdachter Stellplätze, zum Abstellen von Kraftfahrzeugen oder Kraftfahrzeugen und anderen Fahrzeugen, wie Fahrrädern. 2Garagen sind auch Parkhäuser. 3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Garagen.\n(11) Eine Feuerstätte ist eine ortsfeste oder ortsfest benutzte Anlage oder Einrichtung in oder an einem Gebäude, die dazu bestimmt ist, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 44 NBauO - Wohnungen",
+          "score": 0.5749,
+          "text_preview": "§ 44 NBauO - Wohnungen\n(1) 1Jede Wohnung muss von anderen Wohnungen oder anderen Räumen baulich abgeschlossen sein und einen eigenen abschließbaren Zugang unmittelbar vom Freien oder von einem Treppenraum, Flur oder Vorraum haben. 2Satz 1 gilt nicht für Wohngebäude mit nicht mehr als zwei Wohnungen.",
+          "text_full": "§ 44 NBauO - Wohnungen\n(1) 1Jede Wohnung muss von anderen Wohnungen oder anderen Räumen baulich abgeschlossen sein und einen eigenen abschließbaren Zugang unmittelbar vom Freien oder von einem Treppenraum, Flur oder Vorraum haben. 2Satz 1 gilt nicht für Wohngebäude mit nicht mehr als zwei Wohnungen. 3Werden Wohnungen geteilt, so müssen die Anforderungen nach Satz 1 nicht erfüllt werden, wenn unzumutbare Belästigungen oder erhebliche Nachteile für die Benutzerinnen und Benutzer der Wohnungen nicht entstehen.\n(2) 1In Gebäuden, die nicht nur dem Wohnen dienen, müssen Wohnungen einen eigenen Zugang haben. 2Gemeinsame Zugänge sind zulässig, wenn Gefahren oder unzumutbare Belästigungen für die Benutzerinnen und Benutzer der Wohnungen nicht © 2026 Wolters Kluwer Deutschland GmbH 30 / 79 gespeichert: 11.03.2026, 19:09 Uhr entstehen.\n(3) 1Jede Wohnung muss eine Küche oder Kochnische haben. 2Küchen und Kochnischen sind ohne Fenster zulässig, wenn sie wirksam gelüftet werden können.\n(4) In Gebäuden mit mehr als zwei Wohnungen oder auf dem Baugrundstück solcher Gebäude muss\n1. leicht erreichbarer und gut zugänglicher Abstellraum für Rollatoren, Kinderwagen und Fahrräder sowie\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 88 NBauO - Inkrafttreten",
+          "score": 0.5642,
+          "text_preview": "7 Schutzhütten, wenn sie jedermann zugänglich sind, keine Aufenthaltsräume haben und von einer Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts unterhalten werden,\n1.8 Terrassenüberdachungen mit nicht mehr als 40 m2 Grundfläche und Wintergärten mit nicht mehr als 30 m2 BruttoGrundfläche u",
+          "text_full": "7 Schutzhütten, wenn sie jedermann zugänglich sind, keine Aufenthaltsräume haben und von einer Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts unterhalten werden,\n1.8 Terrassenüberdachungen mit nicht mehr als 40 m2 Grundfläche und Wintergärten mit nicht mehr als 30 m2 BruttoGrundfläche und 5 m Höhe, wenn sie jeweils einen Abstand von mindestens 3 m zur Grenze des Nachbargrundstücks einhalten, sowie Balkonverglasungen und Balkonüberdachungen mit nicht mehr als 30 m2 Grundfläche,\n1.9 dieErneuerung von Balkonen an einem Gebäude der Gebäudeklasse 1, 2 oder 3 oder der Ersatz von Balkonen an einem solchen Gebäude durch vor der Außenwand aufgeständerte Balkone, wenn die neue Balkonkonstruktion\na) des einzelnen Balkons keine Vergrößerung der bisherigen Abmessungen der Brutto-Grundfläche des bisherigen Balkons darstellt und\nb) an der Stelle des Gebäudes, an der die bisherige Balkonkonstruktion angeschlossen war, befestigt wird,\n1.10 die Nutzung der Wohnung einer Kindertagespflegeperson für die Betreuung von bis zu fünf gleichzeitig anwesenden, fremden Kindern im Rahmen der Kindertagespflege.\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 49 NBauO - Barrierefreie Zugänglichkeit und Benutzbarkeit baulicher Anlagen",
+          "score": 0.5597,
+          "text_preview": "1 gewahrt bleiben; die § 71 Abs. 1 und § 72 Abs. 1 Satz 2 finden insoweit keine Anwendung. 5Ist einer Wohnung ein Freisitz zugeordnet, so muss er barrierefrei sein. 6Abstellraum für Rollstühle muss in ausreichender Größe zur Verfügung stehen und barrierefrei sein. 7In jeder achten Wohnung müssen die",
+          "text_full": "1 gewahrt bleiben; die § 71 Abs. 1 und § 72 Abs. 1 Satz 2 finden insoweit keine Anwendung. 5Ist einer Wohnung ein Freisitz zugeordnet, so muss er barrierefrei sein. 6Abstellraum für Rollstühle muss in ausreichender Größe zur Verfügung stehen und barrierefrei sein. 7In jeder achten Wohnung müssen die Wohn- und Schlafräume, ein Toilettenraum, ein Raum mit einer Badewanne oder Dusche, die Küche oder Kochnische und, wenn der Wohnung ein Freisitz zugeordnet ist, der Freisitz zusätzlich rollstuhlgerecht sein; die Sätze 2 bis 4 finden auf solche Wohnungen keine Anwendung. 8Für jede Wohnung, die nach Satz 7 rollstuhlgerecht herzustellen ist, in einem Gebäude mit mehr als 15 Wohnungen und für jedes Gebäude mit nicht mehr als 15 Wohnungen muss jeweils mindestens ein Einstellplatz barrierefrei hergerichtet und gekennzeichnet sein.\n(2) 1Folgende bauliche Anlagen oder Teile baulicher Anlagen müssen in einem dem Bedarf entsprechenden Umfang barrierefrei sein:\n1. Büro-, Verwaltungs- und Gerichtsgebäude,\n2. Schalter und Abfertigungsanlagen der Verkehrs- und Versorgungsbetriebe sowie der Banken und Sparkassen,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 44 NBauO - Wohnungen",
+          "score": 0.5372,
+          "text_preview": "Abstellraum für jede Wohnung in ausreichender Größe zur Verfügung stehen.\n(5) 1In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. 2Die Rauchwarnmelder müssen so eingebaut oder angebracht un",
+          "text_full": "Abstellraum für jede Wohnung in ausreichender Größe zur Verfügung stehen.\n(5) 1In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. 2Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. 3In Wohnungen, die bis zum 31. Oktober 2012 errichtet oder genehmigt sind, hat die Eigentümerin oder der Eigentümer die Räume und Flure bis zum 31. Dezember 2015 entsprechend den Anforderungen nach den Sätzen 1 und 2 auszustatten. 4Für die Sicherstellung der Betriebsbereitschaft der Rauchwarnmelder in den in Satz 1 genannten Räumen und Fluren sind die Mieterinnen und Mieter, Pächterinnen und Pächter, sonstige Nutzungsberechtigte oder andere Personen, die die tatsächliche Gewalt über die Wohnung ausüben, verantwortlich, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst. 5§ 56 Satz 2 gilt entsprechend."
+        }
+      ],
+      "top_score": 0.6513
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 49 NBauO - Barrierefreie Zugänglichkeit und Benutzbarkeit baulicher Anlagen",
+          "score": 0.5561,
+          "text_preview": "1 gewahrt bleiben; die § 71 Abs. 1 und § 72 Abs. 1 Satz 2 finden insoweit keine Anwendung. 5Ist einer Wohnung ein Freisitz zugeordnet, so muss er barrierefrei sein. 6Abstellraum für Rollstühle muss in ausreichender Größe zur Verfügung stehen und barrierefrei sein. 7In jeder achten Wohnung müssen die",
+          "text_full": "1 gewahrt bleiben; die § 71 Abs. 1 und § 72 Abs. 1 Satz 2 finden insoweit keine Anwendung. 5Ist einer Wohnung ein Freisitz zugeordnet, so muss er barrierefrei sein. 6Abstellraum für Rollstühle muss in ausreichender Größe zur Verfügung stehen und barrierefrei sein. 7In jeder achten Wohnung müssen die Wohn- und Schlafräume, ein Toilettenraum, ein Raum mit einer Badewanne oder Dusche, die Küche oder Kochnische und, wenn der Wohnung ein Freisitz zugeordnet ist, der Freisitz zusätzlich rollstuhlgerecht sein; die Sätze 2 bis 4 finden auf solche Wohnungen keine Anwendung. 8Für jede Wohnung, die nach Satz 7 rollstuhlgerecht herzustellen ist, in einem Gebäude mit mehr als 15 Wohnungen und für jedes Gebäude mit nicht mehr als 15 Wohnungen muss jeweils mindestens ein Einstellplatz barrierefrei hergerichtet und gekennzeichnet sein.\n(2) 1Folgende bauliche Anlagen oder Teile baulicher Anlagen müssen in einem dem Bedarf entsprechenden Umfang barrierefrei sein:\n1. Büro-, Verwaltungs- und Gerichtsgebäude,\n2. Schalter und Abfertigungsanlagen der Verkehrs- und Versorgungsbetriebe sowie der Banken und Sparkassen,\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 43 NBauO - Aufenthaltsräume",
+          "score": 0.5088,
+          "text_preview": "§ 43 NBauO - Aufenthaltsräume\n(1) 1Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von mindestens 2,40 m über mindestens zwei Dritteln ihrer Grundfläche haben. 2Bei der Bemessung der Grundfläche nach Satz 1 bleiben Raumteile mit einer lichten Höhe bis 1,",
+          "text_full": "§ 43 NBauO - Aufenthaltsräume\n(1) 1Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von mindestens 2,40 m über mindestens zwei Dritteln ihrer Grundfläche haben. 2Bei der Bemessung der Grundfläche nach Satz 1 bleiben Raumteile mit einer lichten Höhe bis 1,50 m außer Betracht.\n(2) 1Für Aufenthaltsräume, die im obersten Geschoss im Dachraum liegen, genügt eine lichte Höhe von 2,20 m über mindestens der Hälfte ihrer Grundfläche. 2Absatz 1 Satz 2 gilt entsprechend. 3Die Sätze 1 und 2 gelten auch für Aufenthaltsräume, deren Grundfläche überwiegend unter Dachschrägen liegt.\n(3) Aufenthaltsräume müssen unmittelbar ins Freie führende Fenster von solcher Zahl, Größe und Beschaffenheit haben, dass die Räume das erforderliche Tageslicht erhalten und zweckentsprechend gelüftet werden können (notwendige Fenster).\n(4) Räume in Kellergeschossen sind als Aufenthaltsräume nur zulässig, wenn das Gelände vor den notwendigen Fenstern der Räume in einer für gesunde Wohn- oder Arbeitsverhältnisse ausreichenden Entfernung und Breite nicht mehr als 70 cm über deren Fußboden liegt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 47 NBauO - Notwendige Einstellplätze",
+          "score": 0.5064,
+          "text_preview": "§ 47 NBauO - Notwendige Einstellplätze\n(1) 1Für bauliche Anlagen, die einen Zu- und Abgangsverkehr mit Kraftfahrzeugen erwarten lassen, müssen Einstellplätze in solcher Anzahl und Größe zur Verfügung stehen, dass sie die vorhandenen oder zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und ",
+          "text_full": "§ 47 NBauO - Notwendige Einstellplätze\n(1) 1Für bauliche Anlagen, die einen Zu- und Abgangsverkehr mit Kraftfahrzeugen erwarten lassen, müssen Einstellplätze in solcher Anzahl und Größe zur Verfügung stehen, dass sie die vorhandenen oder zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und Benutzer und der Besucherinnen und Besucher der Anlagen aufnehmen können; wird die erforderliche Anzahl der Einstellplätze durch eine örtliche Bauvorschrift festgelegt, so ist diese Festlegung maßgeblich (notwendige Einstellplätze). 2Wird die Nutzung einer Anlage geändert, so braucht, auch wenn ihr notwendige Einstellplätze bisher fehlten, nur der durch die Nutzungsänderung verursachte Mehrbedarf gedeckt zu werden. 3Abweichend von den Sätzen 1 und 2 braucht der durch eine Wohnung verursachte Bedarf oder der durch eine zusätzlich geschaffene Wohnung verursachte Mehrbedarf an Einstellplätzen nicht gedeckt zu werden, wenn\n1. für die Baumaßnahme, durch die die Wohnung oder die zusätzliche Wohnung geschaffen wird, der Bauantrag, der Antrag auf bauaufsichtliche Zustimmung nach § 74 Abs. 2 oder die Mitteilung nach § 62 Abs. 3 nach dem\n30. Juni 2024 übermittelt wird oder\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.4995,
+          "text_preview": "§ 2 NBauO - Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene oder auf ihm ruhende, aus Bauprodukten hergestellte Anlagen. 2 Bauliche Anlagen sind auch\n1. Aufschüttungen, Abgrabungen und künstliche Hohlräume unterhalb der Erdoberfläche,\n2. Lager-, Abstell- und Ausstellungsplätze,\n3. Sp",
+          "text_full": "§ 2 NBauO - Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene oder auf ihm ruhende, aus Bauprodukten hergestellte Anlagen. 2 Bauliche Anlagen sind auch\n1. Aufschüttungen, Abgrabungen und künstliche Hohlräume unterhalb der Erdoberfläche,\n2. Lager-, Abstell- und Ausstellungsplätze,\n3. Spiel- und Sportplätze,\n4. Camping- und Wochenendplätze, © 2026 Wolters Kluwer Deutschland GmbH 7 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n9. Fahrradabstellanlagen (§ 48),\n10. Werbeanlagen (§ 50),\n11. Warenautomaten, die von einer allgemein zugänglichen Verkehrs- oder Grünfläche aus sichtbar sind,\n12. ortsfeste Feuerstätten und\n13. Anlagen, die auf ortsfesten Bahnen begrenzt beweglich sind oder dazu bestimmt sind, vorwiegend ortsfest benutzt zu werden.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) 1Gebäude sind in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.4942,
+          "text_preview": "4Führt ein Rettungsweg für das Gebäude über Rettungsgeräte der Feuerwehr, so ist die Höhe abweichend von Satz 3 die Höhe der Fußbodenoberkante des höchstgelegenen Aufenthaltsraumes über der Stelle der Geländeoberfläche, von der aus der Aufenthaltsraum über die Rettungsgeräte der Feuerwehr erreichbar",
+          "text_full": "4Führt ein Rettungsweg für das Gebäude über Rettungsgeräte der Feuerwehr, so ist die Höhe abweichend von Satz 3 die Höhe der Fußbodenoberkante des höchstgelegenen Aufenthaltsraumes über der Stelle der Geländeoberfläche, von der aus der Aufenthaltsraum über die Rettungsgeräte der Feuerwehr erreichbar ist. 5Die Grundfläche im Sinne dieses Gesetzes ist die Brutto-Grundfläche; bei der Berechnung der Grundfläche nach den Sätzen 1 und 2 bleiben Flächen in Kellergeschossen außer Betracht.\n(4) Wohngebäude sind Gebäude, die nur Wohnungen oder deren Nebenzwecken dienende Räume, wie Garagen, enthalten.\n(5) 1Sonderbauten sind\n1. Gebäude mit einer Höhe nach Absatz 3 Satz 3 von mehr als 22 m (Hochhäuser),\n2. bauliche Anlagen mit einer Höhe von mehr als 30 m,\n3. Gebäude mit mindestens einem Geschoss mit mehr als 1.600 m2 Grundfläche, ausgenommen Wohngebäude und Garagen,\n4. Verkaufsstätten, deren Verkaufsräume und Ladenstraßen eine Grundfläche von insgesamt mehr als 800 m2 haben,\n5. Gebäude mit mindestens einem Raum, der einer Büro- oder Verwaltungsnutzung dient und eine Grundfläche von mehr als 400 m2 hat,\n6. Gebäude mit mindestens einem Raum, der der Nutzung durch mehr als 100 Personen dient,\n7."
+        }
+      ],
+      "top_score": 0.5561
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 69 NBauO - Behandlung des Bauantrags",
+          "score": 0.7948,
+          "text_preview": "3Äußert sich eine Behörde, die im Baugenehmigungsverfahren nach Satz 1 angehört wird, nicht innerhalb von zwei Wochen oder verlangt sie nicht innerhalb dieser Frist unter Angabe der Gründe eine weitere Frist von längstens einem Monat für ihre Stellungnahme, so kann die Bauaufsichtsbehörde davon ausg",
+          "text_full": "3Äußert sich eine Behörde, die im Baugenehmigungsverfahren nach Satz 1 angehört wird, nicht innerhalb von zwei Wochen oder verlangt sie nicht innerhalb dieser Frist unter Angabe der Gründe eine weitere Frist von längstens einem Monat für ihre Stellungnahme, so kann die Bauaufsichtsbehörde davon ausgehen, dass die Baumaßnahme mit den von dieser Behörde wahrzunehmenden öffentlichen Belangen in Einklang steht.\n(4) Bedarf die Baugenehmigung nach landesrechtlichen Vorschriften der Zustimmung oder des Einvernehmens einer anderen Behörde, so gelten diese als erteilt, wenn sie nicht innerhalb eines Monats nach Eingang des Ersuchens unter Angabe der Gründe verweigert werden.\n(5) Erhebt ein Nachbar Einwendungen gegen die Baumaßnahme, so hat die Bauaufsichtsbehörde die Bauherrin oder den Bauherrn davon zu unterrichten.\n(6) 1Die zulässige Dauer des Baugenehmigungsverfahrens beträgt in den Fällen des Absatzes 2a ab dem Datum der Bestätigung der Vollständigkeit des Bauantrags durch die Bauaufsichtsbehörde\n1. in ausgewiesenen Beschleunigungsgebieten für erneuerbare Energie im Sinne des Artikels 2 Abs. 2 Nr."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 69 NBauO - Behandlung des Bauantrags",
+          "score": 0.7896,
+          "text_preview": "2026, 19:09 Uhr Baugenehmigungsverfahrens ohne Veranlassung durch die Bauaufsichtsbehörde dieser wesentlich geänderte Bauvorlagen übermittelt.",
+          "text_full": "2026, 19:09 Uhr Baugenehmigungsverfahrens ohne Veranlassung durch die Bauaufsichtsbehörde dieser wesentlich geänderte Bauvorlagen übermittelt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 70 NBauO - Baugenehmigung und Teilbaugenehmigung",
+          "score": 0.7627,
+          "text_preview": "§ 70 NBauO - Baugenehmigung und Teilbaugenehmigung\n(1) 1Die Baugenehmigung ist zu erteilen, wenn die Baumaßnahme, soweit sie genehmigungsbedürftig ist und soweit eine Prüfung erforderlich ist, dem öffentlichen Baurecht entspricht. 2Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebe",
+          "text_full": "§ 70 NBauO - Baugenehmigung und Teilbaugenehmigung\n(1) 1Die Baugenehmigung ist zu erteilen, wenn die Baumaßnahme, soweit sie genehmigungsbedürftig ist und soweit eine Prüfung erforderlich ist, dem öffentlichen Baurecht entspricht. 2Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen. 3Die Baugenehmigung darf nur schriftlich oder elektronisch erlassen werden.\n(2) 1Bauliche Anlagen, die nur auf beschränkte Zeit errichtet werden dürfen oder sollen, Werbeanlagen und Warenautomaten können widerruflich oder befristet genehmigt werden. 2Behelfsbauten dürfen nur widerruflich oder befristet genehmigt werden. 3Die vorübergehende Nutzung eines Raumes als Versammlungsraum, die im vereinfachten Baugenehmigungsverfahren nach § 63 Abs. 2 genehmigt wird, darf nur widerruflich und auf längstens fünf Jahre befristet genehmigt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 71 NBauO - Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung",
+          "score": 0.7624,
+          "text_preview": "§ 71 NBauO - Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung\n(1) 1Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung der Baumaßnahme nicht begonnen oder wenn die Ausführung drei Jahre lang unterbrochen worden is",
+          "text_full": "§ 71 NBauO - Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung\n(1) 1Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung der Baumaßnahme nicht begonnen oder wenn die Ausführung drei Jahre lang unterbrochen worden ist. 2Wird die Baugenehmigung oder die Teilbaugenehmigung angefochten, so wird der Lauf der Frist bis zur rechtskräftigen Entscheidung gehemmt. 3Die Frist kann auf Antrag um jeweils höchstens drei Jahre verlängert werden. 4Sie kann rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist.\n(2) 1Wird die Nutzung einer Tierhaltungsanlage ab dem 1. Januar 2022 während eines Zeitraumes von mehr als neun Jahren durchgehend unterbrochen, so erlischt die Baugenehmigung, soweit sie die Nutzung für die Tierhaltung zulässt. 2Die Frist kann auf schriftlichen oder elektronischen Antrag um bis zu drei Jahre verlängert werden. 3Die Frist kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 70 NBauO - Baugenehmigung und Teilbaugenehmigung",
+          "score": 0.7551,
+          "text_preview": "(3) 1Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung zugelassen werden, wenn nach dem Stand der Prüfung des Bauantrags gegen die Teilausführung keine Bedenken bestehen (T",
+          "text_full": "(3) 1Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung zugelassen werden, wenn nach dem Stand der Prüfung des Bauantrags gegen die Teilausführung keine Bedenken bestehen (Teilbaugenehmigung). 2Absatz 1 gilt sinngemäß.\n(4) In der Baugenehmigung können für die bereits genehmigten Teile der Baumaßnahme, auch wenn sie schon durchgeführt sind, zusätzliche Anforderungen gestellt werden, wenn sie sich bei der weiteren Prüfung der Bauvorlagen als erforderlich herausstellen.\n(5) 1Hat ein Nachbar Einwendungen gegen die Baumaßnahme erhoben, so ist die Baugenehmigung oder die Teilbaugenehmigung mit dem Teil der Bauvorlagen, auf den sich die Einwendungen beziehen, ihm mit einer Rechtsbehelfsbelehrung zuzustellen. 2Die Baugenehmigung oder die Teilbaugenehmigung ist auf Verlangen der Bauherrin oder des Bauherrn auch Nachbarn, die keine Einwendungen erhoben haben, mit einer Rechtsbehelfsbelehrung zuzustellen.\n(6) Die Baugenehmigung und die Teilbaugenehmigung gelten auch für und gegen die Rechtsnachfolger der Bauherrin oder des Bauherrn und der Nachbarn."
+        }
+      ],
+      "top_score": 0.7948
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 36 NBauO - Notwendige Flure, Ausgänge Flure und Gänge, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheite",
+          "score": 0.6349,
+          "text_preview": "§ 36 NBauO - Notwendige Flure, Ausgänge Flure und Gänge, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheite\nn mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder, wenn ein Treppenraum nicht erforderlich ist, zu notwendigen Treppen oder ins Freie führen (notwendige F",
+          "text_full": "§ 36 NBauO - Notwendige Flure, Ausgänge Flure und Gänge, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheite\nn mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder, wenn ein Treppenraum nicht erforderlich ist, zu notwendigen Treppen oder ins Freie führen (notwendige Flure), sowie Ausgänge müssen in solcher Zahl vorhanden und so angeordnet und ausgebildet sein, dass sie für den größten zu erwartenden Verkehr ausreichen und ihre Nutzung im Brandfall ausreichend lang möglich ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 47 NBauO - Notwendige Einstellplätze",
+          "score": 0.6323,
+          "text_preview": "§ 47 NBauO - Notwendige Einstellplätze\n(1) 1Für bauliche Anlagen, die einen Zu- und Abgangsverkehr mit Kraftfahrzeugen erwarten lassen, müssen Einstellplätze in solcher Anzahl und Größe zur Verfügung stehen, dass sie die vorhandenen oder zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und ",
+          "text_full": "§ 47 NBauO - Notwendige Einstellplätze\n(1) 1Für bauliche Anlagen, die einen Zu- und Abgangsverkehr mit Kraftfahrzeugen erwarten lassen, müssen Einstellplätze in solcher Anzahl und Größe zur Verfügung stehen, dass sie die vorhandenen oder zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und Benutzer und der Besucherinnen und Besucher der Anlagen aufnehmen können; wird die erforderliche Anzahl der Einstellplätze durch eine örtliche Bauvorschrift festgelegt, so ist diese Festlegung maßgeblich (notwendige Einstellplätze). 2Wird die Nutzung einer Anlage geändert, so braucht, auch wenn ihr notwendige Einstellplätze bisher fehlten, nur der durch die Nutzungsänderung verursachte Mehrbedarf gedeckt zu werden. 3Abweichend von den Sätzen 1 und 2 braucht der durch eine Wohnung verursachte Bedarf oder der durch eine zusätzlich geschaffene Wohnung verursachte Mehrbedarf an Einstellplätzen nicht gedeckt zu werden, wenn\n1. für die Baumaßnahme, durch die die Wohnung oder die zusätzliche Wohnung geschaffen wird, der Bauantrag, der Antrag auf bauaufsichtliche Zustimmung nach § 74 Abs. 2 oder die Mitteilung nach § 62 Abs. 3 nach dem\n30. Juni 2024 übermittelt wird oder\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 5 NBauO - Grenzabstände",
+          "score": 0.6174,
+          "text_preview": "§ 5 NBauO - Grenzabstände\n(1) 1Gebäude müssen mit allen auf ihren Außenflächen oberhalb der Geländeoberfläche gelegenen Punkten von den Grenzen des Baugrundstücks Abstand halten. 2Satz 1 gilt entsprechend für andere bauliche Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, und Terrassen, sowe",
+          "text_full": "§ 5 NBauO - Grenzabstände\n(1) 1Gebäude müssen mit allen auf ihren Außenflächen oberhalb der Geländeoberfläche gelegenen Punkten von den Grenzen des Baugrundstücks Abstand halten. 2Satz 1 gilt entsprechend für andere bauliche Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, und Terrassen, soweit sie jeweils höher als 1 m über der Geländeoberfläche sind. 3Der Abstand ist zur nächsten Lotrechten über der Grenzlinie zu messen. 4Er richtet sich jeweils nach der Höhe des Punktes über der Geländeoberfläche (H). 5 Der Abstand darf auf volle 10 cm abgerundet werden. © 2026 Wolters Kluwer Deutschland GmbH 13 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n(2) 1Der Abstand beträgt 0,4 H, mindestens jedoch 3 m. 2Abweichend von Satz 1 beträgt der Abstand in Gewerbe- und Industriegebieten sowie in Gebieten, die nach ihrer baulichen Nutzung diesen Baugebieten entsprechen, 0,2 H, mindestens jedoch 3 m. 3Satz 2 gilt nicht, soweit auf dem Nachbargrundstück zu dem betroffenen Grenzabschnitt ein größerer Abstand einzuhalten wäre. 4Abweichend von Satz 1 beträgt der Abstand für Windenergieanlagen im Außenbereich oder in Sondergebieten für Windenergie 0,2 H, mindestens jedoch 3 m."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 5 NBauO - Grenzabstände",
+          "score": 0.6047,
+          "text_preview": "(4) 1Bei der Bemessung des erforderlichen Abstands bleiben folgende Gebäudeteile außer Betracht:\n1. Schornsteine, wenn sie untergeordnet sind, Antennen, Geländer, Abgas- und Abluftleitungen,\n2. Giebeldreiecke und entsprechende andere Giebelformen soweit sie, waagerecht gemessen, nicht mehr als 6 m b",
+          "text_full": "(4) 1Bei der Bemessung des erforderlichen Abstands bleiben folgende Gebäudeteile außer Betracht:\n1. Schornsteine, wenn sie untergeordnet sind, Antennen, Geländer, Abgas- und Abluftleitungen,\n2. Giebeldreiecke und entsprechende andere Giebelformen soweit sie, waagerecht gemessen, nicht mehr als 6 m breit sind. 2Außer Betracht bleiben ferner\n1. Außenwandbekleidungen, soweit sie den Abstand um nicht mehr als 0,4 m unterschreiten, und\n2. Bedachungen, soweit sie um nicht mehr als 0,35 m angehoben werden, wenn der Abstand infolge einer Baumaßnahme zum Zweck des Wärmeschutzes oder der Energieeinsparung bei einem vorhandenen Gebäude unterschritten wird.\n(5) 1Soweit ein Gebäude nach städtebaulichem Planungsrecht ohne Grenzabstand errichtet werden muss, ist Absatz 1 Satz 1 nicht anzuwenden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 43 NBauO - Aufenthaltsräume",
+          "score": 0.5964,
+          "text_preview": "§ 43 NBauO - Aufenthaltsräume\n(1) 1Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von mindestens 2,40 m über mindestens zwei Dritteln ihrer Grundfläche haben. 2Bei der Bemessung der Grundfläche nach Satz 1 bleiben Raumteile mit einer lichten Höhe bis 1,",
+          "text_full": "§ 43 NBauO - Aufenthaltsräume\n(1) 1Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von mindestens 2,40 m über mindestens zwei Dritteln ihrer Grundfläche haben. 2Bei der Bemessung der Grundfläche nach Satz 1 bleiben Raumteile mit einer lichten Höhe bis 1,50 m außer Betracht.\n(2) 1Für Aufenthaltsräume, die im obersten Geschoss im Dachraum liegen, genügt eine lichte Höhe von 2,20 m über mindestens der Hälfte ihrer Grundfläche. 2Absatz 1 Satz 2 gilt entsprechend. 3Die Sätze 1 und 2 gelten auch für Aufenthaltsräume, deren Grundfläche überwiegend unter Dachschrägen liegt.\n(3) Aufenthaltsräume müssen unmittelbar ins Freie führende Fenster von solcher Zahl, Größe und Beschaffenheit haben, dass die Räume das erforderliche Tageslicht erhalten und zweckentsprechend gelüftet werden können (notwendige Fenster).\n(4) Räume in Kellergeschossen sind als Aufenthaltsräume nur zulässig, wenn das Gelände vor den notwendigen Fenstern der Räume in einer für gesunde Wohn- oder Arbeitsverhältnisse ausreichenden Entfernung und Breite nicht mehr als 70 cm über deren Fußboden liegt."
+        }
+      ],
+      "top_score": 0.6349
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 16b NBauO - Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7497,
+          "text_preview": "§ 16b NBauO - Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes o",
+          "text_full": "§ 16b NBauO - Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 Abs. 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 84 NBauO - Örtliche Bauvorschriften",
+          "score": 0.7205,
+          "text_preview": "besondere Anforderungen an die Gestaltung von Gebäuden stellen, insbesondere für die Gebäude- und Geschosshöhe, für die Auswahl der Baustoffe und der Farben der von außen sichtbaren Bauteile sowie für die Neigung der Dächer einen Rahmen setzen,\n2. besondere Anforderungen an die Art, Gestaltung oder ",
+          "text_full": "besondere Anforderungen an die Gestaltung von Gebäuden stellen, insbesondere für die Gebäude- und Geschosshöhe, für die Auswahl der Baustoffe und der Farben der von außen sichtbaren Bauteile sowie für die Neigung der Dächer einen Rahmen setzen,\n2. besondere Anforderungen an die Art, Gestaltung oder Einordnung von Werbeanlagen und Warenautomaten stellen, sie insbesondere auf bestimmte Gebäudeteile, auf bestimmte Arten, Größen, Formen und Farben beschränken oder in bestimmten Gebieten oder an bestimmten baulichen Anlagen ausschließen,\n3. die Gestaltung, Art und Höhe von Einfriedungen wie Mauern, Zäunen und Hecken bestimmen sowie die Einfriedung von Vorgärten vorschreiben oder ausschließen,\n4. die Verwendung von Einzelantennen sowie von Freileitungen, soweit diese nicht nach § 1 Abs. 2 Nr. 3 vom Geltungsbereich dieses Gesetzes ausgeschlossen sind, beschränken oder ausschließen, die Verwendung von Freileitungen jedoch nur, soweit sie unter wirtschaftlich zumutbarem Aufwand durch andere Anlagen ersetzt werden können,\n5. besondere Anforderungen an die Gestaltung sonstiger baulicher Anlagen, insbesondere der in § 2 Abs. 1 Satz 2 Nrn. 2, 4, 6 und 13 genannten Anlagen stellen,\n6."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 79 NBauO - Baurechtswidrige Zustände, Bauprodukte und Baumaßnahmen sowie verfallende bauliche Anlagen",
+          "score": 0.6862,
+          "text_preview": "§ 79 NBauO - Baurechtswidrige Zustände, Bauprodukte und Baumaßnahmen sowie verfallende bauliche Anlagen\n(1) 1Widersprechen bauliche Anlagen, Grundstücke, Bauprodukte oder Baumaßnahmen dem öffentlichen Baurecht oder ist dies zu besorgen, so kann die Bauaufsichtsbehörde nach pflichtgemäßem Ermessen di",
+          "text_full": "§ 79 NBauO - Baurechtswidrige Zustände, Bauprodukte und Baumaßnahmen sowie verfallende bauliche Anlagen\n(1) 1Widersprechen bauliche Anlagen, Grundstücke, Bauprodukte oder Baumaßnahmen dem öffentlichen Baurecht oder ist dies zu besorgen, so kann die Bauaufsichtsbehörde nach pflichtgemäßem Ermessen die Maßnahmen anordnen, die zur Herstellung oder Sicherung rechtmäßiger Zustände erforderlich sind. 2Sie kann namentlich\n1. die Einstellung rechtswidriger und die Ausführung erforderlicher Arbeiten verlangen,\n2. die Einstellung der Arbeiten anordnen, wenn Bauprodukte verwendet werden, an denen unberechtigt ein ÜZeichen (§ 21 Abs. 3) oder unberechtigt eine CE-Kennzeichnung angebracht ist oder die entgegen § 21 ein erforderliches Ü-Zeichen oder entgegen der Verordnung (EU) Nr. 305/2011 eine erforderliche CE-Kennzeichnung nicht tragen,\n3. die Verwendung von Bauprodukten, die entgegen § 21 mit dem Ü-Zeichen gekennzeichnet sind, untersagen und deren Kennzeichnung ungültig machen oder beseitigen lassen,\n4. die Beseitigung von Anlagen oder Teilen von Anlagen anordnen,\n5. die Benutzung von Anlagen untersagen, insbesondere Wohnungen für unbewohnbar erklären."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.6854,
+          "text_preview": "41), die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen und Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwe",
+          "text_full": "41), die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen und Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Abs. 1 bis 3 auswirken kann.\n(15) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(16) 1Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderungen in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind. 2Hierbei ist die Nutzung behinderungsbedingt notwendiger Hilfsmittel zulässig.\n(17) Öffentliches Baurecht sind die Vorschriften dieses Gesetzes, die Vorschriften aufgrund dieses Gesetzes, das städtebauliche Planungsrecht und die sonstigen Vorschriften des öffentlichen Rechts, die Anforderungen an bauliche Anlagen, Bauprodukte oder Baumaßnahmen oder an andere Anlagen oder Einrichtungen nach § 1 Abs. 1 Satz 2 stellen oder die Bebaubarkeit von Grundstücken regeln."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 11 NBauO - Einrichtung der Baustelle",
+          "score": 0.6829,
+          "text_preview": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit ",
+          "text_full": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit Bauzäunen abgegrenzt, mit Schutzvorrichtungen gegen herabfallende Gegenstände versehen und beleuchtet sein.\n(2) 1Öffentliche Verkehrsflächen, Versorgungs-, Abwasserbeseitigungs-, Telekommunikations- und Rundfunkanlagen sowie Grundwassermessstellen, Grenz- und Vermessungsmale sind während der Bauausführung zu schützen und, soweit erforderlich, unter den notwendigen Sicherungsvorkehrungen zugänglich zu halten. 2Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden.\n(3) 1Vor der Durchführung nicht verfahrensfreier Baumaßnahmen hat die Bauherrin oder der Bauherr auf dem Baugrundstück ein von der öffentlichen Verkehrsfläche (§ 4 Abs."
+        }
+      ],
+      "top_score": 0.7497
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 44 NBauO - Wohnungen",
+          "score": 0.6473,
+          "text_preview": "Abstellraum für jede Wohnung in ausreichender Größe zur Verfügung stehen.\n(5) 1In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. 2Die Rauchwarnmelder müssen so eingebaut oder angebracht un",
+          "text_full": "Abstellraum für jede Wohnung in ausreichender Größe zur Verfügung stehen.\n(5) 1In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. 2Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. 3In Wohnungen, die bis zum 31. Oktober 2012 errichtet oder genehmigt sind, hat die Eigentümerin oder der Eigentümer die Räume und Flure bis zum 31. Dezember 2015 entsprechend den Anforderungen nach den Sätzen 1 und 2 auszustatten. 4Für die Sicherstellung der Betriebsbereitschaft der Rauchwarnmelder in den in Satz 1 genannten Räumen und Fluren sind die Mieterinnen und Mieter, Pächterinnen und Pächter, sonstige Nutzungsberechtigte oder andere Personen, die die tatsächliche Gewalt über die Wohnung ausüben, verantwortlich, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst. 5§ 56 Satz 2 gilt entsprechend."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 43 NBauO - Aufenthaltsräume",
+          "score": 0.6409,
+          "text_preview": "(5) Aufenthaltsräume, die nicht dem Wohnen dienen, brauchen die Anforderungen der Absätze 3 und 4 nicht zu erfüllen, soweit durch besondere Maßnahmen oder Einrichtungen sichergestellt wird, dass den Anforderungen des § 3 entsprochen wird und die Rettung von Menschen möglich ist.",
+          "text_full": "(5) Aufenthaltsräume, die nicht dem Wohnen dienen, brauchen die Anforderungen der Absätze 3 und 4 nicht zu erfüllen, soweit durch besondere Maßnahmen oder Einrichtungen sichergestellt wird, dass den Anforderungen des § 3 entsprochen wird und die Rettung von Menschen möglich ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 44 NBauO - Wohnungen",
+          "score": 0.5943,
+          "text_preview": "§ 44 NBauO - Wohnungen\n(1) 1Jede Wohnung muss von anderen Wohnungen oder anderen Räumen baulich abgeschlossen sein und einen eigenen abschließbaren Zugang unmittelbar vom Freien oder von einem Treppenraum, Flur oder Vorraum haben. 2Satz 1 gilt nicht für Wohngebäude mit nicht mehr als zwei Wohnungen.",
+          "text_full": "§ 44 NBauO - Wohnungen\n(1) 1Jede Wohnung muss von anderen Wohnungen oder anderen Räumen baulich abgeschlossen sein und einen eigenen abschließbaren Zugang unmittelbar vom Freien oder von einem Treppenraum, Flur oder Vorraum haben. 2Satz 1 gilt nicht für Wohngebäude mit nicht mehr als zwei Wohnungen. 3Werden Wohnungen geteilt, so müssen die Anforderungen nach Satz 1 nicht erfüllt werden, wenn unzumutbare Belästigungen oder erhebliche Nachteile für die Benutzerinnen und Benutzer der Wohnungen nicht entstehen.\n(2) 1In Gebäuden, die nicht nur dem Wohnen dienen, müssen Wohnungen einen eigenen Zugang haben. 2Gemeinsame Zugänge sind zulässig, wenn Gefahren oder unzumutbare Belästigungen für die Benutzerinnen und Benutzer der Wohnungen nicht © 2026 Wolters Kluwer Deutschland GmbH 30 / 79 gespeichert: 11.03.2026, 19:09 Uhr entstehen.\n(3) 1Jede Wohnung muss eine Küche oder Kochnische haben. 2Küchen und Kochnischen sind ohne Fenster zulässig, wenn sie wirksam gelüftet werden können.\n(4) In Gebäuden mit mehr als zwei Wohnungen oder auf dem Baugrundstück solcher Gebäude muss\n1. leicht erreichbarer und gut zugänglicher Abstellraum für Rollatoren, Kinderwagen und Fahrräder sowie\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 47 NBauO - Notwendige Einstellplätze",
+          "score": 0.5915,
+          "text_preview": "§ 47 NBauO - Notwendige Einstellplätze\n(1) 1Für bauliche Anlagen, die einen Zu- und Abgangsverkehr mit Kraftfahrzeugen erwarten lassen, müssen Einstellplätze in solcher Anzahl und Größe zur Verfügung stehen, dass sie die vorhandenen oder zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und ",
+          "text_full": "§ 47 NBauO - Notwendige Einstellplätze\n(1) 1Für bauliche Anlagen, die einen Zu- und Abgangsverkehr mit Kraftfahrzeugen erwarten lassen, müssen Einstellplätze in solcher Anzahl und Größe zur Verfügung stehen, dass sie die vorhandenen oder zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und Benutzer und der Besucherinnen und Besucher der Anlagen aufnehmen können; wird die erforderliche Anzahl der Einstellplätze durch eine örtliche Bauvorschrift festgelegt, so ist diese Festlegung maßgeblich (notwendige Einstellplätze). 2Wird die Nutzung einer Anlage geändert, so braucht, auch wenn ihr notwendige Einstellplätze bisher fehlten, nur der durch die Nutzungsänderung verursachte Mehrbedarf gedeckt zu werden. 3Abweichend von den Sätzen 1 und 2 braucht der durch eine Wohnung verursachte Bedarf oder der durch eine zusätzlich geschaffene Wohnung verursachte Mehrbedarf an Einstellplätzen nicht gedeckt zu werden, wenn\n1. für die Baumaßnahme, durch die die Wohnung oder die zusätzliche Wohnung geschaffen wird, der Bauantrag, der Antrag auf bauaufsichtliche Zustimmung nach § 74 Abs. 2 oder die Mitteilung nach § 62 Abs. 3 nach dem\n30. Juni 2024 übermittelt wird oder\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.5912,
+          "text_preview": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jewei",
+          "text_full": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jeweiligen Vorhabens maßgeblich ist.\n(8) Aufenthaltsraum ist ein Raum, der zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet ist.\n(9) 1Ein Stellplatz ist eine im Freien außerhalb der öffentlichen Verkehrsflächen gelegene Fläche zum Abstellen von Kraftfahrzeugen. 2Ein Einstellplatz ist eine Fläche zum Abstellen eines Kraftfahrzeuges auf einem Stellplatz oder in einer Garage.\n(10) 1Garagen sind Gebäude oder Gebäudeteile, einschließlich überdachter Stellplätze, zum Abstellen von Kraftfahrzeugen oder Kraftfahrzeugen und anderen Fahrzeugen, wie Fahrrädern. 2Garagen sind auch Parkhäuser. 3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Garagen.\n(11) Eine Feuerstätte ist eine ortsfeste oder ortsfest benutzte Anlage oder Einrichtung in oder an einem Gebäude, die dazu bestimmt ist, durch Verbrennung Wärme zu erzeugen."
+        }
+      ],
+      "top_score": 0.6473
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 14 NBauO - Brandschutz 1Bauliche Anlagen müssen so errichtet, geändert und instand gehalten werden und so angeordnet, bescha",
+          "score": 0.7835,
+          "text_preview": "§ 14 NBauO - Brandschutz 1Bauliche Anlagen müssen so errichtet, geändert und instand gehalten werden und so angeordnet, bescha\nffen und für ihre Benutzung geeignet sein, dass der Entstehung eines Brandes sowie der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand",
+          "text_full": "§ 14 NBauO - Brandschutz 1Bauliche Anlagen müssen so errichtet, geändert und instand gehalten werden und so angeordnet, bescha\nffen und für ihre Benutzung geeignet sein, dass der Entstehung eines Brandes sowie der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind. 2Soweit die Mittel der Feuerwehr zur Rettung von Menschen nicht ausreichen, sind stattdessen geeignete bauliche Vorkehrungen zu treffen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 32 NBauO - Dächer",
+          "score": 0.7568,
+          "text_preview": "§ 32 NBauO - Dächer\n(1) 1Bedachungen müssen gegen Flugfeuer und strahlende Wärme von außen ausreichend lang widerstandsfähig sein, soweit der Brandschutz nicht auf andere Weise gesichert ist. 2Das Tragwerk der Dächer einschließlich des Trägers der Dachhaut muss, soweit es der Brandschutz erfordert, ",
+          "text_full": "§ 32 NBauO - Dächer\n(1) 1Bedachungen müssen gegen Flugfeuer und strahlende Wärme von außen ausreichend lang widerstandsfähig sein, soweit der Brandschutz nicht auf andere Weise gesichert ist. 2Das Tragwerk der Dächer einschließlich des Trägers der Dachhaut muss, soweit es der Brandschutz erfordert, ausreichend lang widerstandsfähig gegen Feuer sein. 3Die Dachhaut muss gegen die Einflüsse der Witterung genügend beständig sein.\n(2) Soweit es dieVerkehrssicherheit erfordert, müssen Dächer mit Schutzvorrichtungen gegen das Herabfallen von Schnee und Eis versehen sein.\n(3) Dachüberstände, Dachgesimse, Dachaufbauten, Solarenergieanlagen, lichtdurchlässige Bedachungen, Lichtkuppeln und Oberlichte müssen so angeordnet und hergestellt sein, dass Feuer nicht auf andere Gebäudeteile oder Nachbargebäude übertragen werden kann.\n(4) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare Vorrichtungen anzubringen. © 2026 Wolters Kluwer Deutschland GmbH 25 / 79 gespeichert: 11.03.2026, 19:09 Uhr"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 39 NBauO - Lüftungsanlagen, Leitungsanlagen, Installationsschächte und -kanäle",
+          "score": 0.7177,
+          "text_preview": "§ 39 NBauO - Lüftungsanlagen, Leitungsanlagen, Installationsschächte und -kanäle\n(1) 1Lüftungsanlagen müssen betriebssicher und brandsicher sein. 2Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen und müssen so angeordnet und ausgebildet sein, dass sie Gerüche und Sta",
+          "text_full": "§ 39 NBauO - Lüftungsanlagen, Leitungsanlagen, Installationsschächte und -kanäle\n(1) 1Lüftungsanlagen müssen betriebssicher und brandsicher sein. 2Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen und müssen so angeordnet und ausgebildet sein, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(2) Lüftungsanlagen müssen, soweit es der Brandschutz erfordert, so angeordnet und ausgebildet sein, dass Feuer und Rauch ausreichend lang nicht in andere Räume übertragen werden können.\n(3) 1Leitungsanlagen sind in notwendigen Treppenräumen, in Räumen nach § 35 Abs. 3 Satz 3 und in notwendigen Fluren nur zulässig, wenn die Nutzung dieser Treppenräume, Räume und Flure als Rettungsweg im Brandfall ausreichend lang möglich ist. 2 Absatz 1 Satz 1 und Absatz 2 gelten für Leitungsanlagen entsprechend.\n(4) Für Installationsschächte und -kanäle, raumlufttechnische Anlagen und Warmluftheizungen gelten die Absätze 1 und 2 entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 40 NBauO - Feuerungsanlagen, sonstige Anlagen zur Energieerzeugung und Energiebereitstellung",
+          "score": 0.7039,
+          "text_preview": "§ 40 NBauO - Feuerungsanlagen, sonstige Anlagen zur Energieerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen wie Schornsteine, Abgasleitungen und Verbindungsstücke (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt wer",
+          "text_full": "§ 40 NBauO - Feuerungsanlagen, sonstige Anlagen zur Energieerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen wie Schornsteine, Abgasleitungen und Verbindungsstücke (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung des Raumes Gefahren nicht entstehen.\n(3) 1Die Abgase der Feuerstätten sind, soweit dies erforderlich ist, durch Abgasanlagen abzuleiten, sodass Gefahren oder unzumutbare Belästigungen nicht entstehen. 2Abgasanlagen müssen in solcher Zahl und Lage vorhanden und so beschaffen sein, dass alle Feuerstätten des Gebäudes ordnungsgemäß betrieben werden können. 3Die Abgasanlagen müssen leicht und sicher zu reinigen sein.\n(4) 1Behälter und Rohrleitungen für brennbare Gase oder Flüssigkeiten müssen betriebssicher und brandsicher sein. 2Behälter nach Satz 1 sind so aufzustellen, dass Gefahren oder unzumutbare Belästigungen nicht entstehen. 3Satz 2 gilt für das Lagern von festen Brennstoffen entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen",
+          "score": 0.6909,
+          "text_preview": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen\n, innerhalb ausgedehnter Gebäude oder bei baulichen Anlagen mit erhöhter Brandgefahr, erforderlich ist, um einer Brandausbreitung entgegenzuwirken. 2Brandwände müssen als ra",
+          "text_full": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen\n, innerhalb ausgedehnter Gebäude oder bei baulichen Anlagen mit erhöhter Brandgefahr, erforderlich ist, um einer Brandausbreitung entgegenzuwirken. 2Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden oder zur Unterteilung von Gebäuden in Brandabschnitte so beschaffen und angeordnet sein, dass sie bei einem Brand ausreichend lang eine Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern."
+        }
+      ],
+      "top_score": 0.7835
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 4 NBauO - Zugänglichkeit des Baugrundstücks, Anordnung und Zugänglichkeit der baulichen Anlagen",
+          "score": 0.7312,
+          "text_preview": "2Für den Einsatz der Feuerlösch- und Rettungsgeräte muss die erforderliche Bewegungsfreiheit und Sicherheit gewährleistet sein.\n(4) 1Eine bauliche Anlage darf nicht auf mehreren Baugrundstücken gelegen sein. 2Dies gilt nicht für einen Überbau, der nach",
+          "text_full": "2Für den Einsatz der Feuerlösch- und Rettungsgeräte muss die erforderliche Bewegungsfreiheit und Sicherheit gewährleistet sein.\n(4) 1Eine bauliche Anlage darf nicht auf mehreren Baugrundstücken gelegen sein. 2Dies gilt nicht für einen Überbau, der nach"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 88 NBauO - Inkrafttreten",
+          "score": 0.7207,
+          "text_preview": "9 Behelfsbauten, die in einer Notsituation erforderlich sind, der Landesverteidigung, dem Brandschutz, dem Katastrophenschutz, dem Bevölkerungsschutz, der Unterbringung schutzsuchender Menschen, der Unfallhilfe, der medizinischen Versorgung oder der Unterbringung des für diese Zwecke erforderlichen ",
+          "text_full": "9 Behelfsbauten, die in einer Notsituation erforderlich sind, der Landesverteidigung, dem Brandschutz, dem Katastrophenschutz, dem Bevölkerungsschutz, der Unterbringung schutzsuchender Menschen, der Unfallhilfe, der medizinischen Versorgung oder der Unterbringung des für diese Zwecke erforderlichen Personals dienen und nur vorübergehend aufgestellt werden,\n11.10 Behelfsbauten zur Tierseuchenbekämpfung, die von der zuständigen Behörde oder von beauftragten Dritten genutzt werden,\n11.11 bauliche Anlagen, die zu Straßenfesten nur vorübergehend errichtet werden und keine fliegenden Bauten sind,\n11.12 bauliche Anlagen, die für längstens drei Monate auf genehmigtem Messe- oder Ausstellungsgelände errichtet werden, ausgenommen fliegende Bauten,\n11.13 bauliche Anlagen, die dem Verkauf landwirtschaftlicher Produkte durch den Erzeuger dienen und nicht fest mit dem Erdboden verbunden sind, nicht jedoch Gebäude,\n11.14 vorübergehend genutzte Lagerplätze für landwirtschaftliche, forstwirtschaftliche oder erwerbsgärtnerische Produkte, wie Kartoffel-, Rübenblatt- und Strohmieten,\n11."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 36 NBauO - Notwendige Flure, Ausgänge Flure und Gänge, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheite",
+          "score": 0.7145,
+          "text_preview": "§ 36 NBauO - Notwendige Flure, Ausgänge Flure und Gänge, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheite\nn mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder, wenn ein Treppenraum nicht erforderlich ist, zu notwendigen Treppen oder ins Freie führen (notwendige F",
+          "text_full": "§ 36 NBauO - Notwendige Flure, Ausgänge Flure und Gänge, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheite\nn mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder, wenn ein Treppenraum nicht erforderlich ist, zu notwendigen Treppen oder ins Freie führen (notwendige Flure), sowie Ausgänge müssen in solcher Zahl vorhanden und so angeordnet und ausgebildet sein, dass sie für den größten zu erwartenden Verkehr ausreichen und ihre Nutzung im Brandfall ausreichend lang möglich ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 11 NBauO - Einrichtung der Baustelle",
+          "score": 0.7026,
+          "text_preview": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit ",
+          "text_full": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit Bauzäunen abgegrenzt, mit Schutzvorrichtungen gegen herabfallende Gegenstände versehen und beleuchtet sein.\n(2) 1Öffentliche Verkehrsflächen, Versorgungs-, Abwasserbeseitigungs-, Telekommunikations- und Rundfunkanlagen sowie Grundwassermessstellen, Grenz- und Vermessungsmale sind während der Bauausführung zu schützen und, soweit erforderlich, unter den notwendigen Sicherungsvorkehrungen zugänglich zu halten. 2Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden.\n(3) 1Vor der Durchführung nicht verfahrensfreier Baumaßnahmen hat die Bauherrin oder der Bauherr auf dem Baugrundstück ein von der öffentlichen Verkehrsfläche (§ 4 Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 61 NBauO - Genehmigungsfreie öffentliche Baumaßnahmen",
+          "score": 0.6914,
+          "text_preview": "Abbrüche baulicher Anlagen, wenn das Staatliche Baumanagement Niedersachsen, die Klosterkammer Hannover oder ein Landkreis oder eine Gemeinde, die über eine Bauverwaltung verfügt, die Entwurfsarbeiten leitet und die Bauarbeiten überwacht.\n(3) 1Keiner Baugenehmigung bedürfen vorübergehende Nutzungsän",
+          "text_full": "Abbrüche baulicher Anlagen, wenn das Staatliche Baumanagement Niedersachsen, die Klosterkammer Hannover oder ein Landkreis oder eine Gemeinde, die über eine Bauverwaltung verfügt, die Entwurfsarbeiten leitet und die Bauarbeiten überwacht.\n(3) 1Keiner Baugenehmigung bedürfen vorübergehende Nutzungsänderungen von baulichen Anlagen, soweit und solange\n1. die Nutzungsänderung in einer Notsituation erforderlich ist für Zwecke des Brandschutzes, des Katastrophenschutzes, des Bevölkerungsschutzes, der Unterbringung schutzsuchender Menschen, der Unfallhilfe oder der medizinischen Versorgung oder die Unterbringung des für diese Zwecke erforderlichen Personals und\n2. das Staatliche Baumanagement Niedersachsen, die Klosterkammer Hannover, ein Landkreis oder eine Gemeinde, die über eine Bauverwaltung verfügt, oder eine von einer dieser Stellen beauftragte natürliche oder juristische Person, die nach ihrer Fachkenntnis, ihrer Zuverlässigkeit und ihren Leistungen die Gewähr dafür bietet, dass die Aufgaben dem öffentlichenBaurecht entsprechend wahrgenommen werden, die Planung leitet und die Ausführung der Arbeiten überwacht. 2Eine Notsituation im Sinne des Satzes 1 Nr. 1 liegt vor, solange\n1."
+        }
+      ],
+      "top_score": 0.7312
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.763,
+          "text_preview": "(12) 1Baugrundstück ist das Grundstück im Sinne des Bürgerlichen Rechts, auf dem eine Baumaßnahme durchgeführt wird oder auf dem sich eine bauliche Anlage befindet. 2Das Baugrundstück kann auch aus mehreren aneinander grenzenden Grundstücken bestehen, wenn und solange durch Baulast gesichert ist, da",
+          "text_full": "(12) 1Baugrundstück ist das Grundstück im Sinne des Bürgerlichen Rechts, auf dem eine Baumaßnahme durchgeführt wird oder auf dem sich eine bauliche Anlage befindet. 2Das Baugrundstück kann auch aus mehreren aneinander grenzenden Grundstücken bestehen, wenn und solange durch Baulast gesichert ist, dass alle baulichen Anlagen auf den Grundstücken das öffentliche Baurecht so einhalten, als wären die Grundstücke ein Grundstück.\n(13) Baumaßnahme ist die Errichtung, die Änderung, der Abbruch, die Beseitigung, die Nutzungsänderung oder die Instandhaltung einer baulichen Anlage oder eines Teils einer baulichen Anlage.\n(14) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. EU Nr. L 88 S. 5; 2013 Nr. L 103 S. 10), zuletzt geändert durch die Delegierte Verordnung (EU) Nr. 574/2014 der Kommission vom 21. Februar 2014 (ABl. EU Nr. L 159 S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 84 NBauO - Örtliche Bauvorschriften",
+          "score": 0.7563,
+          "text_preview": "die Gestaltung der nicht überbauten Flächen der bebauten Grundstücke regeln, insbesondere das Anlegen von Vorgärten vorschreiben,\n7. die Begrünung baulicher Anlagen vorschreiben,\n8. die Versickerung, Verregnung oder Verrieselung von Niederschlagswasser auf dem Baugrundstück vorschreiben. 2In den ört",
+          "text_full": "die Gestaltung der nicht überbauten Flächen der bebauten Grundstücke regeln, insbesondere das Anlegen von Vorgärten vorschreiben,\n7. die Begrünung baulicher Anlagen vorschreiben,\n8. die Versickerung, Verregnung oder Verrieselung von Niederschlagswasser auf dem Baugrundstück vorschreiben. 2In den örtlichen Bauvorschriften nach Satz 1 muss den Erfordernissen des Klimaschutzes Rechnung getragen werden; insbesondere soll die Errichtung von Solarenergieanlagen nicht verhindert oder übermäßig erschwert werden.\n(4) 1Örtliche Bauvorschriften nach den Absätzen 1 und 2 werden als Satzung im eigenen Wirkungskreis erlassen. 2Örtliche Bauvorschriften nach Absatz 3 werden als Satzung im übertragenen Wirkungskreis erlassen. 3Die Vorschriften für das Verfahren bei der Aufstellung von Bebauungsplänen gelten einschließlich der Vorschriften über die Veränderungssperre, die Zurückstellung von Baugesuchen und die Folgen von Verfahrensmängeln für die in Satz 2 genannten örtlichen Bauvorschriften entsprechend; § 10 Abs. 2 Satz 2 des Baugesetzbuchs (BauGB) gilt mit der Maßgabe entsprechend, dass § 6 Abs. 2 BauGB nicht anzuwenden ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 47 NBauO - Notwendige Einstellplätze",
+          "score": 0.7448,
+          "text_preview": "(3) 1Die notwendigen Einstellplätze müssen auf dem Baugrundstück oder in dessen Nähe auf einem anderen Grundstück gelegen sein, dessen Benutzung zu diesem Zweck durch Baulast gesichert ist. 2Eine Sicherung durch Baulast ist nicht erforderlich, wenn die notwendigen Einstellplätze für ein Grundstück a",
+          "text_full": "(3) 1Die notwendigen Einstellplätze müssen auf dem Baugrundstück oder in dessen Nähe auf einem anderen Grundstück gelegen sein, dessen Benutzung zu diesem Zweck durch Baulast gesichert ist. 2Eine Sicherung durch Baulast ist nicht erforderlich, wenn die notwendigen Einstellplätze für ein Grundstück auf einem anderen Grundstück liegen und beide Grundstücke ein Baugrundstück nach § 2 Abs. 12 Satz 2 bilden. 3Sind notwendige Einstellplätze nach öffentlichem Baurecht auf dem Baugrundstück oder in dessen Nähe unzulässig, so können sie auch auf Grundstücken gelegen sein, die vom Baugrundstück mit einem öffentlichen oder vergleichbaren Verkehrsmittel leicht erreichbar sind.\n(4) 1Auf Verlangen der Bauherrin oder des Bauherrn wird zugelassen, dass die Pflicht zur Herstellung der notwendigen Einstellplätze, ausgenommen die Einstellplätze nach § 49, durch die Pflicht zur Zahlung eines Geldbetrages an die Gemeinde ersetzt wird, soweit die Gemeinde dies durch Satzung bestimmt oder im Einzelfall zugestimmt hat."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 81 NBauO - Baulasten, Baulastenverzeichnis",
+          "score": 0.7059,
+          "text_preview": "4Die Löschung wird mit ihrer Eintragung im Baulastenverzeichnis wirksam. 5Von der Löschung sind die Eigentümer des belasteten Grundstücks und der begünstigten Grundstücke zu benachrichtigen.\n(4) 1Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde geführt. 2In das Baulastenverzeichnis können a",
+          "text_full": "4Die Löschung wird mit ihrer Eintragung im Baulastenverzeichnis wirksam. 5Von der Löschung sind die Eigentümer des belasteten Grundstücks und der begünstigten Grundstücke zu benachrichtigen.\n(4) 1Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde geführt. 2In das Baulastenverzeichnis können auch eingetragen werden, soweit ein öffentliches Interesse an der Eintragung besteht,\n1. Verpflichtungen des Eigentümers zu einem sein Grundstück betreffendes Tun, Dulden oder Unterlassen, die sich aus öffentlichem Baurecht ergeben, und\n2. Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann das Baulastenverzeichnis einsehen und sich Auszüge erteilen lassen. §§ 82 - 88, Zwölfter Teil - Ausführungsvorschriften, Übergangs- und Schlussvorschriften"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 84 NBauO - Örtliche Bauvorschriften",
+          "score": 0.7005,
+          "text_preview": "4 Anforderungen in örtlichen Bauvorschriften können auch in zeichnerischer Form gestellt werden.\n(5) Ist anstelle einer Gemeinde eine nach dem Recht der kommunalen Zusammenarbeit gebildete juristische Person des öffentlichen Rechts oder eine andere Körperschaft für die Aufstellung von Bebauungspläne",
+          "text_full": "4 Anforderungen in örtlichen Bauvorschriften können auch in zeichnerischer Form gestellt werden.\n(5) Ist anstelle einer Gemeinde eine nach dem Recht der kommunalen Zusammenarbeit gebildete juristische Person des öffentlichen Rechts oder eine andere Körperschaft für die Aufstellung von Bebauungsplänen zuständig, so gilt dies auch für den Erlass örtlicher Bauvorschriften.\n(6) Örtliche Bauvorschriften können in Bebauungspläne und in Satzungen nach § 34 Abs. 4 Satz 1 Nrn. 2 und 3 BauGB als Festsetzungen aufgenommen werden."
+        }
+      ],
+      "top_score": 0.763
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen",
+          "score": 0.7825,
+          "text_preview": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen\n, innerhalb ausgedehnter Gebäude oder bei baulichen Anlagen mit erhöhter Brandgefahr, erforderlich ist, um einer Brandausbreitung entgegenzuwirken. 2Brandwände müssen als ra",
+          "text_full": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen\n, innerhalb ausgedehnter Gebäude oder bei baulichen Anlagen mit erhöhter Brandgefahr, erforderlich ist, um einer Brandausbreitung entgegenzuwirken. 2Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden oder zur Unterteilung von Gebäuden in Brandabschnitte so beschaffen und angeordnet sein, dass sie bei einem Brand ausreichend lang eine Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 26 NBauO - Brandverhalten von Baustoffen und Feuerwiderstandsfähigkeit von Bauteilen",
+          "score": 0.7309,
+          "text_preview": "§ 26 NBauO - Brandverhalten von Baustoffen und Feuerwiderstandsfähigkeit von Bauteilen\n(1) 1Baustoffe werden nach ihrem Brandverhalten unterschieden in nichtbrennbare und brennbare Baustoffe. 2Brennbare Baustoffe werden unterschieden in schwerentflammbare und normalentflammbare Baustoffe. 3Baustoffe",
+          "text_full": "§ 26 NBauO - Brandverhalten von Baustoffen und Feuerwiderstandsfähigkeit von Bauteilen\n(1) 1Baustoffe werden nach ihrem Brandverhalten unterschieden in nichtbrennbare und brennbare Baustoffe. 2Brennbare Baustoffe werden unterschieden in schwerentflammbare und normalentflammbare Baustoffe. 3Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nur verwendet werden, wenn sie durch die Art der Verarbeitung oder des Einbaus ausreichend gegen Entflammen geschützt sind.\n(2) 1Bauteile werden nach ihrer Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige Bauteile, © 2026 Wolters Kluwer Deutschland GmbH 23 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n2. hochfeuerhemmende Bauteile und\n3. feuerhemmende Bauteile. 2Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen eine Brandausbreitung. 3Bauteile werden zusätzlich nach dem Brandverhalten der verwendeten Baustoffe unterschieden in.\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 4 NBauO - Zugänglichkeit des Baugrundstücks, Anordnung und Zugänglichkeit der baulichen Anlagen",
+          "score": 0.7272,
+          "text_preview": "2Für den Einsatz der Feuerlösch- und Rettungsgeräte muss die erforderliche Bewegungsfreiheit und Sicherheit gewährleistet sein.\n(4) 1Eine bauliche Anlage darf nicht auf mehreren Baugrundstücken gelegen sein. 2Dies gilt nicht für einen Überbau, der nach",
+          "text_full": "2Für den Einsatz der Feuerlösch- und Rettungsgeräte muss die erforderliche Bewegungsfreiheit und Sicherheit gewährleistet sein.\n(4) 1Eine bauliche Anlage darf nicht auf mehreren Baugrundstücken gelegen sein. 2Dies gilt nicht für einen Überbau, der nach"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 32 NBauO - Dächer",
+          "score": 0.7118,
+          "text_preview": "§ 32 NBauO - Dächer\n(1) 1Bedachungen müssen gegen Flugfeuer und strahlende Wärme von außen ausreichend lang widerstandsfähig sein, soweit der Brandschutz nicht auf andere Weise gesichert ist. 2Das Tragwerk der Dächer einschließlich des Trägers der Dachhaut muss, soweit es der Brandschutz erfordert, ",
+          "text_full": "§ 32 NBauO - Dächer\n(1) 1Bedachungen müssen gegen Flugfeuer und strahlende Wärme von außen ausreichend lang widerstandsfähig sein, soweit der Brandschutz nicht auf andere Weise gesichert ist. 2Das Tragwerk der Dächer einschließlich des Trägers der Dachhaut muss, soweit es der Brandschutz erfordert, ausreichend lang widerstandsfähig gegen Feuer sein. 3Die Dachhaut muss gegen die Einflüsse der Witterung genügend beständig sein.\n(2) Soweit es dieVerkehrssicherheit erfordert, müssen Dächer mit Schutzvorrichtungen gegen das Herabfallen von Schnee und Eis versehen sein.\n(3) Dachüberstände, Dachgesimse, Dachaufbauten, Solarenergieanlagen, lichtdurchlässige Bedachungen, Lichtkuppeln und Oberlichte müssen so angeordnet und hergestellt sein, dass Feuer nicht auf andere Gebäudeteile oder Nachbargebäude übertragen werden kann.\n(4) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare Vorrichtungen anzubringen. © 2026 Wolters Kluwer Deutschland GmbH 25 / 79 gespeichert: 11.03.2026, 19:09 Uhr"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 29 NBauO - Trennwände Trennwände müssen, wenn sie raumabschließende Bauteile von Räumen oder Nutzungseinheiten sind, ausreic",
+          "score": 0.7087,
+          "text_preview": "§ 29 NBauO - Trennwände Trennwände müssen, wenn sie raumabschließende Bauteile von Räumen oder Nutzungseinheiten sind, ausreic\nhend lang widerstandsfähig gegen eine Brandausbreitung sein, soweit dies erforderlich ist, um der Brandausbreitung innerhalb von Geschossen entgegenzuwirken.",
+          "text_full": "§ 29 NBauO - Trennwände Trennwände müssen, wenn sie raumabschließende Bauteile von Räumen oder Nutzungseinheiten sind, ausreic\nhend lang widerstandsfähig gegen eine Brandausbreitung sein, soweit dies erforderlich ist, um der Brandausbreitung innerhalb von Geschossen entgegenzuwirken."
+        }
+      ],
+      "top_score": 0.7825
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 84 NBauO - Örtliche Bauvorschriften",
+          "score": 0.7701,
+          "text_preview": "§ 84 NBauO - Örtliche Bauvorschriften\n(1) Die Gemeinden können örtliche Bauvorschriften erlassen über\n1. die Lage, Größe, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen im Sinne des § 9 Abs. 3,\n2. die Anzahl der notwendigen Einstellplätze, ausgenommen die Einstellplätze nach § 49, ein",
+          "text_full": "§ 84 NBauO - Örtliche Bauvorschriften\n(1) Die Gemeinden können örtliche Bauvorschriften erlassen über\n1. die Lage, Größe, Beschaffenheit, Ausstattung und Unterhaltung von Spielplätzen im Sinne des § 9 Abs. 3,\n2. die Anzahl der notwendigen Einstellplätze, ausgenommen die Einstellplätze nach § 49, einschließlich des Mehrbedarfs bei Nutzungsänderungen (§ 47 Abs. 1 Satz 2) und\n3. Fahrradabstellanlagen.\n(2) Zur Verwirklichung bestimmter verkehrlicher oder sonstiger städtebaulicher Absichten können die Gemeinden durch örtliche Bauvorschrift in bestimmten Teilen des Gemeindegebietes oder für bestimmte Nutzungen in bestimmten Teilen des Gemeindegebietes die Herstellung von Garagen und Stellplätzen untersagen oder einschränken. © 2026 Wolters Kluwer Deutschland GmbH 65 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n(3) 1Um bestimmte städtebauliche, baugestalterische oder ökologische Absichten zu verwirklichen oder um die Eigenart oder den Eindruck von Baudenkmalen zu erhalten oder hervorzuheben, können die Gemeinden, auch über die Anforderungen des § 9 Abs. 1 , 2 und 4 sowie der §§ 10 und 50 hinausgehend, durch örtliche Bauvorschrift für bestimmte Teile des Gemeindegebietes\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.757,
+          "text_preview": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jewei",
+          "text_full": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jeweiligen Vorhabens maßgeblich ist.\n(8) Aufenthaltsraum ist ein Raum, der zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet ist.\n(9) 1Ein Stellplatz ist eine im Freien außerhalb der öffentlichen Verkehrsflächen gelegene Fläche zum Abstellen von Kraftfahrzeugen. 2Ein Einstellplatz ist eine Fläche zum Abstellen eines Kraftfahrzeuges auf einem Stellplatz oder in einer Garage.\n(10) 1Garagen sind Gebäude oder Gebäudeteile, einschließlich überdachter Stellplätze, zum Abstellen von Kraftfahrzeugen oder Kraftfahrzeugen und anderen Fahrzeugen, wie Fahrrädern. 2Garagen sind auch Parkhäuser. 3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Garagen.\n(11) Eine Feuerstätte ist eine ortsfeste oder ortsfest benutzte Anlage oder Einrichtung in oder an einem Gebäude, die dazu bestimmt ist, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 62 NBauO - Sonstige genehmigungsfreie Baumaßnahmen",
+          "score": 0.7529,
+          "text_preview": "§ 62 NBauO - Sonstige genehmigungsfreie Baumaßnahmen\n(1) 1Keiner Baugenehmigung bedarf die Errichtung\n1. von Wohngebäuden, auch mit Räumen für freie Berufe nach § 13 BauNVO, in Kleinsiedlungsgebieten sowie in reinen, in allgemeinen und in besonderen Wohngebieten, wenn die Wohngebäude überwiegend Woh",
+          "text_full": "§ 62 NBauO - Sonstige genehmigungsfreie Baumaßnahmen\n(1) 1Keiner Baugenehmigung bedarf die Errichtung\n1. von Wohngebäuden, auch mit Räumen für freie Berufe nach § 13 BauNVO, in Kleinsiedlungsgebieten sowie in reinen, in allgemeinen und in besonderen Wohngebieten, wenn die Wohngebäude überwiegend Wohnungen enthalten, © 2026 Wolters Kluwer Deutschland GmbH 43 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n2. von sonstigen Gebäuden der Gebäudeklassen 1 und 2 in Gewerbegebieten und in Industriegebieten,\n3. von baulichen Anlagen, die keine Gebäude sind, in Gewerbegebieten und in Industriegebieten und\n4. von Nebengebäuden und Nebenanlagen für Gebäude nach den Nummern 1 und 2, wenn die in den Nummern 1 bis 3 genannten Baugebiete durch Bebauungsplan im Sinne des § 30 Abs. 1 oder 2 des Baugesetzbuchs (BauGB) festgesetzt sind und die Voraussetzungen des Absatzes 2 vorliegen. 2Satz 1 gilt entsprechend für die Änderung oder Nutzungsänderung baulicher Anlagen, die nach Durchführung dieser Baumaßnahme bauliche Anlagen im Sinne des Satzes 1 Nrn. 1 bis 4 sind. 3Die Sätze 1 und 2 gelten nicht für Sonderbauten nach § 2 Abs. 5."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 47 NBauO - Notwendige Einstellplätze",
+          "score": 0.7486,
+          "text_preview": "(3) 1Die notwendigen Einstellplätze müssen auf dem Baugrundstück oder in dessen Nähe auf einem anderen Grundstück gelegen sein, dessen Benutzung zu diesem Zweck durch Baulast gesichert ist. 2Eine Sicherung durch Baulast ist nicht erforderlich, wenn die notwendigen Einstellplätze für ein Grundstück a",
+          "text_full": "(3) 1Die notwendigen Einstellplätze müssen auf dem Baugrundstück oder in dessen Nähe auf einem anderen Grundstück gelegen sein, dessen Benutzung zu diesem Zweck durch Baulast gesichert ist. 2Eine Sicherung durch Baulast ist nicht erforderlich, wenn die notwendigen Einstellplätze für ein Grundstück auf einem anderen Grundstück liegen und beide Grundstücke ein Baugrundstück nach § 2 Abs. 12 Satz 2 bilden. 3Sind notwendige Einstellplätze nach öffentlichem Baurecht auf dem Baugrundstück oder in dessen Nähe unzulässig, so können sie auch auf Grundstücken gelegen sein, die vom Baugrundstück mit einem öffentlichen oder vergleichbaren Verkehrsmittel leicht erreichbar sind.\n(4) 1Auf Verlangen der Bauherrin oder des Bauherrn wird zugelassen, dass die Pflicht zur Herstellung der notwendigen Einstellplätze, ausgenommen die Einstellplätze nach § 49, durch die Pflicht zur Zahlung eines Geldbetrages an die Gemeinde ersetzt wird, soweit die Gemeinde dies durch Satzung bestimmt oder im Einzelfall zugestimmt hat."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 11 NBauO - Einrichtung der Baustelle",
+          "score": 0.7486,
+          "text_preview": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit ",
+          "text_full": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit Bauzäunen abgegrenzt, mit Schutzvorrichtungen gegen herabfallende Gegenstände versehen und beleuchtet sein.\n(2) 1Öffentliche Verkehrsflächen, Versorgungs-, Abwasserbeseitigungs-, Telekommunikations- und Rundfunkanlagen sowie Grundwassermessstellen, Grenz- und Vermessungsmale sind während der Bauausführung zu schützen und, soweit erforderlich, unter den notwendigen Sicherungsvorkehrungen zugänglich zu halten. 2Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden.\n(3) 1Vor der Durchführung nicht verfahrensfreier Baumaßnahmen hat die Bauherrin oder der Bauherr auf dem Baugrundstück ein von der öffentlichen Verkehrsfläche (§ 4 Abs."
+        }
+      ],
+      "top_score": 0.7701
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 69 NBauO - Behandlung des Bauantrags",
+          "score": 0.7211,
+          "text_preview": "2026, 19:09 Uhr Baugenehmigungsverfahrens ohne Veranlassung durch die Bauaufsichtsbehörde dieser wesentlich geänderte Bauvorlagen übermittelt.",
+          "text_full": "2026, 19:09 Uhr Baugenehmigungsverfahrens ohne Veranlassung durch die Bauaufsichtsbehörde dieser wesentlich geänderte Bauvorlagen übermittelt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 69 NBauO - Behandlung des Bauantrags",
+          "score": 0.6933,
+          "text_preview": "3Äußert sich eine Behörde, die im Baugenehmigungsverfahren nach Satz 1 angehört wird, nicht innerhalb von zwei Wochen oder verlangt sie nicht innerhalb dieser Frist unter Angabe der Gründe eine weitere Frist von längstens einem Monat für ihre Stellungnahme, so kann die Bauaufsichtsbehörde davon ausg",
+          "text_full": "3Äußert sich eine Behörde, die im Baugenehmigungsverfahren nach Satz 1 angehört wird, nicht innerhalb von zwei Wochen oder verlangt sie nicht innerhalb dieser Frist unter Angabe der Gründe eine weitere Frist von längstens einem Monat für ihre Stellungnahme, so kann die Bauaufsichtsbehörde davon ausgehen, dass die Baumaßnahme mit den von dieser Behörde wahrzunehmenden öffentlichen Belangen in Einklang steht.\n(4) Bedarf die Baugenehmigung nach landesrechtlichen Vorschriften der Zustimmung oder des Einvernehmens einer anderen Behörde, so gelten diese als erteilt, wenn sie nicht innerhalb eines Monats nach Eingang des Ersuchens unter Angabe der Gründe verweigert werden.\n(5) Erhebt ein Nachbar Einwendungen gegen die Baumaßnahme, so hat die Bauaufsichtsbehörde die Bauherrin oder den Bauherrn davon zu unterrichten.\n(6) 1Die zulässige Dauer des Baugenehmigungsverfahrens beträgt in den Fällen des Absatzes 2a ab dem Datum der Bestätigung der Vollständigkeit des Bauantrags durch die Bauaufsichtsbehörde\n1. in ausgewiesenen Beschleunigungsgebieten für erneuerbare Energie im Sinne des Artikels 2 Abs. 2 Nr."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige",
+          "score": 0.6859,
+          "text_preview": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige\n(1) 1Die im Anhang genannten baulichen Anlagen und Teile baulicher Anlagen dürfen in dem dort festgelegten Umfang ohne Baugenehmigung errichtet, in bauliche Anlagen eingefügt und geändert werden (verfahrensfreie Baumaßnahmen). 2Verfahrensfrei",
+          "text_full": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige\n(1) 1Die im Anhang genannten baulichen Anlagen und Teile baulicher Anlagen dürfen in dem dort festgelegten Umfang ohne Baugenehmigung errichtet, in bauliche Anlagen eingefügt und geändert werden (verfahrensfreie Baumaßnahmen). 2Verfahrensfreie Baumaßnahmen sind auch die im Anhang genannten Baumaßnahmen.\n(2) Verfahrensfrei ist auch\n1. die Änderung der Nutzung einer baulichen Anlage, wenn das städtebauliche Planungsrecht keine anderen und diesesGesetz sowie die Vorschriften aufgrund dieses Gesetzes keine weitergehenden Anforderungen an die neue Nutzung stellen oder die Errichtung oder Änderung der baulichen Anlage nach Absatz 1 verfahrensfrei wäre,\n2. die Umnutzung von Räumen im Dachgeschoss eines Wohngebäudes mit nur einer Wohnung in Aufenthaltsräume, die zu dieser Wohnung gehören,\n3. die Umnutzung von Räumen in vorhandenen Wohngebäuden und Wohnungen in Räume mit Badewanne oder © 2026 Wolters Kluwer Deutschland GmbH 41 / 79 gespeichert: 11.03.2026, 19:09 Uhr Dusche oder mit Toilette,\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 69 NBauO - Behandlung des Bauantrags",
+          "score": 0.6818,
+          "text_preview": "§ 69 NBauO - Behandlung des Bauantrags\n(1) Nimmt der Landkreis die Aufgaben der Bauaufsichtsbehörde wahr, so hat er den Bauantrag innerhalb einer Woche der Gemeinde zu übermitteln.\n(2) 1Die Bauaufsichtsbehörde hat den Bauantrag binnen drei Wochen nach Eingang auf seine Vollständigkeit zu überprüfen ",
+          "text_full": "§ 69 NBauO - Behandlung des Bauantrags\n(1) Nimmt der Landkreis die Aufgaben der Bauaufsichtsbehörde wahr, so hat er den Bauantrag innerhalb einer Woche der Gemeinde zu übermitteln.\n(2) 1Die Bauaufsichtsbehörde hat den Bauantrag binnen drei Wochen nach Eingang auf seine Vollständigkeit zu überprüfen (Vorprüfung). 2Wird im Rahmen der Vorprüfung festgestellt, dass der Bauantrag oder die Bauvorlagen unvollständig sind oder sonstige erhebliche Mängel aufweisen, so fordert die Bauaufsichtsbehörde die Entwurfsverfasserin oder den Entwurfsverfasser zur Behebung der Mängel innerhalb einer angemessenen Frist auf. 3Werden die Mängel innerhalb der Frist nicht behoben, so gilt der Antrag drei Wochen nach Ablauf der Frist als zurückgenommen; die Frist kann auf schriftlichen oder elektronischen Antrag um bis zu drei Wochen verlängert werden. 4Wird bei der Bearbeitung des Bauantrags festgestellt, dass zur Prüfung weitere Unterlagen, insbesondere fachliche Gutachten, erforderlich werden, so können diese durch die Bauaufsichtsbehörde nachgefordert werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 70 NBauO - Baugenehmigung und Teilbaugenehmigung",
+          "score": 0.6667,
+          "text_preview": "(3) 1Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung zugelassen werden, wenn nach dem Stand der Prüfung des Bauantrags gegen die Teilausführung keine Bedenken bestehen (T",
+          "text_full": "(3) 1Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung zugelassen werden, wenn nach dem Stand der Prüfung des Bauantrags gegen die Teilausführung keine Bedenken bestehen (Teilbaugenehmigung). 2Absatz 1 gilt sinngemäß.\n(4) In der Baugenehmigung können für die bereits genehmigten Teile der Baumaßnahme, auch wenn sie schon durchgeführt sind, zusätzliche Anforderungen gestellt werden, wenn sie sich bei der weiteren Prüfung der Bauvorlagen als erforderlich herausstellen.\n(5) 1Hat ein Nachbar Einwendungen gegen die Baumaßnahme erhoben, so ist die Baugenehmigung oder die Teilbaugenehmigung mit dem Teil der Bauvorlagen, auf den sich die Einwendungen beziehen, ihm mit einer Rechtsbehelfsbelehrung zuzustellen. 2Die Baugenehmigung oder die Teilbaugenehmigung ist auf Verlangen der Bauherrin oder des Bauherrn auch Nachbarn, die keine Einwendungen erhoben haben, mit einer Rechtsbehelfsbelehrung zuzustellen.\n(6) Die Baugenehmigung und die Teilbaugenehmigung gelten auch für und gegen die Rechtsnachfolger der Bauherrin oder des Bauherrn und der Nachbarn."
+        }
+      ],
+      "top_score": 0.7211
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 77 NBauO - Bauabnahmen",
+          "score": 0.732,
+          "text_preview": "§ 77 NBauO - Bauabnahmen\n(1) Soweit es zur Wirksamkeit der Bauüberwachung, insbesondere zur Beurteilung von kritischen Bauzuständen, erforderlich ist, kann in der Baugenehmigung oder der Teilbaugenehmigung, aber auch noch während der Baudurchführung die Abnahme\n1. bestimmter Bauteile oder Bauarbeite",
+          "text_full": "§ 77 NBauO - Bauabnahmen\n(1) Soweit es zur Wirksamkeit der Bauüberwachung, insbesondere zur Beurteilung von kritischen Bauzuständen, erforderlich ist, kann in der Baugenehmigung oder der Teilbaugenehmigung, aber auch noch während der Baudurchführung die Abnahme\n1. bestimmter Bauteile oder Bauarbeiten,\n2. der baulichen Anlage nach Vollendung der tragenden Teile, der Schornsteine, der Brandwände und der Dachkonstruktion (Rohbauabnahme) und\n3. der baulichen Anlage nach ihrer Fertigstellung (Schlussabnahme) angeordnet werden. © 2026 Wolters Kluwer Deutschland GmbH 58 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n(2) 1Bei der Rohbauabnahme müssen alle Teile der baulichen Anlage sicher zugänglich sein, die für die Standsicherheit und für den Brandschutz wesentlich sind. 2Sie sind, soweit möglich, offen zu halten, damit Maße und Ausführungsart geprüft werden können.\n(3) 1Die Bauherrin oder der Bauherr hat der Bauaufsichtsbehörde rechtzeitig schriftlich oder elektronisch mitzuteilen, wann die Voraussetzungen für die Abnahmen gegeben sind. 2§ 76 Abs. 2 Satz 3 gilt entsprechend."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige",
+          "score": 0.7268,
+          "text_preview": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige\n(1) 1Die im Anhang genannten baulichen Anlagen und Teile baulicher Anlagen dürfen in dem dort festgelegten Umfang ohne Baugenehmigung errichtet, in bauliche Anlagen eingefügt und geändert werden (verfahrensfreie Baumaßnahmen). 2Verfahrensfrei",
+          "text_full": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige\n(1) 1Die im Anhang genannten baulichen Anlagen und Teile baulicher Anlagen dürfen in dem dort festgelegten Umfang ohne Baugenehmigung errichtet, in bauliche Anlagen eingefügt und geändert werden (verfahrensfreie Baumaßnahmen). 2Verfahrensfreie Baumaßnahmen sind auch die im Anhang genannten Baumaßnahmen.\n(2) Verfahrensfrei ist auch\n1. die Änderung der Nutzung einer baulichen Anlage, wenn das städtebauliche Planungsrecht keine anderen und diesesGesetz sowie die Vorschriften aufgrund dieses Gesetzes keine weitergehenden Anforderungen an die neue Nutzung stellen oder die Errichtung oder Änderung der baulichen Anlage nach Absatz 1 verfahrensfrei wäre,\n2. die Umnutzung von Räumen im Dachgeschoss eines Wohngebäudes mit nur einer Wohnung in Aufenthaltsräume, die zu dieser Wohnung gehören,\n3. die Umnutzung von Räumen in vorhandenen Wohngebäuden und Wohnungen in Räume mit Badewanne oder © 2026 Wolters Kluwer Deutschland GmbH 41 / 79 gespeichert: 11.03.2026, 19:09 Uhr Dusche oder mit Toilette,\n4."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 61 NBauO - Genehmigungsfreie öffentliche Baumaßnahmen",
+          "score": 0.7259,
+          "text_preview": "§ 61 NBauO - Genehmigungsfreie öffentliche Baumaßnahmen\n(1) Keiner Baugenehmigung bedürfen die Errichtung, die Änderung, der Abbruch und die Beseitigung\n1. von Brücken, Durchlässen, Tunneln und Stützmauern sowie von Stauanlagen und sonstigen Anlagen des Wasserbaus, ausgenommen Gebäude, wenn die Wass",
+          "text_full": "§ 61 NBauO - Genehmigungsfreie öffentliche Baumaßnahmen\n(1) Keiner Baugenehmigung bedürfen die Errichtung, die Änderung, der Abbruch und die Beseitigung\n1. von Brücken, Durchlässen, Tunneln und Stützmauern sowie von Stauanlagen und sonstigen Anlagen des Wasserbaus, ausgenommen Gebäude, wenn die Wasser- und Schifffahrtsverwaltung des Bundes, die Straßenbau-, Hafen- oder Wasserwirtschaftsverwaltung des Landes oder eine untere Wasserbehörde die Entwurfsarbeiten leitet und die Bauarbeiten überwacht,\n2. von Betriebsanlagen der Straßenbahnen (§ 4 des Personenbeförderungsgesetzes), ausgenommen oberirdische Gebäude,\n3. von nach anderen Rechtsvorschriften zulassungsbedürftigen Anlagen für die öffentliche Versorgung mitElektrizität, Gas, Wärme, Wasser und für die öffentliche Beseitigung von Abwässern, ausgenommen Gebäude.\n(2) Keiner Baugenehmigung bedürfen\n1. Baumaßnahmen innerhalb vorhandener Gebäude, ausgenommen Nutzungsänderungen,\n2. Änderungen des Äußeren vorhandener Gebäude, wenn sie deren Rauminhalt nicht vergrößern, © 2026 Wolters Kluwer Deutschland GmbH 42 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 72 NBauO - Durchführung baugenehmigungsbedürftiger Baumaßnahmen",
+          "score": 0.715,
+          "text_preview": "§ 72 NBauO - Durchführung baugenehmigungsbedürftiger Baumaßnahmen\n(1) 1Vor Erteilung der Baugenehmigung darf mit der Baumaßnahme nicht begonnen werden. 2Sie darf nur so durchgeführt werden, wie sie genehmigt worden ist. 3Baugenehmigung und Bauvorlagen müssen während der Ausführung von Bauarbeiten an",
+          "text_full": "§ 72 NBauO - Durchführung baugenehmigungsbedürftiger Baumaßnahmen\n(1) 1Vor Erteilung der Baugenehmigung darf mit der Baumaßnahme nicht begonnen werden. 2Sie darf nur so durchgeführt werden, wie sie genehmigt worden ist. 3Baugenehmigung und Bauvorlagen müssen während der Ausführung von Bauarbeiten an der Baustelle vorgelegt werden können. 4Satz 3 gilt auch für bautechnische Nachweise, die nicht zu prüfen sind.\n(2) Die Bauaufsichtsbehörde kann im Einzelfall anordnen, dass die Grundfläche der baulichen Anlage abgesteckt oder ihre Höhenlage festgelegt wird und die Absteckung oder die Festlegung vor Baubeginn von ihr abgenommen werden muss."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 70 NBauO - Baugenehmigung und Teilbaugenehmigung",
+          "score": 0.7112,
+          "text_preview": "(3) 1Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung zugelassen werden, wenn nach dem Stand der Prüfung des Bauantrags gegen die Teilausführung keine Bedenken bestehen (T",
+          "text_full": "(3) 1Ist ein Bauantrag eingereicht, so kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung zugelassen werden, wenn nach dem Stand der Prüfung des Bauantrags gegen die Teilausführung keine Bedenken bestehen (Teilbaugenehmigung). 2Absatz 1 gilt sinngemäß.\n(4) In der Baugenehmigung können für die bereits genehmigten Teile der Baumaßnahme, auch wenn sie schon durchgeführt sind, zusätzliche Anforderungen gestellt werden, wenn sie sich bei der weiteren Prüfung der Bauvorlagen als erforderlich herausstellen.\n(5) 1Hat ein Nachbar Einwendungen gegen die Baumaßnahme erhoben, so ist die Baugenehmigung oder die Teilbaugenehmigung mit dem Teil der Bauvorlagen, auf den sich die Einwendungen beziehen, ihm mit einer Rechtsbehelfsbelehrung zuzustellen. 2Die Baugenehmigung oder die Teilbaugenehmigung ist auf Verlangen der Bauherrin oder des Bauherrn auch Nachbarn, die keine Einwendungen erhoben haben, mit einer Rechtsbehelfsbelehrung zuzustellen.\n(6) Die Baugenehmigung und die Teilbaugenehmigung gelten auch für und gegen die Rechtsnachfolger der Bauherrin oder des Bauherrn und der Nachbarn."
+        }
+      ],
+      "top_score": 0.732
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige",
+          "score": 0.7482,
+          "text_preview": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige\n(1) 1Die im Anhang genannten baulichen Anlagen und Teile baulicher Anlagen dürfen in dem dort festgelegten Umfang ohne Baugenehmigung errichtet, in bauliche Anlagen eingefügt und geändert werden (verfahrensfreie Baumaßnahmen). 2Verfahrensfrei",
+          "text_full": "§ 60 NBauO - Verfahrensfreie Baumaßnahmen, Abbruchanzeige\n(1) 1Die im Anhang genannten baulichen Anlagen und Teile baulicher Anlagen dürfen in dem dort festgelegten Umfang ohne Baugenehmigung errichtet, in bauliche Anlagen eingefügt und geändert werden (verfahrensfreie Baumaßnahmen). 2Verfahrensfreie Baumaßnahmen sind auch die im Anhang genannten Baumaßnahmen.\n(2) Verfahrensfrei ist auch\n1. die Änderung der Nutzung einer baulichen Anlage, wenn das städtebauliche Planungsrecht keine anderen und diesesGesetz sowie die Vorschriften aufgrund dieses Gesetzes keine weitergehenden Anforderungen an die neue Nutzung stellen oder die Errichtung oder Änderung der baulichen Anlage nach Absatz 1 verfahrensfrei wäre,\n2. die Umnutzung von Räumen im Dachgeschoss eines Wohngebäudes mit nur einer Wohnung in Aufenthaltsräume, die zu dieser Wohnung gehören,\n3. die Umnutzung von Räumen in vorhandenen Wohngebäuden und Wohnungen in Räume mit Badewanne oder © 2026 Wolters Kluwer Deutschland GmbH 41 / 79 gespeichert: 11.03.2026, 19:09 Uhr Dusche oder mit Toilette,\n4."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 79 NBauO - Baurechtswidrige Zustände, Bauprodukte und Baumaßnahmen sowie verfallende bauliche Anlagen",
+          "score": 0.7463,
+          "text_preview": "§ 79 NBauO - Baurechtswidrige Zustände, Bauprodukte und Baumaßnahmen sowie verfallende bauliche Anlagen\n(1) 1Widersprechen bauliche Anlagen, Grundstücke, Bauprodukte oder Baumaßnahmen dem öffentlichen Baurecht oder ist dies zu besorgen, so kann die Bauaufsichtsbehörde nach pflichtgemäßem Ermessen di",
+          "text_full": "§ 79 NBauO - Baurechtswidrige Zustände, Bauprodukte und Baumaßnahmen sowie verfallende bauliche Anlagen\n(1) 1Widersprechen bauliche Anlagen, Grundstücke, Bauprodukte oder Baumaßnahmen dem öffentlichen Baurecht oder ist dies zu besorgen, so kann die Bauaufsichtsbehörde nach pflichtgemäßem Ermessen die Maßnahmen anordnen, die zur Herstellung oder Sicherung rechtmäßiger Zustände erforderlich sind. 2Sie kann namentlich\n1. die Einstellung rechtswidriger und die Ausführung erforderlicher Arbeiten verlangen,\n2. die Einstellung der Arbeiten anordnen, wenn Bauprodukte verwendet werden, an denen unberechtigt ein ÜZeichen (§ 21 Abs. 3) oder unberechtigt eine CE-Kennzeichnung angebracht ist oder die entgegen § 21 ein erforderliches Ü-Zeichen oder entgegen der Verordnung (EU) Nr. 305/2011 eine erforderliche CE-Kennzeichnung nicht tragen,\n3. die Verwendung von Bauprodukten, die entgegen § 21 mit dem Ü-Zeichen gekennzeichnet sind, untersagen und deren Kennzeichnung ungültig machen oder beseitigen lassen,\n4. die Beseitigung von Anlagen oder Teilen von Anlagen anordnen,\n5. die Benutzung von Anlagen untersagen, insbesondere Wohnungen für unbewohnbar erklären."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 11 NBauO - Einrichtung der Baustelle",
+          "score": 0.7401,
+          "text_preview": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit ",
+          "text_full": "§ 11 NBauO - Einrichtung der Baustelle\n(1) 1Bei Baumaßnahmen müssen die Teile der Baustellen, auf denen unbeteiligte Personen gefährdet werden können, abgegrenzt oder durch Warnzeichen gekennzeichnet sein. 2Soweit es aus Sicherheitsgründen erforderlich ist, müssen Baustellen ganz oder teilweise mit Bauzäunen abgegrenzt, mit Schutzvorrichtungen gegen herabfallende Gegenstände versehen und beleuchtet sein.\n(2) 1Öffentliche Verkehrsflächen, Versorgungs-, Abwasserbeseitigungs-, Telekommunikations- und Rundfunkanlagen sowie Grundwassermessstellen, Grenz- und Vermessungsmale sind während der Bauausführung zu schützen und, soweit erforderlich, unter den notwendigen Sicherungsvorkehrungen zugänglich zu halten. 2Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden.\n(3) 1Vor der Durchführung nicht verfahrensfreier Baumaßnahmen hat die Bauherrin oder der Bauherr auf dem Baugrundstück ein von der öffentlichen Verkehrsfläche (§ 4 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 61 NBauO - Genehmigungsfreie öffentliche Baumaßnahmen",
+          "score": 0.7254,
+          "text_preview": "Abbrüche baulicher Anlagen, wenn das Staatliche Baumanagement Niedersachsen, die Klosterkammer Hannover oder ein Landkreis oder eine Gemeinde, die über eine Bauverwaltung verfügt, die Entwurfsarbeiten leitet und die Bauarbeiten überwacht.\n(3) 1Keiner Baugenehmigung bedürfen vorübergehende Nutzungsän",
+          "text_full": "Abbrüche baulicher Anlagen, wenn das Staatliche Baumanagement Niedersachsen, die Klosterkammer Hannover oder ein Landkreis oder eine Gemeinde, die über eine Bauverwaltung verfügt, die Entwurfsarbeiten leitet und die Bauarbeiten überwacht.\n(3) 1Keiner Baugenehmigung bedürfen vorübergehende Nutzungsänderungen von baulichen Anlagen, soweit und solange\n1. die Nutzungsänderung in einer Notsituation erforderlich ist für Zwecke des Brandschutzes, des Katastrophenschutzes, des Bevölkerungsschutzes, der Unterbringung schutzsuchender Menschen, der Unfallhilfe oder der medizinischen Versorgung oder die Unterbringung des für diese Zwecke erforderlichen Personals und\n2. das Staatliche Baumanagement Niedersachsen, die Klosterkammer Hannover, ein Landkreis oder eine Gemeinde, die über eine Bauverwaltung verfügt, oder eine von einer dieser Stellen beauftragte natürliche oder juristische Person, die nach ihrer Fachkenntnis, ihrer Zuverlässigkeit und ihren Leistungen die Gewähr dafür bietet, dass die Aufgaben dem öffentlichenBaurecht entsprechend wahrgenommen werden, die Planung leitet und die Ausführung der Arbeiten überwacht. 2Eine Notsituation im Sinne des Satzes 1 Nr. 1 liegt vor, solange\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 66 NBauO - Abweichungen",
+          "score": 0.7209,
+          "text_preview": "4Für die gesonderte Zulassung einer Abweichung gelten § 70 Abs. 1 Satz 3 und § 71 Abs. 1 entsprechend.\n(4) Wird nach Absatz 1 Satz 1 zugelassen, dass notwendige Einstellplätze innerhalb einer angemessenen Frist nach Ingebrauchnahme der baulichen Anlage hergestellt werden, so kann die Baugenehmigung ",
+          "text_full": "4Für die gesonderte Zulassung einer Abweichung gelten § 70 Abs. 1 Satz 3 und § 71 Abs. 1 entsprechend.\n(4) Wird nach Absatz 1 Satz 1 zugelassen, dass notwendige Einstellplätze innerhalb einer angemessenen Frist nach Ingebrauchnahme der baulichen Anlage hergestellt werden, so kann die Baugenehmigung von einer Sicherheitsleistung abhängig gemacht werden.\n(5) Abweichungen von örtlichen Bauvorschriften nach § 84 Abs. 1 und 2 dürfen nur im Einvernehmen mit der Gemeinde zugelassen werden.\n(6) Die Absätze 2 und 3 gelten auch für die Erteilung von Ausnahmen und Befreiungen nach anderen Vorschriften des öffentlichen Baurechts, soweit nichts anderes bestimmt ist."
+        }
+      ],
+      "top_score": 0.7482
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 82 NBauO - Verordnungen",
+          "score": 0.7635,
+          "text_preview": "133), erlassenen Verordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich Arbeitnehmerinnen und Arbeitnehmer nicht beschäftigt werden. 2Sie kann die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder se",
+          "text_full": "133), erlassenen Verordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich Arbeitnehmerinnen und Arbeitnehmer nicht beschäftigt werden. 2Sie kann die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten auf Behörden übertragen, die nicht Bauaufsichtsbehörden sind.\n(5) Die oberste Bauaufsichtsbehörde kann durch Verordnung bestimmen, dass für bestimmte Bauprodukte und Bauarten, soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Abs. 2 und 3 sowie die §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 66 NBauO - Abweichungen",
+          "score": 0.7333,
+          "text_preview": "§ 66 NBauO - Abweichungen\n(1) 1Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn diese unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der © 2026 Wolters Kluwer Deutschland ",
+          "text_full": "§ 66 NBauO - Abweichungen\n(1) 1Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn diese unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der © 2026 Wolters Kluwer Deutschland GmbH 48 / 79 gespeichert: 11.03.2026, 19:09 Uhr öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen nach § 3 Abs. 1 vereinbar sind. 2Unter den Voraussetzungen des Satzes 1 sind Abweichungen zuzulassen\n1. bei Nutzungsänderungen,\n2. bei Baumaßnahmen, die der Modernisierung, dem Ausbau oder dem Erhalt bestehender Gebäude dienen, und\n3. bei Baumaßnahmen zur Erprobung neuer Bau- und Wohnformen. 3Es ist anzugeben, von welchen Vorschriften und in welchem Umfang eine Abweichung zugelassen wird. 4§ 83 Abs. 1 Satz 3 Halbsatz 1 bleibt unberührt. 5Für Bauteile, die bereits nach § 85a nur abweichende Anforderungen erfüllen müssen, bedarf es keiner Zulassung einer Abweichung nach Satz 1 oder 2.\n(2) 1Die Zulassung einer Abweichung bedarf eines begründeten Antrags."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 66 NBauO - Abweichungen",
+          "score": 0.7196,
+          "text_preview": "4Für die gesonderte Zulassung einer Abweichung gelten § 70 Abs. 1 Satz 3 und § 71 Abs. 1 entsprechend.\n(4) Wird nach Absatz 1 Satz 1 zugelassen, dass notwendige Einstellplätze innerhalb einer angemessenen Frist nach Ingebrauchnahme der baulichen Anlage hergestellt werden, so kann die Baugenehmigung ",
+          "text_full": "4Für die gesonderte Zulassung einer Abweichung gelten § 70 Abs. 1 Satz 3 und § 71 Abs. 1 entsprechend.\n(4) Wird nach Absatz 1 Satz 1 zugelassen, dass notwendige Einstellplätze innerhalb einer angemessenen Frist nach Ingebrauchnahme der baulichen Anlage hergestellt werden, so kann die Baugenehmigung von einer Sicherheitsleistung abhängig gemacht werden.\n(5) Abweichungen von örtlichen Bauvorschriften nach § 84 Abs. 1 und 2 dürfen nur im Einvernehmen mit der Gemeinde zugelassen werden.\n(6) Die Absätze 2 und 3 gelten auch für die Erteilung von Ausnahmen und Befreiungen nach anderen Vorschriften des öffentlichen Baurechts, soweit nichts anderes bestimmt ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 82 NBauO - Verordnungen",
+          "score": 0.7025,
+          "text_preview": "4 sowie die Zustimmung und den Verzicht auf Zustimmung im Einzelfall(§ 20) auf eine Behörde, auch eines anderen Landes, oder eine andere Stelle oder Person übertragen, die Gewähr dafür bietet, dass die Aufgaben dem öffentlichen Baurecht entsprechend wahrgenommen werden, und die der Aufsicht der ober",
+          "text_full": "4 sowie die Zustimmung und den Verzicht auf Zustimmung im Einzelfall(§ 20) auf eine Behörde, auch eines anderen Landes, oder eine andere Stelle oder Person übertragen, die Gewähr dafür bietet, dass die Aufgaben dem öffentlichen Baurecht entsprechend wahrgenommen werden, und die der Aufsicht der obersten Bauaufsichtsbehörde untersteht oder an deren Willensbildung die oberste Bauaufsichtsbehörde mitwirkt,\n4. die Voraussetzungen festlegen, die Sachkundige, Sachverständige, Einrichtungen und Stellen, die nach diesem Gesetz oder nach Vorschriften aufgrund dieses Gesetzes tätig werden können, zu erfüllen haben, wobei insbesondere Mindestanforderungen an die Ausbildung, die Fachkenntnisse und die Berufserfahrung gestellt sowie der Nachweis der persönlichen Zuverlässigkeit gefordert werden können,\n5."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 73a NBauO - Typengenehmigung",
+          "score": 0.702,
+          "text_preview": "3; sofern ein Verwendbarkeitsnachweis für ein Bauprodukt nach § 17 erforderlich ist, bedarf es einer allgemeinen bauaufsichtlichen Zulassung nach § 18 oder eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 19. 3Die Befristung der Typengenehmigung nach Absatz 2 Sätze 3 und 4 darf die Gültigke",
+          "text_full": "3; sofern ein Verwendbarkeitsnachweis für ein Bauprodukt nach § 17 erforderlich ist, bedarf es einer allgemeinen bauaufsichtlichen Zulassung nach § 18 oder eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 19. 3Die Befristung der Typengenehmigung nach Absatz 2 Sätze 3 und 4 darf die Gültigkeit der Bescheide über Typenprüfungen nach Satz 1 und der Genehmigungen, Zulassungen und Prüfzeugnisse nach Satz 2 nicht übersteigen.\n(5) Typengenehmigungen anderer Länder gelten auch in Niedersachsen."
+        }
+      ],
+      "top_score": 0.7635
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 6 NBauO - Hinzurechnung benachbarter Grundstücke",
+          "score": 0.6701,
+          "text_preview": "§ 6 NBauO - Hinzurechnung benachbarter Grundstücke\n(1) 1Benachbarte Verkehrsflächen öffentlicher Straßen dürfen für die Bemessung des Grenzabstandes bis zu ihrer Mittellinie dem Baugrundstück zugerechnet werden, unter den Voraussetzungen des Absatzes 2 auch über die Mittellinie hinaus. 2Mit Zustimmu",
+          "text_full": "§ 6 NBauO - Hinzurechnung benachbarter Grundstücke\n(1) 1Benachbarte Verkehrsflächen öffentlicher Straßen dürfen für die Bemessung des Grenzabstandes bis zu ihrer Mittellinie dem Baugrundstück zugerechnet werden, unter den Voraussetzungen des Absatzes 2 auch über die Mittellinie hinaus. 2Mit Zustimmung der Eigentümer dürfen öffentliche Grün- und Wasserflächen sowie Betriebsflächen öffentlicher Eisenbahnen und Straßenbahnen entsprechend Satz 1 zugerechnet werden.\n(2) Andere benachbarte Grundstücke dürfen für die Bemessung des Grenzabstandes dem Baugrundstück bis zu einer gedachten Grenze zugerechnet werden,wenn durch Baulast gesichert ist, dass auch bauliche Anlagen auf dem benachbarten Grundstück den vorgeschriebenen Abstand von dieser Grenze halten. © 2026 Wolters Kluwer Deutschland GmbH 16 / 79 gespeichert: 11.03.2026, 19:09 Uhr"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 5 NBauO - Grenzabstände",
+          "score": 0.6441,
+          "text_preview": "§ 5 NBauO - Grenzabstände\n(1) 1Gebäude müssen mit allen auf ihren Außenflächen oberhalb der Geländeoberfläche gelegenen Punkten von den Grenzen des Baugrundstücks Abstand halten. 2Satz 1 gilt entsprechend für andere bauliche Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, und Terrassen, sowe",
+          "text_full": "§ 5 NBauO - Grenzabstände\n(1) 1Gebäude müssen mit allen auf ihren Außenflächen oberhalb der Geländeoberfläche gelegenen Punkten von den Grenzen des Baugrundstücks Abstand halten. 2Satz 1 gilt entsprechend für andere bauliche Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, und Terrassen, soweit sie jeweils höher als 1 m über der Geländeoberfläche sind. 3Der Abstand ist zur nächsten Lotrechten über der Grenzlinie zu messen. 4Er richtet sich jeweils nach der Höhe des Punktes über der Geländeoberfläche (H). 5 Der Abstand darf auf volle 10 cm abgerundet werden. © 2026 Wolters Kluwer Deutschland GmbH 13 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n(2) 1Der Abstand beträgt 0,4 H, mindestens jedoch 3 m. 2Abweichend von Satz 1 beträgt der Abstand in Gewerbe- und Industriegebieten sowie in Gebieten, die nach ihrer baulichen Nutzung diesen Baugebieten entsprechen, 0,2 H, mindestens jedoch 3 m. 3Satz 2 gilt nicht, soweit auf dem Nachbargrundstück zu dem betroffenen Grenzabschnitt ein größerer Abstand einzuhalten wäre. 4Abweichend von Satz 1 beträgt der Abstand für Windenergieanlagen im Außenbereich oder in Sondergebieten für Windenergie 0,2 H, mindestens jedoch 3 m."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 5 NBauO - Grenzabstände",
+          "score": 0.6359,
+          "text_preview": "2 gilt Absatz 2 Satz 3 entsprechend.\n(9) 1Die nach den Absätzen 1 bis 8 und den §§ 6 und 7 maßgebliche Höhe der Geländeoberfläche ist die der gewachsenen Geländeoberfläche. 2Eine Veränderung dieser Geländeoberfläche durch Abgrabung ist zu berücksichtigen, eine Veränderung durch Aufschüttung dagegen ",
+          "text_full": "2 gilt Absatz 2 Satz 3 entsprechend.\n(9) 1Die nach den Absätzen 1 bis 8 und den §§ 6 und 7 maßgebliche Höhe der Geländeoberfläche ist die der gewachsenen Geländeoberfläche. 2Eine Veränderung dieser Geländeoberfläche durch Abgrabung ist zu berücksichtigen, eine Veränderung durch Aufschüttung dagegen nur, wenn die Geländeoberfläche dadurch an die vorhandene oder genehmigte Geländeoberfläche des Nachbargrundstücks angeglichen wird. 3Die Bauaufsichtsbehörde setzt die Höhe der Geländeoberfläche fest, soweit dies erforderlich ist. 4Dabei kann sie unter Würdigung nachbarlicher Belange den Anschluss an die Verkehrsflächen und die Abwasserbeseitigungsanlagen sowie Aufschüttungen berücksichtigen, die wegen des vorhandenen Geländeverlaufs gerechtfertigt sind.\n(10) 1Bei rechtmäßig bestehenden Gebäuden, die die Abstände nach den Absätzen 1 bis 8 nicht einhalten, bleiben Unterschreitungen dieser Abstände unbeachtlich bei\n1. Änderungen innerhalb dieses Gebäudes,\n2. der Änderung der Nutzung von Räumen und Gebäuden,\n3. der Errichtung und der Änderung von Vor- und Anbauten, die für sich genommen den Grenzabstand einhalten,\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.6327,
+          "text_preview": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jewei",
+          "text_full": "2026, 19:09 Uhr Baunutzungsverordnung (BauNVO) zugrunde zu legen ist, die für die Bestimmung des Begriffs des Vollgeschosses auf Landesrecht verweist, gelten die diesbezüglichen Vorschriften dieses Gesetzes in der Fassung, die in dem Zeitpunkt gilt, der für die Beurteilung der Zulässigkeit des jeweiligen Vorhabens maßgeblich ist.\n(8) Aufenthaltsraum ist ein Raum, der zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet ist.\n(9) 1Ein Stellplatz ist eine im Freien außerhalb der öffentlichen Verkehrsflächen gelegene Fläche zum Abstellen von Kraftfahrzeugen. 2Ein Einstellplatz ist eine Fläche zum Abstellen eines Kraftfahrzeuges auf einem Stellplatz oder in einer Garage.\n(10) 1Garagen sind Gebäude oder Gebäudeteile, einschließlich überdachter Stellplätze, zum Abstellen von Kraftfahrzeugen oder Kraftfahrzeugen und anderen Fahrzeugen, wie Fahrrädern. 2Garagen sind auch Parkhäuser. 3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Garagen.\n(11) Eine Feuerstätte ist eine ortsfeste oder ortsfest benutzte Anlage oder Einrichtung in oder an einem Gebäude, die dazu bestimmt ist, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 2 NBauO - Begriffe",
+          "score": 0.6267,
+          "text_preview": "(12) 1Baugrundstück ist das Grundstück im Sinne des Bürgerlichen Rechts, auf dem eine Baumaßnahme durchgeführt wird oder auf dem sich eine bauliche Anlage befindet. 2Das Baugrundstück kann auch aus mehreren aneinander grenzenden Grundstücken bestehen, wenn und solange durch Baulast gesichert ist, da",
+          "text_full": "(12) 1Baugrundstück ist das Grundstück im Sinne des Bürgerlichen Rechts, auf dem eine Baumaßnahme durchgeführt wird oder auf dem sich eine bauliche Anlage befindet. 2Das Baugrundstück kann auch aus mehreren aneinander grenzenden Grundstücken bestehen, wenn und solange durch Baulast gesichert ist, dass alle baulichen Anlagen auf den Grundstücken das öffentliche Baurecht so einhalten, als wären die Grundstücke ein Grundstück.\n(13) Baumaßnahme ist die Errichtung, die Änderung, der Abbruch, die Beseitigung, die Nutzungsänderung oder die Instandhaltung einer baulichen Anlage oder eines Teils einer baulichen Anlage.\n(14) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. EU Nr. L 88 S. 5; 2013 Nr. L 103 S. 10), zuletzt geändert durch die Delegierte Verordnung (EU) Nr. 574/2014 der Kommission vom 21. Februar 2014 (ABl. EU Nr. L 159 S."
+        }
+      ],
+      "top_score": 0.6701
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 14 NBauO - Brandschutz 1Bauliche Anlagen müssen so errichtet, geändert und instand gehalten werden und so angeordnet, bescha",
+          "score": 0.7149,
+          "text_preview": "§ 14 NBauO - Brandschutz 1Bauliche Anlagen müssen so errichtet, geändert und instand gehalten werden und so angeordnet, bescha\nffen und für ihre Benutzung geeignet sein, dass der Entstehung eines Brandes sowie der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand",
+          "text_full": "§ 14 NBauO - Brandschutz 1Bauliche Anlagen müssen so errichtet, geändert und instand gehalten werden und so angeordnet, bescha\nffen und für ihre Benutzung geeignet sein, dass der Entstehung eines Brandes sowie der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind. 2Soweit die Mittel der Feuerwehr zur Rettung von Menschen nicht ausreichen, sind stattdessen geeignete bauliche Vorkehrungen zu treffen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 32 NBauO - Dächer",
+          "score": 0.6447,
+          "text_preview": "§ 32 NBauO - Dächer\n(1) 1Bedachungen müssen gegen Flugfeuer und strahlende Wärme von außen ausreichend lang widerstandsfähig sein, soweit der Brandschutz nicht auf andere Weise gesichert ist. 2Das Tragwerk der Dächer einschließlich des Trägers der Dachhaut muss, soweit es der Brandschutz erfordert, ",
+          "text_full": "§ 32 NBauO - Dächer\n(1) 1Bedachungen müssen gegen Flugfeuer und strahlende Wärme von außen ausreichend lang widerstandsfähig sein, soweit der Brandschutz nicht auf andere Weise gesichert ist. 2Das Tragwerk der Dächer einschließlich des Trägers der Dachhaut muss, soweit es der Brandschutz erfordert, ausreichend lang widerstandsfähig gegen Feuer sein. 3Die Dachhaut muss gegen die Einflüsse der Witterung genügend beständig sein.\n(2) Soweit es dieVerkehrssicherheit erfordert, müssen Dächer mit Schutzvorrichtungen gegen das Herabfallen von Schnee und Eis versehen sein.\n(3) Dachüberstände, Dachgesimse, Dachaufbauten, Solarenergieanlagen, lichtdurchlässige Bedachungen, Lichtkuppeln und Oberlichte müssen so angeordnet und hergestellt sein, dass Feuer nicht auf andere Gebäudeteile oder Nachbargebäude übertragen werden kann.\n(4) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare Vorrichtungen anzubringen. © 2026 Wolters Kluwer Deutschland GmbH 25 / 79 gespeichert: 11.03.2026, 19:09 Uhr"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen",
+          "score": 0.6257,
+          "text_preview": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen\n, innerhalb ausgedehnter Gebäude oder bei baulichen Anlagen mit erhöhter Brandgefahr, erforderlich ist, um einer Brandausbreitung entgegenzuwirken. 2Brandwände müssen als ra",
+          "text_full": "§ 30 NBauO - Brandwände 1Brandwände müssen vorhanden sein, soweit dies, insbesondere bei geringen Gebäude- oder Grenzabständen\n, innerhalb ausgedehnter Gebäude oder bei baulichen Anlagen mit erhöhter Brandgefahr, erforderlich ist, um einer Brandausbreitung entgegenzuwirken. 2Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden oder zur Unterteilung von Gebäuden in Brandabschnitte so beschaffen und angeordnet sein, dass sie bei einem Brand ausreichend lang eine Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 4 NBauO - Zugänglichkeit des Baugrundstücks, Anordnung und Zugänglichkeit der baulichen Anlagen",
+          "score": 0.6111,
+          "text_preview": "2Für den Einsatz der Feuerlösch- und Rettungsgeräte muss die erforderliche Bewegungsfreiheit und Sicherheit gewährleistet sein.\n(4) 1Eine bauliche Anlage darf nicht auf mehreren Baugrundstücken gelegen sein. 2Dies gilt nicht für einen Überbau, der nach",
+          "text_full": "2Für den Einsatz der Feuerlösch- und Rettungsgeräte muss die erforderliche Bewegungsfreiheit und Sicherheit gewährleistet sein.\n(4) 1Eine bauliche Anlage darf nicht auf mehreren Baugrundstücken gelegen sein. 2Dies gilt nicht für einen Überbau, der nach"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 29 NBauO - Trennwände Trennwände müssen, wenn sie raumabschließende Bauteile von Räumen oder Nutzungseinheiten sind, ausreic",
+          "score": 0.6005,
+          "text_preview": "§ 29 NBauO - Trennwände Trennwände müssen, wenn sie raumabschließende Bauteile von Räumen oder Nutzungseinheiten sind, ausreic\nhend lang widerstandsfähig gegen eine Brandausbreitung sein, soweit dies erforderlich ist, um der Brandausbreitung innerhalb von Geschossen entgegenzuwirken.",
+          "text_full": "§ 29 NBauO - Trennwände Trennwände müssen, wenn sie raumabschließende Bauteile von Räumen oder Nutzungseinheiten sind, ausreic\nhend lang widerstandsfähig gegen eine Brandausbreitung sein, soweit dies erforderlich ist, um der Brandausbreitung innerhalb von Geschossen entgegenzuwirken."
+        }
+      ],
+      "top_score": 0.7149
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 16b NBauO - Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.648,
+          "text_preview": "§ 16b NBauO - Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes o",
+          "text_full": "§ 16b NBauO - Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 Abs. 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 17 NBauO - Verwendbarkeitsnachweis",
+          "score": 0.6168,
+          "text_preview": "§ 17 NBauO - Verwendbarkeitsnachweis\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es für das Bauprodukt keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 83 Abs",
+          "text_full": "§ 17 NBauO - Verwendbarkeitsnachweis\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es für das Bauprodukt keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 83 Abs. 2 Nr. 3) wesentlich abweicht oder\n3. eine Verordnung nach § 82 Abs. 5 dies für das Bauprodukt vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften nur eine untergeordnete Bedeutung hat. © 2026 Wolters Kluwer Deutschland GmbH 20 / 79 gespeichert: 11.03.2026, 19:09 Uhr\n(3) Die Technischen Baubestimmungen nach § 83 enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 73a NBauO - Typengenehmigung",
+          "score": 0.6156,
+          "text_preview": "3; sofern ein Verwendbarkeitsnachweis für ein Bauprodukt nach § 17 erforderlich ist, bedarf es einer allgemeinen bauaufsichtlichen Zulassung nach § 18 oder eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 19. 3Die Befristung der Typengenehmigung nach Absatz 2 Sätze 3 und 4 darf die Gültigke",
+          "text_full": "3; sofern ein Verwendbarkeitsnachweis für ein Bauprodukt nach § 17 erforderlich ist, bedarf es einer allgemeinen bauaufsichtlichen Zulassung nach § 18 oder eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 19. 3Die Befristung der Typengenehmigung nach Absatz 2 Sätze 3 und 4 darf die Gültigkeit der Bescheide über Typenprüfungen nach Satz 1 und der Genehmigungen, Zulassungen und Prüfzeugnisse nach Satz 2 nicht übersteigen.\n(5) Typengenehmigungen anderer Länder gelten auch in Niedersachsen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 66 Abs. 1 bleiben unberührt.",
+          "score": 0.6105,
+          "text_preview": "2026, 19:09 Uhr\na) Planung, Bemessung und Ausführung baulicher Anlagen bei Einbau eines Bauprodukts,\nb) Merkmale von Bauprodukten, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 auswirken,\nc) Verfahren für die Feststellung der Leistung eines Bauprodukts im Hinblick ",
+          "text_full": "2026, 19:09 Uhr\na) Planung, Bemessung und Ausführung baulicher Anlagen bei Einbau eines Bauprodukts,\nb) Merkmale von Bauprodukten, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 auswirken,\nc) Verfahren für die Feststellung der Leistung eines Bauprodukts im Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 auswirken,\nd) zulässige oder unzulässige besondere Verwendungszwecke,\ne) die Festlegung von Klassen und Stufen in Bezug auf bestimmte Verwendungszwecke,\nf) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 auswirkt, soweit vorgesehen in Klassen und Stufen,\n4. die Bauarten und die Bauprodukte, die nur eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 16a Abs. 3 oder § 19 Abs. 1 bedürfen,\n5. Voraussetzungen zur Abgabe der Übereinstimmungserklärung für ein Bauprodukt nach § 22,\n6. die Art, den Inhalt und die Form technischer Dokumentation."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 16a NBauO - Bauarten",
+          "score": 0.5992,
+          "text_preview": "2026, 19:09 Uhr oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Verordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass der Anwender über solche Fachkräfte und Vorrichtungen zu verfügen und den Nachweis hierüber gegenüber eine",
+          "text_full": "2026, 19:09 Uhr oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Verordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass der Anwender über solche Fachkräfte und Vorrichtungen zu verfügen und den Nachweis hierüber gegenüber einer Prüfstelle nach § 24 Satz 1 Nr. 6 zu erbringen hat. 2In der Verordnung können Mindestanforderungen an die Ausbildung, die durch Prüfung nachzuweisende Befähigung und dieAusbildungsstätten einschließlich der Anerkennungsvoraussetzungen gestellt werden.\n(7) Für Bauarten, die einer außergewöhnlichen Sorgfalt bei der Ausführung oder der Instandhaltung bedürfen, kann in der Bauartgenehmigung oder durch Verordnung der obersten Bauaufsichtsbehörde die Überwachung dieser Tätigkeiten durch eine Überwachungsstelle nach § 24 Satz 1 Nr. 5 vorgeschrieben werden. §§ 16b - 25, Vierter Teil - Bauprodukte"
+        }
+      ],
+      "top_score": 0.648
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-NI",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 55 NBauO - Bauleiterin und Bauleiter",
+          "score": 0.8006,
+          "text_preview": "§ 55 NBauO - Bauleiterin und Bauleiter\n(1) 1Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. 2Sie oder er hat im Rahmen dieser Aufgabe auf den si",
+          "text_full": "§ 55 NBauO - Bauleiterin und Bauleiter\n(1) 1Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. 2Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmerinnen und Unternehmer zu achten. 3Die Verantwortlichkeit der Unternehmerinnen und Unternehmer bleibt unberührt.\n(2) 1Die Bauleiterin oder der Bauleiter muss über die für die Aufgabe erforderlichen Fachkenntnisse verfügen. 2Verfügt sie oder er auf einzelnen Teilgebieten nicht über die erforderlichen Fachkenntnisse, so ist eine geeignete Fachbauleiterin oder ein geeigneter Fachbauleiter zu bestellen. 3Die bestellte Person übernimmt für die Teilgebiete die Aufgaben der Bauleiterin oder des Bauleiters nach Absatz 1. 4Die Bauleiterin oder der Bauleiter hat ihre oder seine Tätigkeit mit der Tätigkeit der Fachbauleiterin oder des Fachbauleiters abzustimmen. © 2026 Wolters Kluwer Deutschland GmbH 39 / 79 gespeichert: 11.03.2026, 19:09 Uhr"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 52 NBauO - Bauherrin und Bauherr",
+          "score": 0.7594,
+          "text_preview": "§ 52 NBauO - Bauherrin und Bauherr\n(1) Die Bauherrin oder der Bauherr ist dafür verantwortlich, dass die von ihr oder ihm veranlasste Baumaßnahme dem öffentlichen Baurecht entspricht.\n(2) 1Die Bauherrin oder der Bauherr einer nicht verfahrensfreien Baumaßnahme hat zu deren Vorbereitung, Überwachung ",
+          "text_full": "§ 52 NBauO - Bauherrin und Bauherr\n(1) Die Bauherrin oder der Bauherr ist dafür verantwortlich, dass die von ihr oder ihm veranlasste Baumaßnahme dem öffentlichen Baurecht entspricht.\n(2) 1Die Bauherrin oder der Bauherr einer nicht verfahrensfreien Baumaßnahme hat zu deren Vorbereitung, Überwachung und Ausführung verantwortliche Personen im Sinne der §§ 53 bis 55 zu bestellen, soweit sie oder er nicht selbst die Anforderungen nach den §§ 53 bis 55 erfüllt odererfüllen kann.2Ihr oder ihm obliegt © 2026 Wolters Kluwer Deutschland GmbH 36 / 79 gespeichert: 11.03.2026, 19:09 Uhr es außerdem, die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge zu stellen, Anzeigen zu machen und Nachweise zu erbringen. 3Sie oder er hat sich bei der Abgabe der jeweiligen Erklärungen durch eine Entwurfsverfasserin oder einen Entwurfsverfasser vertreten zu lassen, soweit eine solche oder ein solcher zu bestellen ist. 4Die Bauherrin oder der Bauherr hat zu den verwendeten Bauprodukten und den angewandten Bauarten die erforderlichen Nachweise über die Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften bereitzuhalten."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 58 NBauO - Aufgaben und Befugnisse der Bauaufsichtsbehörden",
+          "score": 0.7587,
+          "text_preview": "§ 58 NBauO - Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) 1Die Bauaufsichtsbehörden haben, soweit erforderlich, darüber zu wachen und darauf hinzuwirken, dass Anlagen, Grundstücke und Baumaßnahmen dem öffentlichen Baurecht entsprechen. 2Sie haben in diesem Rahmen auch die Verantwortlichen zu",
+          "text_full": "§ 58 NBauO - Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) 1Die Bauaufsichtsbehörden haben, soweit erforderlich, darüber zu wachen und darauf hinzuwirken, dass Anlagen, Grundstücke und Baumaßnahmen dem öffentlichen Baurecht entsprechen. 2Sie haben in diesem Rahmen auch die Verantwortlichen zu beraten.\n(2) Die unteren Bauaufsichtsbehörden sind zuständig, soweit nichts anderes bestimmt ist.\n(3) Die unteren Bauaufsichtsbehörden sind zuständig für die Ausübung der Aufsicht über die bevollmächtigten Bezirksschornsteinfegerinnen und bevollmächtigten Bezirksschornsteinfeger hinsichtlich der Wahrnehmung der ihnen nach § 40 Abs. 6 übertragenen Aufgaben und Befugnisse und der Einhaltung ihrer insoweit bestehenden Pflichten.\n(4) Die oberste Bauaufsichtsbehörde übt die Fachaufsicht über die unteren Bauaufsichtsbehörden aus.\n(5) 1Die oberste Bauaufsichtsbehörde kann einzelne Befugnisse, die ihr nach diesem Gesetz zustehen, auf andere Behörden des Landes übertragen. 2Sie kann außerdem widerruflich oder befristet die Zuständigkeit für\n1. die Anerkennung von Prüf-, Zertifizierungs- und Überwachungsstellen (§ 24) und © 2026 Wolters Kluwer Deutschland GmbH 40 / 79 gespeichert: 11.03."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 74 NBauO - Bauaufsichtliche Zustimmung",
+          "score": 0.7546,
+          "text_preview": "§ 74 NBauO - Bauaufsichtliche Zustimmung\n(1) 1Ist der Bund oder ein Land Bauherr, so tritt an die Stelle einer sonst erforderlichen Baugenehmigung die Zustimmung der obersten Bauaufsichtsbehörde, wenn\n1. die Leitung der Entwurfsarbeiten und die Überwachung der Bauarbeiten in der Bauverwaltung des Bu",
+          "text_full": "§ 74 NBauO - Bauaufsichtliche Zustimmung\n(1) 1Ist der Bund oder ein Land Bauherr, so tritt an die Stelle einer sonst erforderlichen Baugenehmigung die Zustimmung der obersten Bauaufsichtsbehörde, wenn\n1. die Leitung der Entwurfsarbeiten und die Überwachung der Bauarbeiten in der Bauverwaltung des Bundes oder des Landes einer bediensteten Person übertragen sind, die die Anforderungen nach § 57 Abs. 4 Satz 2 oder entsprechende Anforderungen erfüllt und ein Hochschulstudium der Fachrichtung Hochbau oder Bauingenieurwesen abgeschlossen hat, und\n2. die bedienstete Person bei der Erfüllung der ihr übertragenen Aufgaben ausreichend von sonstigen geeigneten Fachkräften unterstützt wird. 2Dies gilt entsprechend für Baumaßnahmen anderer Bauherrinnen oder Bauherren, wenn das Staatliche Baumanagement Niedersachsen oder die Klosterkammer Hannover die Entwurfsarbeiten leitet und die Bauarbeiten überwacht. 3Die Sätze 1 und 2 gelten nicht für die vorübergehende Nutzung eines Raumes, der nicht als Versammlungsraum genehmigt ist, als Versammlungsraum.\n(2) 1Der Antrag auf Zustimmung ist mit den beizufügenden Bauvorlagen bei der obersten Bauaufsichtsbehörde einzureichen. 2Die §§ 68, 69 Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Niedersachsen",
+          "jurisdiction": "DE-NI",
+          "source_paragraph": "§ 57 NBauO - Bauaufsichtsbehörden",
+          "score": 0.7537,
+          "text_preview": "4 Satz 1 und § 177 Abs. 1 des Niedersächsischen Kommunalverfassungsgesetzes gelten sinngemäß.\n(3) Die Aufgaben der unteren Bauaufsichtsbehörden gehören zum übertragenen Wirkungskreis.\n(4) 1Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetze",
+          "text_full": "4 Satz 1 und § 177 Abs. 1 des Niedersächsischen Kommunalverfassungsgesetzes gelten sinngemäß.\n(3) Die Aufgaben der unteren Bauaufsichtsbehörden gehören zum übertragenen Wirkungskreis.\n(4) 1Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen und mit den erforderlichen Einrichtungen auszustatten, sodass sichergestellt ist, dass die Aufgaben ordnungsgemäß wahrgenommen werden. 2Den Bauaufsichtsbehörden sollen Bedienstete angehören mit der Befähigung für die Laufbahn der Laufbahngruppe 2 der Fachrichtung Technische Dienste, die die Voraussetzungen für den Zugang für das zweite Einstiegsamt erfüllen oder eine von der obersten Dienstbehörde bestimmte laufbahnrechtliche Qualifizierung erfolgreich durchlaufen haben und die erforderlichen Kenntnisse der Bautechnik, der Baugestaltung und des öffentlichen Baurechts haben."
+        }
+      ],
+      "top_score": 0.8006
+    }
+  ]
+}

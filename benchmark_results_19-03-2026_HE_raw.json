@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-HE",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 16080,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6702,
+          "text_preview": "§ 2 Begriffe\n(1) Anlagen im Sinne dieses Gesetzes sind bauliche Anlagen sowie andere Anlagen, Einrichtungen und Grundstücke nach § 1 Abs. 1 Satz 2.\n(2) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn d",
+          "text_full": "§ 2 Begriffe\n(1) Anlagen im Sinne dieses Gesetzes sind bauliche Anlagen sowie andere Anlagen, Einrichtungen und Grundstücke nach § 1 Abs. 1 Satz 2.\n(2) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Erdboden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest genutzt zu werden. Als bauliche Anlagen gelten:\n1. Aufschüttungen und Abgrabungen,\n2. Lager-, Abstell- und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Camping-, Zelt- und Wochenendplätze,\n- Seite 9 von 97 -\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze für Kraftfahrzeuge und Abstellplätze für Fahrräder,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen.\n(3) Gebäude sind selbstständig nutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(4) Gebäude werden in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "score": 0.6305,
+          "text_preview": "§ 10 Anlagen der Außenwerbung Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Anlagen der Außenwerbung Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung",
+          "score": 0.6302,
+          "text_preview": "§ 10 Anlagen der Außenwerbung\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten oder ortsfest genutzten Anlagen, die der Ankündigung, der Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Werbeanlagen gelten als bauliche Anl",
+          "text_full": "§ 10 Anlagen der Außenwerbung\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten oder ortsfest genutzten Anlagen, die der Ankündigung, der Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Werbeanlagen gelten als bauliche Anlagen.\n(2) Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf:\n1. Werbung an dafür genehmigten Säulen, Tafeln und Flächen,\n2. Werbemittel an Zeitungs- und Zeitschriftenverkaufsstellen,\n3. Auslagen und Dekorationen in Fenstern und Schaukästen,\n4. Wahlwerbung für die Dauer eines Wahlkampfes, außer im Außenbereich, und\n5. Anlagen zur Unterrichtung der Bevölkerung über politische Veranstaltungen der Parteien, außer im Außenbereich. Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6201,
+          "text_preview": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und",
+          "text_full": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und außer Wohnungen allenfalls Räume für die Berufsausübung freiberuflich oder in ähnlicher Art Tätiger sowie die zugehörigen Garagen und Nebenräume enthalten.\n(8) Barrierefrei sind Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(9) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Gebäude von mehr als 22 m Höhe im Sinne des Abs. 4 Satz 2 (Hochhäuser),\n2. bauliche Anlagen mit mehr als 30 m Höhe über der Geländeoberfläche im Mittel, ausgenommen\na) Windenergieanlagen und sonstige Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. EU Nr. L 328 S."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 59 Bauleitung",
+          "score": 0.6159,
+          "text_preview": "§ 59 Bauleitung\nFÜNFTER TEIL Bauaufsichtsbehörden und Verwaltungsverfahren Erster Abschnitt Bauaufsichtsbehörden",
+          "text_full": "§ 59 Bauleitung\nFÜNFTER TEIL Bauaufsichtsbehörden und Verwaltungsverfahren Erster Abschnitt Bauaufsichtsbehörden"
+        }
+      ],
+      "top_score": 0.6702
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.59,
+          "text_preview": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und",
+          "text_full": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und außer Wohnungen allenfalls Räume für die Berufsausübung freiberuflich oder in ähnlicher Art Tätiger sowie die zugehörigen Garagen und Nebenräume enthalten.\n(8) Barrierefrei sind Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(9) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Gebäude von mehr als 22 m Höhe im Sinne des Abs. 4 Satz 2 (Hochhäuser),\n2. bauliche Anlagen mit mehr als 30 m Höhe über der Geländeoberfläche im Mittel, ausgenommen\na) Windenergieanlagen und sonstige Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. EU Nr. L 328 S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder",
+          "score": 0.5549,
+          "text_preview": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder\n(1) Die Gemeinden legen unter Berücksichtigung der örtlichen Verkehrsverhältnisse fest, ob und in welchem Umfang bei der Errichtung, Änderung oder Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten",
+          "text_full": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder\n(1) Die Gemeinden legen unter Berücksichtigung der örtlichen Verkehrsverhältnisse fest, ob und in welchem Umfang bei der Errichtung, Änderung oder Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten ist, geeignete Stellplätze für Kraftfahrzeuge, einschließlich für Kraftfahrzeuge von Menschen mit Behinderungen, errichtet werden müssen, um den Erfordernissen des ruhenden Verkehrs zu genügen (notwendige Stellplätze). Die Anzahl notwendiger Stellplätze erhöht sich nicht, wenn durch nachträglichen Ausbau von Dach- oder Kellergeschossen, Teilung von Wohnungen, die Errichtung von untergeordneten Anbauten sowie durch Umnutzung und Aufstockung von rechtmäßig bestehenden Gebäuden zusätzlicher Wohnraum geschaffen wird. (1a) Bis zum Ablauf des 31. Dezember 2030 dürfen in den kreisfreien Städten zum 14. Oktober 2025 bei der Errichtung von Wohngebäuden mit bis zu 14 Wohnungen keine Stellplätze und bei der Errichtung von Wohngebäuden mit mehr als 14 Wohnungen nicht mehr als 0,5 Stellplätze je Wohnung ge2 3 fordert werden. In diesem Fall ist Abs. 2 Satz 1 Nr. 7 nicht anzuwenden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 32 Trennwände",
+          "score": 0.5357,
+          "text_preview": "§ 32 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheit",
+          "text_full": "§ 32 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Abs. 2 Nr. 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Abs. 2 Nr. 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Abs. 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen.\n(5) Öffnungen in Trennwänden nach Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 54 Barrierefreies Bauen",
+          "score": 0.5297,
+          "text_preview": "§ 54 Barrierefreies Bauen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen mindestens 20 Prozent der Wohnungen barrierefrei erreichbar und zugänglich sein, höchstens jedoch 20 Wohnungen. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad sowie die Küche oder die Kochnisch",
+          "text_full": "§ 54 Barrierefreies Bauen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen mindestens 20 Prozent der Wohnungen barrierefrei erreichbar und zugänglich sein, höchstens jedoch 20 Wohnungen. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad sowie die Küche oder die Kochnische barrierefrei zugänglich sein. Die Räume nach Satz 2 sind so herzustellen und vorzubereiten, dass sie für eine barrierefreie Nutzung leicht einzurichten und auszustatten sind. Soweit die Wohnung über einen Freisitz verfügt, muss dieser von der Wohnung aus schwellenlos erreichbar sein. § 42 Abs. 5 bleibt unberührt.\n(2) Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden Teilen barrierefrei sein. Dies gilt insbesondere für:\n1. Einrichtungen der Kultur und des Bildungswesens,\n2. Sport- und Freizeitstätten,\n3. Einrichtungen des Gesundheitswesens,\n4. Büro-, Verwaltungs- und Gerichtsgebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 51 Wohnungen 1 2",
+          "score": 0.5149,
+          "text_preview": "§ 51 Wohnungen 1 2\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(3) Für jede Wohnung in Gebäuden der Gebäudekla",
+          "text_full": "§ 51 Wohnungen 1 2\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(3) Für jede Wohnung in Gebäuden der Gebäudeklassen 3 bis 5 ist ein ausreichend großer Abstellraum herzustellen. In Gebäuden der Gebäudeklassen 3 bis 5 mit mehr als zwei Wohnungen sind zusätzlich ausreichend große, leicht erreichbare Abstellräume insbesondere für Kinderwagen und Mobilitätshilfen herzustellen; die Herstellung als Gemeinschaftsräume ist zulässig. Die Abstellräume nach Satz 2 müssen schwellenlos zugänglich sein, sofern dies nicht mit einem unverhältnismäßigen Mehraufwand verbunden oder aus bautechnischen Gründen nicht möglich ist. Satz 1 und 2 gelten nicht für Wohnungen, die durch Dachausbau, Aufstockung oder Umnutzung rechtmäßig bestehender Gebäude entstehen.\n(4) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 30 bis 35, 37, 38 Abs. 4 bis 8 und 39 nicht anzuwenden."
+        }
+      ],
+      "top_score": 0.59
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5387,
+          "text_preview": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen, sonst sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine\n- Seite 10 von 97 ",
+          "text_full": "(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen, sonst sind sie Kellergeschosse. Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine\n- Seite 10 von 97 Geschosse. Vollgeschosse sind oberirdische Geschosse, die eine Höhe von mindestens 2,30 m haben. Ein gegenüber mindestens einer Außenwand des Gebäudes zurückgesetztes oberstes Geschoss (Staffelgeschoss) und ein Geschoss mit mindestens einer geneigten Dachfläche ist ein Vollgeschoss, wenn es diese Höhe über mehr als drei Viertel der Grundfläche des darunter liegenden Geschosses hat. Die Höhe der Geschosse wird von Oberkante Rohfußboden bis Oberkante Rohfußboden der darüber liegenden Decke, bei Geschossen mit Dachflächen bis Oberkante der Tragkonstruktion gemessen. Untergeordnete Aufbauten über Dach und untergeordnete Unterkellerungen zur Unterbringung von maschinentechnischen Anlagen für die Gebäude sind keine Vollgeschosse. Dachgeschosse sind Geschosse mit mindestens einer geneigten Dachfläche."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 32 Trennwände",
+          "score": 0.5355,
+          "text_preview": "§ 32 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheit",
+          "text_full": "§ 32 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Abs. 2 Nr. 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Abs. 2 Nr. 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Abs. 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen.\n(5) Öffnungen in Trennwänden nach Abs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 52",
+          "score": 0.5331,
+          "text_preview": "§ 52\n- Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrrä- 14.10.2025 der",
+          "text_full": "§ 52\n- Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrrä- 14.10.2025 der"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder",
+          "score": 0.5239,
+          "text_preview": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder\n(1) Die Gemeinden legen unter Berücksichtigung der örtlichen Verkehrsverhältnisse fest, ob und in welchem Umfang bei der Errichtung, Änderung oder Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten",
+          "text_full": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder\n(1) Die Gemeinden legen unter Berücksichtigung der örtlichen Verkehrsverhältnisse fest, ob und in welchem Umfang bei der Errichtung, Änderung oder Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten ist, geeignete Stellplätze für Kraftfahrzeuge, einschließlich für Kraftfahrzeuge von Menschen mit Behinderungen, errichtet werden müssen, um den Erfordernissen des ruhenden Verkehrs zu genügen (notwendige Stellplätze). Die Anzahl notwendiger Stellplätze erhöht sich nicht, wenn durch nachträglichen Ausbau von Dach- oder Kellergeschossen, Teilung von Wohnungen, die Errichtung von untergeordneten Anbauten sowie durch Umnutzung und Aufstockung von rechtmäßig bestehenden Gebäuden zusätzlicher Wohnraum geschaffen wird. (1a) Bis zum Ablauf des 31. Dezember 2030 dürfen in den kreisfreien Städten zum 14. Oktober 2025 bei der Errichtung von Wohngebäuden mit bis zu 14 Wohnungen keine Stellplätze und bei der Errichtung von Wohngebäuden mit mehr als 14 Wohnungen nicht mehr als 0,5 Stellplätze je Wohnung ge2 3 fordert werden. In diesem Fall ist Abs. 2 Satz 1 Nr. 7 nicht anzuwenden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 38 Notwendige Treppenräume, Ausgänge",
+          "score": 0.5202,
+          "text_preview": "zu Kellergeschossen, zu nicht ausgebauten Dachräumen, Werkstätten, Läden, Lager- und ähnlichen Räumen sowie zu sonstigen Räumen und Nutzungseinheiten mit einer Fläche von mehr als 200 m2 Grundfläche, ausgenommen Wohnungen, mindestens feuerhemmende, rauchdichte und selbstschließende Abschlüsse,\n- Sei",
+          "text_full": "zu Kellergeschossen, zu nicht ausgebauten Dachräumen, Werkstätten, Läden, Lager- und ähnlichen Räumen sowie zu sonstigen Räumen und Nutzungseinheiten mit einer Fläche von mehr als 200 m2 Grundfläche, ausgenommen Wohnungen, mindestens feuerhemmende, rauchdichte und selbstschließende Abschlüsse,\n- Seite 39 von 97 -\n2. zu notwendigen Fluren rauchdichte und selbstschließende Abschlüsse,\n3. zu sonstigen Räumen und Nutzungseinheiten mindestens dicht und selbstschließende Abschlüsse 2 3 haben. Öffnungen zu Treppenräumen dürfen nicht breiter als 2,50 m sein. Die Feuer- und Rauchschutzabschlüsse dürfen lichtdurchlässige Seitenteile und Oberlichte enthalten, wenn der Abschluss insgesamt nicht breiter als 2,50 m ist. 1 2\n(7) Notwendige Treppenräume müssen zu beleuchten sein. Notwendige Treppenräume ohne Fenster müssen in Gebäuden mit einer Höhe nach § 2 Abs. 4 Satz 2 von mehr als 13 m eine Sicherheitsbeleuchtung haben.\n(8) Notwendige Treppenräume müssen belüftet und zur Unterstützung wirksamer Löscharbeiten entraucht werden können. Sie müssen\n1."
+        }
+      ],
+      "top_score": 0.5387
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 76 Bauvoranfrage, Bauvorbescheid",
+          "score": 0.7808,
+          "text_preview": "§ 76 Bauvoranfrage, Bauvorbescheid\n(1) Vor Einreichen des Bauantrages kann auf Antrag (Bauvoranfrage) zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein schriftlicher Bescheid (Bauvorbe2 3 scheid) erteilt werden. Der Bauvorbescheid gilt drei Jahre. Die Frist ka",
+          "text_full": "§ 76 Bauvoranfrage, Bauvorbescheid\n(1) Vor Einreichen des Bauantrages kann auf Antrag (Bauvoranfrage) zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein schriftlicher Bescheid (Bauvorbe2 3 scheid) erteilt werden. Der Bauvorbescheid gilt drei Jahre. Die Frist kann auf Antrag um jeweils bis zu einem Jahr verlängert werden. Soweit der Bauvorbescheid nicht zurückgenommen oder widerrufen wird, ist er für das Baugenehmigungsverfahren bindend.\n(2) Die §§ 57 und 65 bis 74 gelten entsprechend."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 68",
+          "score": 0.7728,
+          "text_preview": "§ 68\nbleibt unberührt. 1 2\n(2) Der Eingang des vollständigen Bauantrages ist unter Angabe des Datums zu bestätigen. Über den Bauantrag ist innerhalb von drei Monaten nach Eingang des vollständigen Antrages zu entscheiden; die Bauaufsichtsbehörde kann diese Frist aus wichtigem Grund um bis zu zwei Mo",
+          "text_full": "§ 68\nbleibt unberührt. 1 2\n(2) Der Eingang des vollständigen Bauantrages ist unter Angabe des Datums zu bestätigen. Über den Bauantrag ist innerhalb von drei Monaten nach Eingang des vollständigen Antrages zu entscheiden; die Bauaufsichtsbehörde kann diese Frist aus wichtigem Grund um bis zu zwei Monate verlängern. Die Baugenehmigung gilt als erteilt, wenn über den Bauantrag nicht innerhalb der nach Satz 2 maßgeblichen Frist entschieden worden ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 77 Teilbaugenehmigung",
+          "score": 0.7726,
+          "text_preview": "§ 77 Teilbaugenehmigung\n(1) Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung schriftlich gestattet werden (Teilbaugenehmigung). Die §§ 70 bis 75 gelten entsprechend.\n(2) In d",
+          "text_full": "§ 77 Teilbaugenehmigung\n(1) Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf Antrag schon vor Erteilung der Baugenehmigung schriftlich gestattet werden (Teilbaugenehmigung). Die §§ 70 bis 75 gelten entsprechend.\n(2) In der Baugenehmigung können für die bereits begonnenen Teile des Bauvorhabens zusätzliche Anforderungen gestellt werden, wenn sich bei der weiteren Prüfung der Bauvorlagen ergibt, dass dies zur Wahrung der in § 3 Satz 1 und 2 genannten Belange erforderlich ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 74 Baugenehmigung",
+          "score": 0.7719,
+          "text_preview": "§ 74 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im Baugenehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche ",
+          "text_full": "§ 74 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im Baugenehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt.\n(2) Auf Antrag können zu einem baugenehmigungspflichtigen Vorhaben gehörende Teile, Anlagen und Einrichtungen, die erst in einem späten Abschnitt der Bauausführung hergestellt, eingebaut, angebracht oder angeschlossen werden, von der Baugenehmigung ausgenommen und besonderen Baugenehmigungen vorbehalten werden, soweit eine getrennte Beurteilung möglich ist. 1 2\n(3) Die Baugenehmigung bedarf der Schriftform. Ihr ist als Bestandteil eine Ausfertigung der mit einem Genehmigungsvermerk versehenen Bauvorlagen beizufügen. Die Baugenehmigung ist nur insoweit zu begründen, als Abweichungen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und der Nachbar nicht nach § 71 Abs. 2 zugestimmt hat."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 74 Baugenehmigung",
+          "score": 0.7364,
+          "text_preview": "- Seite 67 von 97 -\n(4) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(5) Die Baugenehmigung wird unbeschadet der privaten Rechte Dritter erteilt.\n(6) Die Bauaufsichtsbehörde ha",
+          "text_full": "- Seite 67 von 97 -\n(4) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(5) Die Baugenehmigung wird unbeschadet der privaten Rechte Dritter erteilt.\n(6) Die Bauaufsichtsbehörde hat die Gemeinde von der Erteilung, dem Ablauf der Frist nach § 65 Abs. 2 Satz 2, der Verlängerung, der Ablehnung, der Rücknahme und dem Widerruf der Baugenehmigung unverzüglich zu unterrichten. Eine Ausfertigung des Bescheides ist beizufügen.\n(7) Die Baugenehmigung erlischt, wenn innerhalb von fünf Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung zwei Jahre unterbrochen worden 2 3 ist. Diese Frist kann auf Antrag um jeweils bis zu zwei Jahre verlängert werden. Sie kann rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        }
+      ],
+      "top_score": 0.7808
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5806,
+          "text_preview": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und",
+          "text_full": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und außer Wohnungen allenfalls Räume für die Berufsausübung freiberuflich oder in ähnlicher Art Tätiger sowie die zugehörigen Garagen und Nebenräume enthalten.\n(8) Barrierefrei sind Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(9) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Gebäude von mehr als 22 m Höhe im Sinne des Abs. 4 Satz 2 (Hochhäuser),\n2. bauliche Anlagen mit mehr als 30 m Höhe über der Geländeoberfläche im Mittel, ausgenommen\na) Windenergieanlagen und sonstige Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. EU Nr. L 328 S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 41 Umwehrungen",
+          "score": 0.5786,
+          "text_preview": "§ 41 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n",
+          "text_full": "§ 41 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. nicht begehbare Oberlichte und Glasabdeckungen in Flächen, die im Allgemeinen zum Begehen bestimmt sind, wenn sie weniger als 0,50 m aus diesen Flächen herausragen,\n3. Dächer oder Dachteile, die zum auch nur zeitweiligen Aufenthalt von Menschen bestimmt sind,\n4. Öffnungen in begehbaren Decken sowie in Dächern oder Dachteilen nach Nr. 3, wenn sie nicht sicher abgedeckt sind,\n5. nicht begehbare Glasflächen in Decken sowie in Dächern oder Dachteilen nach Nr. 3,\n6. die freien Seiten von Treppenläufen, Treppenabsätzen und Treppenöffnungen (Treppenaugen),\n7. Kellerlichtschächte und Betriebsschächte, die an Verkehrsflächen liegen, wenn sie nicht verkehrssicher abgedeckt sind.\n(2) In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abzudecken."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 54 Barrierefreies Bauen",
+          "score": 0.5762,
+          "text_preview": "Die Barrierefreiheit darf sich auf bestimmte Räume oder Bereiche beschränken, wenn dies einer zweckentsprechenden Nutzung der Räume oder Anlage nicht entgegensteht. Toilettenräume und notwendige Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.\n(3) Anforder",
+          "text_full": "Die Barrierefreiheit darf sich auf bestimmte Räume oder Bereiche beschränken, wenn dies einer zweckentsprechenden Nutzung der Räume oder Anlage nicht entgegensteht. Toilettenräume und notwendige Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.\n(3) Anforderungen der Abs. 1 und 2 gelten jeweils nicht, soweit sie nur mit einem unverhältnismäßigen Mehraufwand umgesetzt oder aus bautechnischen Gründen nicht erfüllt werden können.\nVIERTER TEIL Die am Bau Beteiligten"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 32 Trennwände",
+          "score": 0.5687,
+          "text_preview": "§ 32 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheit",
+          "text_full": "§ 32 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Abs. 2 Nr. 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Abs. 2 Nr. 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Abs. 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen.\n(5) Öffnungen in Trennwänden nach Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 38 Notwendige Treppenräume, Ausgänge",
+          "score": 0.5678,
+          "text_preview": "Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n- Seite 38 von 97 1 2\n(3) Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines n",
+          "text_full": "Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n- Seite 38 von 97 1 2\n(3) Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines notwendigen Treppenraumes nicht unmittelbar ins Freie führt, muss der Raum zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie\n1. mindestens so breit sein wie die dazugehörigen Treppenläufe,\n2. Wände haben, die die Anforderungen an die Wände des Treppenraumes erfüllen,\n3. rauchdichte und selbstschließende Abschlüsse zu notwendigen Fluren haben und\n4. ohne Öffnungen zu anderen Räumen, ausgenommen zu notwendigen Fluren, sein. In Geschossen mit mehr als vier Nutzungseinheiten müssen notwendige Flure angeordnet sein.\n(4) Die Wände notwendiger Treppenräume müssen als raumabschließende Bauteile\n1. in Gebäuden der Gebäudeklasse 5 die Bauart von Brandwänden haben,\n2. in Gebäuden der Gebäudeklasse 4 auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend und\n3. in Gebäuden der Gebäudeklasse 3 feuerhemmend sein."
+        }
+      ],
+      "top_score": 0.5806
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "score": 0.7452,
+          "text_preview": "§ 10 Anlagen der Außenwerbung Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Anlagen der Außenwerbung Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7346,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 Satz 1 und 2 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche",
+          "score": 0.7122,
+          "text_preview": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche\nSicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen nicht gefährdet werden. Dabei sind die Grundanforderungen an Bauwerke nach Anhang I",
+          "text_full": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass die öffentliche\nSicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen nicht gefährdet werden. Dabei sind die Grundanforderungen an Bauwerke nach Anhang I der Verordnung\n- Seite 13 von 97 (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änderung ihrer Nutzung.\nZWEITER TEIL Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6898,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v",
+          "score": 0.675,
+          "text_preview": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen",
+          "text_full": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen nach Abs. 1 können sich insbesondere erstrecken auf:\n1. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Grundstücksflächen,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n- Seite 50 von 97 -\n4. die Anlage der Zufahrten und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie Dachbegrünungen und die Begrünung oder Beseitigung von Halden und Gruben,\n6. die Bauart und Anordnung aller für die Standsicherheit, Verkehrssicherheit, den Brandschutz, den Wärme- und Schallschutz oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. die Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9."
+        }
+      ],
+      "top_score": 0.7452
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 51 Wohnungen 1 2",
+          "score": 0.591,
+          "text_preview": "§ 51 Wohnungen 1 2\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(3) Für jede Wohnung in Gebäuden der Gebäudekla",
+          "text_full": "§ 51 Wohnungen 1 2\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(3) Für jede Wohnung in Gebäuden der Gebäudeklassen 3 bis 5 ist ein ausreichend großer Abstellraum herzustellen. In Gebäuden der Gebäudeklassen 3 bis 5 mit mehr als zwei Wohnungen sind zusätzlich ausreichend große, leicht erreichbare Abstellräume insbesondere für Kinderwagen und Mobilitätshilfen herzustellen; die Herstellung als Gemeinschaftsräume ist zulässig. Die Abstellräume nach Satz 2 müssen schwellenlos zugänglich sein, sofern dies nicht mit einem unverhältnismäßigen Mehraufwand verbunden oder aus bautechnischen Gründen nicht möglich ist. Satz 1 und 2 gelten nicht für Wohnungen, die durch Dachausbau, Aufstockung oder Umnutzung rechtmäßig bestehender Gebäude entstehen.\n(4) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 30 bis 35, 37, 38 Abs. 4 bis 8 und 39 nicht anzuwenden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5883,
+          "text_preview": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen bestimmt sind,\nb) für Personen mit Intensivpflegebedarf bestimm",
+          "text_full": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen bestimmt sind,\nb) für Personen mit Intensivpflegebedarf bestimmt sind oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als zwölf Personen bestimmt sind,\n8. Krankenhäuser,\n9. sonstige Einrichtungen zur Unterbringung von Personen,\n10. Tageseinrichtungen\na) für Kinder mit dem Aufenthalt von Kindern dienenden Räumen außerhalb des Erdgeschosses, ausgenommen Einrichtungen der Tagespflege für nicht mehr als zehn Kinder,\nb) für sonstige Personen, deren Selbstrettungsfähigkeit eingeschränkt ist,\n11. a) Schank- und Speisegaststätten mit insgesamt mehr als 120 m² Grundfläche der Gasträume oder mit nicht im Erdgeschoss liegenden Gasträumen von insgesamt mehr als 70 m2 Grundfläche,\nb) Beherbergungsbetriebe mit mehr als 30 Gastbetten (Schlafplätze) und\nc) Spielhallen mit mehr als 150 m² Grundfläche,\n12. Schulen, Hochschulen und ähnliche Einrichtungen,\n13. Garagen mit Stellplätzen, die mehr als 22 m über der Geländeoberfläche liegen,\n14."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder",
+          "score": 0.5708,
+          "text_preview": "die Einschränkung oder Untersagung der Herstellung von notwendigen oder nicht notwendigen Stellplätzen, soweit Gründe des Verkehrs oder städtebauliche Gründe dies erfordern,\n6. die Verbindlichkeit bestimmter Konstruktionen von notwendigen oder nicht notwendigen Stellplätzen, einschließlich der Unter",
+          "text_full": "die Einschränkung oder Untersagung der Herstellung von notwendigen oder nicht notwendigen Stellplätzen, soweit Gründe des Verkehrs oder städtebauliche Gründe dies erfordern,\n6. die Verbindlichkeit bestimmter Konstruktionen von notwendigen oder nicht notwendigen Stellplätzen, einschließlich der Unterbringung in Garagen oder Gebäuden,\n7. die Ablösung der Herstellungspflicht von notwendigen Stellplätzen in den Fällen der Nr. 1 bis 3 durch Zahlung eines in der Satzung festzulegenden Geldbetrages an die Gemeinde, wobei der Geldbetrag 60 v. H. der durchschnittlichen Herstellungskosten von Parkeinrichtungen einschließlich der Kosten des Grunderwerbs im Gemeindegebiet oder in bestimmten Teilen des Gemeindegebietes nicht übersteigen darf und\n8. den Anteil der barrierefreien Stellplätze. 2 3 Abs. 1 Satz 2 bleibt unberührt. Macht eine Gemeinde von der Satzungsermächtigung nach Satz 1 Nr. 1 bis 3 Gebrauch, hat sie in der Satzung Standort sowie Größe, Zahl und Beschaffenheit der notwendigen Stellplätze unter Berücksichtigung von Art und Zahl der vorhandenen und zu erwartenden Fahrzeuge der Personen zu bestimmen, die die Anlagen ständig benutzen oder sie besuchen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v",
+          "score": 0.5681,
+          "text_preview": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen",
+          "text_full": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen nach Abs. 1 können sich insbesondere erstrecken auf:\n1. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Grundstücksflächen,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n- Seite 50 von 97 -\n4. die Anlage der Zufahrten und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie Dachbegrünungen und die Begrünung oder Beseitigung von Halden und Gruben,\n6. die Bauart und Anordnung aller für die Standsicherheit, Verkehrssicherheit, den Brandschutz, den Wärme- und Schallschutz oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. die Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder",
+          "score": 0.5681,
+          "text_preview": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder\n(1) Die Gemeinden legen unter Berücksichtigung der örtlichen Verkehrsverhältnisse fest, ob und in welchem Umfang bei der Errichtung, Änderung oder Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten",
+          "text_full": "§ 52 Garagen, Stellplätze für Kraftfahrzeuge, Abstellplätze für Fahrräder\n(1) Die Gemeinden legen unter Berücksichtigung der örtlichen Verkehrsverhältnisse fest, ob und in welchem Umfang bei der Errichtung, Änderung oder Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abgangsverkehr zu erwarten ist, geeignete Stellplätze für Kraftfahrzeuge, einschließlich für Kraftfahrzeuge von Menschen mit Behinderungen, errichtet werden müssen, um den Erfordernissen des ruhenden Verkehrs zu genügen (notwendige Stellplätze). Die Anzahl notwendiger Stellplätze erhöht sich nicht, wenn durch nachträglichen Ausbau von Dach- oder Kellergeschossen, Teilung von Wohnungen, die Errichtung von untergeordneten Anbauten sowie durch Umnutzung und Aufstockung von rechtmäßig bestehenden Gebäuden zusätzlicher Wohnraum geschaffen wird. (1a) Bis zum Ablauf des 31. Dezember 2030 dürfen in den kreisfreien Städten zum 14. Oktober 2025 bei der Errichtung von Wohngebäuden mit bis zu 14 Wohnungen keine Stellplätze und bei der Errichtung von Wohngebäuden mit mehr als 14 Wohnungen nicht mehr als 0,5 Stellplätze je Wohnung ge2 3 fordert werden. In diesem Fall ist Abs. 2 Satz 1 Nr. 7 nicht anzuwenden."
+        }
+      ],
+      "top_score": 0.591
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 14 Brandschutz",
+          "score": 0.7723,
+          "text_preview": "§ 14 Brandschutz\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si",
+          "text_full": "§ 14 Brandschutz\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.\n(2) Zum Schutz von schlafenden Personen müssen\n1. in Wohnungen die Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen,\n2. in sonstigen Nutzungseinheiten, die keine Räume besonderer Art oder Nutzung im Sinne des"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7478,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 45 Feuerungsanlagen, Wärmeerzeugung, Brennstoffversorgung",
+          "score": 0.7199,
+          "text_preview": "§ 45 Feuerungsanlagen, Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein und dürfen auch sonst nicht zu Gefahren, unzumutbaren Nachteilen oder unzumutbaren Belästigungen führen können.\n(2) Feuerstätten dürfen in Räume",
+          "text_full": "§ 45 Feuerungsanlagen, Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein und dürfen auch sonst nicht zu Gefahren, unzumutbaren Nachteilen oder unzumutbaren Belästigungen führen können.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht gereinigt werden können.\n(4) Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 44 Lüftungsanlagen",
+          "score": 0.7048,
+          "text_preview": "§ 44 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe si",
+          "text_full": "§ 44 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitungen zur Brandentstehung oder Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken,\n- Seite 44 von 97 wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so anzuordnen und herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 68 Bautechnische Nachweise, Typenprüfung",
+          "score": 0.6819,
+          "text_preview": "3 muss der Nachweis des vorbeugenden Brandschutzes von Prüfsachverständigen für Brandschutz im Sinne einer Rechtsverordnung nach § 89 Abs. 5 Satz 1 Nr. 2 bescheinigt sein. Bei Gebäuden der Gebäudeklasse 4 sowie Mittelgaragen im Sinne der Verordnung nach § 89 Abs. 1 Satz 1 Nr. 3 muss der Nachweis von",
+          "text_full": "3 muss der Nachweis des vorbeugenden Brandschutzes von Prüfsachverständigen für Brandschutz im Sinne einer Rechtsverordnung nach § 89 Abs. 5 Satz 1 Nr. 2 bescheinigt sein. Bei Gebäuden der Gebäudeklasse 4 sowie Mittelgaragen im Sinne der Verordnung nach § 89 Abs. 1 Satz 1 Nr. 3 muss der Nachweis von Nachweisberechtigten für Brandschutz im Sinne einer Rechtsverordnung nach § 89 Abs. 5 Satz 1 Nr. 1 erstellt sein, es sei denn, der Nachweis wird entsprechend Satz 1 bescheinigt. Auf Veranlassung der Bauaufsichtsbehörde können Prüfsachverständige auch zur Prüfung und Überwachung von Sonderbauten beauftragt werden.\n(5) Die Nachweise des Schallschutz sind von einer hierzu aufgrund einer Rechtsverordnung nach § 89 Abs. 5 Satz 1 Nr. 1 berechtigten Person zu erstellen.\n(6) Die sichere Benutzbarkeit sowie die ordnungsgemäße Abführung der Abgase von Feuerungsanlagen, Anlagen der Kraft-Wärme-Kopplung, verbrennungsmotorisch betriebenen Wärmepumpen und feuerbeheizten Sorptionswärmepumpen einschließlich Anlagen zur Abführung von Abgasen ortsfester Verbrennungsmotoren sind durch Prüfsachverständige für Energieerzeugungsanlagen im Sinne des"
+        }
+      ],
+      "top_score": 0.7723
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.7335,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsge",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt. Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 39 Notwendige Flure, offene Gänge",
+          "score": 0.715,
+          "text_preview": "§ 39 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausre",
+          "text_full": "§ 39 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. innerhalb von Nutzungseinheiten mit nicht mehr als 200 m² Grundfläche und innerhalb von Wohnungen,\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m2 Grundfläche; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m² sind, Trennwände nach § 32 Abs. 2 Nr. 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 36 Abs. 1 hat.\n- Seite 40 von 97 -\n(2) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.7045,
+          "text_preview": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dü",
+          "text_full": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für Nutzungseinheiten, die zu ebener Erde liegen, nicht erforderlich, wenn im Brandfall die Rettung über einen direkten Ausgang ins Freie möglich ist und wenn keine Bedenken wegen der Personenrettung bestehen.\n(2) Für Nutzungseinheiten nach Abs. 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6921,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchganges eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen herzustellen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind. Soweit erforderliche Flächen nicht auf dem Grundstück liegen, müssen sie öffentlich-rechtlich gesichert sein."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 42 Aufzüge",
+          "score": 0.6798,
+          "text_preview": "Mindestens einer der Aufzüge nach Satz 1 muss Krankentragen und Lasten aufnehmen können und von allen Nutzungseinheiten in dem Gebäude und von der öffentlichen Verkehrsfläche aus barrierefrei erreichbar sein. Mehrgeschossige Wohnungen müssen mindestens von einem Geschoss aus über Aufzüge erreicht we",
+          "text_full": "Mindestens einer der Aufzüge nach Satz 1 muss Krankentragen und Lasten aufnehmen können und von allen Nutzungseinheiten in dem Gebäude und von der öffentlichen Verkehrsfläche aus barrierefrei erreichbar sein. Mehrgeschossige Wohnungen müssen mindestens von einem Geschoss aus über Aufzüge erreicht werden können. Satz 1 gilt nicht, wenn der nachträgliche Ausbau und die Nutzungsänderung des obersten Geschosses oder eine Aufstockung um bis zu zwei Geschosse dazu führt, dass nach Satz 1 ein Aufzug errichtet werden müsste.\n(6) Fahrkörbe zur Aufnahme einer Krankentrage müssen eine nutzbare Grundfläche von mindestens 1,10 m x 2,10 m haben. Türen müssen eine lichte Durchgangsbreite von mindestens 0,90 m haben. In einem Aufzug für Rollstühle und Krankentragen darf der für Rollstühle nicht erforderliche Teil der nutzbaren Fahrkorbgrundfläche durch eine verschließbare Tür abgesperrt werden. Vor den Aufzügen muss eine ausreichende Bewegungsfläche vorhanden sein."
+        }
+      ],
+      "top_score": 0.7335
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.7698,
+          "text_preview": "§ 4 Bebauung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn gesichert ist, dass ab Beginn ihrer Nutzung das Grundstück in für die Zufahrt und den Einsatz von Feuerlösch- und Rettungsgeräten ausreichender Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbar",
+          "text_full": "§ 4 Bebauung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn gesichert ist, dass ab Beginn ihrer Nutzung das Grundstück in für die Zufahrt und den Einsatz von Feuerlösch- und Rettungsgeräten ausreichender Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt in ausreichender Breite zu einer solchen Verkehrsfläche hat. Wohnwege, an denen nur Wohngebäude der Gebäudeklassen 1 bis 3 zulässig sind, brauchen nur befahrbar zu sein, wenn sie länger als 50 m sind.\n(2) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist nur zulässig, wenn öffentlichrechtlich gesichert ist, dass keine Verhältnisse eintreten können, die den Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschritten zuwiderlaufen, und das Gebäude auf den Grundstücken diesen Vorschriften so entspricht, als wären die Grundstücke ein Grundstück. Dies gilt bei bestehenden Gebäuden nicht für eine Außenwand- und Dachdämmung. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen. Eine nach Satz 2 zulässige Überbauung ändert die Abstandsfläche des Gebäudes nicht."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.7357,
+          "text_preview": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und",
+          "text_full": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und außer Wohnungen allenfalls Räume für die Berufsausübung freiberuflich oder in ähnlicher Art Tätiger sowie die zugehörigen Garagen und Nebenräume enthalten.\n(8) Barrierefrei sind Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(9) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Gebäude von mehr als 22 m Höhe im Sinne des Abs. 4 Satz 2 (Hochhäuser),\n2. bauliche Anlagen mit mehr als 30 m Höhe über der Geländeoberfläche im Mittel, ausgenommen\na) Windenergieanlagen und sonstige Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. EU Nr. L 328 S."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 69 Bauantrag, Bauvorlagen",
+          "score": 0.7335,
+          "text_preview": "(5) Für Bauvorhaben auf fremden Grundstücken kann der Nachweis verlangt werden, dass die Eigentumsberechtigten zustimmen.",
+          "text_full": "(5) Für Bauvorhaben auf fremden Grundstücken kann der Nachweis verlangt werden, dass die Eigentumsberechtigten zustimmen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v",
+          "score": 0.7212,
+          "text_preview": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen",
+          "text_full": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen nach Abs. 1 können sich insbesondere erstrecken auf:\n1. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Grundstücksflächen,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n- Seite 50 von 97 -\n4. die Anlage der Zufahrten und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie Dachbegrünungen und die Begrünung oder Beseitigung von Halden und Gruben,\n6. die Bauart und Anordnung aller für die Standsicherheit, Verkehrssicherheit, den Brandschutz, den Wärme- und Schallschutz oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. die Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 7 Grundstücksteilung",
+          "score": 0.7088,
+          "text_preview": "§ 7 Grundstücksteilung\n(1) Die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist oder das aufgrund einer Genehmigungsfreistellung bebaut werden darf, bedarf zu ihrer Wirksamkeit der Genehmigung der Bauaufsichtsbehörde. Das gilt nicht, wenn\n1. die Teilung in öffentlich-rechtlic",
+          "text_full": "§ 7 Grundstücksteilung\n(1) Die Teilung eines Grundstücks, das bebaut oder dessen Bebauung genehmigt ist oder das aufgrund einer Genehmigungsfreistellung bebaut werden darf, bedarf zu ihrer Wirksamkeit der Genehmigung der Bauaufsichtsbehörde. Das gilt nicht, wenn\n1. die Teilung in öffentlich-rechtlichen Verwaltungsverfahren vorgenommen wird oder der Bund, das Land oder eine Gebietskörperschaft, der die Aufgaben der unteren Bauaufsichtsbehörde übertragen sind, an der Teilung beteiligt ist, oder\n2. eine Vermessungsstelle nach § 15 Abs. 2 Satz 1 des Hessischen Vermessungs- und Geoinformationsgesetzes vom 6. September 2007 (GVBl. I S. 548), zuletzt geändert durch Gesetz vom 30. September 2021 (GVBl. S. 602), die bauplanungs- und bauordnungsrechtliche Unbedenklichkeit der Teilung bescheinigt hat."
+        }
+      ],
+      "top_score": 0.7698
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 30,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.8187,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 14 Brandschutz",
+          "score": 0.7711,
+          "text_preview": "§ 14 Brandschutz\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si",
+          "text_full": "§ 14 Brandschutz\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.\n(2) Zum Schutz von schlafenden Personen müssen\n1. in Wohnungen die Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen,\n2. in sonstigen Nutzungseinheiten, die keine Räume besonderer Art oder Nutzung im Sinne des"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 28 Besondere Sachkunde- und Sorgfaltsanforderungen Vierter Abschnitt Brandverhalten von Baustoffen und Bauteilen, Wände, Dec",
+          "score": 0.7678,
+          "text_preview": "§ 28 Besondere Sachkunde- und Sorgfaltsanforderungen Vierter Abschnitt Brandverhalten von Baustoffen und Bauteilen, Wände, Dec\nken und Dächer",
+          "text_full": "§ 28 Besondere Sachkunde- und Sorgfaltsanforderungen Vierter Abschnitt Brandverhalten von Baustoffen und Bauteilen, Wände, Dec\nken und Dächer"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 43 Leitungsanlagen, Installationsschächte und -kanäle",
+          "score": 0.7505,
+          "text_preview": "§ 43 Leitungsanlagen, Installationsschächte und -kanäle\n(1) Leitungen dürfen durch raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur hindurchgeführt werden, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder Vorkehrungen hiergegen getrof",
+          "text_full": "§ 43 Leitungsanlagen, Installationsschächte und -kanäle\n(1) Leitungen dürfen durch raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur hindurchgeführt werden, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder Vorkehrungen hiergegen getroffen sind; dies gilt nicht\n1. für Gebäude der Gebäudeklassen 1 und 2,\n2. innerhalb von Wohnungen,\n3. 2 innerhalb derselben Nutzungseinheit mit nicht mehr als 400 m2 Grundfläche in nicht mehr als zwei Geschossen.\n(2) In notwendigen Treppenräumen, in Räumen nach § 38 Abs. 3 Satz 2 und in notwendigen Fluren sind Leitungsanlagen nur zulässig, wenn eine Nutzung als Rettungsweg im Brandfall ausreichend lang möglich ist.\n(3) Für Installationsschächte und -kanäle gelten Abs. 1 sowie § 44 Abs. 2 Satz 1 und Abs. 3 entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7484,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbar,\n2. schwerentflammbar,\n3. normalentflammbar.\n- Seite 28 von 97 Baustoffe, die nicht mindestens normal entflammbar sind ",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbar,\n2. schwerentflammbar,\n3. normalentflammbar.\n- Seite 28 von 97 Baustoffe, die nicht mindestens normal entflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständig,\n2. hochfeuerhemmend,\n3. feuerhemmend. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nicht brennbaren Baustoffen haben,\n3."
+        }
+      ],
+      "top_score": 0.8187
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke",
+          "score": 0.7656,
+          "text_preview": "§ 4 Bebauung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn gesichert ist, dass ab Beginn ihrer Nutzung das Grundstück in für die Zufahrt und den Einsatz von Feuerlösch- und Rettungsgeräten ausreichender Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbar",
+          "text_full": "§ 4 Bebauung der Grundstücke\n(1) Gebäude dürfen nur errichtet werden, wenn gesichert ist, dass ab Beginn ihrer Nutzung das Grundstück in für die Zufahrt und den Einsatz von Feuerlösch- und Rettungsgeräten ausreichender Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt in ausreichender Breite zu einer solchen Verkehrsfläche hat. Wohnwege, an denen nur Wohngebäude der Gebäudeklassen 1 bis 3 zulässig sind, brauchen nur befahrbar zu sein, wenn sie länger als 50 m sind.\n(2) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist nur zulässig, wenn öffentlichrechtlich gesichert ist, dass keine Verhältnisse eintreten können, die den Vorschriften dieses Gesetzes oder den aufgrund dieses Gesetzes erlassenen Vorschritten zuwiderlaufen, und das Gebäude auf den Grundstücken diesen Vorschriften so entspricht, als wären die Grundstücke ein Grundstück. Dies gilt bei bestehenden Gebäuden nicht für eine Außenwand- und Dachdämmung. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen. Eine nach Satz 2 zulässige Überbauung ändert die Abstandsfläche des Gebäudes nicht."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 64 Genehmigungsfreistellung",
+          "score": 0.7628,
+          "text_preview": "1 Satz 1 des Baugesetzbuches liegen.\n(2) Die Genehmigungsfreistellung nach Abs. 1 gilt nicht für die Errichtung, Änderung oder Nutzungsänderung\n1. 2 von Gebäuden, wenn dadurch Wohnflächen von insgesamt mehr als 5 000 m geschaffen werden,\n2. baulicher Anlagen, die öffentlich zugänglich sind, wenn dad",
+          "text_full": "1 Satz 1 des Baugesetzbuches liegen.\n(2) Die Genehmigungsfreistellung nach Abs. 1 gilt nicht für die Errichtung, Änderung oder Nutzungsänderung\n1. 2 von Gebäuden, wenn dadurch Wohnflächen von insgesamt mehr als 5 000 m geschaffen werden,\n2. baulicher Anlagen, die öffentlich zugänglich sind, wenn dadurch die gleichzeitige Nutzung durch mehr als 100 zusätzliche Besucher ermöglicht wird und\n3. baulicher Anlagen, die nach Durchführung des Bauvorhabens Tageseinrichtungen für Kinder sind, sofern die Gebäude und baulichen Anlagen innerhalb des angemessenen Sicherheitsabstands eines Betriebsbereichs im Sinne des § 3 Abs. 5a und 5c des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274), zuletzt geändert durch Gesetz vom\n18. Juli 2017 (BGBl. I S. 2771), oder, wenn der angemessene Sicherheitsabstand nicht bekannt ist, innerhalb des Achtungsabstands des Betriebsbereichs liegen. Satz 1 gilt nicht, wenn dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits in einem Bebauungsplan Rechnung getragen worden ist.\n(3) Die Bauherrschaft hat die erforderlichen Bauvorlagen bei der Bauaufsichtsbehörde einzureichen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 51 Wohnungen 1 2",
+          "score": 0.7556,
+          "text_preview": "(5) Werden rechtmäßig bestehende Gebäude zur Schaffung von Wohnraum erstmals um ein Geschoss aufgestockt, gilt dass\na) auf bestehende Bauteile die §§ 30, 32 bis 35, 37, 38 Abs. 4 bis 8 und 39 nicht anzuwenden sind,\nb) im Geschoss der Aufstockung die Anforderungen an tragende und aussteifende sowie r",
+          "text_full": "(5) Werden rechtmäßig bestehende Gebäude zur Schaffung von Wohnraum erstmals um ein Geschoss aufgestockt, gilt dass\na) auf bestehende Bauteile die §§ 30, 32 bis 35, 37, 38 Abs. 4 bis 8 und 39 nicht anzuwenden sind,\nb) im Geschoss der Aufstockung die Anforderungen an tragende und aussteifende sowie raumabschließende Bauteile der bisherigen Gebäudeklasse gelten,\nc) in den Wänden notwendiger Treppenräume Öffnungen zu Kellergeschossen mindestens feuerhemmende, dicht- und selbstschließende Abschlüsse haben müssen,\nd) in den Wänden notwendiger Treppenräume Öffnungen zu neu geschaffenen Nutzungseinheiten mindestens feuerhemmende, rauchdichte und selbstschließende Abschlüsse haben müssen, wenn die notwendige Treppe oder Wand- und Deckenbekleidungen aus brennbaren Baustoffen\n- Seite 47 von 97 bestehen oder die sonstigen Türen des notwendigen Treppenraums nicht mindestens den Anforderungen nach § 38 Abs. 6 entsprechen,\ne) an oberster Stelle notwendiger Treppenräume eine Öffnung nach § 38 Abs. 8 Satz 2 Nr. 2 zu schaffen ist und\nf) notwendige Treppenräume in Gebäuden mit einer Höhe nach § 2 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.748,
+          "text_preview": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und",
+          "text_full": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und außer Wohnungen allenfalls Räume für die Berufsausübung freiberuflich oder in ähnlicher Art Tätiger sowie die zugehörigen Garagen und Nebenräume enthalten.\n(8) Barrierefrei sind Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(9) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Gebäude von mehr als 22 m Höhe im Sinne des Abs. 4 Satz 2 (Hochhäuser),\n2. bauliche Anlagen mit mehr als 30 m Höhe über der Geländeoberfläche im Mittel, ausgenommen\na) Windenergieanlagen und sonstige Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. EU Nr. L 328 S."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 64a",
+          "score": 0.7424,
+          "text_preview": "§ 64a\n- Erweiterte Genehmigungsfreistellung für die Errichtung von 14.10.2025 Wohngebäuden",
+          "text_full": "§ 64a\n- Erweiterte Genehmigungsfreistellung für die Errichtung von 14.10.2025 Wohngebäuden"
+        }
+      ],
+      "top_score": 0.7656
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung",
+          "score": 0.7621,
+          "text_preview": "(6) Die Bauaufsichtsbehörde kann verlangen, dass bei Bauausführungen die Arbeiten erst fortgesetzt oder die Anlagen erst benutzt werden, wenn sie von ihr oder einer beauftragten sachverständigen Person geprüft worden sind.\n- Seite 74 von 97 -\n(7) Eine bauliche Anlage darf erst benutzt werden, wenn s",
+          "text_full": "(6) Die Bauaufsichtsbehörde kann verlangen, dass bei Bauausführungen die Arbeiten erst fortgesetzt oder die Anlagen erst benutzt werden, wenn sie von ihr oder einer beauftragten sachverständigen Person geprüft worden sind.\n- Seite 74 von 97 -\n(7) Eine bauliche Anlage darf erst benutzt werden, wenn sie ordnungsgemäß fertiggestellt und sicher benutzbar ist, frühestens jedoch eine Woche nach dem in der Anzeige nach Abs. 1 genannten Zeitpunkt der Fertigstellung. Die Aufnahme der vollständigen oder teilweisen vorzeitigen Benutzung ist der Bauaufsichtsbehörde eine Woche vorher mitzuteilen. Die vorzeitige Benutzung ist zulässig, wenn wegen der öffentlichen Sicherheit und Ordnung Bedenken nicht bestehen und die Bauaufsichtsbehörde sie nicht innerhalb der Frist nach Satz 2 untersagt. Sechster Abschnitt Baulasten"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung",
+          "score": 0.7051,
+          "text_preview": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung\n(1) Die Fertigstellung des Rohbaus von nicht nach § 63 baugenehmigungsfreien Gebäuden sind der Bauaufsichtsbehörde und der Katasterbehörde, die abschließende Fertigstellung der Bauaufsichtsbehörde jeweils mindestens zwei Wochen vorher unter Angabe d",
+          "text_full": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung\n(1) Die Fertigstellung des Rohbaus von nicht nach § 63 baugenehmigungsfreien Gebäuden sind der Bauaufsichtsbehörde und der Katasterbehörde, die abschließende Fertigstellung der Bauaufsichtsbehörde jeweils mindestens zwei Wochen vorher unter Angabe des Zeitpunkts der Fertigstellung anzuzeigen. Der Rohbau ist fertig gestellt, wenn die tragenden Teile, die Schornsteine, die Brandwände und die Dachkonstruktion vollendet sind. Zur abschließenden Fertigstellung des Gebäudes gehört auch die Fertigstellung der Wasserversorgungs- und Abwasserbeseitigungsanlagen.\n(2) Zur Besichtigung des Rohbaus sind, soweit möglich, die Bauteile, die für die Standsicherheit und den Brandschutz, für den Wärme- und Schallschutz sowie für die Abwasserbeseitigung wesentlich sind, derart offen zu halten, dass Maße und Ausführungsart geprüft werden können. Für die Besichtigungen und die damit verbundenen möglichen Prüfungen sind die erforderlichen Arbeitskräfte und Geräte bereitzustellen. Mit der Anzeige der Fertigstellung des Rohbaus sind die Bescheinigungen nach § 83 Abs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 76 Bauvoranfrage, Bauvorbescheid",
+          "score": 0.7019,
+          "text_preview": "§ 76 Bauvoranfrage, Bauvorbescheid\n(1) Vor Einreichen des Bauantrages kann auf Antrag (Bauvoranfrage) zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein schriftlicher Bescheid (Bauvorbe2 3 scheid) erteilt werden. Der Bauvorbescheid gilt drei Jahre. Die Frist ka",
+          "text_full": "§ 76 Bauvoranfrage, Bauvorbescheid\n(1) Vor Einreichen des Bauantrages kann auf Antrag (Bauvoranfrage) zu einzelnen Fragen des Bauvorhabens, die im Baugenehmigungsverfahren zu prüfen sind, ein schriftlicher Bescheid (Bauvorbe2 3 scheid) erteilt werden. Der Bauvorbescheid gilt drei Jahre. Die Frist kann auf Antrag um jeweils bis zu einem Jahr verlängert werden. Soweit der Bauvorbescheid nicht zurückgenommen oder widerrufen wird, ist er für das Baugenehmigungsverfahren bindend.\n(2) Die §§ 57 und 65 bis 74 gelten entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 87 Übergangsvorschriften",
+          "score": 0.7003,
+          "text_preview": "§ 87 Übergangsvorschriften\n(1) Für Vorhaben, zu denen Verfahren vor dem Inkrafttreten dieses Gesetzes eingeleitet wurden, gilt das bisherige Recht. Für innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes eingeleitete Verfahren kann die Bauherrschaft bei Stellung des Antrages verlangen, das",
+          "text_full": "§ 87 Übergangsvorschriften\n(1) Für Vorhaben, zu denen Verfahren vor dem Inkrafttreten dieses Gesetzes eingeleitet wurden, gilt das bisherige Recht. Für innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes eingeleitete Verfahren kann die Bauherrschaft bei Stellung des Antrages verlangen, dass für das Vorhaben das bisher geltende Recht zur Anwendung kommt. Nach bisher geltendem Recht dürfen Bauvorhaben ausgeführt werden, für die Bauvorlagen nach § 56 Abs. 3 Satz 1 der Hessischen Bauordnung in der Fassung der Bekanntmachung vom 15. Januar 2011 (GVBl. I S. 46, 180) in der am 5. Juli 2018 geltenden Fassung vor Inkrafttreten dieses Gesetzes eingereicht wurden oder nach § 64 Abs. 3 Satz 1 bis zu drei Monate nach Inkrafttreten dieses Gesetzes eingereicht werden, sofern für deren Ausführung die formellen Voraussetzungen vorliegen.\n(2) Wer nach § 78 Abs. 2 und 4 der Hessischen Bauordnung in der Fassung der Bekanntmachung vom\n15. Januar 2011 (GVBl. I S. 46, 180) in der am 5."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 68",
+          "score": 0.6983,
+          "text_preview": "§ 68\nbleibt unberührt. 1 2\n(2) Der Eingang des vollständigen Bauantrages ist unter Angabe des Datums zu bestätigen. Über den Bauantrag ist innerhalb von drei Monaten nach Eingang des vollständigen Antrages zu entscheiden; die Bauaufsichtsbehörde kann diese Frist aus wichtigem Grund um bis zu zwei Mo",
+          "text_full": "§ 68\nbleibt unberührt. 1 2\n(2) Der Eingang des vollständigen Bauantrages ist unter Angabe des Datums zu bestätigen. Über den Bauantrag ist innerhalb von drei Monaten nach Eingang des vollständigen Antrages zu entscheiden; die Bauaufsichtsbehörde kann diese Frist aus wichtigem Grund um bis zu zwei Monate verlängern. Die Baugenehmigung gilt als erteilt, wenn über den Bauantrag nicht innerhalb der nach Satz 2 maßgeblichen Frist entschieden worden ist."
+        }
+      ],
+      "top_score": 0.7621
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 15,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 74 Baugenehmigung",
+          "score": 0.7343,
+          "text_preview": "§ 74 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im Baugenehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche ",
+          "text_full": "§ 74 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im Baugenehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt.\n(2) Auf Antrag können zu einem baugenehmigungspflichtigen Vorhaben gehörende Teile, Anlagen und Einrichtungen, die erst in einem späten Abschnitt der Bauausführung hergestellt, eingebaut, angebracht oder angeschlossen werden, von der Baugenehmigung ausgenommen und besonderen Baugenehmigungen vorbehalten werden, soweit eine getrennte Beurteilung möglich ist. 1 2\n(3) Die Baugenehmigung bedarf der Schriftform. Ihr ist als Bestandteil eine Ausfertigung der mit einem Genehmigungsvermerk versehenen Bauvorlagen beizufügen. Die Baugenehmigung ist nur insoweit zu begründen, als Abweichungen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und der Nachbar nicht nach § 71 Abs. 2 zugestimmt hat."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 17 Bauarten",
+          "score": 0.7152,
+          "text_preview": "- Seite 23 von 97 -\n(4) Wenn Gefahren im Sinne des § 3 Satz 1 und 2 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) Bauarten bedürfen einer Bestätigung ihrer Überein",
+          "text_full": "- Seite 23 von 97 -\n(4) Wenn Gefahren im Sinne des § 3 Satz 1 und 2 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) Bauarten bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 90 Abs. 1, den allgemeinen Bauartgenehmigungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen für Bauarten oder den vorhabenbezogenen Bauartgenehmigungen. Als Übereinstimmung gilt auch eine Abweichung, die nicht wesentlich ist. § 24 Abs. 2 gilt für den Anwender der Bauart entsprechend.\n(6) Bei Bauarten, deren Anwendung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass der Anwender über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 27 Satz 1 Nr. 6 zu erbringen hat."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7041,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass Anlagen ordnungsgemäß errichtet, geändert, abgebrochen, instand gehalten oder beseitigt werden können und Gefahren, vermeidbare Nachteile oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei der Ausführung nicht nach § 63 oder § 63a baugene",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass Anlagen ordnungsgemäß errichtet, geändert, abgebrochen, instand gehalten oder beseitigt werden können und Gefahren, vermeidbare Nachteile oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei der Ausführung nicht nach § 63 oder § 63a baugenehmigungsfreier Bauvorhaben ist an der Baustelle ein Schild dauerhaft anzubringen, das mindestens die Nutzungsart des Gebäudes, die Zahl seiner Geschosse und die Namen und Anschriften der am Bau Beteiligten (§§ 56 bis 59) enthalten 2 3 muss. Das Schild muss vom öffentlichen Verkehrsraum aus sichtbar sein. Die Bauaufsichtsbehörde kann die Informationen nach Satz 1 zu den einzelnen Baustellen zusätzlich auf ihrer Internetseite veröffentlichen.\n- Seite 21 von 97 -\n(3) Bei Tagesunterkünften auf Baustellen sind Abweichungen von §§ 29 bis 52 zulässig, wenn keine Gründe nach § 3 Satz 1 und 2 entgegenstehen. Die an Gebäude der Gebäudeklasse 1 gestellten Anforderungen des Brandschutzes gelten entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 64 Genehmigungsfreistellung",
+          "score": 0.685,
+          "text_preview": "§ 64 Genehmigungsfreistellung\n(1) Keiner Baugenehmigung bedarf über § 63 hinaus die Errichtung, Änderung oder Nutzungsänderung von baulichen Anlagen, die keine Sonderbauten sind, wenn\n1. sie im Geltungsbereich eines Bebauungsplanes im Sinne des § 30 Abs. 1 oder der §§ 12, 30 Abs. 2 des Baugesetzbuch",
+          "text_full": "§ 64 Genehmigungsfreistellung\n(1) Keiner Baugenehmigung bedarf über § 63 hinaus die Errichtung, Änderung oder Nutzungsänderung von baulichen Anlagen, die keine Sonderbauten sind, wenn\n1. sie im Geltungsbereich eines Bebauungsplanes im Sinne des § 30 Abs. 1 oder der §§ 12, 30 Abs. 2 des Baugesetzbuches liegen,\n2. sie keiner Ausnahme oder Befreiung nach § 31 des Baugesetzbuches bedürfen,\n3. die Erschließung im Sinne des Baugesetzbuches gesichert ist,\n4. sie keiner Abweichung nach § 73 bedürfen und\n5. die Gemeinde nicht innerhalb der Frist nach Abs. 3 Satz 4 erklärt, dass ein Baugenehmigungsverfahren durchgeführt werden soll, oder eine vorläufige Untersagung nach § 15 Abs. 1 Satz 2 des Baugesetzbuches beantragt. Satz 1 gilt auch für Änderungen und Nutzungsänderungen von Anlagen, deren Errichtung oder Änderung nach vorgenommener Änderung oder bei geänderter Nutzung nach dieser Vorschrift baugenehmigungsfrei wäre. (1a) Abs. 1 Satz 1 gilt entsprechend auch für die Änderung und Nutzungsänderung von Dachgeschossen zu Wohnzwecken einschließlich der Errichtung von Dachgauben, die abweichend von Abs. 1\n- Seite 57 von 97 Satz 1 Nr. 1 im Anwendungsbereich des § 30 Abs. 3 oder des § 34 Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 70 Behandlung des Bauantrages",
+          "score": 0.6818,
+          "text_preview": "§ 70 Behandlung des Bauantrages\n(1) Die Bauaufsichtsbehörde beteiligt oder hört zum Bauantrag die Gemeinde sowie diejenigen Stellen,\n- Seite 63 von 97 -\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist oder\n2. ohne deren Stellungnah",
+          "text_full": "§ 70 Behandlung des Bauantrages\n(1) Die Bauaufsichtsbehörde beteiligt oder hört zum Bauantrag die Gemeinde sowie diejenigen Stellen,\n- Seite 63 von 97 -\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist oder\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Bauantrags nicht beurteilt werden kann. Die Beteiligung oder Anhörung entfällt, wenn die Gemeinde oder Stelle dem Bauantrag bereits vor Einleitung des Baugenehmigungsverfahrens zugestimmt hat. Ein für die Erteilung der Baugenehmigung erforderlicher förmlicher Mitwirkungsakt (Benehmen, Einvernehmen, Zustimmung) einer anderen Stelle gilt als erteilt, wenn er nicht innerhalb eines Monats nach Eingang des Ersuchens verweigert wird; von dieser Frist abweichende Regelungen durch Rechtsvorschrift bleiben unberührt. Stellungnahmen bleiben unberücksichtigt, wenn sie nicht innerhalb eines Monats nach Aufforderung zur Stellungnahme bei der Bauaufsichtsbehörde eingehen.\n(2) Die Bauaufsichtsbehörde hat nach Eingang des Bauantrags binnen eines Monats zu prüfen, ob der Antrag und die Bauvorlagen vollständig sind."
+        }
+      ],
+      "top_score": 0.7343
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 82 Nutzungsverbot, Beseitigungsanordnung",
+          "score": 0.798,
+          "text_preview": "§ 82 Nutzungsverbot, Beseitigungsanordnung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der baulichen Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände herge",
+          "text_full": "§ 82 Nutzungsverbot, Beseitigungsanordnung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der baulichen Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. Werden Anlagen nach Satz 1 im Widerspruch zu öffentlich-rechtlichen Vorschriften benutzt, kann diese Benutzung untersagt werden.\n(2) Die Bauaufsichtsbehörde kann verlangen, dass ein erforderliches Verfahren durchgeführt wird oder nach § 64 Abs. 3 Satz 1 erforderliche Bauvorlagen eingereicht werden. Fünfter Abschnitt Bauüberwachung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 44 Lüftungsanlagen",
+          "score": 0.7243,
+          "text_preview": "§ 44 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe si",
+          "text_full": "§ 44 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitungen zur Brandentstehung oder Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken,\n- Seite 44 von 97 wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so anzuordnen und herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Abs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 85 Baulasten, Baulastenverzeichnis",
+          "score": 0.7195,
+          "text_preview": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam. Die Löschung ist den Beteiligten mitzuteilen.\n(4) Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde oder von der durch Rechtsverordnung bestimmten Stelle geführt. In das Baulastenverzeichnis können auch\n1. andere",
+          "text_full": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam. Die Löschung ist den Beteiligten mitzuteilen.\n(4) Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde oder von der durch Rechtsverordnung bestimmten Stelle geführt. In das Baulastenverzeichnis können auch\n1. andere baurechtliche Verpflichtungen der Eigentumsberechtigten zu einem das Grundstück betreffenden Tun, Dulden oder Unterlassen, soweit ein öffentliches Interesse an der Eintragung besteht, und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte eingetragen werden.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder Auszüge fordern. Angaben darüber, welche Flächen von Baulasten betroffen sind, können über geeignete, öffentlich verfügbare elektronische Kommunikationsmittel bereitgestellt werden.\nSECHSTER TEIL Bußgeld-, Übergangs-, Rechtsvorschriften, Ausführungsbestimmung zum Baugesetzbuch, Schlussvorschriften\n- Seite 75 von 97 -"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 86 Bußgeldvorschriften",
+          "score": 0.711,
+          "text_preview": "§ 86 Bußgeldvorschriften\n(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig\n1. bei Einrichtung oder Betrieb einer Baustelle sowie bei Ausführung eines Bauvorhabens der Vorschrift des § 11 Abs. 2 oder des § 75 Abs. 2 Satz 3 zuwiderhandelt,\n2. entgegen § 14 Abs. 2 Räume oder Nutzungseinheiten",
+          "text_full": "§ 86 Bußgeldvorschriften\n(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig\n1. bei Einrichtung oder Betrieb einer Baustelle sowie bei Ausführung eines Bauvorhabens der Vorschrift des § 11 Abs. 2 oder des § 75 Abs. 2 Satz 3 zuwiderhandelt,\n2. entgegen § 14 Abs. 2 Räume oder Nutzungseinheiten nicht mit den erforderlichen Rauchwarnmeldern ausstattet,\n3. Bauarten entgegen § 17 ohne Bauartgenehmigung oder allgemeines bauaufsichtliches Prüfzeugnis für Bauarten anwendet,\n4. Bauprodukte entgegen § 19 ohne CE-Zeichen oder entgegen § 24 Abs. 3 ohne das Ü-Zeichen verwendet,\n5. Bauprodukte mit dem Ü-Zeichen kennzeichnet, ohne dass dafür die Voraussetzungen nach § 25 Abs. 1 vorliegen,\n6. einer vollziehbaren Anordnung der Bauaufsichtsbehörde zuwiderhandelt, die nach diesem Gesetz oder nach einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung oder Satzung erlassen worden ist, sofern die Anordnung auf die Bußgeldvorschrift verweist,\n7. bei der Herstellung oder Instandhaltung von Anlagen einer Vorschrift des § 54 Abs. 1 oder 2 zuwiderhandelt,\n8. die Mitteilungen, Anzeigen oder Unterlagen nach § 56 Abs. 3 oder § 75 Abs. 3 Satz 1 nicht oder nicht rechtzeitig erstattet oder zuleitet,\n9."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 1 Anwendungsbereich 1 2",
+          "score": 0.7094,
+          "text_preview": "§ 1 Anwendungsbereich 1 2\n(1) Dieses Gesetz gilt für bauliche Anlagen und Bauprodukte. Es gilt auch für andere Anlagen, Einrichtungen und Grundstücke, an die in diesem Gesetz oder in Vorschriften aufgrund dieses Gesetzes Anforderungen gestellt werden.\n(2) Dieses Gesetz gilt nicht für:\n1. Anlagen des",
+          "text_full": "§ 1 Anwendungsbereich 1 2\n(1) Dieses Gesetz gilt für bauliche Anlagen und Bauprodukte. Es gilt auch für andere Anlagen, Einrichtungen und Grundstücke, an die in diesem Gesetz oder in Vorschriften aufgrund dieses Gesetzes Anforderungen gestellt werden.\n(2) Dieses Gesetz gilt nicht für:\n1. Anlagen des öffentlichen Verkehrs einschließlich Zubehör, Nebenanlagen und Nebenbetriebe, mit Ausnahme von Gebäuden,\n2. Anlagen des nicht öffentlichen Luftverkehrs einschließlich Zubehör und Nebenanlagen, mit Ausnahme von Gebäuden,\n- Seite 8 von 97 -\n3. Anlagen, soweit sie der Bergaufsicht unterliegen, mit Ausnahme von oberirdischen Gebäuden,\n4. Wasserversorgungs- und Abwasseranlagen, die der öffentlichen Versorgung und Entsorgung dienen, mit Ausnahme von Gebäuden,\n5. Leitungen, die der öffentlichen Versorgung mit Elektrizität, Gas, Wärme oder Kälte, dem Fernmeldewesen oder dem Rundfunk dienen, und ihre Nebenanlagen, mit Ausnahme von Gebäuden,\n6. Rohrleitungen für den Ferntransport von Stoffen und ihre Nebenanlagen, mit Ausnahme von Gebäuden,\n7. Krane und Krananlagen,\n8. Friedhöfe und Nebenanlagen wie Grabkreuze, Grabsteine und Grabdenkmale, mit Ausnahme von Gebäuden,\n9."
+        }
+      ],
+      "top_score": 0.798
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 43,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v",
+          "score": 0.7345,
+          "text_preview": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen",
+          "text_full": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen nach Abs. 1 können sich insbesondere erstrecken auf:\n1. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Grundstücksflächen,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n- Seite 50 von 97 -\n4. die Anlage der Zufahrten und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie Dachbegrünungen und die Begrünung oder Beseitigung von Halden und Gruben,\n6. die Bauart und Anordnung aller für die Standsicherheit, Verkehrssicherheit, den Brandschutz, den Wärme- und Schallschutz oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. die Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 73 Abweichungen",
+          "score": 0.7321,
+          "text_preview": "§ 73 Abweichungen\n(1) Die Bauaufsichtsbehörde soll Abweichungen von Vorschriften dieses Gesetzes oder von Vorschriften aufgrund dieses Gesetzes zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen\n- Seite 66 von 97 Anforderung und unter Würdigung der öffentlich-rechtlich geschützten n",
+          "text_full": "§ 73 Abweichungen\n(1) Die Bauaufsichtsbehörde soll Abweichungen von Vorschriften dieses Gesetzes oder von Vorschriften aufgrund dieses Gesetzes zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen\n- Seite 66 von 97 Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 vereinbar sind (Schutzzielbetrachtung). Dies gilt insbesondere für\n1. Vorhaben, die der Weiternutzung rechtmäßig bestehender Gebäude dienen,\n2. Vorhaben zur Erzeugung und Nutzung erneuerbarer Energien und\n3. Vorhaben zur Erprobung neuer Bau- und Wohnformen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 85 Baulasten, Baulastenverzeichnis",
+          "score": 0.7319,
+          "text_preview": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam. Die Löschung ist den Beteiligten mitzuteilen.\n(4) Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde oder von der durch Rechtsverordnung bestimmten Stelle geführt. In das Baulastenverzeichnis können auch\n1. andere",
+          "text_full": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam. Die Löschung ist den Beteiligten mitzuteilen.\n(4) Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde oder von der durch Rechtsverordnung bestimmten Stelle geführt. In das Baulastenverzeichnis können auch\n1. andere baurechtliche Verpflichtungen der Eigentumsberechtigten zu einem das Grundstück betreffenden Tun, Dulden oder Unterlassen, soweit ein öffentliches Interesse an der Eintragung besteht, und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte eingetragen werden.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder Auszüge fordern. Angaben darüber, welche Flächen von Baulasten betroffen sind, können über geeignete, öffentlich verfügbare elektronische Kommunikationsmittel bereitgestellt werden.\nSECHSTER TEIL Bußgeld-, Übergangs-, Rechtsvorschriften, Ausführungsbestimmung zum Baugesetzbuch, Schlussvorschriften\n- Seite 75 von 97 -"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 89 Rechtsverordnungen, Verwaltungsvorschriften",
+          "score": 0.7302,
+          "text_preview": "Dabei kann sie ferner vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung oder die Zustimmung nach § 79 einschließlich der zugehörigen Abweichungen, Ausnahmen oder Befreiungen einschließen und dass § 35 des Produktsicherheitsgesetzes insoweit Anwendung findet.\n(3) Durch Rechtsvero",
+          "text_full": "Dabei kann sie ferner vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung oder die Zustimmung nach § 79 einschließlich der zugehörigen Abweichungen, Ausnahmen oder Befreiungen einschließen und dass § 35 des Produktsicherheitsgesetzes insoweit Anwendung findet.\n(3) Durch Rechtsverordnung können zum bauaufsichtlichen Verfahren Vorschriften erlassen werden über\n1. Inhalt, Art, Form und Umfang der Bauvorlagen,\n2. die erforderlichen Anträge, Anzeigen, Nachweise und Bescheinigungen einschließlich deren Formerfordernisse,\n3. soweit erforderlich das Verfahren im Einzelnen einschließlich Regelungen zum elektronischen Baugenehmigungsverfahren. Dabei können für verschiedene Arten von Bauvorhaben unterschiedliche Anforderungen gestellt und Verfahrensregelungen getroffen werden. Satz 1 und 2 gelten entsprechend für die Erteilung von Typengenehmigungen.\n(4) Durch Rechtsverordnung können zur Vereinfachung, Erleichterung und Beschleunigung des Baugenehmigungsverfahrens und zur Entlastung der Bauaufsichtsbehörden Regelungen getroffen werden über\n1. weitere und weitergehende Ausnahmen von der Baugenehmigungspflicht auch unter dem Vorbehalt weiterer Prüfungen,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 79 Vorhaben in öffentlicher Trägerschaft",
+          "score": 0.7249,
+          "text_preview": "nach den Vorschriften des Baugesetzbuches und aufgrund des Baugesetzbuches,\n2. von Abweichungen (§ 73) von nachbarschützenden Vorschriften und\n3. nach anderen öffentlich-rechtlichen Vorschriften, soweit wegen der bauaufsichtlichen Zulassung eine Entscheidung nach diesen Vorschriften entfällt oder er",
+          "text_full": "nach den Vorschriften des Baugesetzbuches und aufgrund des Baugesetzbuches,\n2. von Abweichungen (§ 73) von nachbarschützenden Vorschriften und\n3. nach anderen öffentlich-rechtlichen Vorschriften, soweit wegen der bauaufsichtlichen Zulassung eine Entscheidung nach diesen Vorschriften entfällt oder ersetzt wird. Im Übrigen bedarf die Zulässigkeit von Abweichungen keiner bauaufsichtlichen Entscheidung.\n(3) Für das Zustimmungsverfahren gelten § 65 Abs. 2 Satz 2 und 3, § 69 Abs. 1, 2, 4 und 5, §§ 70, 72 bis 74, § 75 Abs. 1, 2 Satz 1 und § 77 entsprechend. § 56 Abs. 4 und 5, § 75 Abs. 2 Satz 2 und Abs. 3 finden keine Anwendung.\n(4) Bei Vorhaben des Bundes oder des Landes kann die obere Bauaufsichtsbehörde auf Antrag der öffentlichen Bauherrschaft die Zuständigkeit nach Abs. 1 übernehmen, wenn dies wegen der besonderen Bedeutung oder Schwierigkeit des Vorhabens zweckmäßig erscheint.\n(5) Anlagen, die nicht genehmigungsfrei sind und der Landesverteidigung dienen, sind abweichend von Abs. 1 bis 3 der oberen Bauaufsichtsbehörde vor Baubeginn in geeigneter Weise zur Kenntnis zu bringen. Im Übrigen wirken die Bauaufsichtsbehörden nicht mit."
+        }
+      ],
+      "top_score": 0.7345
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 32,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6937,
+          "text_preview": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und",
+          "text_full": "(6) Geländeoberfläche ist die Höhe, die sich aus den Festsetzungen eines Bebauungsplans ergibt oder die in der Baugenehmigung oder Teilbaugenehmigung bestimmt ist. Sonst ist die Höhe der natürlichen Geländeoberfläche maßgebend.\n(7) Wohngebäude sind Gebäude, die überwiegend der Wohnnutzung dienen und außer Wohnungen allenfalls Räume für die Berufsausübung freiberuflich oder in ähnlicher Art Tätiger sowie die zugehörigen Garagen und Nebenräume enthalten.\n(8) Barrierefrei sind Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(9) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Gebäude von mehr als 22 m Höhe im Sinne des Abs. 4 Satz 2 (Hochhäuser),\n2. bauliche Anlagen mit mehr als 30 m Höhe über der Geländeoberfläche im Mittel, ausgenommen\na) Windenergieanlagen und sonstige Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. EU Nr. L 328 S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6269,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchganges eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen herzustellen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind. Soweit erforderliche Flächen nicht auf dem Grundstück liegen, müssen sie öffentlich-rechtlich gesichert sein."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6141,
+          "text_preview": "§ 2 Begriffe\n(1) Anlagen im Sinne dieses Gesetzes sind bauliche Anlagen sowie andere Anlagen, Einrichtungen und Grundstücke nach § 1 Abs. 1 Satz 2.\n(2) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn d",
+          "text_full": "§ 2 Begriffe\n(1) Anlagen im Sinne dieses Gesetzes sind bauliche Anlagen sowie andere Anlagen, Einrichtungen und Grundstücke nach § 1 Abs. 1 Satz 2.\n(2) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Erdboden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest genutzt zu werden. Als bauliche Anlagen gelten:\n1. Aufschüttungen und Abgrabungen,\n2. Lager-, Abstell- und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Camping-, Zelt- und Wochenendplätze,\n- Seite 9 von 97 -\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze für Kraftfahrzeuge und Abstellplätze für Fahrräder,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen.\n(3) Gebäude sind selbstständig nutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(4) Gebäude werden in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 8 Grundstücksfreiflächen, Kinderspielplätze",
+          "score": 0.5866,
+          "text_preview": "§ 8 Grundstücksfreiflächen, Kinderspielplätze\n(1) Die nicht überbauten Flächen der bebauten Grundstücke sind\n1. wasserdurchlässig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit sie nicht für eine andere zulässige Verwendung benötigt werden. Satz 1 findet keine Anwendung,",
+          "text_full": "§ 8 Grundstücksfreiflächen, Kinderspielplätze\n(1) Die nicht überbauten Flächen der bebauten Grundstücke sind\n1. wasserdurchlässig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit sie nicht für eine andere zulässige Verwendung benötigt werden. Satz 1 findet keine Anwendung, soweit Bebauungspläne oder andere Satzungen Festsetzungen zu den nicht überbauten Flächen treffen.\n(2) Werden mehr als zwölf Wohnungen errichtet, ist auf dem Baugrundstück oder öffentlich-rechtlich gesichert in unmittelbarer Nähe ein Spielplatz für Kleinkinder (bis zu sechs Jahren) anzulegen, zu unterhalten und in die Bepflanzung der nicht überbauten Flächen einzubeziehen. Seiner Herstellung bedarf es nicht, wenn\n1. durch nachträglichen Ausbau von Dach- und Kellergeschossen sowie durch Umnutzung und Aufstockung von rechtmäßig bestehenden Gebäuden zusätzlicher Wohnraum geschaffen wird,\n2. ein für Kleinkinder geeigneter, auch für das Baugrundstück bestimmter öffentlich-rechtlich gesicherter Spielplatz oder ein öffentlicher Spielplatz in unmittelbarer Nähe in absehbarer Zeit geschaffen wird oder vorhanden ist,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v",
+          "score": 0.5862,
+          "text_preview": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen",
+          "text_full": "§ 3 Satz 1 und 2 besondere Anforderungen gestellt werden. Erleichterungen können gestattet werden, soweit es der Einhaltung v\non Vorschriften wegen der besonderen Art oder Nutzung baulicher Anlagen oder Räume oder wegen besonderer Anforderungen nicht bedarf.\n(2) Die Anforderungen und Erleichterungen nach Abs. 1 können sich insbesondere erstrecken auf:\n1. die Abstände von Nachbargrenzen, von anderen baulichen Anlagen auf dem Grundstück und von öffentlichen Verkehrsflächen sowie auf die Größe der freizuhaltenden Grundstücksflächen,\n2. die Anordnung der baulichen Anlagen auf dem Grundstück,\n3. die Öffnungen nach öffentlichen Verkehrsflächen und nach angrenzenden Grundstücken,\n- Seite 50 von 97 -\n4. die Anlage der Zufahrten und Abfahrten,\n5. die Anlage von Grünstreifen, Baumpflanzungen und anderen Pflanzungen sowie Dachbegrünungen und die Begrünung oder Beseitigung von Halden und Gruben,\n6. die Bauart und Anordnung aller für die Standsicherheit, Verkehrssicherheit, den Brandschutz, den Wärme- und Schallschutz oder Gesundheitsschutz wesentlichen Bauteile und die Verwendung von Baustoffen,\n7. die Brandschutzanlagen, -einrichtungen und -vorkehrungen,\n8. die Löschwasserrückhaltung,\n9."
+        }
+      ],
+      "top_score": 0.6937
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 14 Brandschutz",
+          "score": 0.7079,
+          "text_preview": "§ 14 Brandschutz\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich si",
+          "text_full": "§ 14 Brandschutz\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.\n(2) Zum Schutz von schlafenden Personen müssen\n1. in Wohnungen die Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen,\n2. in sonstigen Nutzungseinheiten, die keine Räume besonderer Art oder Nutzung im Sinne des"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.6744,
+          "text_preview": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dü",
+          "text_full": "§ 36 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für Nutzungseinheiten, die zu ebener Erde liegen, nicht erforderlich, wenn im Brandfall die Rettung über einen direkten Ausgang ins Freie möglich ist und wenn keine Bedenken wegen der Personenrettung bestehen.\n(2) Für Nutzungseinheiten nach Abs. 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6399,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchganges eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen herzustellen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind. Soweit erforderliche Flächen nicht auf dem Grundstück liegen, müssen sie öffentlich-rechtlich gesichert sein."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 36 Erster und zweiter Rettungsweg",
+          "score": 0.6359,
+          "text_preview": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsge",
+          "text_full": "(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt. Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.5755,
+          "text_preview": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 29 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        }
+      ],
+      "top_score": 0.7079
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.653,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 Satz 1 und 2 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 89 Rechtsverordnungen, Verwaltungsvorschriften",
+          "score": 0.6403,
+          "text_preview": "9, §§ 53 und 54), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. von Zeit zu Zeit zu wiederholende Nachprüfungen von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Geltung dieser N",
+          "text_full": "9, §§ 53 und 54), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. von Zeit zu Zeit zu wiederholende Nachprüfungen von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Geltung dieser Nachprüfungspflicht für bestehende Anlagen,\n6. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger Anlagen und den Nachweis ihrer Befähigungen,\n7. die Durchführung und ergänzende Zuständigkeits- und Verfahrensbestimmungen von Verordnungen, Richtlinien oder Entscheidungen des Rates oder eines Vertrages der Europäischen Union, die sich auf Bauprodukte oder Bauarten nach den §§ 17 bis 28 oder auf Sachverständige oder sachverständige Organisationen oder Stellen beziehen, sowie die Durchführung und ergänzende Zuständigkeits- und Verfahrensbestimmungen des darauf bezogenen Bundesrechts oder die Bestimmung einer einheitlichen Stelle im Sinne des § 70 Abs. 5 und\n- Seite 79 von 97 -\n8. die nähere Bestimmung allgemeiner baulicher Anforderungen für das Gaststättengewerbe im Sinne des Hessischen Gaststättengesetzes."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 84 Bauzustandsbesichtigung, Aufnahme der Nutzung",
+          "score": 0.6131,
+          "text_preview": "(6) Die Bauaufsichtsbehörde kann verlangen, dass bei Bauausführungen die Arbeiten erst fortgesetzt oder die Anlagen erst benutzt werden, wenn sie von ihr oder einer beauftragten sachverständigen Person geprüft worden sind.\n- Seite 74 von 97 -\n(7) Eine bauliche Anlage darf erst benutzt werden, wenn s",
+          "text_full": "(6) Die Bauaufsichtsbehörde kann verlangen, dass bei Bauausführungen die Arbeiten erst fortgesetzt oder die Anlagen erst benutzt werden, wenn sie von ihr oder einer beauftragten sachverständigen Person geprüft worden sind.\n- Seite 74 von 97 -\n(7) Eine bauliche Anlage darf erst benutzt werden, wenn sie ordnungsgemäß fertiggestellt und sicher benutzbar ist, frühestens jedoch eine Woche nach dem in der Anzeige nach Abs. 1 genannten Zeitpunkt der Fertigstellung. Die Aufnahme der vollständigen oder teilweisen vorzeitigen Benutzung ist der Bauaufsichtsbehörde eine Woche vorher mitzuteilen. Die vorzeitige Benutzung ist zulässig, wenn wegen der öffentlichen Sicherheit und Ordnung Bedenken nicht bestehen und die Bauaufsichtsbehörde sie nicht innerhalb der Frist nach Satz 2 untersagt. Sechster Abschnitt Baulasten"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 89 Rechtsverordnungen, Verwaltungsvorschriften",
+          "score": 0.5868,
+          "text_preview": "Dabei kann sie ferner vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung oder die Zustimmung nach § 79 einschließlich der zugehörigen Abweichungen, Ausnahmen oder Befreiungen einschließen und dass § 35 des Produktsicherheitsgesetzes insoweit Anwendung findet.\n(3) Durch Rechtsvero",
+          "text_full": "Dabei kann sie ferner vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung oder die Zustimmung nach § 79 einschließlich der zugehörigen Abweichungen, Ausnahmen oder Befreiungen einschließen und dass § 35 des Produktsicherheitsgesetzes insoweit Anwendung findet.\n(3) Durch Rechtsverordnung können zum bauaufsichtlichen Verfahren Vorschriften erlassen werden über\n1. Inhalt, Art, Form und Umfang der Bauvorlagen,\n2. die erforderlichen Anträge, Anzeigen, Nachweise und Bescheinigungen einschließlich deren Formerfordernisse,\n3. soweit erforderlich das Verfahren im Einzelnen einschließlich Regelungen zum elektronischen Baugenehmigungsverfahren. Dabei können für verschiedene Arten von Bauvorhaben unterschiedliche Anforderungen gestellt und Verfahrensregelungen getroffen werden. Satz 1 und 2 gelten entsprechend für die Erteilung von Typengenehmigungen.\n(4) Durch Rechtsverordnung können zur Vereinfachung, Erleichterung und Beschleunigung des Baugenehmigungsverfahrens und zur Entlastung der Bauaufsichtsbehörden Regelungen getroffen werden über\n1. weitere und weitergehende Ausnahmen von der Baugenehmigungspflicht auch unter dem Vorbehalt weiterer Prüfungen,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 87 Übergangsvorschriften",
+          "score": 0.5756,
+          "text_preview": "§ 87 Übergangsvorschriften\n(1) Für Vorhaben, zu denen Verfahren vor dem Inkrafttreten dieses Gesetzes eingeleitet wurden, gilt das bisherige Recht. Für innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes eingeleitete Verfahren kann die Bauherrschaft bei Stellung des Antrages verlangen, das",
+          "text_full": "§ 87 Übergangsvorschriften\n(1) Für Vorhaben, zu denen Verfahren vor dem Inkrafttreten dieses Gesetzes eingeleitet wurden, gilt das bisherige Recht. Für innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes eingeleitete Verfahren kann die Bauherrschaft bei Stellung des Antrages verlangen, dass für das Vorhaben das bisher geltende Recht zur Anwendung kommt. Nach bisher geltendem Recht dürfen Bauvorhaben ausgeführt werden, für die Bauvorlagen nach § 56 Abs. 3 Satz 1 der Hessischen Bauordnung in der Fassung der Bekanntmachung vom 15. Januar 2011 (GVBl. I S. 46, 180) in der am 5. Juli 2018 geltenden Fassung vor Inkrafttreten dieses Gesetzes eingereicht wurden oder nach § 64 Abs. 3 Satz 1 bis zu drei Monate nach Inkrafttreten dieses Gesetzes eingereicht werden, sofern für deren Ausführung die formellen Voraussetzungen vorliegen.\n(2) Wer nach § 78 Abs. 2 und 4 der Hessischen Bauordnung in der Fassung der Bekanntmachung vom\n15. Januar 2011 (GVBl. I S. 46, 180) in der am 5."
+        }
+      ],
+      "top_score": 0.653
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 59 Bauleitung",
+          "score": 0.7704,
+          "text_preview": "§ 59 Bauleitung\n(1) Die mit der Bauleitung beauftragte Person hat darüber zu wachen, dass die Baumaßnahme den öffentlich-rechtlichen Anforderungen entsprechend ausgeführt wird, und die hierfür erforderlichen Weisungen zu erteilen. Die entsprechende Ausführung ist mit Anzeige der abschließenden Ferti",
+          "text_full": "§ 59 Bauleitung\n(1) Die mit der Bauleitung beauftragte Person hat darüber zu wachen, dass die Baumaßnahme den öffentlich-rechtlichen Anforderungen entsprechend ausgeführt wird, und die hierfür erforderlichen Weisungen zu erteilen. Die entsprechende Ausführung ist mit Anzeige der abschließenden Fertigstellung gegenüber der Bauaufsichtsbehörde zu bescheinigen. Im Rahmen dieser Aufgabe ist für den sicheren bautechnischen Betrieb der Baustelle, insbesondere das gefahrlose Ineinandergreifen aller Arbeiten, zu sorgen.\n(2) Die Bauleitung darf nur übernehmen, wer über die erforderliche Sachkunde und Erfahrung verfügt; für die Mindestqualifikation gilt § 67 Abs. 4 entsprechend. Verfügt die mit der Bauleitung beauftragte Person auf Teilgebieten nicht über die erforderliche Eignung, insbesondere Sachkunde und Erfahrung, sind geeignete Personen für die Fachbauleitung heranzuziehen. Diese treten insoweit an die Stelle der Bauleitung. Aufgabe der Bauleitung bleibt es, die Tätigkeiten der Fachbauleitungen und die eigene Tätigkeit aufeinander abzustimmen.\nFÜNFTER TEIL Bauaufsichtsbehörden und Verwaltungsverfahren Erster Abschnitt Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 61 Aufgaben und Befugnisse der Bauaufsichtsbehörden",
+          "score": 0.7667,
+          "text_preview": "§ 61 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die Bauaufsicht ist Aufgabe des Staates.\n(2) Die Bauaufsichtsbehörden haben bei der Errichtung, Änderung, Nutzungsänderung und Beseitigung sowie bei der Nutzung und Instandhaltung von Anlagen für die Einhaltung der öffentlich-rechtlichen Vors",
+          "text_full": "§ 61 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die Bauaufsicht ist Aufgabe des Staates.\n(2) Die Bauaufsichtsbehörden haben bei der Errichtung, Änderung, Nutzungsänderung und Beseitigung sowie bei der Nutzung und Instandhaltung von Anlagen für die Einhaltung der öffentlich-rechtlichen Vorschriften und der aufgrund dieser Vorschriften erlassenen Anordnungen zu sorgen, soweit nicht andere Behörden zuständig sind. Sie haben in Wahrnehmung dieser Aufgaben die nach pflichtgemäßem Ermessen erforderlichen Maßnahmen zu treffen; dies gilt auch, soweit eine präventive bauaufsichtliche Prüfung entfällt. Satz 1 und 2 gelten nicht für bauliche Anlagen inländischer öffentlicher Stellen auf dauerhaft militärisch genutzten Grundstücken, die im Eigentum des Bundes stehen oder deren militärische Nutzung dinglich gesichert ist (Militärgelände).\n(3) An rechtmäßig bestehende oder im Bau befindliche Anlagen können nachträglich Anforderungen gestellt werden, soweit dies zur Abwehr von Gefahren für Leben und Gesundheit oder von schweren Nachteilen für die Allgemeinheit notwendig ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 59 Bauleitung",
+          "score": 0.7576,
+          "text_preview": "§ 59 Bauleitung\nFÜNFTER TEIL Bauaufsichtsbehörden und Verwaltungsverfahren Erster Abschnitt Bauaufsichtsbehörden",
+          "text_full": "§ 59 Bauleitung\nFÜNFTER TEIL Bauaufsichtsbehörden und Verwaltungsverfahren Erster Abschnitt Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 61 Aufgaben und Befugnisse der Bauaufsichtsbehörden Zweiter Abschnitt Verwaltungsverfahren",
+          "score": 0.7535,
+          "text_preview": "§ 61 Aufgaben und Befugnisse der Bauaufsichtsbehörden Zweiter Abschnitt Verwaltungsverfahren",
+          "text_full": "§ 61 Aufgaben und Befugnisse der Bauaufsichtsbehörden Zweiter Abschnitt Verwaltungsverfahren"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hessen",
+          "jurisdiction": "DE-HE",
+          "source_paragraph": "§ 58",
+          "score": 0.716,
+          "text_preview": "(3) Unternehmen, Fachunternehmen und Fachleute haben auf Verlangen der Bauaufsichtsbehörde für Bauarbeiten, bei denen die Sicherheit der Anlagen in außergewöhnlichem Maße von der besonderen Sachkunde und Erfahrung oder von einer Ausstattung der Unternehmen mit besonderen Vorrichtungen abhängt, nachz",
+          "text_full": "(3) Unternehmen, Fachunternehmen und Fachleute haben auf Verlangen der Bauaufsichtsbehörde für Bauarbeiten, bei denen die Sicherheit der Anlagen in außergewöhnlichem Maße von der besonderen Sachkunde und Erfahrung oder von einer Ausstattung der Unternehmen mit besonderen Vorrichtungen abhängt, nachzuweisen, dass sie für die Bauarbeiten geeignet sind und über die erforderlichen Einrichtungen verfügen."
+        }
+      ],
+      "top_score": 0.7704
+    }
+  ]
+}

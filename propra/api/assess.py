@@ -2,7 +2,6 @@
 
 import json
 import os
-import sys
 from pathlib import Path
 
 import anthropic
@@ -11,15 +10,7 @@ from fastapi import APIRouter, HTTPException, status
 
 from propra.schemas.assessment import AssessmentResponse
 from propra.schemas.situation import Situation
-
-# ── path setup ────────────────────────────────────────────────────────────────
-# rag.py lives in propra/retrieval/ and uses __file__-relative paths internally.
-# Add its directory to sys.path so it resolves correctly as a standalone module.
-_RETRIEVAL_DIR = Path(__file__).resolve().parent.parent / "retrieval"
-if str(_RETRIEVAL_DIR) not in sys.path:
-    sys.path.insert(0, str(_RETRIEVAL_DIR))
-
-import rag  # noqa: E402
+from propra.retrieval import rag
 
 # ── env ───────────────────────────────────────────────────────────────────────
 load_dotenv()

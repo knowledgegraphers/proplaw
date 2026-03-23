@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-BE",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 14003,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.7005,
+          "text_preview": "§ 2 Begriffe\n(1) Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2. Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf de",
+          "text_full": "§ 2 Begriffe\n(1) Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2. Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Campingplätze, Wochenendplätze und Zeltplätze,\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze für Kraftfahrzeuge, und Abstellplätze für Fahrräder\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n- Seite 9 von 88 -\n(3) Gebäude werden in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6717,
+          "text_preview": "5) die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendu",
+          "text_full": "5) die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Vollgeschosse sind Geschosse, deren Oberkante im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragt und die über mindestens zwei Drittel ihrer Grundfläche eine lichte Höhe von mindestens 2,30 m haben. Ein gegenüber den Außenwänden zurückgesetztes oberstes Geschoss (Staffelgeschoss) und Geschosse im Dachraum sind nur dann Vollgeschosse, wenn sie die lichte Höhe gemäß Satz 1 über mindestens zwei Drittel der Grundfläche des darunter liegenden Geschosses haben."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.6701,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, B",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Schaukästen sowie für Zettelanschläge und Bogenanschläge oder Lichtwerbung bestimmte Säulen, Tafeln und Flächen.\n(2) Für Werbeanlagen, die bauliche Anlagen sind, gelten die in diesem Gesetz an bauliche Anlagen gestellten Anforderungen. Werbeanlagen, die keine baulichen Anlagen sind, dürfen weder bauliche Anlagen noch das Straßen-, Orts- oder Landschaftsbild verunstalten oder die Sicherheit und Leichtigkeit des Verkehrs gefährden. Die störende Häufung von Werbeanlagen ist unzulässig. Baugerüste dürfen für Werbeanlagen höchstens für die Dauer von sechs Monaten genutzt werden; dies gilt nicht für Werbeanlagen nach § 61 Absatz 1 Nummer 12 Buchstabe a und b.\n(3) Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. Ausgenommen sind, soweit in anderen Vorschriften nichts anderes bestimmt ist,\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6524,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, wenn sie für Menschen mit Behinderung in der allgemein üblichen Weise ohne besondere Erschwernisse und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 38 Umwehrungen Sechster Abschnitt Technische Gebäudeausrüstung",
+          "score": 0.633,
+          "text_preview": "§ 38 Umwehrungen Sechster Abschnitt Technische Gebäudeausrüstung\n- Seite 6 von 88 -",
+          "text_full": "§ 38 Umwehrungen Sechster Abschnitt Technische Gebäudeausrüstung\n- Seite 6 von 88 -"
+        }
+      ],
+      "top_score": 0.7005
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6273,
+          "text_preview": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräum",
+          "text_full": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräume haben,\ng) Terrassenüberdachungen mit einer Fläche bis zu 30 m² und einer Tiefe bis zu 3 m,\nh) Gartenlauben mit höchstens 24 Quadratmetern Grundfläche einschließlich überdachtem Freisitz, die in Kleingartenanlagen im Sinne des § 1 Absatz 1 Nummer 2 des Bundeskleingartengesetzes liegen und in Ausführung und Beschaffenheit § 3 Absatz 2 des Bundeskleingartengesetzes entsprechen,\ni) Wochenendhäuser auf Wochenendplätzen;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 Meter;\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6044,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, wenn sie für Menschen mit Behinderung in der allgemein üblichen Weise ohne besondere Erschwernisse und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 47 Aufenthaltsräume",
+          "score": 0.545,
+          "text_preview": "§ 47 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,30 m über mindestens der Hälfte ihrer Netto-Grundfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben auße",
+          "text_full": "§ 47 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,30 m über mindestens der Hälfte ihrer Netto-Grundfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer Betracht.\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens einem Achtel der NettoGrundfläche des Raumes einschließlich der Netto-Grundfläche verglaster Vorbauten und Loggien haben.\n- Seite 43 von 88 -\n(3) Aufenthaltsräume, deren Nutzung eine Beleuchtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume, sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 49 Stellplätze, Abstellplätze für Fahrräder",
+          "score": 0.5361,
+          "text_preview": "§ 49 Stellplätze, Abstellplätze für Fahrräder\n(1) Bei der Errichtung öffentlich zugänglicher baulicher Anlagen sind Stellplätze in ausreichender Anzahl und Größe für Menschen mit schwerer Gehbehinderung und für Rollstuhlnutzerinnen und Rollstuhlnutzer herzustellen. Sie müssen von öffentlichen Straße",
+          "text_full": "§ 49 Stellplätze, Abstellplätze für Fahrräder\n(1) Bei der Errichtung öffentlich zugänglicher baulicher Anlagen sind Stellplätze in ausreichender Anzahl und Größe für Menschen mit schwerer Gehbehinderung und für Rollstuhlnutzerinnen und Rollstuhlnutzer herzustellen. Sie müssen von öffentlichen Straßen und dem barrierefreien Hauptzugang der baulichen Anlage aus auf kurzem Weg zu erreichen sein. Werden öffentlich zugängliche bauliche Anlagen geändert oder ändert sich ihre Nutzung, so sind Stellplätze für Menschen mit Behinderung gemäß Satz 1 in solcher Anzahl und Größe herzustellen, dass sie die infolge der Änderung zusätzlich zu erwartenden Fahrzeuge aufnehmen können. Die Stellplätze können auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück hergestellt werden, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert ist.\n(2) Bei der Errichtung von baulichen Anlagen, die Fahrradverkehr erwarten lassen, sind Abstellplätze für Fahrräder in ausreichender Anzahl und Größe herzustellen. Absatz 1 Satz 3 gilt entsprechend. Die Abstellplätze sind auf dem Baugrundstück oder auf den davor gelegenen öffentlichen Flächen zu schaffen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5227,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen, nicht dem Wohnen dienende Unterkünfte und Baustellenbüros,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder de",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen, nicht dem Wohnen dienende Unterkünfte und Baustellenbüros,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\n- Seite 55 von 88 -\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten;\n14. folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne des § 35 Absatz 1 Nummer 1 und 2 und § 201 des Baugesetzbuchs dienen,\nb) nicht überdachte Stellplätze und nicht überdachte Abstellplätze für Fahrräder jeweils mit einer Fläche bis zu 100 Quadratmeter und deren Zufahrten,\nc) Kinderspielplätze im Sinne des § 8 Abs. 2 Satz 1;\n15."
+        }
+      ],
+      "top_score": 0.6273
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6643,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, wenn sie für Menschen mit Behinderung in der allgemein üblichen Weise ohne besondere Erschwernisse und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 49 Stellplätze, Abstellplätze für Fahrräder",
+          "score": 0.607,
+          "text_preview": "§ 49 Stellplätze, Abstellplätze für Fahrräder\n(1) Bei der Errichtung öffentlich zugänglicher baulicher Anlagen sind Stellplätze in ausreichender Anzahl und Größe für Menschen mit schwerer Gehbehinderung und für Rollstuhlnutzerinnen und Rollstuhlnutzer herzustellen. Sie müssen von öffentlichen Straße",
+          "text_full": "§ 49 Stellplätze, Abstellplätze für Fahrräder\n(1) Bei der Errichtung öffentlich zugänglicher baulicher Anlagen sind Stellplätze in ausreichender Anzahl und Größe für Menschen mit schwerer Gehbehinderung und für Rollstuhlnutzerinnen und Rollstuhlnutzer herzustellen. Sie müssen von öffentlichen Straßen und dem barrierefreien Hauptzugang der baulichen Anlage aus auf kurzem Weg zu erreichen sein. Werden öffentlich zugängliche bauliche Anlagen geändert oder ändert sich ihre Nutzung, so sind Stellplätze für Menschen mit Behinderung gemäß Satz 1 in solcher Anzahl und Größe herzustellen, dass sie die infolge der Änderung zusätzlich zu erwartenden Fahrzeuge aufnehmen können. Die Stellplätze können auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück hergestellt werden, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert ist.\n(2) Bei der Errichtung von baulichen Anlagen, die Fahrradverkehr erwarten lassen, sind Abstellplätze für Fahrräder in ausreichender Anzahl und Größe herzustellen. Absatz 1 Satz 3 gilt entsprechend. Die Abstellplätze sind auf dem Baugrundstück oder auf den davor gelegenen öffentlichen Flächen zu schaffen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.5334,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lange widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinh",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lange widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Absatz 2 Nr. 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nr. 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen; werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5304,
+          "text_preview": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräum",
+          "text_full": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräume haben,\ng) Terrassenüberdachungen mit einer Fläche bis zu 30 m² und einer Tiefe bis zu 3 m,\nh) Gartenlauben mit höchstens 24 Quadratmetern Grundfläche einschließlich überdachtem Freisitz, die in Kleingartenanlagen im Sinne des § 1 Absatz 1 Nummer 2 des Bundeskleingartengesetzes liegen und in Ausführung und Beschaffenheit § 3 Absatz 2 des Bundeskleingartengesetzes entsprechen,\ni) Wochenendhäuser auf Wochenendplätzen;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 Meter;\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5294,
+          "text_preview": "Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucherinnen und Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als",
+          "text_full": "Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucherinnen und Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als 1000 Besucherinnen und Besucher fassen,\n8. Schank- und Speisegaststätten mit mehr als 40 Gastplätzen in Gebäuden oder mehr als 1000 Gastplätzen im Freien, Beherbergungsstätten mit mehr als 12 Betten und Spielhallen sowie Wettbüros mit jeweils mehr als 150 Quadratmeter Brutto-Grundfläche,\n9. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als acht Personen, oder\nb) für Personen mit Intensivpflegebedarf bestimmt sind, oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als 16 Personen bestimmt sind,\n10. Krankenhäuser,\n11. Wohnheime,\n12."
+        }
+      ],
+      "top_score": 0.6643
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 73 Geltungsdauer der Baugenehmigung",
+          "score": 0.7921,
+          "text_preview": "§ 73 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn\n1. innerhalb von zwei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen wurde, oder\n2. das Bauvorhaben nach Ablauf von sechs Jahren nach ihrer Erteilung nicht fertig g",
+          "text_full": "§ 73 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn\n1. innerhalb von zwei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen wurde, oder\n2. das Bauvorhaben nach Ablauf von sechs Jahren nach ihrer Erteilung nicht fertig gestellt worden ist. Satz 1 gilt auch für die Entscheidungen über andere öffentlich-rechtliche Anforderungen, die in die Baugenehmigung eingeschlossen werden. Die Einlegung eines Rechtsbehelfs durch einen Dritten hemmt den Lauf der Fristen bis zur Unanfechtbarkeit der Baugenehmigung.\n(2) Die Frist nach Absatz 1 Satz 1 Nummer 1 kann auf Antrag dreimal, jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist. Die Frist nach Absatz 1 Satz 1 Nummer 2 gilt nicht, wenn\n1. die Besonderheit des Bauvorhabens eine längere Frist für die Fertigstellung erfordert oder\n2. bei bereits vor dem 30. September 2024 in der Ausführung befindlichen Bauvorhaben die Frist durch die Bauaufsichtsbehörde bis zum 31."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 75 Vorbescheid, planungsrechtlicher Bescheid",
+          "score": 0.7747,
+          "text_preview": "§ 75 Vorbescheid, planungsrechtlicher Bescheid\n(1) Ist die Erteilung einer Baugenehmigung vorgeschrieben, ist vor Einreichung des Bauantrags auf Antrag der Bauherrin oder des Bauherrn zu einzelnen in der Baugenehmigung zu entscheidenden Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbes",
+          "text_full": "§ 75 Vorbescheid, planungsrechtlicher Bescheid\n(1) Ist die Erteilung einer Baugenehmigung vorgeschrieben, ist vor Einreichung des Bauantrags auf Antrag der Bauherrin oder des Bauherrn zu einzelnen in der Baugenehmigung zu entscheidenden Fragen des Bauvorhabens ein Vorbescheid zu erteilen. Der Vorbescheid gilt zwei Jahre. Die Frist kann auf\n- Seite 72 von 88 Antrag zweimal jeweils bis zu einem Jahr verlängert werden. § 58 Absatz 2, §§ 68, 69 Absatz 1 bis 3 und § 73 Absatz 2 Satz 2 gelten entsprechend.\n(2) Für ein Bauvorhaben, welches dem vereinfachten Baugenehmigungsverfahren nach § 63 unterfällt, ist auf Antrag der Bauherrin oder des Bauherrn ein planungsrechtlicher Bescheid zu erteilen. Das Vorhaben wird in die Genehmigungsfreistellung nach § 62 übergeleitet, wenn durch diesen Bescheid insgesamt die planungsrechtliche Zulässigkeit des Vorhabens festgestellt worden ist. Absatz 1 Satz 2 bis 4 gilt sinngemäß."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.7627,
+          "text_preview": "Die Frist beginnt, sobald alle für die Entscheidung notwendigen Stellungnahmen und Nachweise vorliegen oder die Frist nach Absatz 2 Satz 5 abgelaufen ist.\n(4) Im vereinfachten Baugenehmigungsverfahren nach § 63 und im vereinfachten Baugenehmigungsverfahren für Werbeanlagen nach § 63a sind die nach A",
+          "text_full": "Die Frist beginnt, sobald alle für die Entscheidung notwendigen Stellungnahmen und Nachweise vorliegen oder die Frist nach Absatz 2 Satz 5 abgelaufen ist.\n(4) Im vereinfachten Baugenehmigungsverfahren nach § 63 und im vereinfachten Baugenehmigungsverfahren für Werbeanlagen nach § 63a sind die nach Absatz 1 Satz 3 fehlenden Unterlagen und Mängel abschließend zu benennen. Ein Bauantrag gilt in den Verfahren nach Satz 1 nach Ablauf von drei Wochen nach dessen Eingang als vollständig, wenn die Bauaufsichtsbehörde der Bauherrin oder dem Bauherrn entgegen Absatz 1 Satz 2 die Vollständigkeit des Bauantrags nicht bestätigt oder sie oder ihn entgegen Absatz 1 Satz 3 nicht zur Behebung von Mängeln des Bauantrags auffordert. Ist in den Verfahren nach Satz 1 nicht innerhalb einer Frist nach Absatz 3 Satz 1 entschieden worden, gilt die Baugenehmigung als erteilt; dies gilt im vereinfachten Baugenehmigungsverfahren nach § 63 nicht, wenn die Bauherrin oder der Bauherr auf diese Rechtsfolge verzichtet hat."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.7626,
+          "text_preview": "Werden im Laufe eines anhängigen Baugenehmigungsverfahrens die Voraussetzungen des Satzes 1 Nummer 1 Buchstabe a erfüllt oder lagen diese Voraussetzungen bereits bei Antragsstellung vor, so gilt der Bauantrag als Einreichung der Bauunterlagen nach Absatz 3 Satz 1, wenn nicht die Bauaufsichtsbehörde ",
+          "text_full": "Werden im Laufe eines anhängigen Baugenehmigungsverfahrens die Voraussetzungen des Satzes 1 Nummer 1 Buchstabe a erfüllt oder lagen diese Voraussetzungen bereits bei Antragsstellung vor, so gilt der Bauantrag als Einreichung der Bauunterlagen nach Absatz 3 Satz 1, wenn nicht die Bauaufsichtsbehörde das Baugenehmigungsverfahren fortsetzt; die Bauherrin oder der Bauherr ist hierüber zu unterrichten.\n(3) Die Bauherrin oder der Bauherr hat die erforderlichen Unterlagen bei der Bauaufsichtsbehörde einzureichen. Mit dem Bauvorhaben darf einen Monat nach Vorlage der erforderlichen Unterlagen bei der Bauaufsichtsbehörde begonnen werden, sofern nicht die Frist um einen weiteren Monat verlängert oder sofern nicht die Bauausführung untersagt wird. Teilt die Bauaufsichtsbehörde der Bauherrin oder dem Bauherrn vor Ablauf der Frist mit, dass kein Genehmigungsverfahren durchgeführt werden soll und sie eine vorläufige Untersagung nach § 15 Abs. 1 Satz 2 des Baugesetzbuchs nicht aussprechen wird, darf die Bauherrin oder der Bauherr mit der Ausführung des Bauvorhabens beginnen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 83 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7372,
+          "text_preview": "§ 83 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauh",
+          "text_full": "§ 83 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauherrin oder der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. Mit der Anzeige nach Satz 1 sind vorzulegen\n1. bei Bauvorhaben nach § 66 Absatz 3 Satz 1 das Ergebnis der Überwachung der ordnungsgemäßen Bauausführung hinsichtlich der Standsicherheit gemäß § 82 Absatz 2 Satz 1 Nummer 1,\n2. bei Bauvorhaben nach § 66 Absatz 3 Satz 2 das Ergebnis der Überwachung der ordnungsgemäßen Bauausführung hinsichtlich des Brandschutzes gemäß § 82 Absatz 2 Satz 1 Nummer 2. Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungsund Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt."
+        }
+      ],
+      "top_score": 0.7921
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.678,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden und Dächern von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist ",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden und Dächern von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf.\n(2) Abstandsflächen sowie Abstände nach § 30 Abs. 2 Nr. 1 und § 32 Abs. 2 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte. Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut werden; Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.626,
+          "text_preview": "Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind.\n- Seite 46 von 88 -\n(3) Bauliche Anlagen nach Absatz 2 müssen durch einen Hauptzugang mit einer lichten Durchgangsbreite von mindestens 0,90 m stufenlos erreichbar ",
+          "text_full": "Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind.\n- Seite 46 von 88 -\n(3) Bauliche Anlagen nach Absatz 2 müssen durch einen Hauptzugang mit einer lichten Durchgangsbreite von mindestens 0,90 m stufenlos erreichbar sein. Vor Türen muss eine ausreichende Bewegungsfläche vorhanden sein. Rampen dürfen nicht mehr als 6 Prozent geneigt sein; sie müssen mindestens 1,20 m breit sein und beidseitig einen festen und griffsicheren Handlauf haben. Am Anfang und am Ende jeder Rampe ist ein Podest, alle 6 m ein Zwischenpodest anzuordnen. Die Podeste müssen eine Länge von mindestens 1,50 m haben. Treppen müssen an beiden Seiten Handläufe erhalten, die über Treppenabsätze und Fensteröffnungen sowie über die letzten Stufen zu führen sind. Die Treppen müssen Setzstufen haben. Flure müssen mindestens 1,50 m breit sein. Bei der Herstellung von Toilettenräumen müssen diese in der erforderlichen Anzahl barrierefrei sein; sie sind zu kennzeichnen. § 39 Abs. 4 gilt auch für Gebäude mit weniger als fünf oberirdischen Geschossen, soweit Geschosse mit Rollstühlen stufenlos erreichbar sein müssen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 35 Notwendige Treppenräume, Ausgänge",
+          "score": 0.5785,
+          "text_preview": "Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n(3) Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines notwendigen Treppenraum",
+          "text_full": "Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n(3) Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. Sofern der Ausgang eines notwendigen Treppenraumes nicht unmittelbar ins Freie führt, muss der Raum zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie\n1. mindestens so breit sein wie die dazugehörigen Treppenläufe,\n2. Wände haben, die die Anforderungen an die Wände des Treppenraumes erfüllen,\n- Seite 35 von 88 -\n3. rauchdichte und selbstschließende Abschlüsse zu notwendigen Fluren haben und\n4. ohne Öffnungen zu anderen Räumen, ausgenommen zu notwendigen Fluren, sein.\n(4) Die Wände notwendiger Treppenräume müssen als raumabschließende Bauteile\n1. in Gebäuden der Gebäudeklasse 5 die Bauart von Brandwänden haben,\n2. in Gebäuden der Gebäudeklasse 4 auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sein und\n3. in Gebäuden der Gebäudeklasse 3 feuerhemmend sein."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 38",
+          "score": 0.5783,
+          "text_preview": "§ 38\n- Seite 38 von 88 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. nicht begeh",
+          "text_full": "§ 38\n- Seite 38 von 88 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. nicht begehbare Oberlichte und Glasabdeckungen in Flächen, die im Allgemeinen zum Begehen bestimmt sind, wenn sie weniger als 0,50 m aus diesen Flächen herausragen,\n3. Dächer oder Dachteile, die zum auch nur zeitweiligen Aufenthalt von Menschen bestimmt sind,\n4. Öffnungen in begehbaren Decken sowie in Dächern oder Dachteilen nach Nummer 3, wenn sie nicht sicher abgedeckt sind,\n5. nicht begehbare Glasflächen in Decken sowie in Dächern oder Dachteilen nach Nummer 3,\n6. die freien Seiten von Treppenläufen, Treppenabsätzen und Treppenöffnungen (Treppenaugen),\n7. Kellerlichtschächte und Betriebsschächte, die an Verkehrsflächen liegen, wenn sie nicht verkehrssicher abgedeckt sind.\n(2) In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abzudecken. An und in Verkehrsflächen liegende Abdeckungen müssen gegen unbefugtes Abheben gesichert sein."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5686,
+          "text_preview": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräum",
+          "text_full": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräume haben,\ng) Terrassenüberdachungen mit einer Fläche bis zu 30 m² und einer Tiefe bis zu 3 m,\nh) Gartenlauben mit höchstens 24 Quadratmetern Grundfläche einschließlich überdachtem Freisitz, die in Kleingartenanlagen im Sinne des § 1 Absatz 1 Nummer 2 des Bundeskleingartengesetzes liegen und in Ausführung und Beschaffenheit § 3 Absatz 2 des Bundeskleingartengesetzes entsprechen,\ni) Wochenendhäuser auf Wochenendplätzen;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 Meter;\n3."
+        }
+      ],
+      "top_score": 0.678
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7231,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeit-\n- Seite 21 von 88 dauer die Anforderungen diese",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeit-\n- Seite 21 von 88 dauer die Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.6999,
+          "text_preview": "§ 3 Allgemeine Anforderungen\n- Seite 12 von 88 Anlagen sind so anzuordnen, zu errichten, zu ändern, in ihrer Nutzung zu ändern, instand zu halten und zu beseitigen, dass\n1. die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet,\n2",
+          "text_full": "§ 3 Allgemeine Anforderungen\n- Seite 12 von 88 Anlagen sind so anzuordnen, zu errichten, zu ändern, in ihrer Nutzung zu ändern, instand zu halten und zu beseitigen, dass\n1. die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährdet,\n2. die natürlichen Ressourcen nachhaltig genutzt und der Schutz von Natur und Landschaft angemessen berücksichtigt,\n3. umweltverträgliche Rohstoffe und Sekundärstoffe verwendet und\n4. die Belange der Baukultur berücksichtigt werden, sie die allgemeinen Anforderungen ihrem Zweck entsprechend dauerhaft erfüllen und die Nutzbarkeit für alle Menschen gewährleistet ist; dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom\n9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5, L 103 vom\n12.4.2013, S. 10, L 92 vom 8.4.2015, S. 118) in der jeweils geltenden Fassung zu beachten."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6926,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6914,
+          "text_preview": "5) die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendu",
+          "text_full": "5) die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Vollgeschosse sind Geschosse, deren Oberkante im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragt und die über mindestens zwei Drittel ihrer Grundfläche eine lichte Höhe von mindestens 2,30 m haben. Ein gegenüber den Außenwänden zurückgesetztes oberstes Geschoss (Staffelgeschoss) und Geschosse im Dachraum sind nur dann Vollgeschosse, wenn sie die lichte Höhe gemäß Satz 1 über mindestens zwei Drittel der Grundfläche des darunter liegenden Geschosses haben."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "score": 0.6896,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten Zweiter Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        }
+      ],
+      "top_score": 0.7231
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6149,
+          "text_preview": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräum",
+          "text_full": "1 und § 201 des Baugesetzbuchs dienen und höchstens 100 m² Brutto-Grundfläche haben,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\n- Seite 52 von 88 -\nf) Schutzhütten für Wanderinnen oder Wanderer, die jedem zugänglich sind und keine Aufenthaltsräume haben,\ng) Terrassenüberdachungen mit einer Fläche bis zu 30 m² und einer Tiefe bis zu 3 m,\nh) Gartenlauben mit höchstens 24 Quadratmetern Grundfläche einschließlich überdachtem Freisitz, die in Kleingartenanlagen im Sinne des § 1 Absatz 1 Nummer 2 des Bundeskleingartengesetzes liegen und in Ausführung und Beschaffenheit § 3 Absatz 2 des Bundeskleingartengesetzes entsprechen,\ni) Wochenendhäuser auf Wochenendplätzen;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 Meter;\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.602,
+          "text_preview": "Die Sicherstellung der Betriebsbereitschaft obliegt den Mietern oder sonstigen Nutzungsberechtigten, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, si",
+          "text_full": "Die Sicherstellung der Betriebsbereitschaft obliegt den Mietern oder sonstigen Nutzungsberechtigten, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 6, 27, 28 und 30 bis 32 nicht anzuwenden.\n(6) Fallen rechtmäßig bestehende Gebäude auf Grund eines Dachgeschossausbaus oder einer Aufstockung zu Wohnzwecken nach § 2 Absatz 3 Satz 1 in die Gebäudeklasse 4, so sind für die bestehende Gebäudekonstruktion die Anforderungen an den Feuerwiderstand der tragenden und aussteifenden sowie raumabschließenden Bauteile der Gebäudeklasse 3 ausreichend, wenn\n1. Nutzungseinheiten, die nicht zu ebener Erde liegen, Rettungswege nach § 33 Absatz 2 Satz 1 und 2 haben,\n2. die Türen vom notwendigen Treppenraum zu Kellergeschossen mindestens feuerhemmend, rauchdicht und selbstschließend sind,\n- Seite 44 von 88 -\n3. der notwendige Treppenraum nach § 35 Absatz 8 entraucht werden kann und\n4."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.5907,
+          "text_preview": "Januar 2025 ein Bauvorhaben gemäß § 62 angezeigt oder ein bauaufsichtliches Verfahren gemäß § 63 oder § 64 beantragt, müssen zusätzlich insgesamt drei Viertel der Wohnungen barrierefrei erreichbar sein und es muss in Gebäuden mit mehr als 100 Wohnungen eine der barrierefrei nutzbaren Wohnungen je 10",
+          "text_full": "Januar 2025 ein Bauvorhaben gemäß § 62 angezeigt oder ein bauaufsichtliches Verfahren gemäß § 63 oder § 64 beantragt, müssen zusätzlich insgesamt drei Viertel der Wohnungen barrierefrei erreichbar sein und es muss in Gebäuden mit mehr als 100 Wohnungen eine der barrierefrei nutzbaren Wohnungen je 100 Wohnungen rollstuhlgerecht errichtet werden. Die Sätze 1 bis 3 gelten nicht, wenn durch nachträglichen Ausbau des Dachgeschosses, durch Aufstockung um bis zu zwei Geschosse oder durch Teilung von Wohnungen zusätzliche Wohnungen entstehen.\n(2) Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden Teilen barrierefrei sein. Dies gilt insbesondere für\n1. Einrichtungen der Kultur und des Bildungs- und Erziehungswesens,\n2. Sport- und Freizeitstätten,\n3. Einrichtungen des Gesundheitswesens,\n4. Bürogebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Verwaltungs- und Gerichtsgebäude müssen barrierefrei sein. Öffentlich und nicht öffentlich zugängliche Bürogebäude mit nach § 39 Absatz 4 Satz 1 erforderlichen Aufzügen müssen barrierefrei sein."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.5777,
+          "text_preview": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohngebäuden der Gebäudeklassen 3 bis 5 sind\n1. von den öffentlichen Verkehrsflächen und von barrierefreien Wohnungen nach § ",
+          "text_full": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohngebäuden der Gebäudeklassen 3 bis 5 sind\n1. von den öffentlichen Verkehrsflächen und von barrierefreien Wohnungen nach § 50 Absatz 1 aus barrierefrei erreichbare und nutzbare Abstellräume für Rollstühle, Rollatoren, Kinderwagen und Fahrräder in ausreichender Größe und\n2. für jede Wohnung ein ausreichend großer Abstellraum herzustellen. Abstellräume nach Nummer 1 dürfen auch außerhalb des Gebäudes in zumutbarer Entfernung auf dem Baugrundstück hergestellt werden.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(4) In Wohnungen müssen\n1. Aufenthaltsräume, ausgenommen Küchen, und\n2. Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. Bestehende Wohnungen sind bis zum 31. Dezember 2020 entsprechend auszustatten."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5657,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen, nicht dem Wohnen dienende Unterkünfte und Baustellenbüros,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder de",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen, nicht dem Wohnen dienende Unterkünfte und Baustellenbüros,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\n- Seite 55 von 88 -\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten;\n14. folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne des § 35 Absatz 1 Nummer 1 und 2 und § 201 des Baugesetzbuchs dienen,\nb) nicht überdachte Stellplätze und nicht überdachte Abstellplätze für Fahrräder jeweils mit einer Fläche bis zu 100 Quadratmeter und deren Zufahrten,\nc) Kinderspielplätze im Sinne des § 8 Abs. 2 Satz 1;\n15."
+        }
+      ],
+      "top_score": 0.6149
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 18,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7622,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mögli",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.749,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 26",
+          "score": 0.7197,
+          "text_preview": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.12.2023 Bauteilen",
+          "text_full": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.12.2023 Bauteilen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung",
+          "score": 0.7166,
+          "text_preview": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, bauliche",
+          "text_full": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht gereinigt werden können.\n(4) Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen.\n(5) Für die Aufstellung von ortsfesten Verbrennungsmotoren, Blockheizkraftwerken, Brennstoffzellen und Verdichtern sowie die Ableitung ihrer Verbrennungsgase gelten die Absätze 1 bis 3 entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7048,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe si",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lange nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Die Absätze 2 und 3 gelten nicht\n1."
+        }
+      ],
+      "top_score": 0.7622
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7314,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen oder selbständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhal",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen oder selbständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen Sicherheitstreppenraum möglich ist.\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 Meter über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 36 Notwendige Flure, offene Gänge",
+          "score": 0.7111,
+          "text_preview": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausre",
+          "text_full": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lange möglich ist. Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. innerhalb von Nutzungseinheiten mit nicht mehr als 200 Quadratmeter Brutto-Grundfläche und innerhalb von Wohnungen,\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 Quadratmeter Brutto-Grundfläche; das gilt auch für Teile größerer Nutzungseinheiten, wenn\na) diese Teile nicht mehr als 400 Quadratmeter Brutto-Grundfläche und Trennwände nach"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6985,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8,00\n- Seite 13 von 88 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchganges eine Zuoder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6878,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen, nicht dem Wohnen dienende Unterkünfte und Baustellenbüros,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder de",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen, nicht dem Wohnen dienende Unterkünfte und Baustellenbüros,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\n- Seite 55 von 88 -\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten;\n14. folgende Plätze:\na) unbefestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne des § 35 Absatz 1 Nummer 1 und 2 und § 201 des Baugesetzbuchs dienen,\nb) nicht überdachte Stellplätze und nicht überdachte Abstellplätze für Fahrräder jeweils mit einer Fläche bis zu 100 Quadratmeter und deren Zufahrten,\nc) Kinderspielplätze im Sinne des § 8 Abs. 2 Satz 1;\n15."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 35 Notwendige Treppenräume, Ausgänge",
+          "score": 0.6526,
+          "text_preview": "§ 35 Notwendige Treppenräume, Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung de",
+          "text_full": "§ 35 Notwendige Treppenräume, Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lange möglich ist. Notwendige Treppen sind ohne eigenen Treppenraum zulässig\n1. in Gebäuden der Gebäudeklassen 1 und 2,\n2. für die Verbindung von höchstens zwei Geschossen innerhalb derselben Nutzungseinheit von insgesamt nicht mehr als 200 m² Brutto-Grundfläche, wenn in jedem Geschoss ein anderer Rettungsweg erreicht werden kann,\n3. als Außentreppe, wenn ihre Nutzung ausreichend sicher ist und im Brandfall nicht gefährdet werden kann.\n(2) Von jeder Stelle eines Aufenthaltsraumes sowie eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein. Übereinanderliegende Kellergeschosse müssen jeweils mindestens zwei Ausgänge in notwendige Treppenräume oder ins Freie haben."
+        }
+      ],
+      "top_score": 0.7314
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Dachbegrünung, Kinderspielplätze",
+          "score": 0.7557,
+          "text_preview": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Dachbegrünung, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit ",
+          "text_full": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Dachbegrünung, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der Flächen entgegenstehen; Anforderungen aus Biotopflächenfaktor-Landschaftsplänen haben Vorrang. Dächer mit einer Dachneigung bis zu 10 Grad, deren Dachfläche insgesamt größer als 100 Quadratmeter ist, sind zu begrünen, es sei denn der Verwendung der Dachfläche steht das Erfordernis einer anderen zulässigen Verwendung entgegen. Die Sätze 1 und 2 finden keine Anwendung, soweit Bebauungspläne oder andere Rechtsverordnungen abweichende Regelungen enthalten.\n(2) Bei der Errichtung von Gebäuden mit mehr als sechs Wohnungen ist ein Spielplatz für Kinder anzulegen und instand zu halten (notwendiger Kinderspielplatz); Abweichungen können zugelassen werden, wenn nach der Zweckbestimmung des Gebäudes mit der Anwesenheit von Kindern nicht zu rechnen ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7359,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlichrechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verk",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlichrechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes widersprechen. Satz 1 gilt nicht bei bestehenden Gebäuden für eine Außenwand- und Dachdämmung, die über die Bauteilanforderungen der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, in der jeweils geltenden Fassung, für bestehende Gebäude nicht hinausgeht. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.7344,
+          "text_preview": "Die Sicherstellung der Betriebsbereitschaft obliegt den Mietern oder sonstigen Nutzungsberechtigten, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, si",
+          "text_full": "Die Sicherstellung der Betriebsbereitschaft obliegt den Mietern oder sonstigen Nutzungsberechtigten, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 6, 27, 28 und 30 bis 32 nicht anzuwenden.\n(6) Fallen rechtmäßig bestehende Gebäude auf Grund eines Dachgeschossausbaus oder einer Aufstockung zu Wohnzwecken nach § 2 Absatz 3 Satz 1 in die Gebäudeklasse 4, so sind für die bestehende Gebäudekonstruktion die Anforderungen an den Feuerwiderstand der tragenden und aussteifenden sowie raumabschließenden Bauteile der Gebäudeklasse 3 ausreichend, wenn\n1. Nutzungseinheiten, die nicht zu ebener Erde liegen, Rettungswege nach § 33 Absatz 2 Satz 1 und 2 haben,\n2. die Türen vom notwendigen Treppenraum zu Kellergeschossen mindestens feuerhemmend, rauchdicht und selbstschließend sind,\n- Seite 44 von 88 -\n3. der notwendige Treppenraum nach § 35 Absatz 8 entraucht werden kann und\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 84 Baulasten, Baulastenverzeichnis",
+          "score": 0.7327,
+          "text_preview": "§ 84 Baulasten, Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffen",
+          "text_full": "§ 84 Baulasten, Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffentlich-rechtlichen Vorschriften ergeben. Erbbauberechtigte können ihr Erbbaurecht in entsprechender Weise belasten. Baulasten werden unbeschadet der Rechte Dritter mit der Eintragung in das Baulastenverzeichnis wirksam und wirken auch gegenüber Rechtsnachfolgerinnen oder Rechtsnachfolgern.\n(2) Die Erklärung nach Absatz 1 bedarf der Schriftform. Die Unterschrift muss öffentlich beglaubigt oder von einer Vermessungsstelle nach § 2 des Gesetzes über das Vermessungswesen in Berlin in der Fassung vom 9. Januar 1996 (GVBl. S. 56), das zuletzt durch Artikel I des Gesetzes vom 18. Dezember 2004 (GVBl. S. 524) geändert worden ist, in der jeweils geltenden Fassung beglaubigt sein, wenn sie nicht vor der Bauaufsichtsbehörde geleistet oder vor ihr anerkannt wird.\n- Seite 78 von 88 -\n(3) Die Baulast geht durch Verzicht der Bauaufsichtsbehörde unter."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 68 Bauantrag, Bauvorlagen",
+          "score": 0.7022,
+          "text_preview": "§ 68 Bauantrag, Bauvorlagen\n(1) Der Bauantrag ist bei der Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Bauvorhabens und die Bearbeitung des Bauantrags erforderlichen Unterlagen (Bauvorlagen) einzureichen. Es kann gestattet werden, dass einzelne Bauvorlage",
+          "text_full": "§ 68 Bauantrag, Bauvorlagen\n(1) Der Bauantrag ist bei der Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Bauvorhabens und die Bearbeitung des Bauantrags erforderlichen Unterlagen (Bauvorlagen) einzureichen. Es kann gestattet werden, dass einzelne Bauvorlagen nachgereicht werden.\n- Seite 66 von 88 -\n(3) In besonderen Fällen kann zur Beurteilung der Einwirkung der baulichen Anlage auf die Umgebung verlangt werden, dass die bauliche Anlage in geeigneter Weise auf dem Grundstück dargestellt wird.\n(4) Ist die Bauherrin oder der Bauherr nicht Grundstückseigentümerin oder Grundstückseigentümer, ist mit dem Bauantrag die Zustimmung der Grundstückseigentümerin oder des Grundstückseigentümers vorzulegen."
+        }
+      ],
+      "top_score": 0.7557
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.818,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 26",
+          "score": 0.7887,
+          "text_preview": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.12.2023 Bauteilen",
+          "text_full": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.12.2023 Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.7677,
+          "text_preview": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn ",
+          "text_full": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m,\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m Brutto-Rauminhalt einen Abstand von mindestens 5 m einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. des Satzes 1 Nr. 1 ein Abstand von mindestens 6 m,\n2. des Satzes 1 Nr. 2 ein Abstand von mindestens 9 m,\n3. des Satzes 1 Nr. 3 ein Abstand von mindestens 12 m.\n(3) Die Absätze 1 und 2 gelten nicht für\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.7672,
+          "text_preview": "(3) Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. Anstelle von Brandwänden nach Satz 1 sind in den Fällen des Absatzes 2 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlich",
+          "text_full": "(3) Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. Anstelle von Brandwänden nach Satz 1 sind in den Fällen des Absatzes 2 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind,\n2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände,\n3. für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben. In den Fällen des Absatzes 2 Nummer 4 sind anstelle von Brandwänden feuerbeständige Wände zulässig, wenn der Brutto-Rauminhalt des landwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2000 Kubikmeter ist.\n- Seite 29 von 88 -\n(4) Brandwände müssen bis zur Bedachung durchgehen und in allen Geschossen übereinander angeordnet sein. Abweichend davon dürfen anstelle innerer Brandwände Wände geschossweise versetzt angeordnet werden, wenn\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7622,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare Baustoffe,\n2. schwerentflammbare Baustoffe,\n3. normalentflammbare Baustoffe. Baustoffe, die nicht mindestens normalent",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare Baustoffe,\n2. schwerentflammbare Baustoffe,\n3. normalentflammbare Baustoffe. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige Bauteile,\n2. hochfeuerhemmende Bauteile,\n3. feuerhemmende Bauteile; die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2."
+        }
+      ],
+      "top_score": 0.818
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.7775,
+          "text_preview": "Die Sicherstellung der Betriebsbereitschaft obliegt den Mietern oder sonstigen Nutzungsberechtigten, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, si",
+          "text_full": "Die Sicherstellung der Betriebsbereitschaft obliegt den Mietern oder sonstigen Nutzungsberechtigten, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 6, 27, 28 und 30 bis 32 nicht anzuwenden.\n(6) Fallen rechtmäßig bestehende Gebäude auf Grund eines Dachgeschossausbaus oder einer Aufstockung zu Wohnzwecken nach § 2 Absatz 3 Satz 1 in die Gebäudeklasse 4, so sind für die bestehende Gebäudekonstruktion die Anforderungen an den Feuerwiderstand der tragenden und aussteifenden sowie raumabschließenden Bauteile der Gebäudeklasse 3 ausreichend, wenn\n1. Nutzungseinheiten, die nicht zu ebener Erde liegen, Rettungswege nach § 33 Absatz 2 Satz 1 und 2 haben,\n2. die Türen vom notwendigen Treppenraum zu Kellergeschossen mindestens feuerhemmend, rauchdicht und selbstschließend sind,\n- Seite 44 von 88 -\n3. der notwendige Treppenraum nach § 35 Absatz 8 entraucht werden kann und\n4."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7719,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlichrechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verk",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlichrechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes widersprechen. Satz 1 gilt nicht bei bestehenden Gebäuden für eine Außenwand- und Dachdämmung, die über die Bauteilanforderungen der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, in der jeweils geltenden Fassung, für bestehende Gebäude nicht hinausgeht. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.7628,
+          "text_preview": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen\n(1) Verfahrensfrei sind\n1. folgende Gebäude:\na) eingeschossige Gebäude mit einer Brutto-Grundfläche bis zu 10 m², außer im Außenbereich, sowie untergeordnete Gebäude wie Kioske, Verkaufswagen und Toiletten auf öffentlichen Verkehrsflächen und",
+          "text_full": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen\n(1) Verfahrensfrei sind\n1. folgende Gebäude:\na) eingeschossige Gebäude mit einer Brutto-Grundfläche bis zu 10 m², außer im Außenbereich, sowie untergeordnete Gebäude wie Kioske, Verkaufswagen und Toiletten auf öffentlichen Verkehrsflächen und in öffentlichen Grün- und Erholungsanlagen,\nb) Garagen, überdachte Stellplätze und überdachte Abstellplätze für Fahrräder, jeweils sowie deren Abstellräume mit einer mittleren Wandhöhe bis zu 3 Meter und einer BruttoGrundfläche bis zu 50 Quadratmeter, außer im Außenbereich,\nc) Gebäude ohne Feuerungsanlagen mit einer traufseitigen Wandhöhe bis zu 5 m, die einem land- oder forstwirtschaftlichen Betrieb im Sinne des § 35 Abs. 1 und § 201 des Baugesetzbuchs dienen, höchstens 100 m² Brutto-Grundfläche haben und nur zur Unterbringung von Sachen oder zum vorübergehenden Schutz von Tieren bestimmt sind,\nd) Gewächshäuser mit einer Firsthöhe bis zu 5 m, die einem landwirtschaftlichen Betrieb im Sinne des § 35 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.7583,
+          "text_preview": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohngebäuden der Gebäudeklassen 3 bis 5 sind\n1. von den öffentlichen Verkehrsflächen und von barrierefreien Wohnungen nach § ",
+          "text_full": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohngebäuden der Gebäudeklassen 3 bis 5 sind\n1. von den öffentlichen Verkehrsflächen und von barrierefreien Wohnungen nach § 50 Absatz 1 aus barrierefrei erreichbare und nutzbare Abstellräume für Rollstühle, Rollatoren, Kinderwagen und Fahrräder in ausreichender Größe und\n2. für jede Wohnung ein ausreichend großer Abstellraum herzustellen. Abstellräume nach Nummer 1 dürfen auch außerhalb des Gebäudes in zumutbarer Entfernung auf dem Baugrundstück hergestellt werden.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(4) In Wohnungen müssen\n1. Aufenthaltsräume, ausgenommen Küchen, und\n2. Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. Bestehende Wohnungen sind bis zum 31. Dezember 2020 entsprechend auszustatten."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.732,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften der Entwurfsverfasserin oder des Entwurfsverfassers, der Bauleiterin oder des Bauleiters und der Unternehmerin oder des Unternehmers für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die auf Grund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        }
+      ],
+      "top_score": 0.7775
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 72 Baubeginn",
+          "score": 0.7328,
+          "text_preview": "§ 72 Baubeginn\n(1) Die Bauherrin oder der Bauherr hat den Ausführungsbeginn nicht verfahrensfreier Vorhaben mindestens eine Woche vorher der Bauaufsichtsbehörde mitzuteilen (Baubeginnanzeige).\n(2) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, w",
+          "text_full": "§ 72 Baubeginn\n(1) Die Bauherrin oder der Bauherr hat den Ausführungsbeginn nicht verfahrensfreier Vorhaben mindestens eine Woche vorher der Bauaufsichtsbehörde mitzuteilen (Baubeginnanzeige).\n(2) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der Bauherrin oder dem Bauherrn zugegangen ist oder die Frist nach § 69 Absatz 4 Satz 3 Halbsatz 1 abgelaufen ist sowie\n2. die bautechnischen Nachweise und das Ergebnis der Prüfung nach § 66 Absatz 3 und\n3. die Baubeginnanzeige der Bauaufsichtsbehörde vorliegen.\n(3) Vor Baubeginn eines Gebäudes müssen die Grundrissfläche abgesteckt und seine Höhenlage festgelegt sein. Baugenehmigungen, Bauvorlagen sowie bautechnische Nachweise und Ergebnisse der Prüfung nach § 66 Absatz 3 müssen an der Baustelle von Baubeginn an vorliegen.\n(4) Nicht verfahrensfreie Vorhaben, deren Baubeginn zulässig ist, können nach den zu diesem Zeitpunkt geltenden Vorschriften ausgeführt werden, solange die Geltungsdauer eines Bescheides oder das Recht zur Ausführung eines Bauvorhabens dem nicht entgegensteht. Der Zeitpunkt nach Satz 1 ist unabhängig von den Voraussetzungen des Absatzes 2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.7263,
+          "text_preview": "§ 69 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde prüft innerhalb von zwei Wochen nach Eingang des Bauantrags dessen Vollständigkeit. Ist der Bauantrag vollständig, ist dies der Bauherrin oder dem Bauherrn unverzüglich zu bestätigen. Ist der Bauantrag unvollständig oder weist er sonstige er",
+          "text_full": "§ 69 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde prüft innerhalb von zwei Wochen nach Eingang des Bauantrags dessen Vollständigkeit. Ist der Bauantrag vollständig, ist dies der Bauherrin oder dem Bauherrn unverzüglich zu bestätigen. Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde die Bauherrin oder den Bauherrn unverzüglich zur Behebung der Mängel innerhalb einer angemessenen Frist auf. Werden die Mängel innerhalb der Frist nicht behoben, gilt der Antrag als zurückgenommen.\n(2) Ist der Bauantrag vollständig, holt die Bauaufsichtsbehörde unverzüglich die Stellungnahmen der Behörden und sonstigen Stellen ein,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist oder\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Bauantrags nicht beurteilt werden kann, insbesondere der für die Beurteilung des Bauplanungsrechts zuständigen Stelle. Die Beteiligung oder Anhörung entfällt, wenn die jeweilige Behörde oder sonstige Stelle dem Bauantrag bereits vor Einleitung des Baugenehmigungsverfahrens zugestimmt hat."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.7188,
+          "text_preview": "Die Frist beginnt, sobald alle für die Entscheidung notwendigen Stellungnahmen und Nachweise vorliegen oder die Frist nach Absatz 2 Satz 5 abgelaufen ist.\n(4) Im vereinfachten Baugenehmigungsverfahren nach § 63 und im vereinfachten Baugenehmigungsverfahren für Werbeanlagen nach § 63a sind die nach A",
+          "text_full": "Die Frist beginnt, sobald alle für die Entscheidung notwendigen Stellungnahmen und Nachweise vorliegen oder die Frist nach Absatz 2 Satz 5 abgelaufen ist.\n(4) Im vereinfachten Baugenehmigungsverfahren nach § 63 und im vereinfachten Baugenehmigungsverfahren für Werbeanlagen nach § 63a sind die nach Absatz 1 Satz 3 fehlenden Unterlagen und Mängel abschließend zu benennen. Ein Bauantrag gilt in den Verfahren nach Satz 1 nach Ablauf von drei Wochen nach dessen Eingang als vollständig, wenn die Bauaufsichtsbehörde der Bauherrin oder dem Bauherrn entgegen Absatz 1 Satz 2 die Vollständigkeit des Bauantrags nicht bestätigt oder sie oder ihn entgegen Absatz 1 Satz 3 nicht zur Behebung von Mängeln des Bauantrags auffordert. Ist in den Verfahren nach Satz 1 nicht innerhalb einer Frist nach Absatz 3 Satz 1 entschieden worden, gilt die Baugenehmigung als erteilt; dies gilt im vereinfachten Baugenehmigungsverfahren nach § 63 nicht, wenn die Bauherrin oder der Bauherr auf diese Rechtsfolge verzichtet hat."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 83 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7164,
+          "text_preview": "§ 83 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauh",
+          "text_full": "§ 83 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Die Bauherrin oder der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. Mit der Anzeige nach Satz 1 sind vorzulegen\n1. bei Bauvorhaben nach § 66 Absatz 3 Satz 1 das Ergebnis der Überwachung der ordnungsgemäßen Bauausführung hinsichtlich der Standsicherheit gemäß § 82 Absatz 2 Satz 1 Nummer 1,\n2. bei Bauvorhaben nach § 66 Absatz 3 Satz 2 das Ergebnis der Überwachung der ordnungsgemäßen Bauausführung hinsichtlich des Brandschutzes gemäß § 82 Absatz 2 Satz 1 Nummer 2. Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungsund Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 73 Geltungsdauer der Baugenehmigung",
+          "score": 0.7082,
+          "text_preview": "Dezember 2027 um maximal zwei Jahre verlängert wird, weil sich die Fertigstellung des Bauvorhabens aus Gründen, die außerhalb des Einflussbereichs der Bauherrin oder des Bauherrn liegen, verzögert. Die Voraussetzungen nach Satz 3 hat die Bauherrin oder der Bauherr im Falle des Satz 3 Nummer 1 bei Ei",
+          "text_full": "Dezember 2027 um maximal zwei Jahre verlängert wird, weil sich die Fertigstellung des Bauvorhabens aus Gründen, die außerhalb des Einflussbereichs der Bauherrin oder des Bauherrn liegen, verzögert. Die Voraussetzungen nach Satz 3 hat die Bauherrin oder der Bauherr im Falle des Satz 3 Nummer 1 bei Einreichung des Bauantrags durch Vorlage eines Bauablaufplans oder anderer geeigneter Unterlagen darzustellen und im Falle des Satz 3 Nummer 2 durch geeignete Unterlagen nachzuweisen. Die Befristung nach Satz 3 Nummer 2 bezieht sich nicht auf die Geltungsdauer der Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Verfahren von der Vorschrift Gebrauch gemacht werden kann."
+        }
+      ],
+      "top_score": 0.7328
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 71 Baugenehmigung",
+          "score": 0.73,
+          "text_preview": "§ 71 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswi",
+          "text_full": "§ 71 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen. Die Bauaufsichtsbehörde darf den Bauantrag ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt.\n(2) Die Baugenehmigung ist nur insoweit zu begründen als Abweichungen, Ausnahmen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und die Nachbarin oder der Nachbar nicht nach § 70 Absatz 2 zugestimmt hat.\n(3) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.7186,
+          "text_preview": "(5) Wird nach Durchführung des Bauvorhabens die Nichtigkeit des Bebauungsplans festgestellt, so bedarf das Bauvorhaben auch keiner Baugenehmigung. Seine Beseitigung darf wegen eines Verstoßes gegen bauplanungsrechtliche Vorschriften, der auf der Nichtigkeit des Bebauungsplans beruht, nicht verlangt ",
+          "text_full": "(5) Wird nach Durchführung des Bauvorhabens die Nichtigkeit des Bebauungsplans festgestellt, so bedarf das Bauvorhaben auch keiner Baugenehmigung. Seine Beseitigung darf wegen eines Verstoßes gegen bauplanungsrechtliche Vorschriften, der auf der Nichtigkeit des Bebauungsplans beruht, nicht verlangt werden, es sei denn, dass eine Beeinträchtigung von Rechten Dritter dies erfordert.\n(6) § 66 bleibt unberührt. § 68 Absatz 2 Satz 1, § 72 Absatz 1, 2 Nummer 2 und Absatz 3 sowie § 73 Absatz 1 Satz 3 und Absatz 2 Satz 3 bis 5 sind entsprechend anzuwenden. Dritter Abschnitt Genehmigungsverfahren"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.7075,
+          "text_preview": "(2) Nach Absatz 1 ist ein Bauvorhaben genehmigungsfrei gestellt, wenn\n1. es\na) im Geltungsbereich eines Bebauungsplans im Sinne des § 30 Abs. 1 oder 2 des Baugesetzbuchs liegt und den Festsetzungen des Bebauungsplans nicht widerspricht oder die erforderlichen Befreiungen und Ausnahmen nach § 31 des ",
+          "text_full": "(2) Nach Absatz 1 ist ein Bauvorhaben genehmigungsfrei gestellt, wenn\n1. es\na) im Geltungsbereich eines Bebauungsplans im Sinne des § 30 Abs. 1 oder 2 des Baugesetzbuchs liegt und den Festsetzungen des Bebauungsplans nicht widerspricht oder die erforderlichen Befreiungen und Ausnahmen nach § 31 des Baugesetzbuchs erteilt worden sind oder\nb) in einem planungsrechtlichen Bescheid gemäß § 75 Absatz 2 abschließend als insgesamt planungsrechtlich zulässig festgestellt worden ist oder\nc) die Änderung und Nutzungsänderung von Dachgeschossen zu Wohnzwecken einschließlich der Errichtung von Dachgauben im Anwendungsbereich des § 34 Absatz 1 Satz 1 des Baugesetzbuchs zum Gegenstand hat,\n- Seite 57 von 88 -\n2. die Erschließung im Sinne des Baugesetzbuchs gesichert ist und\n3. die Bauaufsichtsbehörde nicht innerhalb der Frist nach Absatz 3 Satz 2 erklärt, dass das vereinfachte Baugenehmigungsverfahren durchgeführt werden soll, oder eine vorläufige Untersagung nach § 15 Abs. 1 Satz 2 des Baugesetzbuchs ausspricht."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 84 Baulasten, Baulastenverzeichnis",
+          "score": 0.7033,
+          "text_preview": "§ 84 Baulasten, Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffen",
+          "text_full": "§ 84 Baulasten, Baulastenverzeichnis\n(1) Durch Erklärung gegenüber der Bauaufsichtsbehörde können Grundstückseigentümerinnen oder Grundstückseigentümer öffentlich-rechtliche Verpflichtungen zu einem ihre Grundstücke betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffentlich-rechtlichen Vorschriften ergeben. Erbbauberechtigte können ihr Erbbaurecht in entsprechender Weise belasten. Baulasten werden unbeschadet der Rechte Dritter mit der Eintragung in das Baulastenverzeichnis wirksam und wirken auch gegenüber Rechtsnachfolgerinnen oder Rechtsnachfolgern.\n(2) Die Erklärung nach Absatz 1 bedarf der Schriftform. Die Unterschrift muss öffentlich beglaubigt oder von einer Vermessungsstelle nach § 2 des Gesetzes über das Vermessungswesen in Berlin in der Fassung vom 9. Januar 1996 (GVBl. S. 56), das zuletzt durch Artikel I des Gesetzes vom 18. Dezember 2004 (GVBl. S. 524) geändert worden ist, in der jeweils geltenden Fassung beglaubigt sein, wenn sie nicht vor der Bauaufsichtsbehörde geleistet oder vor ihr anerkannt wird.\n- Seite 78 von 88 -\n(3) Die Baulast geht durch Verzicht der Bauaufsichtsbehörde unter."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 79 Einstellung von Arbeiten",
+          "score": 0.6985,
+          "text_preview": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 7",
+          "text_full": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 72 Absatz 1 und 2 begonnen wurde,\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Bauvorhabens von den genehmigten Bauvorlagen,\nb) eines genehmigungsfreigestellten Bauvorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die entgegen der Verordnung (EU) Nr. 305/2011 keine CEKennzeichnung oder entgegen § 21 kein Ü-Zeichen tragen,\n4. Bauprodukte verwendet werden, die unberechtigt mit der CE-Kennzeichnung oder dem Ü-Zeichen (§ 21 Absatz 3) gekennzeichnet sind.\n(2) Werden unzulässige Arbeiten trotz einer verfügten Einstellung fortgesetzt, kann die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen."
+        }
+      ],
+      "top_score": 0.73
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften erricht",
+          "score": 0.7815,
+          "text_preview": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften erricht\net oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt",
+          "text_full": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften erricht\net oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, kann diese Nutzung untersagt werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 84 Baulasten, Baulastenverzeichnis",
+          "score": 0.7714,
+          "text_preview": "Der Verzicht ist zu erklären, wenn ein öffentliches Interesse an der Baulast nicht mehr besteht. Vor dem Verzicht sollen die oder der Verpflichtete und die durch die Baulast Begünstigten angehört werden. Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Das Baulaste",
+          "text_full": "Der Verzicht ist zu erklären, wenn ein öffentliches Interesse an der Baulast nicht mehr besteht. Vor dem Verzicht sollen die oder der Verpflichtete und die durch die Baulast Begünstigten angehört werden. Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde geführt. In das Baulastenverzeichnis können auch eingetragen werden\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sich Abschriften erteilen lassen.\nSECHSTER TEIL Ordnungswidrigkeiten, Rechtsvorschriften, Zuständigkeit"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7394,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften der Entwurfsverfasserin oder des Entwurfsverfassers, der Bauleiterin oder des Bauleiters und der Unternehmerin oder des Unternehmers für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die auf Grund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 79 Einstellung von Arbeiten",
+          "score": 0.7369,
+          "text_preview": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 7",
+          "text_full": "§ 79 Einstellung von Arbeiten\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. Dies gilt auch dann, wenn\n1. die Ausführung eines Vorhabens entgegen den Vorschriften des § 72 Absatz 1 und 2 begonnen wurde,\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Bauvorhabens von den genehmigten Bauvorlagen,\nb) eines genehmigungsfreigestellten Bauvorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die entgegen der Verordnung (EU) Nr. 305/2011 keine CEKennzeichnung oder entgegen § 21 kein Ü-Zeichen tragen,\n4. Bauprodukte verwendet werden, die unberechtigt mit der CE-Kennzeichnung oder dem Ü-Zeichen (§ 21 Absatz 3) gekennzeichnet sind.\n(2) Werden unzulässige Arbeiten trotz einer verfügten Einstellung fortgesetzt, kann die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7367,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe si",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lange nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Die Absätze 2 und 3 gelten nicht\n1."
+        }
+      ],
+      "top_score": 0.7815
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 86 Rechtsverordnungen und Verwaltungsvorschriften",
+          "score": 0.7098,
+          "text_preview": "§ 86 Rechtsverordnungen und Verwaltungsvorschriften\n(1) Zur Verwirklichung der in § 3 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die für das Bauwesen zuständige Senatsverwaltung ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung a",
+          "text_full": "§ 86 Rechtsverordnungen und Verwaltungsvorschriften\n(1) Zur Verwirklichung der in § 3 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die für das Bauwesen zuständige Senatsverwaltung ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 48,\n2. Anforderungen an Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung,\n3. Anforderungen an Garagen und Stellplätze, und Abstellplätze für Fahrräder\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung von Anlagen oder Räumen für Errichtung, Änderung, Unterhaltung, Betrieb und Benutzung er-\n- Seite 80 von 88 geben (§§ 50 und 51), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n6."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 67 Abweichungen, Ausnahmen und Befreiungen",
+          "score": 0.7024,
+          "text_preview": "§ 67 Abweichungen, Ausnahmen und Befreiungen\n(1) Die Bauaufsichtsbehörde soll Abweichungen von Anforderungen dieses Gesetzes und auf Grund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtl",
+          "text_full": "§ 67 Abweichungen, Ausnahmen und Befreiungen\n(1) Die Bauaufsichtsbehörde soll Abweichungen von Anforderungen dieses Gesetzes und auf Grund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 Satz 1, vereinbar sind. Dies gilt insbesondere für\n1. Vorhaben, die der Weiternutzung bestehender Gebäude dienen,\n2. Vorhaben zur Energieeinsparung und Nutzung erneuerbarer Energien oder\n3. Vorhaben zur Erprobung neuer Bau- und Wohnformen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 59 Grundsatz",
+          "score": 0.6939,
+          "text_preview": "§ 59 Grundsatz\n(1) Die Errichtung, Änderung und Nutzungsänderung von Anlagen bedürfen der Baugenehmigung, soweit in den §§ 60 bis 62, 76 und 77 nichts anderes bestimmt ist.\n(2) Die Genehmigungsfreiheit nach den §§ 60 bis 62, 76 und 77 Absatz 1 Satz 3 sowie die Beschränkung der bauaufsichtlichen Prüf",
+          "text_full": "§ 59 Grundsatz\n(1) Die Errichtung, Änderung und Nutzungsänderung von Anlagen bedürfen der Baugenehmigung, soweit in den §§ 60 bis 62, 76 und 77 nichts anderes bestimmt ist.\n(2) Die Genehmigungsfreiheit nach den §§ 60 bis 62, 76 und 77 Absatz 1 Satz 3 sowie die Beschränkung der bauaufsichtlichen Prüfung nach den §§ 63, 63a, 64, 66 Absatz 3 und § 77 Absatz 3 entbinden nicht von der Verpflichtung zur Einhaltung der Anforderungen, die durch öffentlich-rechtliche Vorschriften an Anlagen gestellt werden, und lassen die bauaufsichtlichen Eingriffsbefugnisse unberührt.\n(3) Die Bauaufsichtsbehörde kann im Einzelfall bei geringfügigen genehmigungsbedürftigen Vorhaben von der Erteilung der Baugenehmigung absehen; die Antragstellerin oder der Antragsteller ist entsprechend zu bescheiden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 45",
+          "score": 0.6866,
+          "text_preview": "§ 45\n,\n4. die Sicherheit des öffentlichen Verkehrs sowie\n5. die Einhaltung anderer öffentlich-rechtlicher Anforderungen, soweit wegen der Baugenehmigung eine Entscheidung nach anderen öffentlich-rechtlichen Vorschriften entfällt oder ersetzt wird.",
+          "text_full": "§ 45\n,\n4. die Sicherheit des öffentlichen Verkehrs sowie\n5. die Einhaltung anderer öffentlich-rechtlicher Anforderungen, soweit wegen der Baugenehmigung eine Entscheidung nach anderen öffentlich-rechtlichen Vorschriften entfällt oder ersetzt wird."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.6777,
+          "text_preview": "(4) Für bauliche Anlagen, die überwiegend von Menschen mit Behinderungen oder auf Grund von Alter oder Krankheit beeinträchtigten Menschen genutzt werden oder ihrer Betreuung dienen, gelten Absatz 2 Satz 5 und Absatz 3 Satz 9 entsprechend, soweit nicht in anderen Vorschriften Regelungen zur Barriere",
+          "text_full": "(4) Für bauliche Anlagen, die überwiegend von Menschen mit Behinderungen oder auf Grund von Alter oder Krankheit beeinträchtigten Menschen genutzt werden oder ihrer Betreuung dienen, gelten Absatz 2 Satz 5 und Absatz 3 Satz 9 entsprechend, soweit nicht in anderen Vorschriften Regelungen zur Barrierefreiheit getroffen werden.\n(5) Sollen rechtmäßig bestehende bauliche Anlagen nach Absatz 2 in ihrer Nutzung geändert werden, gelten die in Absatz 2 genannten Anforderungen entsprechend.\n(6) Von den Absätzen 1 bis 5 dürfen Abweichungen gemäß § 67 Absatz 1 nur zugelassen werden, soweit die Anforderungen\n1. wegen schwieriger Geländeverhältnisse,\n2. wegen des Einbaus eines sonst nicht erforderlichen Aufzugs oder\n3. wegen ungünstiger vorhandener Bebauung nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können."
+        }
+      ],
+      "top_score": 0.7098
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.7095,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden und Dächern von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist ",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden und Dächern von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf.\n(2) Abstandsflächen sowie Abstände nach § 30 Abs. 2 Nr. 1 und § 32 Abs. 2 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte. Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut werden; Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6518,
+          "text_preview": "vor die Außenwand vortretende Bauteile wie Gesimse und Dachüberstände,\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen und\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 Meter von der gegenüberliegenden",
+          "text_full": "vor die Außenwand vortretende Bauteile wie Gesimse und Dachüberstände,\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen und\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 Meter von der gegenüberliegenden Nachbargrenze entfernt bleiben,\n3. bei Gebäuden an der Grundstücksgrenze die Seitenwände von Vorbauten und Dachaufbauten, auch wenn sie nicht an der Grundstücksgrenze errichtet werden.\n(7) Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden Gebäuden unabhängig davon, ob diese den Anforderungen der Absätze 2 bis 6 entsprechen, außer Betracht, wenn sie\n1. eine Stärke von nicht mehr als 0,30 Meter aufweisen und\n2. mindestens 2,50 Meter von der Nachbargrenze zurückbleiben.\n(8) In den Abstandsflächen eines Gebäudes sowie ohne eigene Abstandsflächen sind, auch wenn sie nicht an die Grundstücksgrenze oder an das Gebäude angebaut werden, zulässig\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.61,
+          "text_preview": "Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden der Gebäudeklassen 1 und 2,\n3. Gebäude und andere bauliche Anlagen, die in den Abstandsflächen zulässig sind.\n(4) Die Tiefe der Abstandsfläche bemisst sich nach der Höhe H. Die Höhe H ist das lotrechte Maß von jedem Punkt\na) des",
+          "text_full": "Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden der Gebäudeklassen 1 und 2,\n3. Gebäude und andere bauliche Anlagen, die in den Abstandsflächen zulässig sind.\n(4) Die Tiefe der Abstandsfläche bemisst sich nach der Höhe H. Die Höhe H ist das lotrechte Maß von jedem Punkt\na) des oberen Abschlusses der Wand oder\nb) der Dachhaut bis zur Geländeoberfläche. Die Abstandsfläche wird von dem Punkt der Geländeoberfläche, an dem H ermittelt wird, senkrecht zur Wand gemessen.\n(5) Die Tiefe der Abstandsflächen beträgt 0,4 H, mindestens 3 m. In Gewerbe- und Industriegebieten genügt eine Tiefe von 0,2 H, mindestens 3 m. Vor den Außenwänden von Gebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3\n- Seite 14 von 88 m. Soweit sich durch Festsetzung der Grundflächen der Gebäude mittels Baulinien oder Baugrenzen in Verbindung mit der Festsetzung der Zahl der Vollgeschosse oder durch andere ausdrückliche Festsetzungen in einem Bebauungsplan geringere Abstandsflächen ergeben, hat es damit sein Bewenden.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6091,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8,00\n- Seite 13 von 88 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchganges eine Zuoder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Dachbegrünung, Kinderspielplätze",
+          "score": 0.6085,
+          "text_preview": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Dachbegrünung, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit ",
+          "text_full": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Dachbegrünung, Kinderspielplätze\n(1) Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der Flächen entgegenstehen; Anforderungen aus Biotopflächenfaktor-Landschaftsplänen haben Vorrang. Dächer mit einer Dachneigung bis zu 10 Grad, deren Dachfläche insgesamt größer als 100 Quadratmeter ist, sind zu begrünen, es sei denn der Verwendung der Dachfläche steht das Erfordernis einer anderen zulässigen Verwendung entgegen. Die Sätze 1 und 2 finden keine Anwendung, soweit Bebauungspläne oder andere Rechtsverordnungen abweichende Regelungen enthalten.\n(2) Bei der Errichtung von Gebäuden mit mehr als sechs Wohnungen ist ein Spielplatz für Kinder anzulegen und instand zu halten (notwendiger Kinderspielplatz); Abweichungen können zugelassen werden, wenn nach der Zweckbestimmung des Gebäudes mit der Anwesenheit von Kindern nicht zu rechnen ist."
+        }
+      ],
+      "top_score": 0.7095
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7076,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mögli",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.6802,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen oder selbständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhal",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen oder selbständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen Sicherheitstreppenraum möglich ist.\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 Meter über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6382,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8,00\n- Seite 13 von 88 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchganges eine Zuoder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.602,
+          "text_preview": "Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen.",
+          "text_full": "Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.5805,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        }
+      ],
+      "top_score": 0.7076
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6377,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeit-\n- Seite 21 von 88 dauer die Anforderungen diese",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeit-\n- Seite 21 von 88 dauer die Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 89 Abwicklung eingeleiteter Verfahren, Übergangsvorschriften",
+          "score": 0.6209,
+          "text_preview": "§ 89 Abwicklung eingeleiteter Verfahren, Übergangsvorschriften\n(1) Die vor dem Inkrafttreten dieses Gesetzes eingeleiteten Verfahren sind nach den bis zum Inkrafttreten geltenden Vorschriften fortzuführen; die Vorschriften dieses Gesetzes sind mit Ausnahme des Fünften Teils jedoch anzuwenden, soweit",
+          "text_full": "§ 89 Abwicklung eingeleiteter Verfahren, Übergangsvorschriften\n(1) Die vor dem Inkrafttreten dieses Gesetzes eingeleiteten Verfahren sind nach den bis zum Inkrafttreten geltenden Vorschriften fortzuführen; die Vorschriften dieses Gesetzes sind mit Ausnahme des Fünften Teils jedoch anzuwenden, soweit diese für die Bauherrin oder den Bauherrn günstiger sind.\n(2) Die vor dem 1. Januar 2017 eingeleiteten Verfahren sind nach den bis zu diesem Zeitpunkt geltenden Vorschriften fortzuführen; die nach diesem Zeitpunkt geltenden Vorschriften sind mit Ausnahme des Fünften Teils jedoch anzuwenden, soweit diese für die Bauherrin oder den Bauherrn günstiger sind.\n(3) Die vor dem 20. April 2018 eingeleiteten Verfahren sind nach den bis zu diesem Zeitpunkt geltenden Vorschriften fortzuführen; die nach diesem Zeitpunkt geltenden Vorschriften sind mit Ausnahme des Fünften Teils jedoch anzuwenden, soweit diese für die Bauherrin oder den Bauherrn günstiger sind.\n(4) Die Verwendung des Ü-Zeichens auf Bauprodukten, die die CE-Kennzeichnung auf Grund der Verordnung (EU) Nr. 305/2011 tragen, ist ab dem 20. April 2018 nicht mehr zulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 17 Verwendbarkeitsnachweise",
+          "score": 0.6144,
+          "text_preview": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn 1 es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 86a Absatz 2 Nummer 3) wesentlich",
+          "text_full": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn 1 es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 86a Absatz 2 Nummer 3) wesentlich abweicht oder\n3. eine Verordnung nach § 86 Absatz 4a es vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 86a enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.601,
+          "text_preview": "Das Recht zur Ausführung des Bauvorhabens entsprechend den eingereichten Unterlagen erlischt, wenn nach Vorliegen der Voraussetzungen nach den Sätzen 2 und 3\n1. nicht innerhalb von zwei Jahren mit dessen Ausführung begonnen wurde oder\n2. das Bauvorhaben nach sechs Jahren nicht fertig gestellt worden",
+          "text_full": "Das Recht zur Ausführung des Bauvorhabens entsprechend den eingereichten Unterlagen erlischt, wenn nach Vorliegen der Voraussetzungen nach den Sätzen 2 und 3\n1. nicht innerhalb von zwei Jahren mit dessen Ausführung begonnen wurde oder\n2. das Bauvorhaben nach sechs Jahren nicht fertig gestellt worden ist.\n(4) Die Erklärung der Bauaufsichtsbehörde nach Absatz 2 Satz 1 Nummer 3 erste Alternative kann insbesondere deshalb erfolgen, weil sie eine Überprüfung der sonstigen Voraussetzungen des Absatzes 2 oder des Bauvorhabens aus anderen Gründen für erforderlich hält. Darauf, dass die Bauaufsichtsbehörde von ihrer Erklärungsmöglichkeit keinen Gebrauch macht, besteht kein Rechtsanspruch. Erklärt die Bauaufsichtsbehörde, dass das vereinfachte Baugenehmigungsverfahren durchgeführt werden soll, hat sie der Bauherrin oder dem Bauherrn die vorgelegten Unterlagen zurückzureichen; dies gilt nicht, wenn die Bauherrin oder der Bauherr bei der Vorlage der Unterlagen bestimmt hat, dass ihre oder seine Vorlage im Fall der Erklärung nach Absatz 2 Satz 1 Nummer 3 als Bauantrag zu behandeln ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 76 Genehmigung Fliegender Bauten",
+          "score": 0.5903,
+          "text_preview": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit",
+          "text_full": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit oder Standsicherheit nicht oder nicht mehr gewährleistet ist oder weil von der Ausführungsgenehmigung abgewichen wird. Wird die Aufstellung oder der Gebrauch untersagt, ist dies in das Prüfbuch einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n(8) Bei Fliegenden Bauten, die von Besucherinnen und Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. Das Ergebnis der Nachabnahme ist in das Prüfbuch einzutragen.\n(9) § 68 Absatz 1, 2 und 4 sowie § 82 Absatz 1 und 4 gelten entsprechend."
+        }
+      ],
+      "top_score": 0.6377
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BE",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 56 Bauleiterin oder Bauleiter",
+          "score": 0.7904,
+          "text_preview": "§ 56 Bauleiterin oder Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren ba",
+          "text_full": "§ 56 Bauleiterin oder Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen durchgeführt wird, und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmerinnen oder Unternehmer, zu achten. Die Verantwortlichkeit der Unternehmerinnen oder Unternehmer bleibt unberührt.\n(2) Die Bauleiterin oder der Bauleiter muss über die für ihre oder seine Aufgabe erforderliche Sachkunde und Erfahrung verfügen. Verfügt sie oder er auf einzelnen Teilgebieten nicht über die erforderliche Sachkunde, so sind geeignete Fachbauleiterinnen oder Fachbauleiter heranzuziehen. Diese treten insoweit an die Stelle der Bauleiterin oder des Bauleiters. Die Bauleiterin oder der Bauleiter hat die Tätigkeit der Fachbauleiterinnen oder Fachbauleiter und ihre oder seine Tätigkeit aufeinander abzustimmen.\nFÜNFTER TEIL Bauaufsichtsbehörden, Verfahren Erster Abschnitt Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 53 Bauherrin oder Bauherr",
+          "score": 0.7778,
+          "text_preview": "§ 53 Bauherrin oder Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit sie oder er nicht selbst zur Erfüllung d",
+          "text_full": "§ 53 Bauherrin oder Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit sie oder er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschriften geeignet ist. Der Bauherrin oder dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Sie oder er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. Ein Wechsel der Entwurfsverfasserin oder des Entwurfsverfassers hat die Bauherrin oder der Bauherr der Bauaufsichtsbehörde mitzuteilen. Sie oder er hat vor Baubeginn den Namen der Bauleiterin oder des Bauleiters und während der Bauausführung einen Wechsel dieser Person unverzüglich der Bauaufsichtsbehörde mitzuteilen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 57 Aufbau der Bauaufsichtsbehörden Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeignetem",
+          "score": 0.7664,
+          "text_preview": "§ 57 Aufbau der Bauaufsichtsbehörden Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeignetem\nPersonal zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Bauaufsichtsbehörden sollen Bedienstete, die die Befähigung zum höheren bautechnischen Verwalt",
+          "text_full": "§ 57 Aufbau der Bauaufsichtsbehörden Die Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeignetem\nPersonal zu besetzen und mit den erforderlichen Vorrichtungen auszustatten. Den Bauaufsichtsbehörden sollen Bedienstete, die die Befähigung zum höheren bautechnischen Verwaltungsdienst und die erforderlichen Kenntnisse der Bautechnik, der Baugestaltung und des öffentlichen Baurechts haben, und Bedienstete, die die Befähigung zum Richteramt oder zum höheren Verwaltungsdienst haben, angehören."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 86 Absatz 3 Satz 1 Nummer 4 kann bestimmt werden, dass Beratungen mit geringem Verwaltungsaufwand gebührenfrei sind. Sie kön",
+          "score": 0.7491,
+          "text_preview": "An der Bauantragskonferenz nehmen die Bauherrin oder der Bauherr und eine entscheidungsbefugte Vertretung aller durch das Vorhaben berührten Fachbereiche teil, einschließlich der für die Beurteilung der Anforderungen an die Beseitigung von Niederschlagswasser und des Artenschutzes zuständigen Stelle",
+          "text_full": "An der Bauantragskonferenz nehmen die Bauherrin oder der Bauherr und eine entscheidungsbefugte Vertretung aller durch das Vorhaben berührten Fachbereiche teil, einschließlich der für die Beurteilung der Anforderungen an die Beseitigung von Niederschlagswasser und des Artenschutzes zuständigen Stellen. Die beauftragten Stellen für die Belange von Menschen mit Behinderungen sind hinzuzuladen. Die Bauantragskonferenz legt fest, welche Vorarbeiten bis zur Antragstellung erfolgen müssen. Das Ergebnis ist zu protokollieren. Absatz 1 ist entsprechend anzuwenden.\n(2) Bauaufsichtliche Genehmigungen und sonstige Maßnahmen gelten auch für und gegen Rechtsnachfolgerinnen oder Rechtsnachfolger.\n(3) Die mit dem Vollzug dieses Gesetzes beauftragten Personen sind, soweit dies zur Ausübung ihres Amtes erforderlich ist, berechtigt, Grundstücke und Anlagen sowie zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung auch Wohnungen zu betreten. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes, Artikel 28 Abs. 2 der Verfassung von Berlin) wird insoweit eingeschränkt. Zweiter Abschnitt Genehmigungspflicht, Genehmigungsfreiheit"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Berlin",
+          "jurisdiction": "DE-BE",
+          "source_paragraph": "§ 56 Bauleiterin oder Bauleiter Fünfter Teil Bauaufsichtsbehörden, Verfahren Erster Abschnitt Bauaufsichtsbehörden",
+          "score": 0.7351,
+          "text_preview": "§ 56 Bauleiterin oder Bauleiter Fünfter Teil Bauaufsichtsbehörden, Verfahren Erster Abschnitt Bauaufsichtsbehörden",
+          "text_full": "§ 56 Bauleiterin oder Bauleiter Fünfter Teil Bauaufsichtsbehörden, Verfahren Erster Abschnitt Bauaufsichtsbehörden"
+        }
+      ],
+      "top_score": 0.7904
+    }
+  ]
+}

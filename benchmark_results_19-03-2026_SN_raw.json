@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-SN",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 15483,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.663,
+          "text_preview": "3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, soweit ",
+          "text_full": "3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5, L 103 vom\n12.4.2013, S. 10), die zuletzt durch die delegierte Verordnung (EU) Nr. 574/2014 (ABl. L 159 vom\n28.5.2014, S. 41) geändert worden ist, die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden, und\n2. aus Produkten, Baustoffen, Bauteilen und Bausätzen gemäß Artikel 2 Nummer 2 der Verordnung (EU) Nr."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.6597,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) 1Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. 2Hierzu zählen insbesondere Schilder,",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) 1Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. 2Hierzu zählen insbesondere Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Schaukästen sowie für Zettelanschläge und Bogenanschläge oder Lichtwerbung bestimmte Säulen, Tafeln und Flächen.\n(2) 1Für Werbeanlagen, die bauliche Anlagen sind, gelten die in diesem Gesetz an bauliche Anlagen gestellten Anforderungen. 2Werbeanlagen, die keine baulichen Anlagen sind, dürfen weder bauliche Anlagen noch das Straßen-, Orts- und Landschaftsbild verunstalten oder die Sicherheit und Leichtigkeit des Verkehrs gefährden. 3Die störende Häufung von Werbeanlagen ist unzulässig.\n(3) 1Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. 2Ausgenommen sind, soweit in anderen Vorschriften nichts anderes bestimmt ist:\n1. Werbeanlagen an der Stätte der Leistung;\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6487,
+          "text_preview": "§ 2 Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. 2Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verw",
+          "text_full": "§ 2 Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. 2Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. 3Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen;\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze;\n3. Sport- und Spielflächen;\n4. Campingplätze, Wochenendplätze und Zeltplätze;\n5. Freizeit- und Vergnügungsparks;\n6. Stellplätze für Kraftfahrzeuge sowie Abstellplätze für Fahrräder und Anhänger;\n7. Gerüste sowie\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen. Fassung vom 19.03.2024 Seite 4 von 55 SächsBO 4Anlagen sind bauliche Anlagen und andere Anlagen und Einrichtungen im Sinne des § 1 Absatz 1 Satz 2.\n(2) Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) 1Gebäude werden in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.646,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) bauliche Anlagen, die dem saisonalen Verkauf landwirtschaftlicher oder erwerbsgärtnerischer Produkte durch den Erzeuger dienen, ausgenommen Gebäude,\nh) ortsveränderlich genutzte und fahrbereit aufgestellte Geflügelställe zum Zweck der Freilandhaltung oder der ökologischen Geflügelhaltung, die einem landwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummer 1 und § 201 des Baugesetzbuches dienen sowie jeweils nicht mehr als 450 m³ Brutto-Rauminhalt und eine Auslauffläche haben, die mindestens 7 m² je Kubikmeter Brutto-Rauminhalt beträgt,\n14."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6194,
+          "text_preview": "folgende tragende und nichttragende Bauteile:\na) nichttragende und nichtaussteifende Bauteile in baulichen Anlagen,\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2,\nc) Fenster und Türen sowie die dafür bestimmten Öffnungen,\nd) Außenwandbekl",
+          "text_full": "folgende tragende und nichttragende Bauteile:\na) nichttragende und nichtaussteifende Bauteile in baulichen Anlagen,\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2,\nc) Fenster und Türen sowie die dafür bestimmten Öffnungen,\nd) Außenwandbekleidungen einschließlich Maßnahmen der Wärmedämmung, ausgenommen bei Hochhäusern, Verblendungen und Verputz baulicher Anlagen,\ne) Bedachung, einschließlich Maßnahmen der Wärmedämmung, ausgenommen bei Hochhäusern,\nf) der Dach- und Kellergeschossausbau in vorhandenen Wohngebäuden zu Wohnungen, Fassung vom 19.03.2024 Seite 33 von 55 SächsBO ausgenommen bei Hochhäusern, sofern ein Prüfingenieur oder ein Prüfamt nach § 88 Absatz 2 bestätigt hat, dass Bedenken wegen der Standsicherheit sowie brandschutztechnischer Belange nicht bestehen,\n12."
+        }
+      ],
+      "top_score": 0.663
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5617,
+          "text_preview": "folgende Plätze:\na) unbefestigte sowie vorübergehend befestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der § 35 Absatz 1 Nummer 1 und 2, § 201 des Baugesetzbuches dienen,\nb) nicht überdachte Stellplätze und Abstellplätze für Fahrräder mit einer Fläche b",
+          "text_full": "folgende Plätze:\na) unbefestigte sowie vorübergehend befestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der § 35 Absatz 1 Nummer 1 und 2, § 201 des Baugesetzbuches dienen,\nb) nicht überdachte Stellplätze und Abstellplätze für Fahrräder mit einer Fläche bis zu 100 m² je Grundstück und deren Zufahrten,\nc) Kinderspielplätze im Sinne des § 8 Absatz 2 Satz 1,\n15."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder",
+          "score": 0.5377,
+          "text_preview": "3Die Zahl, Größe und Beschaffenheit der notwendigen Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze einschließlich des Mehrbedarfs bei Änderungen und Nutzungsänderungen der Anlagen ist zu bestimmen unter Berücksichtigung der Sicherheit und Leichtigkeit des Verkeh",
+          "text_full": "3Die Zahl, Größe und Beschaffenheit der notwendigen Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze einschließlich des Mehrbedarfs bei Änderungen und Nutzungsänderungen der Anlagen ist zu bestimmen unter Berücksichtigung der Sicherheit und Leichtigkeit des Verkehrs, der Bedürfnisse des ruhenden Verkehrs sowie der Erschließung durch Einrichtungen des öffentlichen Personennahverkehrs.\n(2) Erhebt die Gemeinde Ablösungsbeträge gemäß § 89 Absatz 1 Nummer 4, hat sie diese zu verwenden für\n1. die Herstellung zusätzlicher oder die Instandhaltung oder Modernisierung bestehender Parkeinrichtungen oder\n2. sonstige Maßnahmen zur Entlastung der Straßen vom ruhenden Verkehr einschließlich investiver Maßnahmen des öffentlichen Personennahverkehrs und der Förderung von öffentlichen Fahrradabstellplätzen.\n(3) Die Höhe der Ablösungsbeträge richtet sich nach Art der Nutzung und Lage der Anlage und darf 60 Prozent der durchschnittlichen Kosten eines Stellplatzes in diesem Gebiet nicht übersteigen.25"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder",
+          "score": 0.5318,
+          "text_preview": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) 1Soweit nicht in örtlichen Bauvorschriften nach § 89 Absatz 1 Nummer 4 geregelt, sind für Anlagen, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen oder Fahrrädern zu erwarten ist, Stellplätze und Garagen, Fahrradabstellplätze sow",
+          "text_full": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) 1Soweit nicht in örtlichen Bauvorschriften nach § 89 Absatz 1 Nummer 4 geregelt, sind für Anlagen, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen oder Fahrrädern zu erwarten ist, Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze in dem erforderlichen Umfang auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck rechtlich gesichert ist (notwendige Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze). 2Dies gilt nicht, wenn bei einem rechtmäßig bestehenden Gebäude eine Wohnung geteilt oder Wohnraum durch Nutzungsänderung, durch Aufstocken des Gebäudes oder durch Ausbau des Dachraums geschaffen wird."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5125,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) bauliche Anlagen, die dem saisonalen Verkauf landwirtschaftlicher oder erwerbsgärtnerischer Produkte durch den Erzeuger dienen, ausgenommen Gebäude,\nh) ortsveränderlich genutzte und fahrbereit aufgestellte Geflügelställe zum Zweck der Freilandhaltung oder der ökologischen Geflügelhaltung, die einem landwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummer 1 und § 201 des Baugesetzbuches dienen sowie jeweils nicht mehr als 450 m³ Brutto-Rauminhalt und eine Auslauffläche haben, die mindestens 7 m² je Kubikmeter Brutto-Rauminhalt beträgt,\n14."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5035,
+          "text_preview": "bauliche Anlagen mit einer Höhe von mehr als 30 m;\n3. Gebäude mit mehr als 1 600 m² Grundfläche des Geschosses mit der größten Ausdehnung, ausgenommen Wohngebäude, Garagen sowie Gebäude für Fahrradabstellplätze;\n4. Verkaufsstätten, deren Verkaufsräume und Ladenstraßen eine Grundfläche von insgesamt ",
+          "text_full": "bauliche Anlagen mit einer Höhe von mehr als 30 m;\n3. Gebäude mit mehr als 1 600 m² Grundfläche des Geschosses mit der größten Ausdehnung, ausgenommen Wohngebäude, Garagen sowie Gebäude für Fahrradabstellplätze;\n4. Verkaufsstätten, deren Verkaufsräume und Ladenstraßen eine Grundfläche von insgesamt mehr als 800 m² haben;\n5. Gebäude mit Räumen, die einer Büro- oder Verwaltungsnutzung dienen und einzeln eine Grundfläche von mehr als 400 m² haben;\n6. Gebäude mit Räumen, die einzeln für die Nutzung durch mehr als 100 Personen bestimmt sind;\n7. Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen und Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als 1 000 Besucher fassen;\n8. Schank- und Speisegaststätten mit mehr als 40 Gastplätzen in Gebäuden oder mehr als 1 000 Gastplätzen im Freien, Beherbergungsstätten mit mehr als 12 Betten und Spielhallen mit mehr als 150 m² Grundfläche;\n9."
+        }
+      ],
+      "top_score": 0.5617
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5487,
+          "text_preview": "folgende Plätze:\na) unbefestigte sowie vorübergehend befestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der § 35 Absatz 1 Nummer 1 und 2, § 201 des Baugesetzbuches dienen,\nb) nicht überdachte Stellplätze und Abstellplätze für Fahrräder mit einer Fläche b",
+          "text_full": "folgende Plätze:\na) unbefestigte sowie vorübergehend befestigte Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne der § 35 Absatz 1 Nummer 1 und 2, § 201 des Baugesetzbuches dienen,\nb) nicht überdachte Stellplätze und Abstellplätze für Fahrräder mit einer Fläche bis zu 100 m² je Grundstück und deren Zufahrten,\nc) Kinderspielplätze im Sinne des § 8 Absatz 2 Satz 1,\n15."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5003,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) bauliche Anlagen, die dem saisonalen Verkauf landwirtschaftlicher oder erwerbsgärtnerischer Produkte durch den Erzeuger dienen, ausgenommen Gebäude,\nh) ortsveränderlich genutzte und fahrbereit aufgestellte Geflügelställe zum Zweck der Freilandhaltung oder der ökologischen Geflügelhaltung, die einem landwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummer 1 und § 201 des Baugesetzbuches dienen sowie jeweils nicht mehr als 450 m³ Brutto-Rauminhalt und eine Auslauffläche haben, die mindestens 7 m² je Kubikmeter Brutto-Rauminhalt beträgt,\n14."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder",
+          "score": 0.4877,
+          "text_preview": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) 1Soweit nicht in örtlichen Bauvorschriften nach § 89 Absatz 1 Nummer 4 geregelt, sind für Anlagen, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen oder Fahrrädern zu erwarten ist, Stellplätze und Garagen, Fahrradabstellplätze sow",
+          "text_full": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) 1Soweit nicht in örtlichen Bauvorschriften nach § 89 Absatz 1 Nummer 4 geregelt, sind für Anlagen, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen oder Fahrrädern zu erwarten ist, Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze in dem erforderlichen Umfang auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck rechtlich gesichert ist (notwendige Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze). 2Dies gilt nicht, wenn bei einem rechtmäßig bestehenden Gebäude eine Wohnung geteilt oder Wohnraum durch Nutzungsänderung, durch Aufstocken des Gebäudes oder durch Ausbau des Dachraums geschaffen wird."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.4867,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) 1Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. 2Hierzu zählen insbesondere Schilder,",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\n(1) 1Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrsraum aus sichtbar sind. 2Hierzu zählen insbesondere Schilder, Beschriftungen, Bemalungen, Lichtwerbungen, Schaukästen sowie für Zettelanschläge und Bogenanschläge oder Lichtwerbung bestimmte Säulen, Tafeln und Flächen.\n(2) 1Für Werbeanlagen, die bauliche Anlagen sind, gelten die in diesem Gesetz an bauliche Anlagen gestellten Anforderungen. 2Werbeanlagen, die keine baulichen Anlagen sind, dürfen weder bauliche Anlagen noch das Straßen-, Orts- und Landschaftsbild verunstalten oder die Sicherheit und Leichtigkeit des Verkehrs gefährden. 3Die störende Häufung von Werbeanlagen ist unzulässig.\n(3) 1Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. 2Ausgenommen sind, soweit in anderen Vorschriften nichts anderes bestimmt ist:\n1. Werbeanlagen an der Stätte der Leistung;\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.4824,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich Fassung vom 19.03.2024 Seite 16 von 55 SächsBO\n1. zwischen",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich Fassung vom 19.03.2024 Seite 16 von 55 SächsBO\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren;\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr und\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) 1Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. 2Trennwände nach Absatz 2 Nummer 2 müssen feuerbeständig sein.\n(4) 1Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen. 2Werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        }
+      ],
+      "top_score": 0.5487
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.763,
+          "text_preview": "5Der Baubeginn ist zu untersagen, wenn die Gemeinde dem Bauherrn und der Bauaufsichtsbehörde vor Ablauf der Frist mitteilt, dass ein Genehmigungsverfahren durchgeführt werden soll oder sie eine Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuches beantragen wird, sowie wenn die Voraussetzungen ",
+          "text_full": "5Der Baubeginn ist zu untersagen, wenn die Gemeinde dem Bauherrn und der Bauaufsichtsbehörde vor Ablauf der Frist mitteilt, dass ein Genehmigungsverfahren durchgeführt werden soll oder sie eine Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuches beantragen wird, sowie wenn die Voraussetzungen der Absätze 1 und 2 nicht vorliegen. 6Will der Bauherr mit der Ausführung des Bauvorhabens mehr als drei Jahre, nachdem die Bauausführung nach Satz 3 zulässig geworden ist, beginnen, gelten die Sätze 1 bis 4 entsprechend.\n(4) 1Die Erklärung der Gemeinde nach Absatz 2 Nummer 4 erste Alternative kann insbesondere deshalb erfolgen, weil sie eine Überprüfung der sonstigen Voraussetzungen des Absatzes 2 oder des Bauvorhabens aus anderen Gründen für erforderlich hält. 2Darauf, dass die Gemeinde von ihrer Erklärungsmöglichkeit keinen Gebrauch macht, besteht kein Rechtsanspruch.\n(5) 1§ 66 bleibt unberührt. 2§ 68 Absatz 2 Satz 1, Absatz 4 Satz 1 und 2, § 72 Absatz 6 Nummer 2, Absatz 7 und 8 sind entsprechend anzuwenden.32\nAbschnitt 3 Genehmigungsverfahren"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7378,
+          "text_preview": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) 1Die Baugenehmigung bedarf der Schriftform. 2Sie ist nur insoweit zu begründen, als",
+          "text_full": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) 1Die Baugenehmigung bedarf der Schriftform. 2Sie ist nur insoweit zu begründen, als Abweichungen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und der Nachbar nicht nach § 70 Absatz 2 zugestimmt hat.\n(3) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(4) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt.\n(5) 1Die Gemeinde ist, wenn sie nicht Bauaufsichtsbehörde ist, von der Erteilung, Verlängerung, Ablehnung, Rücknahme und dem Widerruf einer Baugenehmigung, Teilbaugenehmigung, eines Vorbescheids, einer Zustimmung, einer Abweichung, einer Ausnahme oder einer Befreiung zu unterrichten. 2Eine Ausfertigung des Bescheids ist beizufügen.\n(6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung dem Bauherrn zugegangen ist und\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7266,
+          "text_preview": "die bautechnischen Nachweise nach § 66 sowie\n3. die Baubeginnsanzeige der Bauaufsichtsbehörde vorliegen. Fassung vom 19.03.2024 Seite 41 von 55 SächsBO\n(7) 1Vor Baubeginn eines Gebäudes müssen die Grundrissfläche abgesteckt und seine Höhenlage festgelegt sein. 2Baugenehmigungen und Bauvorlagen müsse",
+          "text_full": "die bautechnischen Nachweise nach § 66 sowie\n3. die Baubeginnsanzeige der Bauaufsichtsbehörde vorliegen. Fassung vom 19.03.2024 Seite 41 von 55 SächsBO\n(7) 1Vor Baubeginn eines Gebäudes müssen die Grundrissfläche abgesteckt und seine Höhenlage festgelegt sein. 2Baugenehmigungen und Bauvorlagen müssen an der Baustelle von Baubeginn an vorliegen.\n(8) Der Bauherr hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde schriftlich mitzuteilen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 73 Geltungsdauer der Genehmigung",
+          "score": 0.7239,
+          "text_preview": "§ 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als zwei Jahre unterbrochen worden ist; die Einlegung eines Rechtsbehel",
+          "text_full": "§ 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als zwei Jahre unterbrochen worden ist; die Einlegung eines Rechtsbehelfs eines Dritten hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Genehmigung.\n(2) 1Die Frist nach Absatz 1 kann auf schriftlichen Antrag jeweils um bis zu zwei Jahre verlängert werden. 2Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7159,
+          "text_preview": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) 1Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. 2Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) 1Der B",
+          "text_full": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) 1Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. 2Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) 1Der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. 2In den Fällen des § 81 Absatz 2 Satz 2, auch in Verbindung mit Satz 3, ist die jeweilige Bestätigung mit der Anzeige vorzulegen.\n(3) 1Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs- und Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Absatz 2 bezeichneten Zeitpunkt. 2Feuerstätten dürfen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und die sichere Benutzbarkeit der Abgasanlagen bescheinigt hat."
+        }
+      ],
+      "top_score": 0.763
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6688,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Eine Abstandsfläche ist nicht erf",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf.\n(2) 1Abstandsflächen sowie Abstände nach § 30 Absatz 2 Nummer 1 und § 32 Absatz 2 müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte. 3Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn rechtlich gesichert ist, dass sie nicht überbaut werden. 4Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) 1Die Abstandsflächen dürfen sich nicht überdecken. 2Dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen;\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.5949,
+          "text_preview": "4Vor den Außenwänden von Wohngebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. 5Werden von einer städtebaulichen Satzung oder einer Satzung nach § 89 von den Sätzen 1 bis 3 abweichende Abstandsflächen vorgeschrieben, sind di",
+          "text_full": "4Vor den Außenwänden von Wohngebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. 5Werden von einer städtebaulichen Satzung oder einer Satzung nach § 89 von den Sätzen 1 bis 3 abweichende Abstandsflächen vorgeschrieben, sind diese maßgeblich.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende Bauteile wie Gesimse und Dachüberstände;\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen,\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 m von der gegenüberliegenden Nachbargrenze entfernt bleiben, und\n3. bei Gebäuden an der Grundstücksgrenze die Seitenwände von Vorbauten und Dachaufbauten, auch wenn sie nicht an der Grundstücksgrenze errichtet werden.\n(7) Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden Gebäuden unabhängig davon, ob diese den Anforderungen der Absätze 2 bis 6 entsprechen, außer Betracht, wenn sie\n1. eine Stärke von nicht mehr als 0,25 m aufweisen und\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 38 Umwehrungen",
+          "score": 0.5851,
+          "text_preview": "2An und in Verkehrsflächen liegende Abdeckungen müssen gegen unbefugtes Abheben gesichert sein. 3Fenster, die unmittelbar an Treppen liegen und deren Brüstungen unter der notwendigen Umwehrungshöhe liegen, sind zu sichern.\n(3) 1Fensterbrüstungen von Flächen mit einer Absturzhöhe bis zu 12 m müssen m",
+          "text_full": "2An und in Verkehrsflächen liegende Abdeckungen müssen gegen unbefugtes Abheben gesichert sein. 3Fenster, die unmittelbar an Treppen liegen und deren Brüstungen unter der notwendigen Umwehrungshöhe liegen, sind zu sichern.\n(3) 1Fensterbrüstungen von Flächen mit einer Absturzhöhe bis zu 12 m müssen mindestens 0,80 m, von Flächen mit mehr als 12 m Absturzhöhe mindestens 0,90 m hoch sein. 2Geringere Brüstungshöhen sind zulässig, wenn durch andere Vorrichtungen wie Geländer die nach Absatz 4 vorgeschriebenen Mindesthöhen eingehalten werden.\n(4) Andere notwendige Umwehrungen müssen folgende Mindesthöhen haben: Fassung vom 19.03.2024 Seite 23 von 55 SächsBO\n1. Umwehrungen zur Sicherung von Öffnungen in begehbaren Decken und Dächern sowie Umwehrungen von Flächen mit 1 m bis zu 12 m Absturzhöhe 0,90 m;\n2. Umwehrungen von Flächen mit mehr als 12 m Absturzhöhe 1,10 m.\nAbschnitt 6 Technische Gebäudeausrüstung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.5832,
+          "text_preview": "mindestens 2,50 m von der Nachbargrenze zurückbleiben.\n(8) 1In den Abstandsflächen eines Gebäudes sowie ohne eigene Abstandsflächen sind, auch wenn sie nicht an die Grundstücksgrenze oder an das Gebäude angebaut werden, zulässig\n1. Garagen einschließlich Abstellraum und Gebäude ohne Aufenthaltsräume",
+          "text_full": "mindestens 2,50 m von der Nachbargrenze zurückbleiben.\n(8) 1In den Abstandsflächen eines Gebäudes sowie ohne eigene Abstandsflächen sind, auch wenn sie nicht an die Grundstücksgrenze oder an das Gebäude angebaut werden, zulässig\n1. Garagen einschließlich Abstellraum und Gebäude ohne Aufenthaltsräume und Feuerstätten mit einer mittleren Wandhöhe bis zu 3 m und einer Gesamtlänge je Grundstücksgrenze von 9 m;\n2. gebäudeunabhängige Solaranlagen mit einer Höhe bis zu 3 m und einer Gesamtlänge je Grundstücksgrenze von 9 m sowie\n3. Stützmauern und geschlossene Einfriedungen in Gewerbe- und Industriegebieten, außerhalb dieser Baugebiete mit einer Höhe bis zu 2 m. 2Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach Nummer 1 und 2 darf auf einem Grundstück insgesamt 15 m nicht überschreiten.7"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5812,
+          "text_preview": "folgende Verkehrsanlagen:\na) private Verkehrsanlagen einschließlich Brücken und Durchlässen mit einer lichten Weite bis zu 5 m und Untertunnelungen mit einem Durchmesser bis zu 3 m,\nb) land- und forstwirtschaftliche Wirtschaftswege mit wassergebundener Decke und nicht mehr als 3,50 m Breite,\n9. Aufs",
+          "text_full": "folgende Verkehrsanlagen:\na) private Verkehrsanlagen einschließlich Brücken und Durchlässen mit einer lichten Weite bis zu 5 m und Untertunnelungen mit einem Durchmesser bis zu 3 m,\nb) land- und forstwirtschaftliche Wirtschaftswege mit wassergebundener Decke und nicht mehr als 3,50 m Breite,\n9. Aufschüttungen und Abgrabungen mit einer Höhe oder Tiefe bis zu 2 m und einer Grundfläche bis zu 30 m², im Außenbereich bis zu 300 m²,\n10. folgende Anlagen in Gärten und zur Freizeitgestaltung:\na) Schwimmbecken mit einem Beckeninhalt bis zu 100 m³ einschließlich dazugehöriger luftgetragener Überdachungen, außer im Außenbereich,\nb) Sprungschanzen, Sprungtürme und Rutschbahnen mit einer Höhe bis zu 10 m,\nc) Anlagen, die der zweckentsprechenden Einrichtung von Spiel-, Abenteuerspiel-, Bolz- und Sportplätzen, Reit- und Wanderwegen, Trimm- und Lehrpfaden dienen, ausgenommen Gebäude und Tribünen,\nd) Wohnwagen, Zelte und bauliche Anlagen, die keine Gebäude sind, auf Camping-, Zelt- und Wochenendplätzen,\ne) Anlagen, die der Gartennutzung, der Gartengestaltung oder der zweckentsprechenden Einrichtung von Gärten dienen, ausgenommen Gebäude und Einfriedungen,\n11."
+        }
+      ],
+      "top_score": 0.6688
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7346,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufg",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.7065,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\nAbschnitt 2 Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\nAbschnitt 2 Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 88 Rechtsvorschriften",
+          "score": 0.694,
+          "text_preview": "(4a) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, we",
+          "text_full": "(4a) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen.\n(5) 1Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass die Anforderungen der aufgrund des § 31 des Gesetzes über überwachungsbedürftige Anlagen, in der jeweils geltenden Fassung, und des § 49 Absatz 4 des Energiewirtschaftsgesetzes vom 7. Juli 2005 Fassung vom 19.03.2024 Seite 50 von 55 SächsBO (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 84 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung, erlassenen Rechtsverordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich auch keine Arbeitnehmer beschäftigt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6926,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6731,
+          "text_preview": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtl",
+          "text_full": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtliche Sicherung liegt vor, wenn das zu sichernde Recht oder die rechtliche Verpflichtung als Grunddienstbarkeit (§ 1018 des Bürgerlichen Gesetzbuches) und als beschränkt persönliche Dienstbarkeit (§ 1090 des Bürgerlichen Gesetzbuches) zugunsten der Bauaufsichtsbehörde im Grundbuch eingetragen ist oder wenn dafür eine Baulast übernommen worden ist.4"
+        }
+      ],
+      "top_score": 0.7346
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.5932,
+          "text_preview": "§ 48 Wohnungen\n(1) 1Jede Wohnung muss eine Küche oder Kochnische haben. 2Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohngebäuden der Gebäudeklassen 3 bis 5 sind leicht erreichbare und gut zugängliche Abstellräume für Kinderwagen und Fahrrä",
+          "text_full": "§ 48 Wohnungen\n(1) 1Jede Wohnung muss eine Küche oder Kochnische haben. 2Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Wohngebäuden der Gebäudeklassen 3 bis 5 sind leicht erreichbare und gut zugängliche Abstellräume für Kinderwagen und Fahrräder sowie für jede Wohnung ein ausreichend großer Abstellraum herzustellen.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5907,
+          "text_preview": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen mit Pflegebedürftigkeit oder Behinderung bestimmt sind oder\nb) ",
+          "text_full": "Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen mit Pflegebedürftigkeit oder Behinderung bestimmt sind oder\nb) für Personen mit Intensivpflegebedarf bestimmt sind oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als sechs Personen mit Pflegebedürftigkeit oder Behinderung bestimmt sind;\n10. Krankenhäuser;\n11. sonstige Einrichtungen zur Unterbringung von Personen und Wohnheime;\n12. Tageseinrichtungen für Menschen mit Behinderung, alte Menschen und Kinder, ausgenommen Tageseinrichtungen für nicht mehr als zehn Kinder und Kindertagespflege; Fassung vom 19.03.2024 Seite 5 von 55 SächsBO\n13. Schulen, Hochschulen und ähnliche Einrichtungen;\n14. Justizvollzugsanstalten und bauliche Anlagen für den Maßregelvollzug;\n15. Camping- und Wochenendplätze;\n16. Freizeit- und Vergnügungsparks;\n17."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder",
+          "score": 0.5649,
+          "text_preview": "3Die Zahl, Größe und Beschaffenheit der notwendigen Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze einschließlich des Mehrbedarfs bei Änderungen und Nutzungsänderungen der Anlagen ist zu bestimmen unter Berücksichtigung der Sicherheit und Leichtigkeit des Verkeh",
+          "text_full": "3Die Zahl, Größe und Beschaffenheit der notwendigen Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze einschließlich des Mehrbedarfs bei Änderungen und Nutzungsänderungen der Anlagen ist zu bestimmen unter Berücksichtigung der Sicherheit und Leichtigkeit des Verkehrs, der Bedürfnisse des ruhenden Verkehrs sowie der Erschließung durch Einrichtungen des öffentlichen Personennahverkehrs.\n(2) Erhebt die Gemeinde Ablösungsbeträge gemäß § 89 Absatz 1 Nummer 4, hat sie diese zu verwenden für\n1. die Herstellung zusätzlicher oder die Instandhaltung oder Modernisierung bestehender Parkeinrichtungen oder\n2. sonstige Maßnahmen zur Entlastung der Straßen vom ruhenden Verkehr einschließlich investiver Maßnahmen des öffentlichen Personennahverkehrs und der Förderung von öffentlichen Fahrradabstellplätzen.\n(3) Die Höhe der Ablösungsbeträge richtet sich nach Art der Nutzung und Lage der Anlage und darf 60 Prozent der durchschnittlichen Kosten eines Stellplatzes in diesem Gebiet nicht übersteigen.25"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5377,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) bauliche Anlagen, die dem saisonalen Verkauf landwirtschaftlicher oder erwerbsgärtnerischer Produkte durch den Erzeuger dienen, ausgenommen Gebäude,\nh) ortsveränderlich genutzte und fahrbereit aufgestellte Geflügelställe zum Zweck der Freilandhaltung oder der ökologischen Geflügelhaltung, die einem landwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummer 1 und § 201 des Baugesetzbuches dienen sowie jeweils nicht mehr als 450 m³ Brutto-Rauminhalt und eine Auslauffläche haben, die mindestens 7 m² je Kubikmeter Brutto-Rauminhalt beträgt,\n14."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.5375,
+          "text_preview": "§ 50 Barrierefreies Bauen\n(1) 1In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpflichtung kann auch durch barrierefrei erreichbare Wohnungen in mehreren Geschossen erfüllt werden. 2In diesen Wohnungen müssen die Wohn- und Schlafräu",
+          "text_full": "§ 50 Barrierefreies Bauen\n(1) 1In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpflichtung kann auch durch barrierefrei erreichbare Wohnungen in mehreren Geschossen erfüllt werden. 2In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad sowie die Küche oder die Kochnische barrierefrei sein. 3§ 39 Absatz 4 bleibt unberührt.\n(2) 1Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden Teilen barrierefrei sein. 2Dies gilt insbesondere für\n1. Einrichtungen der Kultur und des Bildungswesens;\n2. Sport- und Freizeitstätten;\n3. Einrichtungen des Gesundheitswesens;\n4. Büro-, Verwaltungs- und Gerichtsgebäude;\n5. Verkaufsstätten, Gast- und Beherbergungsstätten sowie\n6. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und notwendige Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein."
+        }
+      ],
+      "top_score": 0.5932
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7633,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.749,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7147,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) 1Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare und\n3. normalentflammbare. 2Baustoffe, die nicht mindestens normalentflammbar sind (leichtentf",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) 1Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare und\n3. normalentflammbare. 2Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden. 3Dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) 1Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende und\n3. feuerhemmende. 2Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall und bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. 3Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen;\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben;\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung",
+          "score": 0.7104,
+          "text_preview": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, bauliche",
+          "text_full": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) 1Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. 2Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. 3Sie müssen leicht gereinigt werden können.\n(4) 1Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. 2Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen.\n(5) Für die Aufstellung von ortsfesten Verbrennungsmotoren, Blockheizkraftwerken, Brennstoffzellen und Verdichtern sowie die Ableitung ihrer Verbrennungsgase gelten die Absätze 1 bis 3 entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7078,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) 1Lüftungsanlagen müssen betriebssicher und brandsicher sein. 2Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. 2Brennbare Baustoff",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) 1Lüftungsanlagen müssen betriebssicher und brandsicher sein. 2Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. 2Brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. 3Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) 1Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden. 2Die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Gasfeuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. 3Die Abluft ist ins Freie zu führen. 4Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig."
+        }
+      ],
+      "top_score": 0.7633
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 36 Notwendige Flure, offene Gänge",
+          "score": 0.7129,
+          "text_preview": "§ 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausr",
+          "text_full": "§ 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. 2Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2;\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen;\n3. innerhalb von Nutzungseinheiten mit nicht mehr als 200 m² und innerhalb von Wohnungen sowie\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m²; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m² sind, Trennwände nach § 29 Absatz 2 Nummer 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 33 Absatz 1 hat.\n(2) 1Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen. 2In den Fluren ist eine Folge von weniger als drei Stufen unzulässig."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7105,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) 1Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. 2Beide Rettungswege dürfen jedoch innerhal",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) 1Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. 2Beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) 1Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. 2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. 3Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum).\n(3) 1Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 28 Außenwände",
+          "score": 0.6828,
+          "text_preview": "5In offenen Durchfahrten und Durchgängen, durch die der einzige Rettungsweg zur öffentlichen Verkehrsfläche führt oder die Zugänglichkeit für die Feuerwehr gewährleistet wird, sind an Stützen, Wänden und Decken nur nichtbrennbare Dämmschichten zulässig.\n(4) Bei Außenwandkonstruktionen mit geschossüb",
+          "text_full": "5In offenen Durchfahrten und Durchgängen, durch die der einzige Rettungsweg zur öffentlichen Verkehrsfläche führt oder die Zugänglichkeit für die Feuerwehr gewährleistet wird, sind an Stützen, Wänden und Decken nur nichtbrennbare Dämmschichten zulässig.\n(4) Bei Außenwandkonstruktionen mit geschossübergreifenden Hohl- oder Lufträumen wie Doppelfassaden und hinterlüfteten Außenwandbekleidungen sind gegen die Brandausbreitung besondere Vorkehrungen zu treffen.\n(5) Die Absätze 2 und 3 gelten nicht für Gebäude der Gebäudeklassen 1 bis 3, Absatz 4 gilt nicht für Gebäude der Gebäudeklassen 1 und 2.\n(6) 1Abweichend von Absatz 3 sind hinterlüftete Außenwandbekleidungen mit Ausnahme der Dämmstoffe aus normalentflammbaren Baustoffen zulässig, wenn sie den Technischen Baubestimmungen nach § 88a entsprechen. 2§ 67 bleibt unberührt.21"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6691,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen. 2Zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte de",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen. 2Zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. 3Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. 4Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. 5Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 3 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind.\n(2) 1Zu- und Durchfahrten, Aufstellflächen und Bewegungsflächen müssen für Feuerwehrfahrzeuge ausreichend befestigt und tragfähig sein."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.668,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) bauliche Anlagen, die dem saisonalen Verkauf landwirtschaftlicher oder erwerbsgärtnerischer Produkte durch den Erzeuger dienen, ausgenommen Gebäude,\nh) ortsveränderlich genutzte und fahrbereit aufgestellte Geflügelställe zum Zweck der Freilandhaltung oder der ökologischen Geflügelhaltung, die einem landwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummer 1 und § 201 des Baugesetzbuches dienen sowie jeweils nicht mehr als 450 m³ Brutto-Rauminhalt und eine Auslauffläche haben, die mindestens 7 m² je Kubikmeter Brutto-Rauminhalt beträgt,\n14."
+        }
+      ],
+      "top_score": 0.7129
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.736,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) 1Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder aufgrund dieses Gesetzes widersprechen. 2Satz 1 gilt bei bestehenden Gebäuden nicht für eine Außenwand- und Dachdämmung, die über die Anforderungen nach dem Gebäudeenergiegesetz vom 8. August 2020 (BGBl. I S. 1728), in der jeweils geltenden Fassung, für bestehende Gebäude nicht hinausgeht sowie für die mit der Wärmedämmung unmittelbar zusammenhängenden Änderungen von Bauteilen.6"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7326,
+          "text_preview": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffendes Tun, Dulden oder Unterlassen und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sic",
+          "text_full": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffendes Tun, Dulden oder Unterlassen und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sich einen Auszug erstellen lassen.45\nTeil 6 Ausführungsbestimmungen zum Baugesetzbuch"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 89 Örtliche Bauvorschriften",
+          "score": 0.7279,
+          "text_preview": "die Gestaltung der Plätze für bewegliche Abfallbehälter und der unbebauten Flächen der bebauten Grundstücke sowie über die Notwendigkeit, Art, Gestaltung und Höhe von Einfriedungen; dabei kann bestimmt werden, dass Vorgärten nicht als Arbeitsflächen oder Lagerflächen benutzt werden dürfen;\n6. von § ",
+          "text_full": "die Gestaltung der Plätze für bewegliche Abfallbehälter und der unbebauten Flächen der bebauten Grundstücke sowie über die Notwendigkeit, Art, Gestaltung und Höhe von Einfriedungen; dabei kann bestimmt werden, dass Vorgärten nicht als Arbeitsflächen oder Lagerflächen benutzt werden dürfen;\n6. von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung sowie der Brandschutz gewährleistet sind, sowie\n7. die Begrünung baulicher Anlagen.\n(2) 1Örtliche Bauvorschriften können auch durch Bebauungsplan oder, soweit das Baugesetzbuch dies vorsieht, durch andere Satzungen nach den Vorschriften des Baugesetzbuches erlassen werden. 2Werden die örtlichen Bauvorschriften durch Bebauungsplan oder durch eine sonstige städtebauliche Fassung vom 19.03.2024 Seite 52 von 55 SächsBO Satzung nach dem Baugesetzbuch erlassen, sind die §§ 1 bis 4c, 8 bis 10a, 13 bis 18, 30, 31, 33, 36 und 214 bis 215 des Baugesetzbuches entsprechend anzuwenden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.7129,
+          "text_preview": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtl",
+          "text_full": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtliche Sicherung liegt vor, wenn das zu sichernde Recht oder die rechtliche Verpflichtung als Grunddienstbarkeit (§ 1018 des Bürgerlichen Gesetzbuches) und als beschränkt persönliche Dienstbarkeit (§ 1090 des Bürgerlichen Gesetzbuches) zugunsten der Bauaufsichtsbehörde im Grundbuch eingetragen ist oder wenn dafür eine Baulast übernommen worden ist.4"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze",
+          "score": 0.6884,
+          "text_preview": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) 1Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die ",
+          "text_full": "§ 8 Nicht überbaute Flächen der bebauten Grundstücke, Kinderspielplätze\n(1) 1Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der Flächen entgegenstehen. 2Satz 1 findet keine Anwendung, soweit Bebauungspläne oder andere Satzungen Festsetzungen zu den nicht überbauten Flächen treffen. Fassung vom 19.03.2024 Seite 8 von 55 SächsBO\n(2) 1Bei der Errichtung von Gebäuden mit mehr als drei Wohnungen ist auf dem Baugrundstück oder in unmittelbarer Nähe auf einem anderen geeigneten Grundstück, dessen dauerhafte Nutzung für diesen Zweck rechtlich gesichert sein muss, ein ausreichend großer Spielplatz für Kleinkinder anzulegen. 2Dies gilt nicht, wenn in unmittelbarer Nähe eine Gemeinschaftsanlage oder ein sonstiger für die Kinder nutzbarer Spielplatz geschaffen wird oder vorhanden oder ein solcher Spielplatz wegen der Art und der Lage der Wohnung nicht erforderlich ist."
+        }
+      ],
+      "top_score": 0.736
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 29,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.818,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 31 Decken",
+          "score": 0.7737,
+          "text_preview": "§ 31 Decken\n(1) 1Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. 2Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhe",
+          "text_full": "§ 31 Decken\n(1) 1Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. 2Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemmend und\n3. in Gebäuden der Gebäudeklassen 2 und 3 feuerhemmend sein. 3Satz 2 gilt\n1. für Geschosse im Dachraum nur, wenn darüber Aufenthaltsräume möglich sind; § 29 Absatz 4 bleibt unberührt,\n2. nicht für Balkone, ausgenommen offene Gänge, die als notwendige Flure dienen.\n(2) 1Im Kellergeschoss müssen Decken\n1. in Gebäuden der Gebäudeklassen 3 bis 5 feuerbeständig und\n2. in Gebäuden der Gebäudeklassen 1 und 2 feuerhemmend sein. 2Decken müssen feuerbeständig sein\n1. unter und über Räumen mit Explosions- oder erhöhter Brandgefahr, ausgenommen in Wohngebäuden der Gebäudeklassen 1 und 2, und\n2. zwischen dem landwirtschaftlich genutzten Teil und dem Wohnteil eines Gebäudes. Fassung vom 19.03.2024 Seite 18 von 55 SächsBO\n(3) Der Anschluss der Decken an die Außenwand ist so herzustellen, dass er den Anforderungen aus Absatz 1 Satz 1 genügt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 66 Bautechnische Nachweise",
+          "score": 0.7736,
+          "text_preview": "2Eintragungen anderer Länder gelten auch im Freistaat Sachsen. 3Auch bei anderen Bauvorhaben darf der Standsicherheitsnachweis von einem Tragwerksplaner nach Satz 1 oder 2 erstellt werden. 4Bei Bauvorhaben der Gebäudeklasse 4, ausgenommen Sonderbauten sowie Mittel- und Großgaragen im Sinne der Veror",
+          "text_full": "2Eintragungen anderer Länder gelten auch im Freistaat Sachsen. 3Auch bei anderen Bauvorhaben darf der Standsicherheitsnachweis von einem Tragwerksplaner nach Satz 1 oder 2 erstellt werden. 4Bei Bauvorhaben der Gebäudeklasse 4, ausgenommen Sonderbauten sowie Mittel- und Großgaragen im Sinne der Verordnung nach § 88 Absatz 1 Nummer 3, muss der Brandschutznachweis erstellt sein von\n1. einem für das Bauvorhaben Bauvorlageberechtigten, der die erforderlichen Kenntnisse des Brandschutzes nachgewiesen hat,\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.7625,
+          "text_preview": "(3) 1Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. 2Anstelle von Brandwänden sind in den Fällen des Absatzes 2 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechani",
+          "text_full": "(3) 1Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. 2Anstelle von Brandwänden sind in den Fällen des Absatzes 2 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind;\n2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände und\n3. für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben. 3In den Fällen des Absatzes 2 Nummer 4 sind anstelle von Brandwänden feuerbeständige Wände zulässig, wenn der Brutto-Rauminhalt des landwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2 000 m³ ist.\n(4) 1Brandwände müssen bis zur Bedachung durchgehen und in allen Geschossen übereinander angeordnet sein. 2Abweichend davon dürfen anstelle innerer Brandwände Wände geschossweise versetzt angeordnet werden, wenn\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.7601,
+          "text_preview": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn ",
+          "text_full": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m,\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ Brutto-Rauminhalt einen Abstand von mindestens 5 m einhalten. 2Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. der Nummer 1 ein Abstand von mindestens 6 m,\n2. der Nummer 2 ein Abstand von mindestens 9 m,\n3. der Nummer 3 ein Abstand von mindestens 12 m.\n(3) Die Absätze 1 und 2 gelten nicht für\n1. Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ BruttoRauminhalt,\n2."
+        }
+      ],
+      "top_score": 0.818
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7699,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) 1Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder aufgrund dieses Gesetzes widersprechen. 2Satz 1 gilt bei bestehenden Gebäuden nicht für eine Außenwand- und Dachdämmung, die über die Anforderungen nach dem Gebäudeenergiegesetz vom 8. August 2020 (BGBl. I S. 1728), in der jeweils geltenden Fassung, für bestehende Gebäude nicht hinausgeht sowie für die mit der Wärmedämmung unmittelbar zusammenhängenden Änderungen von Bauteilen.6"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 89 Örtliche Bauvorschriften",
+          "score": 0.7694,
+          "text_preview": "§ 89 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern;\n2. das Verbot von Werbeanlagen und",
+          "text_full": "§ 89 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern;\n2. das Verbot von Werbeanlagen und Warenautomaten aus ortsgestalterischen Gründen;\n3. die Lage, Größe, Beschaffenheit, Ausstattung und Unterhaltung von Kinderspielplätzen (§ 8 Absatz 2);\n4. die Zahl, Größe und Beschaffenheit der Stellplätze und Garagen, Fahrradabstellplätze sowie Gebäude für Fahrradabstellplätze (§ 49 Absatz 1), die unter Berücksichtigung der Sicherheit und Leichtigkeit des Verkehrs, der Bedürfnisse des ruhenden Verkehrs und der Erschließung durch Einrichtungen des öffentlichen Personennahverkehrs für Anlagen erforderlich sind, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen oder Fahrrädern zu erwarten ist, einschließlich des Mehrbedarfs bei Änderungen und Nutzungsänderungen der Anlagen sowie die Ablösung der Herstellungspflicht, deren Voraussetzung und die Höhe der Ablösungsbeträge, die nach Art der Nutzung und Lage der Anlage unterschiedlich geregelt werden kann;\n5."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.7449,
+          "text_preview": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen\n(1) Verfahrensfrei sind\n1. folgende Gebäude:\na) Gebäude mit einem Brutto-Rauminhalt von bis zu 75 m³ und von bis zu 80 m³ für Fassung vom 19.03.2024 Seite 31 von 55 SächsBO Ladestationen, die der Elektromobilität des öffentlichen Nahverkehrs ",
+          "text_full": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen\n(1) Verfahrensfrei sind\n1. folgende Gebäude:\na) Gebäude mit einem Brutto-Rauminhalt von bis zu 75 m³ und von bis zu 80 m³ für Fassung vom 19.03.2024 Seite 31 von 55 SächsBO Ladestationen, die der Elektromobilität des öffentlichen Nahverkehrs dienen, außer im Außenbereich,\nb) Garagen einschließlich überdachter Stellplätze und überdachte Abstellplätze für Fahrräder und Anhänger mit einer mittleren Wandhöhe bis zu 3 m und einer Brutto-Grundfläche bis zu 50 m² je Grundstück, außer im Außenbereich,\nc) Gebäude ohne Feuerungsanlagen mit einer traufseitigen Wandhöhe von bis zu 5 m und einer Brutto-Grundfläche von bis zu 1 600 m², die einem land- oder forstwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummer 1 und 2 sowie § 201 des Baugesetzbuches in der Fassung der Bekanntmachung vom 3. November 2017 (BGBl. I S. 3634), das zuletzt durch Artikel 9 des Gesetzes vom 10. September 2021 (BGBl. I S."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.7346,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Eine Abstandsfläche ist nicht erf",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf.\n(2) 1Abstandsflächen sowie Abstände nach § 30 Absatz 2 Nummer 1 und § 32 Absatz 2 müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte. 3Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn rechtlich gesichert ist, dass sie nicht überbaut werden. 4Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) 1Die Abstandsflächen dürfen sich nicht überdecken. 2Dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen;\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7324,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone ab",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. 2Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften des Entwurfsverfassers, des Bauleiters und der Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        }
+      ],
+      "top_score": 0.7699
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7664,
+          "text_preview": "die bautechnischen Nachweise nach § 66 sowie\n3. die Baubeginnsanzeige der Bauaufsichtsbehörde vorliegen. Fassung vom 19.03.2024 Seite 41 von 55 SächsBO\n(7) 1Vor Baubeginn eines Gebäudes müssen die Grundrissfläche abgesteckt und seine Höhenlage festgelegt sein. 2Baugenehmigungen und Bauvorlagen müsse",
+          "text_full": "die bautechnischen Nachweise nach § 66 sowie\n3. die Baubeginnsanzeige der Bauaufsichtsbehörde vorliegen. Fassung vom 19.03.2024 Seite 41 von 55 SächsBO\n(7) 1Vor Baubeginn eines Gebäudes müssen die Grundrissfläche abgesteckt und seine Höhenlage festgelegt sein. 2Baugenehmigungen und Bauvorlagen müssen an der Baustelle von Baubeginn an vorliegen.\n(8) Der Bauherr hat den Ausführungsbeginn genehmigungsbedürftiger Vorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde schriftlich mitzuteilen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.7415,
+          "text_preview": "5Der Baubeginn ist zu untersagen, wenn die Gemeinde dem Bauherrn und der Bauaufsichtsbehörde vor Ablauf der Frist mitteilt, dass ein Genehmigungsverfahren durchgeführt werden soll oder sie eine Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuches beantragen wird, sowie wenn die Voraussetzungen ",
+          "text_full": "5Der Baubeginn ist zu untersagen, wenn die Gemeinde dem Bauherrn und der Bauaufsichtsbehörde vor Ablauf der Frist mitteilt, dass ein Genehmigungsverfahren durchgeführt werden soll oder sie eine Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuches beantragen wird, sowie wenn die Voraussetzungen der Absätze 1 und 2 nicht vorliegen. 6Will der Bauherr mit der Ausführung des Bauvorhabens mehr als drei Jahre, nachdem die Bauausführung nach Satz 3 zulässig geworden ist, beginnen, gelten die Sätze 1 bis 4 entsprechend.\n(4) 1Die Erklärung der Gemeinde nach Absatz 2 Nummer 4 erste Alternative kann insbesondere deshalb erfolgen, weil sie eine Überprüfung der sonstigen Voraussetzungen des Absatzes 2 oder des Bauvorhabens aus anderen Gründen für erforderlich hält. 2Darauf, dass die Gemeinde von ihrer Erklärungsmöglichkeit keinen Gebrauch macht, besteht kein Rechtsanspruch.\n(5) 1§ 66 bleibt unberührt. 2§ 68 Absatz 2 Satz 1, Absatz 4 Satz 1 und 2, § 72 Absatz 6 Nummer 2, Absatz 7 und 8 sind entsprechend anzuwenden.32\nAbschnitt 3 Genehmigungsverfahren"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.7336,
+          "text_preview": "(2) 1Sobald der Bauantrag und die Bauvorlagen vollständig sind, bestätigt die Bauaufsichtsbehörde Fassung vom 19.03.2024 Seite 39 von 55 SächsBO unverzüglich dem Bauherrn die Vollständigkeit von Bauantrag und Bauvorlagen und den nach Absatz 4 ermittelten Zeitpunkt der Entscheidung. 2Sind der Bauantr",
+          "text_full": "(2) 1Sobald der Bauantrag und die Bauvorlagen vollständig sind, bestätigt die Bauaufsichtsbehörde Fassung vom 19.03.2024 Seite 39 von 55 SächsBO unverzüglich dem Bauherrn die Vollständigkeit von Bauantrag und Bauvorlagen und den nach Absatz 4 ermittelten Zeitpunkt der Entscheidung. 2Sind der Bauantrag oder die Bauvorlagen unvollständig oder weisen sie sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde unverzüglich den Bauherrn zur Behebung der Mängel innerhalb einer angemessenen Frist auf. 3Werden die Mängel innerhalb der Frist nicht behoben, gilt der Antrag als zurückgenommen.\n(3) Die Bauaufsichtsbehörde hat möglichst frühzeitig auf das Erfordernis der Erteilung anderer öffentlich-rechtlicher Genehmigungen oder Erlaubnisse vor Baubeginn hinzuweisen.\n(4) 1Die Bauaufsichtsbehörde entscheidet innerhalb von drei Monaten über den Bauantrag. 2Die Frist nach Satz 1 beginnt mit dem bestätigten Eingangsdatum nach Absatz 2 Satz 1. 3Erklärt die Gemeinde, dass das vereinfachte Baugenehmigungsverfahren durchgeführt werden soll, beginnt die Frist nicht vor Eingang der Erklärung der Gemeinde bei der Bauaufsichtsbehörde."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7,
+          "text_preview": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) 1Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. 2Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) 1Der B",
+          "text_full": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) 1Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. 2Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) 1Der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. 2In den Fällen des § 81 Absatz 2 Satz 2, auch in Verbindung mit Satz 3, ist die jeweilige Bestätigung mit der Anzeige vorzulegen.\n(3) 1Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs- und Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Absatz 2 bezeichneten Zeitpunkt. 2Feuerstätten dürfen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und die sichere Benutzbarkeit der Abgasanlagen bescheinigt hat."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.6735,
+          "text_preview": "es sich um die Änderung oder Nutzungsänderung von Dachgeschossen zu Wohnzwecken einschließlich der Errichtung von Dachgauben handelt.\n(3) 1Der Bauherr hat die erforderlichen Unterlagen vor Baubeginn jeweils einfach bei der unteren Bauaufsichtsbehörde und der Gemeinde, wenn diese nicht Bauaufsichtsbe",
+          "text_full": "es sich um die Änderung oder Nutzungsänderung von Dachgeschossen zu Wohnzwecken einschließlich der Errichtung von Dachgauben handelt.\n(3) 1Der Bauherr hat die erforderlichen Unterlagen vor Baubeginn jeweils einfach bei der unteren Bauaufsichtsbehörde und der Gemeinde, wenn diese nicht Bauaufsichtsbehörde ist, einzureichen. 2Die Bauaufsichtsbehörde hat dem Bauherrn innerhalb von fünf Werktagen das Eingangsdatum der vollständigen Unterlagen zu bestätigen oder fehlende Unterlagen einmal nachzufordern. 3Mit dem Bauvorhaben darf drei Wochen nach dem von der Bauaufsichtsbehörde bestätigten Eingangsdatum begonnen werden, es sei denn die Bauaufsichtsbehörde untersagt den Baubeginn innerhalb dieser Frist. 4Sind Abweichungen nach § 67 Absatz 1 Satz 1 beantragt worden, darf mit der Bauausführung der davon betroffenen Teile des Bauvorhabens erst begonnen werden, wenn dem Antrag entsprochen wurde."
+        }
+      ],
+      "top_score": 0.7664
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 16a Bauarten",
+          "score": 0.7193,
+          "text_preview": "3§ 19 Absatz 2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Satz 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) 1Bauarten bedürfen einer Bestätigung ihre",
+          "text_full": "3§ 19 Absatz 2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Satz 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) 1Bauarten bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 88a Absatz 2, den allgemeinen Bauartgenehmigungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen für Bauarten oder den vorhabenbezogenen Bauartgenehmigungen. 2Als Übereinstimmung gilt auch eine Abweichung, die nicht wesentlich ist. 3§ 21 Absatz 2 gilt für den Anwender der Bauart entsprechend.\n(6) 1Bei Bauarten, deren Anwendung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass der Anwender über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 24 Satz 1 Nummer 6 zu erbringen hat."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.7086,
+          "text_preview": "§ 69 Behandlung des Bauantrags\n(1) 1Die Bauaufsichtsbehörde hört zum Bauantrag die Gemeinde und diejenigen Stellen,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist, oder\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Bau",
+          "text_full": "§ 69 Behandlung des Bauantrags\n(1) 1Die Bauaufsichtsbehörde hört zum Bauantrag die Gemeinde und diejenigen Stellen,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist, oder\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Bauantrags nicht beurteilt werden kann. 2Die Beteiligung oder Anhörung entfällt, wenn die Gemeinde oder die jeweilige Stelle dem Bauantrag bereits vor Einleitung des Baugenehmigungsverfahrens zugestimmt hat. 3Bedarf die Erteilung der Baugenehmigung der Zustimmung oder des Einvernehmens einer anderen Körperschaft, Behörde oder sonstigen Stelle, gilt diese als erteilt, wenn sie nicht einen Monat nach Eingang des Ersuchens verweigert wird. 4Von der Frist nach Satz 3 abweichende Regelungen durch Rechtsvorschrift bleiben unberührt. 5Stellungnahmen bleiben unberücksichtigt, wenn sie nicht innerhalb eines Monats nach Aufforderung zur Stellungnahme bei der Bauaufsichtsbehörde eingehen, es sei denn, die verspätete Stellungnahme ist für die Rechtmäßigkeit der Entscheidung über den Bauantrag von Bedeutung."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 77 Bauaufsichtliche Zustimmung",
+          "score": 0.7011,
+          "text_preview": "§ 77 Bauaufsichtliche Zustimmung\n(1) 1Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes oder eines Landes übertragen ist und\n2. die Baudienststel",
+          "text_full": "§ 77 Bauaufsichtliche Zustimmung\n(1) 1Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes oder eines Landes übertragen ist und\n2. die Baudienststelle mindestens mit einem Bediensteten mit der Befähigung zum höheren bautechnischen Verwaltungsdienst und mit sonstigen geeigneten Fachkräften ausreichend besetzt ist. 2Solche baulichen Anlagen bedürfen jedoch der Zustimmung der oberen Bauaufsichtsbehörde. 3Die Zustimmung entfällt, wenn die Gemeinde nicht widerspricht und, soweit ihre öffentlich-rechtlich geschützten Belange von Abweichungen, Ausnahmen und Befreiungen berührt sein können, die Nachbarn dem Bauvorhaben zustimmen. 4Keiner Genehmigung, Genehmigungsfreistellung oder Zustimmung bedürfen unter den Voraussetzungen des Satzes 1 Baumaßnahmen in oder an bestehenden Gebäuden, soweit sie nicht zu einer Erweiterung des Bauvolumens oder zu einer nicht verfahrensfreien Nutzungsänderung führen, sowie die Beseitigung baulicher Anlagen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6959,
+          "text_preview": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtl",
+          "text_full": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtliche Sicherung liegt vor, wenn das zu sichernde Recht oder die rechtliche Verpflichtung als Grunddienstbarkeit (§ 1018 des Bürgerlichen Gesetzbuches) und als beschränkt persönliche Dienstbarkeit (§ 1090 des Bürgerlichen Gesetzbuches) zugunsten der Bauaufsichtsbehörde im Grundbuch eingetragen ist oder wenn dafür eine Baulast übernommen worden ist.4"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.6935,
+          "text_preview": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) 1Die Baugenehmigung bedarf der Schriftform. 2Sie ist nur insoweit zu begründen, als",
+          "text_full": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) 1Die Baugenehmigung bedarf der Schriftform. 2Sie ist nur insoweit zu begründen, als Abweichungen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und der Nachbar nicht nach § 70 Absatz 2 zugestimmt hat.\n(3) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(4) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt.\n(5) 1Die Gemeinde ist, wenn sie nicht Bauaufsichtsbehörde ist, von der Erteilung, Verlängerung, Ablehnung, Rücknahme und dem Widerruf einer Baugenehmigung, Teilbaugenehmigung, eines Vorbescheids, einer Zustimmung, einer Abweichung, einer Ausnahme oder einer Befreiung zu unterrichten. 2Eine Ausfertigung des Bescheids ist beizufügen.\n(6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung dem Bauherrn zugegangen ist und\n2."
+        }
+      ],
+      "top_score": 0.7193
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errich",
+          "score": 0.8005,
+          "text_preview": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errich\ntet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestell",
+          "text_full": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errich\ntet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. 2Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, kann diese Nutzung untersagt werden.\nAbschnitt 5 Bauüberwachung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7493,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) 1Lüftungsanlagen müssen betriebssicher und brandsicher sein. 2Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. 2Brennbare Baustoff",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) 1Lüftungsanlagen müssen betriebssicher und brandsicher sein. 2Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen. 2Brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. 3Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) 1Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden. 2Die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Gasfeuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. 3Die Abluft ist ins Freie zu führen. 4Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.7486,
+          "text_preview": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtl",
+          "text_full": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen.\n(12) Eine rechtliche Sicherung liegt vor, wenn das zu sichernde Recht oder die rechtliche Verpflichtung als Grunddienstbarkeit (§ 1018 des Bürgerlichen Gesetzbuches) und als beschränkt persönliche Dienstbarkeit (§ 1090 des Bürgerlichen Gesetzbuches) zugunsten der Bauaufsichtsbehörde im Grundbuch eingetragen ist oder wenn dafür eine Baulast übernommen worden ist.4"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 66 Bautechnische Nachweise",
+          "score": 0.7381,
+          "text_preview": "§ 66 Bautechnische Nachweise\n(1) 1Die Einhaltung der Anforderungen an die Standsicherheit, den Brand-, Schall-, und Erschütterungsschutz ist nach näherer Maßgabe der Verordnung aufgrund § 88 Absatz 3 nachzuweisen (bautechnische Nachweise). 2Dies gilt nicht für verfahrensfreie Bauvorhaben, einschließ",
+          "text_full": "§ 66 Bautechnische Nachweise\n(1) 1Die Einhaltung der Anforderungen an die Standsicherheit, den Brand-, Schall-, und Erschütterungsschutz ist nach näherer Maßgabe der Verordnung aufgrund § 88 Absatz 3 nachzuweisen (bautechnische Nachweise). 2Dies gilt nicht für verfahrensfreie Bauvorhaben, einschließlich der Fassung vom 19.03.2024 Seite 37 von 55 SächsBO Beseitigung von Anlagen, soweit nicht in diesem Gesetz oder in der Rechtsverordnung aufgrund § 88 Absatz 3 anderes bestimmt ist. 3Die Bauvorlageberechtigung nach § 65 Absatz 2 Nummer 1, 2 und 4 schließt die Berechtigung zur Erstellung der bautechnischen Nachweise ein, soweit nicht nachfolgend Abweichendes bestimmt ist.\n(2) 1Bei\n1. Gebäuden der Gebäudeklasse 1 bis 3 und\n2. sonstigen baulichen Anlagen, die keine Gebäude sind, muss der Standsicherheitsnachweis von einer Person mit einem berufsqualifizierenden Hochschulabschluss eines Studiums der Fachrichtung Architektur, Hochbau oder des Bauingenieurwesens mit einer mindestens dreijährigen Berufserfahrung in der Tragwerksplanung erstellt sein, die in einer von der Ingenieurkammer Sachsen zu führenden Liste der qualifizierten Tragwerksplaner eingetragen ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7336,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone ab",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. 2Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften des Entwurfsverfassers, des Bauleiters und der Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        }
+      ],
+      "top_score": 0.8005
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 88 Rechtsvorschriften",
+          "score": 0.7497,
+          "text_preview": "(4a) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, we",
+          "text_full": "(4a) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 16a Absatz 2, §§ 17 bis 25 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen.\n(5) 1Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass die Anforderungen der aufgrund des § 31 des Gesetzes über überwachungsbedürftige Anlagen, in der jeweils geltenden Fassung, und des § 49 Absatz 4 des Energiewirtschaftsgesetzes vom 7. Juli 2005 Fassung vom 19.03.2024 Seite 50 von 55 SächsBO (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 84 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung, erlassenen Rechtsverordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich auch keine Arbeitnehmer beschäftigt werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 60 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber",
+          "score": 0.7332,
+          "text_preview": "§ 60 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber\nwachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen in oder an oberirdischen Gewässern und Anlagen, die dem Ausbau, der Unter",
+          "text_full": "§ 60 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber\nwachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen in oder an oberirdischen Gewässern und Anlagen, die dem Ausbau, der Unterhaltung oder der Nutzung eines Gewässers dienen oder als solche gelten;\n2. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme, Wasser und für die öffentliche Verwertung oder Entsorgung von Abwässern, ausgenommen Gebäude, die Sonderbauten sind;\n3. Werbeanlagen, soweit sie einer Ausnahmegenehmigung nach Straßenverkehrsrecht oder Zulassung nach Straßenrecht oder Eisenbahnrecht bedürfen und jeweils nicht der Zuständigkeit einer Bundesbehörde unterfallen;\n4. Anlagen, die nach dem Kreislaufwirtschaftsgesetz vom 24. Februar 2012 (BGBl. I S. 212), das zuletzt durch Artikel 20 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung, einer Genehmigung bedürfen;\n5. Anlagen, die nach dem Gesetz über überwachungsbedürftige Anlagen vom 27. Juli 2021 (BGBl. I S."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7316,
+          "text_preview": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffendes Tun, Dulden oder Unterlassen und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sic",
+          "text_full": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffendes Tun, Dulden oder Unterlassen und\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sich einen Auszug erstellen lassen.45\nTeil 6 Ausführungsbestimmungen zum Baugesetzbuch"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 88 Rechtsvorschriften",
+          "score": 0.7191,
+          "text_preview": "2Sie kann auch die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten und Gebühren regeln. 3Dabei kann sie auch vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung oder die Zustimmung nach § 77 einschließlich",
+          "text_full": "2Sie kann auch die Verfahrensvorschriften dieser Verordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten und Gebühren regeln. 3Dabei kann sie auch vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung oder die Zustimmung nach § 77 einschließlich der zugehörigen Abweichungen einschließen sowie dass § 27 Absatz 5 Nummer 4 des Gesetzes über überwachungsbedürftige Anlagen insoweit Anwendung findet.\n(6) 1Die Architektenkammer Sachsen und die Ingenieurkammer Sachsen werden ermächtigt, durch Satzungen Regelungen über die Eintragung in die gemäß § 66 Absatz 2 Satz 4 zu führenden Listen der qualifizierten Brandschutzplaner zu treffen, insbesondere\n1. die Festlegung allgemeiner Verfahrensregelungen, insbesondere\na) Anforderungen an die Antragstellung und an die vorzulegenden Nachweise,\nb) die Festlegung der Zuständigkeiten des gemeinsamen Prüfungsausschusses und des gemeinsamen Ausschusses nach § 28 Absatz 1 des Sächsischen Ingenieurgesetzes und § 28 Absatz 1 des Sächsischen Architektengesetzes,\nc) Folgen von Versäumnis, Rücktritt und Täuschungshandlungen sowie\nd) Dokumentationspflichten und Aktenführung;\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 88 Rechtsvorschriften",
+          "score": 0.7178,
+          "text_preview": "§ 88 Rechtsvorschriften\n(1) Zur Verwirklichung der in § 3 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 48;\n2. ",
+          "text_full": "§ 88 Rechtsvorschriften\n(1) Zur Verwirklichung der in § 3 Satz 1, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 48;\n2. Anforderungen an Feuerungsanlagen (§ 42) sowie Abweichungen von § 42 Absatz 3 Satz 1 für Gasfeuerstätten;\n3. Anforderungen an Garagen und Gebäude für Fahrradabstellplätze (§ 49);\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen für Errichtung, Änderung, Unterhaltung, Betrieb und Nutzung ergeben (§ 51), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art;\n5. Erst-, Wiederholungs- und Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen sowie\n6."
+        }
+      ],
+      "top_score": 0.7497
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.7114,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Eine Abstandsfläche ist nicht erf",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf.\n(2) 1Abstandsflächen sowie Abstände nach § 30 Absatz 2 Nummer 1 und § 32 Absatz 2 müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte. 3Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn rechtlich gesichert ist, dass sie nicht überbaut werden. 4Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) 1Die Abstandsflächen dürfen sich nicht überdecken. 2Dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen;\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6726,
+          "text_preview": "4Vor den Außenwänden von Wohngebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. 5Werden von einer städtebaulichen Satzung oder einer Satzung nach § 89 von den Sätzen 1 bis 3 abweichende Abstandsflächen vorgeschrieben, sind di",
+          "text_full": "4Vor den Außenwänden von Wohngebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. 5Werden von einer städtebaulichen Satzung oder einer Satzung nach § 89 von den Sätzen 1 bis 3 abweichende Abstandsflächen vorgeschrieben, sind diese maßgeblich.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende Bauteile wie Gesimse und Dachüberstände;\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen,\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 m von der gegenüberliegenden Nachbargrenze entfernt bleiben, und\n3. bei Gebäuden an der Grundstücksgrenze die Seitenwände von Vorbauten und Dachaufbauten, auch wenn sie nicht an der Grundstücksgrenze errichtet werden.\n(7) Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden Gebäuden unabhängig davon, ob diese den Anforderungen der Absätze 2 bis 6 entsprechen, außer Betracht, wenn sie\n1. eine Stärke von nicht mehr als 0,25 m aufweisen und\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6347,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen. 2Zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte de",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen. 2Zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. 3Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. 4Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. 5Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 3 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind.\n(2) 1Zu- und Durchfahrten, Aufstellflächen und Bewegungsflächen müssen für Feuerwehrfahrzeuge ausreichend befestigt und tragfähig sein."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 89 Örtliche Bauvorschriften",
+          "score": 0.6218,
+          "text_preview": "die Gestaltung der Plätze für bewegliche Abfallbehälter und der unbebauten Flächen der bebauten Grundstücke sowie über die Notwendigkeit, Art, Gestaltung und Höhe von Einfriedungen; dabei kann bestimmt werden, dass Vorgärten nicht als Arbeitsflächen oder Lagerflächen benutzt werden dürfen;\n6. von § ",
+          "text_full": "die Gestaltung der Plätze für bewegliche Abfallbehälter und der unbebauten Flächen der bebauten Grundstücke sowie über die Notwendigkeit, Art, Gestaltung und Höhe von Einfriedungen; dabei kann bestimmt werden, dass Vorgärten nicht als Arbeitsflächen oder Lagerflächen benutzt werden dürfen;\n6. von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung sowie der Brandschutz gewährleistet sind, sowie\n7. die Begrünung baulicher Anlagen.\n(2) 1Örtliche Bauvorschriften können auch durch Bebauungsplan oder, soweit das Baugesetzbuch dies vorsieht, durch andere Satzungen nach den Vorschriften des Baugesetzbuches erlassen werden. 2Werden die örtlichen Bauvorschriften durch Bebauungsplan oder durch eine sonstige städtebauliche Fassung vom 19.03.2024 Seite 52 von 55 SächsBO Satzung nach dem Baugesetzbuch erlassen, sind die §§ 1 bis 4c, 8 bis 10a, 13 bis 18, 30, 31, 33, 36 und 214 bis 215 des Baugesetzbuches entsprechend anzuwenden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6126,
+          "text_preview": "mindestens 2,50 m von der Nachbargrenze zurückbleiben.\n(8) 1In den Abstandsflächen eines Gebäudes sowie ohne eigene Abstandsflächen sind, auch wenn sie nicht an die Grundstücksgrenze oder an das Gebäude angebaut werden, zulässig\n1. Garagen einschließlich Abstellraum und Gebäude ohne Aufenthaltsräume",
+          "text_full": "mindestens 2,50 m von der Nachbargrenze zurückbleiben.\n(8) 1In den Abstandsflächen eines Gebäudes sowie ohne eigene Abstandsflächen sind, auch wenn sie nicht an die Grundstücksgrenze oder an das Gebäude angebaut werden, zulässig\n1. Garagen einschließlich Abstellraum und Gebäude ohne Aufenthaltsräume und Feuerstätten mit einer mittleren Wandhöhe bis zu 3 m und einer Gesamtlänge je Grundstücksgrenze von 9 m;\n2. gebäudeunabhängige Solaranlagen mit einer Höhe bis zu 3 m und einer Gesamtlänge je Grundstücksgrenze von 9 m sowie\n3. Stützmauern und geschlossene Einfriedungen in Gewerbe- und Industriegebieten, außerhalb dieser Baugebiete mit einer Höhe bis zu 2 m. 2Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach Nummer 1 und 2 darf auf einem Grundstück insgesamt 15 m nicht überschreiten.7"
+        }
+      ],
+      "top_score": 0.7114
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7074,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 28 Außenwände",
+          "score": 0.6418,
+          "text_preview": "5In offenen Durchfahrten und Durchgängen, durch die der einzige Rettungsweg zur öffentlichen Verkehrsfläche führt oder die Zugänglichkeit für die Feuerwehr gewährleistet wird, sind an Stützen, Wänden und Decken nur nichtbrennbare Dämmschichten zulässig.\n(4) Bei Außenwandkonstruktionen mit geschossüb",
+          "text_full": "5In offenen Durchfahrten und Durchgängen, durch die der einzige Rettungsweg zur öffentlichen Verkehrsfläche führt oder die Zugänglichkeit für die Feuerwehr gewährleistet wird, sind an Stützen, Wänden und Decken nur nichtbrennbare Dämmschichten zulässig.\n(4) Bei Außenwandkonstruktionen mit geschossübergreifenden Hohl- oder Lufträumen wie Doppelfassaden und hinterlüfteten Außenwandbekleidungen sind gegen die Brandausbreitung besondere Vorkehrungen zu treffen.\n(5) Die Absätze 2 und 3 gelten nicht für Gebäude der Gebäudeklassen 1 bis 3, Absatz 4 gilt nicht für Gebäude der Gebäudeklassen 1 und 2.\n(6) 1Abweichend von Absatz 3 sind hinterlüftete Außenwandbekleidungen mit Ausnahme der Dämmstoffe aus normalentflammbaren Baustoffen zulässig, wenn sie den Technischen Baubestimmungen nach § 88a entsprechen. 2§ 67 bleibt unberührt.21"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 88 Rechtsvorschriften",
+          "score": 0.6212,
+          "text_preview": "die Möglichkeiten, den Nachweis der erforderlichen Kenntnisse des Brandschutzes auf folgende Weise erbringen zu können:\na) erfolgreiche Absolvierung einer zweistufigen Prüfung bei der Architektenkammer Sachsen oder der Ingenieurkammer Sachsen, bestehend aus der Vorlage von geeigneten, selbst erstell",
+          "text_full": "die Möglichkeiten, den Nachweis der erforderlichen Kenntnisse des Brandschutzes auf folgende Weise erbringen zu können:\na) erfolgreiche Absolvierung einer zweistufigen Prüfung bei der Architektenkammer Sachsen oder der Ingenieurkammer Sachsen, bestehend aus der Vorlage von geeigneten, selbst erstellten Brandschutzkonzepten oder Brandschutznachweisen und einer mündlichen Prüfung oder\nb) Nachweis eines erfolgreichen Abschlusses von Prüfungen oder Belegarbeiten im Bereich des Brandschutzes bei einem externen Weiterbildungsträger, wenn die Abschlüsse als gleichwertig anerkannt werden; die Gleichwertigkeit dieser Abschlüsse kann auch nur für einen Teil des erforderlichen Kenntnisnachweises anerkannt werden;\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.6042,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) 1Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. 2Beide Rettungswege dürfen jedoch innerhal",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) 1Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein. 2Beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) 1Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. 2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. 3Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum).\n(3) 1Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6028,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen. 2Zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte de",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen. 2Zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. 3Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. 4Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. 5Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 3 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind.\n(2) 1Zu- und Durchfahrten, Aufstellflächen und Bewegungsflächen müssen für Feuerwehrfahrzeuge ausreichend befestigt und tragfähig sein."
+        }
+      ],
+      "top_score": 0.7074
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6447,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufg",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Satz 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 17 Verwendbarkeitsnachweise",
+          "score": 0.6157,
+          "text_preview": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung nach § 88a Absatz 2 Nummer 3 wesent",
+          "text_full": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung nach § 88a Absatz 2 Nummer 3 wesentlich abweicht oder\n3. eine Verordnung nach § 88 Absatz 4a dies vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 88a enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen.11"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 88a Technische Baubestimmungen",
+          "score": 0.6108,
+          "text_preview": "2024 Seite 51 von 55 SächsBO\nb) Merkmale von Bauprodukten, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz 1 auswirken,\nc) Verfahren für die Feststellung der Leistung eines Bauproduktes im Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Erfüll",
+          "text_full": "2024 Seite 51 von 55 SächsBO\nb) Merkmale von Bauprodukten, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz 1 auswirken,\nc) Verfahren für die Feststellung der Leistung eines Bauproduktes im Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz 1 auswirken,\nd) zulässige oder unzulässige besondere Verwendungszwecke,\ne) die Festlegung von Klassen und Stufen in Bezug auf bestimmte Verwendungszwecke sowie\nf) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz 1 auswirkt, soweit vorgesehen in Klassen und Stufen,\n4. die Bauarten und die Bauprodukte, die nur eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 16a Absatz 3 oder § 19 Absatz 1 bedürfen,\n5. die Voraussetzungen zur Abgabe der Übereinstimmungserklärung für ein Bauprodukt nach § 22 und\n6. die Art, den Inhalt und die Form technischer Dokumentation.\n(3) Die Technischen Baubestimmungen sollen nach den Grundanforderungen gemäß Anhang I der Verordnung (EU) Nr."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 60 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber",
+          "score": 0.592,
+          "text_preview": "§ 60 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber\nwachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen in oder an oberirdischen Gewässern und Anlagen, die dem Ausbau, der Unter",
+          "text_full": "§ 60 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber\nwachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen in oder an oberirdischen Gewässern und Anlagen, die dem Ausbau, der Unterhaltung oder der Nutzung eines Gewässers dienen oder als solche gelten;\n2. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme, Wasser und für die öffentliche Verwertung oder Entsorgung von Abwässern, ausgenommen Gebäude, die Sonderbauten sind;\n3. Werbeanlagen, soweit sie einer Ausnahmegenehmigung nach Straßenverkehrsrecht oder Zulassung nach Straßenrecht oder Eisenbahnrecht bedürfen und jeweils nicht der Zuständigkeit einer Bundesbehörde unterfallen;\n4. Anlagen, die nach dem Kreislaufwirtschaftsgesetz vom 24. Februar 2012 (BGBl. I S. 212), das zuletzt durch Artikel 20 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung, einer Genehmigung bedürfen;\n5. Anlagen, die nach dem Gesetz über überwachungsbedürftige Anlagen vom 27. Juli 2021 (BGBl. I S."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 76 Genehmigung Fliegender Bauten",
+          "score": 0.589,
+          "text_preview": "4In der Ausführungsgenehmigung kann bestimmt werden, dass Anzeigen nach Satz 1 nicht erforderlich sind, wenn eine Gefährdung im Sinne des § 3 Satz 1 nicht zu erwarten ist.\n(7) 1Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder de",
+          "text_full": "4In der Ausführungsgenehmigung kann bestimmt werden, dass Anzeigen nach Satz 1 nicht erforderlich sind, wenn eine Gefährdung im Sinne des § 3 Satz 1 nicht zu erwarten ist.\n(7) 1Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit oder Standsicherheit nicht oder nicht mehr gewährleistet ist oder weil von der Ausführungsgenehmigung abgewichen wird. 2Wird die Aufstellung oder der Gebrauch untersagt, ist dies in das Prüfbuch einzutragen. 3Die ausstellende Stelle ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Stelle zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n(8) 1Bei Fliegenden Bauten, die von Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. 2Das Ergebnis der Nachabnahme ist in das Prüfbuch Fassung vom 19.03."
+        }
+      ],
+      "top_score": 0.6447
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SN",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 56 Bauleiter",
+          "score": 0.785,
+          "text_preview": "§ 56 Bauleiter\n(1) 1Der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlichrechtlichen Anforderungen durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. 2Er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesonder",
+          "text_full": "§ 56 Bauleiter\n(1) 1Der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlichrechtlichen Anforderungen durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. 2Er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmer, zu achten. 3Die Verantwortlichkeit Fassung vom 19.03.2024 Seite 29 von 55 SächsBO der Unternehmer bleibt unberührt.\n(2) 1Der Bauleiter muss über die für seine Aufgabe erforderliche Sachkunde und Erfahrung verfügen. 2Verfügt er auf einzelnen Teilgebieten nicht über die erforderliche Sachkunde, sind geeignete Fachbauleiter heranzuziehen. 3Diese treten insoweit an die Stelle des Bauleiters. 4Der Bauleiter hat die Tätigkeit der Fachbauleiter und seine Tätigkeit aufeinander abzustimmen.\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 53 Bauherr",
+          "score": 0.7701,
+          "text_preview": "(2) 1Treten bei einem Bauvorhaben mehrere Personen als Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass ihr gegenüber ein Vertreter bestellt wird, der die dem Bauherrn nach den öffentlich-rechtlichen Vorschriften obliegenden Verpflichtungen zu erfüllen hat. 2Im Übrigen findet § 18 Absatz",
+          "text_full": "(2) 1Treten bei einem Bauvorhaben mehrere Personen als Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass ihr gegenüber ein Vertreter bestellt wird, der die dem Bauherrn nach den öffentlich-rechtlichen Vorschriften obliegenden Verpflichtungen zu erfüllen hat. 2Im Übrigen findet § 18 Absatz 1 Satz 2 und 3, Absatz 2 des Verwaltungsverfahrensgesetzes entsprechende Anwendung.27"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 56 Bauleiter",
+          "score": 0.7426,
+          "text_preview": "§ 56 Bauleiter\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden",
+          "text_full": "§ 56 Bauleiter\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 88 Rechtsvorschriften",
+          "score": 0.7328,
+          "text_preview": "die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen wie Bühnenbetriebe und technisch schwierige Fliegende Bauten einschließlich des Nachweises der Befähigung dieser Personen.\n(2) 1Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsve",
+          "text_full": "die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen wie Bühnenbetriebe und technisch schwierige Fliegende Bauten einschließlich des Nachweises der Befähigung dieser Personen.\n(2) 1Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. Prüfingenieure und Prüfämter, denen bauaufsichtliche Prüfaufgaben einschließlich der Bauüberwachung und der Bauzustandsbesichtigung übertragen werden, sowie\n2. Prüfsachverständige, die im Auftrag des Bauherrn oder des sonstigen nach Bauordnungsrecht Verantwortlichen die Einhaltung bauordnungsrechtlicher Anforderungen prüfen und bescheinigen. 2Die Rechtsverordnung nach Satz 1 regelt, soweit erforderlich,\n1. die Fachbereiche und die Fachrichtungen, in denen Prüfingenieure, Prüfämter und Prüfsachverständige tätig werden; Fassung vom 19.03.2024 Seite 49 von 55 SächsBO\n2. die Anerkennungsvoraussetzungen und das Anerkennungsverfahren;\n3. Erlöschen, Rücknahme und Widerruf der Anerkennung einschließlich der Festlegung einer Altersgrenze;\n4. die Aufgabenerledigung und\n5. die Vergütung."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Sachsen",
+          "jurisdiction": "DE-SN",
+          "source_paragraph": "§ 53 Bauherr",
+          "score": 0.7288,
+          "text_preview": "§ 53 Bauherr\n(1) 1Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschrifte",
+          "text_full": "§ 53 Bauherr\n(1) 1Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschriften geeignet ist. 2Dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. 3Er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. 4Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. 5Der Bauherr hat vor Baubeginn den Namen des Bauleiters und während der Bauausführung einen Wechsel dieser Person unverzüglich der Bauaufsichtsbehörde schriftlich mitzuteilen. 6Wechselt der Bauherr, hat der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich schriftlich mitzuteilen."
+        }
+      ],
+      "top_score": 0.785
+    }
+  ]
+}

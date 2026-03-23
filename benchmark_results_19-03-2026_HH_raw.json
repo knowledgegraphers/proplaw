@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-HH",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 15234,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Verfahrensfreie Vorhaben § 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6707,
+          "text_preview": "9 andere unbedeutende Anlagen oder h) andere unbedeutende Anlagen oder untergeordnete unbedeutende Teile von Anlagen wie Teile von Anlagen wie Hauseingangsüberdachungen, Markisen, Rollläden, Terrassen, Markisen, Rollläden, Terrassen, Dacheindeckungen und Dachrinnen, Außenleuchten, Dacheindeckungen u",
+          "text_full": "9 andere unbedeutende Anlagen oder h) andere unbedeutende Anlagen oder untergeordnete unbedeutende Teile von Anlagen wie Teile von Anlagen wie Hauseingangsüberdachungen, Markisen, Rollläden, Terrassen, Markisen, Rollläden, Terrassen, Dacheindeckungen und Dachrinnen, Außenleuchten, Dacheindeckungen und Dachrinnen, Außenleuchten, Maschinenfundamente, Fahrzeugwaagen, Pergolen, Jägerstände, Maschinenfundamente, Straßenfahrzeugwaagen, Pergolen, Jägerstände, Wildfütterungsstände, Bienenfreistände, Taubenhäuser, Wildfütterungen, Bienenfreistände, Taubenhäuser, Nisthilfen für Vögel einschließlich zugehöriger Masten und Aufbauten, Hofeinfahrten Teppichklopf- und Teppichstangen;. unbedeutende Einrichtungen der technischen Ladeinfrastruktur der Elektromobilität und Wäschetrocknungsvorrichtungen im Freien, Sicherheitsvorrichtungen an Dächern und Gebäuden.\nII II 116 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) Änderung der Nutzung Änderung der Nutzung Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn Verfahrensfrei ist die Änderung der Nutzung von Anlagen, wenn\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.6306,
+          "text_preview": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswi",
+          "text_full": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann. kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen (11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen. oder Teilen von baulichen Anlagen. 19 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 14 Baustellen § 11 Baustelle",
+          "score": 0.6005,
+          "text_preview": "§ 14 Baustellen § 11 Baustelle\n(1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen (1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und ordnungsgemäß errichtet, geändert oder beseitigt w",
+          "text_full": "§ 14 Baustellen § 11 Baustelle\n(1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen (1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren nicht entstehen. Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden (2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. kennzeichnen. 2Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit 2Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten. beleuchten. 34 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.5967,
+          "text_preview": "§ 2 Begriffe § 2 Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten (1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, hergestellte Anlagen; eine Verbindung mit dem Boden beste",
+          "text_full": "§ 2 Begriffe § 2 Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten (1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage wenn die Anlage\n1. durch eigene Schwere auf dem Boden ruht oder durch eigene Schwere auf dem Boden ruht oder\n2. auf ortsfesten Bahnen begrenzt beweglich ist oder auf ortsfesten Bahnen begrenzt beweglich ist oder 13 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n3. nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, ortsfest benutzt zu werden. überwiegend ortsfest benutzt zu werden. 2Bauliche Anlagen sind auch 2Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen, 1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze, 2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Sport-, Spiel- und Freizeitflächen, 3. Sport- und Spielflächen,\n4."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 12 Gestaltung § 9 Gestaltung",
+          "score": 0.5799,
+          "text_preview": "§ 12 Gestaltung § 9 Gestaltung\n(1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der (1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet",
+          "text_full": "§ 12 Gestaltung § 9 Gestaltung\n(1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der (1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltend wirken. dass sie nicht verunstaltet wirken. 2Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht 2Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. verunstalten.\n(2) Bei baulichen Anlagen, die infolge ihres Umfangs, ihrer Höhe, ihrer Lage (2) Bei baulichen Anlagen, die infolge ihres Umfangs, ihrer Höhe, ihrer Lage oder ihrer erhaltenswerten Gestaltungsmerkmale das Straßenbild, Ortsbild oder ihrer erhaltenswerten Gestaltungsmerkmale das Straßenbild, Ortsbild oder Landschaftsbild mitbestimmen, können besondere Anforderungen an oder Landschaftsbild mitbestimmen, können besondere Anforderungen an die Gestaltung der Außenseiten und der Dächer gestellt werden. die Gestaltung der Außenseiten und der Dächer gestellt werden."
+        }
+      ],
+      "top_score": 0.6707
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 48 Stellplätze für Kraftfahrzeuge und Fahrradplätze § 49 Grundstücksbezogene Mobilität",
+          "score": 0.6117,
+          "text_preview": "§ 48 Stellplätze für Kraftfahrzeuge und Fahrradplätze § 49 Grundstücksbezogene Mobilität\n(1) 1Werden bauliche Anlagen sowie andere Anlagen, bei denen ein Zu- und (1) 1Werden bauliche Anlagen sowie andere Anlagen errichtet oder geändert, Abfahrtsverkehr zu erwarten ist, errichtet, sind Stellplätze fü",
+          "text_full": "§ 48 Stellplätze für Kraftfahrzeuge und Fahrradplätze § 49 Grundstücksbezogene Mobilität\n(1) 1Werden bauliche Anlagen sowie andere Anlagen, bei denen ein Zu- und (1) 1Werden bauliche Anlagen sowie andere Anlagen errichtet oder geändert, Abfahrtsverkehr zu erwarten ist, errichtet, sind Stellplätze für Kraftfahrzeuge ist dem zu erwartenden Bedarf an grundstücksbezogener Mobilität der sowie Fahrradplätze auf dem Grundstück oder, durch Baulast gesichert, auf ständigen Nutzerinnen und Nutzer sowie Besucherinnen und Besucher einem geeigneten Grundstück in der Nähe in geeigneter Beschaffenheit (Mobilitätsbedarf) Rechnung zu tragen. herzustellen oder nachzuweisen (notwendige Stellplätze und notwendige Fahrradplätze). 86 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) 2Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und zu [jetzt in Absatz 2 Satz 2] erwartenden Kraftfahrzeuge und Fahrräder der ständigen Benutzerinnen und Benutzer und Besucherinnen und Besucher der Anlagen. 2Belange von Personen mit Mobilitätseinschränkungen sind angemessen zu berücksichtigen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Verfahrensfreie Vorhaben § 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6011,
+          "text_preview": "5 Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der e) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen, Schülerbeförderung dienen,\n1.6 Schutzhütten für Wanderer, die jedermann zugänglich sind und keine f) Schutzhütten für Wanderinnen und ",
+          "text_full": "5 Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der e) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen, Schülerbeförderung dienen,\n1.6 Schutzhütten für Wanderer, die jedermann zugänglich sind und keine f) Schutzhütten für Wanderinnen und Wanderer, die jedermann Aufenthaltsräume haben, zugänglich sind und keine Aufenthaltsräume haben,\n1.7 Überdachungen von Terrassen mit einer Fläche bis zu 30 m2 und einer g) Überdachungen von Terrassen mit einer Fläche bis zu 30 m2 und einer Tiefe bis zu 3,0 m vor Erdgeschossen sowie untergeordnete Tiefe bis zu 3 m vor Erdgeschossen sowie untergeordnete Überdachungen Überdachungen wie zum Beispiel Hauseingangsüberdachungen, wie zum Beispiel Hauseingangsüberdachungen, 105 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n1.8 Gartenlauben in Kleingartenanlagen mit einer Grundfläche von h) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des höchstens 24 m2, Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210), zuletzt geändert am 19. September 2006 (BGBl. I S."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.5642,
+          "text_preview": "2026) Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit mehr als 150 m2 Grundfläche, mehr als 150 m² Grundfläche,\n9. Krankenhäuser, [jetzt 10.]\n9a. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder 9. Gebäude ",
+          "text_full": "2026) Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit mehr als 150 m2 Grundfläche, mehr als 150 m² Grundfläche,\n9. Krankenhäuser, [jetzt 10.]\n9a. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder 9. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit erheblich eingeschränkt ist, wenn die Selbstrettungsfähigkeit erheblich eingeschränkt ist, wenn die Nutzungseinheiten Nutzungseinheiten\na) einzeln für mehr als sechs Personen bestimmt sind oder a) einzeln für mehr als sechs Personen bestimmt sind oder\nb) einen gemeinsamen Rettungsweg haben, der von insgesamt mehr b) einen gemeinsamen Rettungsweg haben, der von insgesamt mehr als zwölf Personen benutzt wird, als zwölf Personen benutzt wird,\n9. Krankenhäuser, 10. Krankenhäuser,\n9b. sonstige Einrichtungen zur Unterbringung von Personen sowie 11. Wohnheime, Wohnheime,\n10. Tageseinrichtungen für jeweils mehr als zehn Kinder, Menschen mit 12."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 44 Aufenthaltsräume § 47 Aufenthaltsräume",
+          "score": 0.5399,
+          "text_preview": "§ 44 Aufenthaltsräume § 47 Aufenthaltsräume\n(1) 1Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,4 m (1) 1Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. haben. 2Für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 2Für Aufenthaltsräume in Wohngebäu",
+          "text_full": "§ 44 Aufenthaltsräume § 47 Aufenthaltsräume\n(1) 1Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,4 m (1) 1Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben. haben. 2Für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 2Für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 genügt eine lichte Raumhöhe von mindestens 2,3 m. genügt eine lichte Raumhöhe von mindestens 2,30 m. 3Aufenthaltsräume in Dachgeschossen müssen über mehr als der Hälfte ihrer 3Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von Grundfläche eine lichte Höhe von mindestens 2,3 m haben; Raumteile mit mindestens 2,30 m über mindestens der Hälfte ihrer Netto-Raumfläche einer lichten Höhe bis 1,50 m bleiben bei der Berechnung der Grundfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer außer Betracht. Betracht. 84 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n(2) 1Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht (2) 1Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. belichtet werden können."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 49 Ausgleichsabgabe für Stellplätze und Fahrradplätze",
+          "score": 0.524,
+          "text_preview": "§ 49 Ausgleichsabgabe für Stellplätze und Fahrradplätze\n(1) 1Die Verpflichtung nach § 48 wird durch Zahlung eines Ausgleichsbetrages an die Freie und Hansestadt Hamburg erfüllt, wenn\n1. notwendige Stellplätze oder notwendige Fahrradplätze nicht oder nur unter unzumutbaren Schwierigkeiten hergestellt",
+          "text_full": "§ 49 Ausgleichsabgabe für Stellplätze und Fahrradplätze\n(1) 1Die Verpflichtung nach § 48 wird durch Zahlung eines Ausgleichsbetrages an die Freie und Hansestadt Hamburg erfüllt, wenn\n1. notwendige Stellplätze oder notwendige Fahrradplätze nicht oder nur unter unzumutbaren Schwierigkeiten hergestellt oder nachgewiesen werden können oder\n2. notwendige Stellplätze als Stellplätze für Wohnungen oder Wohnheime (§ 48 Absatz 1a) genutzt werden sollen und die Stellplätze für Wohnungen oder Wohnheime ansonsten nicht oder nur unter unzumutbaren Schwierigkeiten hergestellt werden können. 2Für die Verjährung eines festgesetzten Anspruchs gilt § 22 Absatz 3 des Gebührengesetzes vom 5. März 1986 (HmbGVBl. S. 37), zuletzt geändert am\n14. Dezember 2010 (HmbGVBl. S. 667), in der jeweils geltenden Fassung entsprechend.\n(2) 1Der Ausgleichsbetrag nach Absatz 1 beträgt\n1. für die jeweils ersten drei Stellplätze bei einer Nutzungsänderung . . . . . . . . . . . . . 0 Euro\n2. für Bauvorhaben in dem in der Anlage 1 rot umrandeten Bereich,\na) je notwendigem Stellplatz . . . . .. . . 10.000 Euro,\nb) je notwendigem Fahrradplatz . . . . . . 1.000 Euro,\n3. im Übrigen\na) je notwendigem Stellplatz . . . . .. . ."
+        }
+      ],
+      "top_score": 0.6117
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 37 Aufzüge § 39 Aufzüge",
+          "score": 0.5551,
+          "text_preview": "2In einem Aufzug für Rollstühle und Krankentragen darf der für Rollstühle 2In einem Aufzug für Rollstühle und Krankentragen darf der für Rollstühle nicht erforderliche Teil der Fahrkorbgrundfläche durch eine verschließbare nicht erforderliche Teil der Fahrkorbgrundfläche durch eine verschließbare Tü",
+          "text_full": "2In einem Aufzug für Rollstühle und Krankentragen darf der für Rollstühle 2In einem Aufzug für Rollstühle und Krankentragen darf der für Rollstühle nicht erforderliche Teil der Fahrkorbgrundfläche durch eine verschließbare nicht erforderliche Teil der Fahrkorbgrundfläche durch eine verschließbare Tür abgesperrt werden. Tür abgesperrt werden. 3Vor den Aufzügen muss eine ausreichende Bewegungsfläche vorhanden 3Vor den Aufzügen muss eine ausreichende Bewegungsfläche vorhanden sein. sein. 77 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.5398,
+          "text_preview": "3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen. 18 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) Carports (überdachte Stellplätze) gelten als Garagen. 4Carports (üb",
+          "text_full": "3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen. 18 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) Carports (überdachte Stellplätze) gelten als Garagen. 4Carports (überdachte Stellplätze) gelten als Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder (8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen. erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(9) Rettungswege sind Flächen auf Grundstücken sowie Flächen und Öffnungen in baulichen Anlagen, die dem sicheren Verlassen von Grundstücken und baulichen Anlagen, der Rettung von Menschen und den Löscharbeiten dienen.\n(10) Bauprodukte sind (10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß 1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.5364,
+          "text_preview": "Gebäude mit Räumen, die einzeln für die Nutzung durch mehr als 100 Personen bestimmt sind, Personen bestimmt sind,\n7. Versammlungsstätten 7. Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucher a) mit Versammlungsräumen, die insgesamt mehr als 200 fassen, wenn diese Ver",
+          "text_full": "Gebäude mit Räumen, die einzeln für die Nutzung durch mehr als 100 Personen bestimmt sind, Personen bestimmt sind,\n7. Versammlungsstätten 7. Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucher a) mit Versammlungsräumen, die insgesamt mehr als 200 fassen, wenn diese Versammlungsräume gemeinsame Rettungswege Besucherinnen und Besucher fassen, wenn diese Versammlungsräume haben, gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen und Freisportanlagen, die jeweils über b) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit ortsfeste Tribünen verfügen und mehr als 1000 Besucher fassen, Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als 1000 Besucherinnen und Besucher fassen,\n8. Schank- und Speisegaststätten mit mehr als 40 Gastplätzen in 8. Schank- und Speisegaststätten mit mehr als 40 Gastplätzen in Gebäuden oder mehr als 1000 Gastplätzen im Freien, Gebäuden oder mehr als 1000 Gastplätzen im Freien, 16 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Verfahrensfreie Vorhaben § 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5225,
+          "text_preview": "3 Kinderspielplätze; c) Kinderspielflächen im Sinne des § 8 Absatz 4 Satz 1,\nd) Freischankflächen einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte oder einer Verkaufsstelle des Lebensmittelhandwerks oder eines landwirtschaftlichen Betriebes, es sei denn, dass Rettungswege der",
+          "text_full": "3 Kinderspielplätze; c) Kinderspielflächen im Sinne des § 8 Absatz 4 Satz 1,\nd) Freischankflächen einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte oder einer Verkaufsstelle des Lebensmittelhandwerks oder eines landwirtschaftlichen Betriebes, es sei denn, dass Rettungswege der Freischankfläche über die zugehörige Nutzungseinheit ins Freie führen;\n14. Container: 15. folgende Container:\n14.1 Container für den vorübergehenden Aufenthalt von Personal im a) Container für den vorübergehenden Aufenthalt von Personal im Hafengebiet nach § 2 Absatz 2 des Hafenentwicklungsgesetzes in der Hafengebiet nach § 2 Absatz 2 des Hafenentwicklungsgesetzes sowie in jeweils geltenden Fassung sowie in festgesetzten Gewerbe- und festgesetzten Gewerbe- und Industriegebieten, Industriegebieten, 114 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n14.2 Schlaf- und Bürocontainer bis zu einer Stapelhöhe von zwei b) Schlaf- und Bürocontainer bis zu einer Stapelhöhe von zwei Containern Containern auf Baustellen, auf Baustellen,\n14."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.5198,
+          "text_preview": "2Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2Vollgeschosse sind Geschosse, deren Deckenoberkante im Mittel mehr als 3Vollgeschosse sind Geschosse, deren Deckenoberkante (Oberkante 1,40 m über die Geländeoberfläche hina",
+          "text_full": "2Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2Vollgeschosse sind Geschosse, deren Deckenoberkante im Mittel mehr als 3Vollgeschosse sind Geschosse, deren Deckenoberkante (Oberkante 1,40 m über die Geländeoberfläche hinausragt und die eine lichte Höhe von Fertigfußboden des darüberliegenden Geschosses) im Mittel mehr als 1,40 m mindestens 2,3 m haben. über die Geländeoberfläche hinausragt und die eine lichte Höhe von mindestens 2,30 m haben. 3Das oberste Geschoss und Geschosse im Dachraum sind Vollgeschosse, 4Das oberste Geschoss und Geschosse im Dachraum sind Vollgeschosse, wenn sie diese Höhe über mindestens zwei Drittel der Geschossfläche des wenn sie diese Höhe über mindestens zwei Drittel der Geschossfläche des darunter liegenden Geschosses haben. darunter liegenden Geschosses haben.\n(7) 1Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen.\n(7) Garagen sind Gebäude oder Gebäudeteile zum Abstellen von 2Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Kraftfahrzeugen."
+        }
+      ],
+      "top_score": 0.5551
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 72 Baugenehmigung § 72 Baugenehmigung, Baubeginn",
+          "score": 0.7358,
+          "text_preview": "§ 72 Baugenehmigung § 72 Baugenehmigung, Baubeginn\n(1) 1Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine (1) 1Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen öffentlich-rechtlichen Vorschriften ent",
+          "text_full": "§ 72 Baugenehmigung § 72 Baugenehmigung, Baubeginn\n(1) 1Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine (1) 1Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind. Genehmigungsverfahren zu prüfen sind. 2Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen. 2Sie wird innerhalb der gesetzlichen Fristen, gegebenenfalls unter dem Vorbehalt ergänzender Genehmigungen, erteilt.\n(2) 1Die Baugenehmigung schließt andere die Anlage betreffende behördliche (1a) 1Die Baugenehmigung schließt andere die Anlage betreffende Entscheidungen ein, sofern solche nach den im Baugenehmigungsverfahren behördliche Entscheidungen ein, sofern solche nach den im zu prüfenden öffentlich-rechtlichen Vorschriften erforderlich sind. Baugenehmigungsverfahren zu prüfenden öffentlich-rechtlichen Vorschriften erforderlich sind. 2Diese sind zu benennen. 2Diese sind zu benennen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 73 Geltungsdauer der Baugenehmigung und des Vorbescheids § 73 Geltungsdauer der Genehmigung",
+          "score": 0.7276,
+          "text_preview": "§ 73 Geltungsdauer der Baugenehmigung und des Vorbescheids § 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung (1) 1Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des 1. ",
+          "text_full": "§ 73 Geltungsdauer der Baugenehmigung und des Vorbescheids § 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung (1) 1Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des 1. innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Vorhabens nicht begonnen oder Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen 2. die Bauausführung länger als drei Jahre unterbrochen worden ist. worden ist. 2Die Einlegung eines Rechtsbehelfs hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Baugenehmigung.\n(2) Der Vorbescheid gilt zwei Jahre.\n(3) 1Die Fristen nach den Absätzen 1 und 2 können auf Antrag jeweils bis zu (2) 1Die Frist nach Absatz 1 kann auf Antrag in Textform einmalig um drei einem Jahr verlängert werden. Jahre verlängert werden. 2Sie können auch rückwirkend verlängert werden, wenn der Antrag vor 2Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist. Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 65 Typengenehmigung § 72a Typengenehmigung",
+          "score": 0.7232,
+          "text_preview": "§ 65 Typengenehmigung § 72a Typengenehmigung\n(1) 1Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen (1) 1Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, errichtet werden sollen, führt die Bauaufsichtsbehörde auf Antrag eine Typenprüf",
+          "text_full": "§ 65 Typengenehmigung § 72a Typengenehmigung\n(1) 1Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen (1) 1Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, errichtet werden sollen, führt die Bauaufsichtsbehörde auf Antrag eine Typenprüfung durch. wird auf Antrag durch die Bauaufsichtsbehörde 2Eine Typengenehmigung wird erteilt, wenn die baulichen Anlagen oder eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von Bauteile den Anforderungen nach diesem Gesetz oder nach auf dieses Gesetz baulichen Anlagen den Anforderungen nach diesem Gesetz oder auf Grund gestützten Rechtsvorschriften entsprechen dieses Gesetzes erlassenen Vorschriften entsprechen. und die Brauchbarkeit für den jeweiligen Verwendungszweck nachgewiesen ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.7086,
+          "text_preview": "4Das Recht zur Ausführung des Bauvorhabens entsprechend der eingereichten Unterlagen erlischt, wenn innerhalb von drei Jahren nach Vorliegen der Voraussetzungen nach den Sätzen 2 und 3 mit dessen Ausführung nicht begonnen wurde, oder die Bauausführung mehr als drei Jahre unterbrochen worden ist.\n(4)",
+          "text_full": "4Das Recht zur Ausführung des Bauvorhabens entsprechend der eingereichten Unterlagen erlischt, wenn innerhalb von drei Jahren nach Vorliegen der Voraussetzungen nach den Sätzen 2 und 3 mit dessen Ausführung nicht begonnen wurde, oder die Bauausführung mehr als drei Jahre unterbrochen worden ist.\n(4)1Die Erklärung der Bauaufsichtsbehörde nach Absatz 2 Nummer 5 erste Alternative kann insbesondere deshalb erfolgen, weil sie eine Überprüfung der sonstigen Voraussetzungen des Absatzes 2 oder des Bauvorhabens aus anderen Gründen für erforderlich hält. 2Darauf, dass die Bauaufsichtsbehörde von ihrer Erklärungsmöglichkeit keinen Gebrauch macht, besteht kein Rechtsanspruch.\n(5)§ 68 Absatz 2 Satz 1 und Absatz 4, § 69 Absatz 5, § 72 Absatz 6 Nummer 2 sowie Absätze 7 und 8 sind entsprechend anzuwenden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 64 Zustimmungsverfahren § 77 Bauaufsichtliche Zustimmung",
+          "score": 0.7085,
+          "text_preview": "§ 64 Zustimmungsverfahren § 77 Bauaufsichtliche Zustimmung\n(1) 1Genehmigungsbedürftige Vorhaben bedürfen keiner Genehmigung (1) 1Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeit",
+          "text_full": "§ 64 Zustimmungsverfahren § 77 Bauaufsichtliche Zustimmung\n(1) 1Genehmigungsbedürftige Vorhaben bedürfen keiner Genehmigung (1) 1Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer 1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes oder der Länder übertragen ist und Baudienststelle des Bundes oder eines Landes übertragen ist und\n2. die Baudienststelle mindestens mit einer Beamtin oder einem Beamten 2. die Baudienststelle mindestens mit einer bzw. einem Bediensteten mit mit der Befähigung zum höheren technischen Verwaltungsdienst und mit der Befähigung zum höheren technischen Verwaltungsdienst und mit sonstigen geeigneten Fachkräften ausreichend besetzt ist. sonstigen geeigneten Fachkräften ausreichend besetzt ist. 151 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) 2Solche baulichen Anlagen bedürfen jedoch der Zustimmung der 2Bauvorhaben nach Satz 1 bedürfen jedoch der Zustimmung der Bauaufsichtsbehörde."
+        }
+      ],
+      "top_score": 0.7358
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 27,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 7 Gebäude auf mehreren Grundstücken; Anbau an Nachbargrenzen",
+          "score": 0.701,
+          "text_preview": "2026) Abstand zu dieser Grenze vorhanden, so kann zugelassen oder verlangt Abstand zu dieser Grenze vorhanden, so kann zugelassen oder verlangt werden, dass ein Abstand eingehalten wird. werden, dass ein Abstand eingehalten wird.",
+          "text_full": "2026) Abstand zu dieser Grenze vorhanden, so kann zugelassen oder verlangt Abstand zu dieser Grenze vorhanden, so kann zugelassen oder verlangt werden, dass ein Abstand eingehalten wird. werden, dass ein Abstand eingehalten wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 6 Abstandsflächen § 6 Abstandsflächen",
+          "score": 0.6585,
+          "text_preview": "2,50 m; an den Grenzen zu anderen Baugebieten gilt Satz 1. 3Werden von einem Bebauungsplan oder einer anderen Rechtsvorschrift Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 und 2 liegen müssten, finden die Sätze 1 und 2 kein",
+          "text_full": "2,50 m; an den Grenzen zu anderen Baugebieten gilt Satz 1. 3Werden von einem Bebauungsplan oder einer anderen Rechtsvorschrift Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 und 2 liegen müssten, finden die Sätze 1 und 2 keine Anwendung, es sei denn, der Bebauungsplan oder die andere Rechtsvorschrift ordnet ihre Geltung an.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht (6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende untergeordnete Bauteile wie Gesimse 1. vor die Außenwand vortretende Bauteile wie Gesimse und und Dachüberstände, Dachüberstände bis zu einer Tiefe von 0,50 m,\n2. Vorbauten einschließlich Balkone, wenn sie 2. Vorbauten einschließlich Balkone, wenn sie 25 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken § 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6338,
+          "text_preview": "(3) Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen 3Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die für die Fahrzeuge erforderlichen Aufstell- und erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen Bewegungsflächen v",
+          "text_full": "(3) Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen 3Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die für die Fahrzeuge erforderlichen Aufstell- und erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen Bewegungsflächen vorzusehen. vorzusehen.\n(4) Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einem 4Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einem öffentlichen Weg entfernt sind, sind Zufahrten oder Durchfahrten zu den vor öffentlichen Weg entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 und hinter den Gebäuden gelegenen Grundstücksteilen und zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind. Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 6 Abstandsflächen § 6 Abstandsflächen",
+          "score": 0.6164,
+          "text_preview": "§ 6 Abstandsflächen § 6 Abstandsflächen\n(1) 1Vor den Außenwänden von Gebäuden sind Flächen von oberirdischen (1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von Gebäuden freizuhalten (Abstandsflächen). oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von ",
+          "text_full": "§ 6 Abstandsflächen § 6 Abstandsflächen\n(1) 1Vor den Außenwänden von Gebäuden sind Flächen von oberirdischen (1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von Gebäuden freizuhalten (Abstandsflächen). oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Satz 2 gilt nicht für Antennen im Außenbereich einschließlich der Masten mit einer maximalen Breite des Mastes von 1,50 m und einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich. 3Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an 4Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen oder Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen oder bauordnungsrechtlichen Vorschriften an die Grenze gebaut werden muss bauordnungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf. oder darf."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge",
+          "score": 0.61,
+          "text_preview": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus (1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Nutzungseinheiten mit Aufenthal",
+          "text_full": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus (1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass ihre Benutzung im Brandfall angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend ausreichend lange möglich ist. lange möglich ist. 2Notwendige Flure sind nicht erforderlich 2Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2, 1. in Wohngebäuden der Gebäudeklassen 1 und 2, 70 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in 2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen, Kellergeschossen,\n3."
+        }
+      ],
+      "top_score": 0.701
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.6945,
+          "text_preview": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswi",
+          "text_full": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann. kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen (11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen. oder Teilen von baulichen Anlagen. 19 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 54 Bauherrin oder Bauherr § 53 Bauherrin bzw. Bauherr",
+          "score": 0.6509,
+          "text_preview": "dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Nachweise. 3Sie oder er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder auf 3Sie bzw. ",
+          "text_full": "dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Nachweise. 3Sie oder er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder auf 3Sie bzw. er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den Grund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. 4Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der 4Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. bereitzuhalten. 5Die Bauherrin oder der Bauherr hat vor Baubeginn den Namen der 5Die Bauherrin bzw. der Bauherr hat vor Baubeginn den Namen der Bauleiterin oder des Bauleiters und während der Bauausführung den Bauleiterin bzw."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 81a Technische Baubestimmungen § 85a Technische Baubestimmungen",
+          "score": 0.6472,
+          "text_preview": "die Leistung von Bauprodukten in bestimmten baulichen Anlagen oder ihren Teilen, insbesondere: ihren Teilen, insbesondere\na) Planung, Bemessung und Ausführung baulicher Anlagen bei Einbau a) Planung, Bemessung und Ausführung baulicher Anlagen bei Einbau eines Bauprodukts, eines Bauprodukts,\nb) Merkm",
+          "text_full": "die Leistung von Bauprodukten in bestimmten baulichen Anlagen oder ihren Teilen, insbesondere: ihren Teilen, insbesondere\na) Planung, Bemessung und Ausführung baulicher Anlagen bei Einbau a) Planung, Bemessung und Ausführung baulicher Anlagen bei Einbau eines Bauprodukts, eines Bauprodukts,\nb) Merkmale von Bauprodukten, die sich für einen b) Merkmale von Bauprodukten, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz 1 auswirken, 1 auswirken,\nc) Verfahren für die Feststellung der Leistung eines Bauproduktes im c) Verfahren für die Feststellung der Leistung eines Bauproduktes im Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz 1 auswirken, Erfüllung der Anforderungen nach § 3 Satz 1 auswirken,\nd) zulässige oder unzulässige besondere Verwendungszwecke, d) zulässige oder unzulässige besondere Verwendungszwecke,\ne) die Festlegung von Klassen und Stufen in Bezug auf bestimmte e) die Festlegung von Klassen und Stufen in Bezug auf bestimmte Verwendungszwecke, Verw"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 12 Gestaltung § 9 Gestaltung",
+          "score": 0.6463,
+          "text_preview": "§ 12 Gestaltung § 9 Gestaltung\n(1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der (1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet",
+          "text_full": "§ 12 Gestaltung § 9 Gestaltung\n(1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der (1) 1Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, Baumassen und Bauteile zueinander, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltend wirken. dass sie nicht verunstaltet wirken. 2Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht 2Bauliche Anlagen dürfen das Straßen-, Orts- und Landschaftsbild nicht verunstalten. verunstalten.\n(2) Bei baulichen Anlagen, die infolge ihres Umfangs, ihrer Höhe, ihrer Lage (2) Bei baulichen Anlagen, die infolge ihres Umfangs, ihrer Höhe, ihrer Lage oder ihrer erhaltenswerten Gestaltungsmerkmale das Straßenbild, Ortsbild oder ihrer erhaltenswerten Gestaltungsmerkmale das Straßenbild, Ortsbild oder Landschaftsbild mitbestimmen, können besondere Anforderungen an oder Landschaftsbild mitbestimmen, können besondere Anforderungen an die Gestaltung der Außenseiten und der Dächer gestellt werden. die Gestaltung der Außenseiten und der Dächer gestellt werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw",
+          "score": 0.638,
+          "text_preview": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw\nachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme, Wasser und fü",
+          "text_full": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw\nachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme, Wasser und für die öffentliche Verwertung oder Entsorgung von Abwässern, ausgenommen Gebäude,\n2. Anlagen, die nach dem Kreislaufwirtschaftsgesetz einer Genehmigung bedürfen,\n3. Anlagen, die auf Grund des Produktsicherheitsgesetzes oder des Gesetzes über überwachungsbedürftige Anlagen einer Genehmigung oder Erlaubnis bedürfen,\n4. Anlagen, die einer Errichtungsgenehmigung nach dem Atomgesetz in der Fassung vom 15. Juli 1985 (BGBl. I S. 1566), zuletzt geändert am 4. Dezember 2022 (BGBl. I S. 2153), in der jeweils geltenden Fassung bedürfen."
+        }
+      ],
+      "top_score": 0.6945
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Verfahrensfreie Vorhaben § 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6348,
+          "text_preview": "5 Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der e) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen, Schülerbeförderung dienen,\n1.6 Schutzhütten für Wanderer, die jedermann zugänglich sind und keine f) Schutzhütten für Wanderinnen und ",
+          "text_full": "5 Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der e) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen, Schülerbeförderung dienen,\n1.6 Schutzhütten für Wanderer, die jedermann zugänglich sind und keine f) Schutzhütten für Wanderinnen und Wanderer, die jedermann Aufenthaltsräume haben, zugänglich sind und keine Aufenthaltsräume haben,\n1.7 Überdachungen von Terrassen mit einer Fläche bis zu 30 m2 und einer g) Überdachungen von Terrassen mit einer Fläche bis zu 30 m2 und einer Tiefe bis zu 3,0 m vor Erdgeschossen sowie untergeordnete Tiefe bis zu 3 m vor Erdgeschossen sowie untergeordnete Überdachungen Überdachungen wie zum Beispiel Hauseingangsüberdachungen, wie zum Beispiel Hauseingangsüberdachungen, 105 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n1.8 Gartenlauben in Kleingartenanlagen mit einer Grundfläche von h) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des höchstens 24 m2, Bundeskleingartengesetzes vom 28. Februar 1983 (BGBl. I S. 210), zuletzt geändert am 19. September 2006 (BGBl. I S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge",
+          "score": 0.6007,
+          "text_preview": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus (1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Nutzungseinheiten mit Aufenthal",
+          "text_full": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus (1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass ihre Benutzung im Brandfall angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend ausreichend lange möglich ist. lange möglich ist. 2Notwendige Flure sind nicht erforderlich 2Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2, 1. in Wohngebäuden der Gebäudeklassen 1 und 2, 70 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in 2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen, Kellergeschossen,\n3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.5947,
+          "text_preview": "2026) Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit mehr als 150 m2 Grundfläche, mehr als 150 m² Grundfläche,\n9. Krankenhäuser, [jetzt 10.]\n9a. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder 9. Gebäude ",
+          "text_full": "2026) Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit mehr als 150 m2 Grundfläche, mehr als 150 m² Grundfläche,\n9. Krankenhäuser, [jetzt 10.]\n9a. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder 9. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit erheblich eingeschränkt ist, wenn die Selbstrettungsfähigkeit erheblich eingeschränkt ist, wenn die Nutzungseinheiten Nutzungseinheiten\na) einzeln für mehr als sechs Personen bestimmt sind oder a) einzeln für mehr als sechs Personen bestimmt sind oder\nb) einen gemeinsamen Rettungsweg haben, der von insgesamt mehr b) einen gemeinsamen Rettungsweg haben, der von insgesamt mehr als zwölf Personen benutzt wird, als zwölf Personen benutzt wird,\n9. Krankenhäuser, 10. Krankenhäuser,\n9b. sonstige Einrichtungen zur Unterbringung von Personen sowie 11. Wohnheime, Wohnheime,\n10. Tageseinrichtungen für jeweils mehr als zehn Kinder, Menschen mit 12."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 48 Stellplätze für Kraftfahrzeuge und Fahrradplätze § 49 Grundstücksbezogene Mobilität",
+          "score": 0.5908,
+          "text_preview": "§ 48 Stellplätze für Kraftfahrzeuge und Fahrradplätze § 49 Grundstücksbezogene Mobilität\n(1) 1Werden bauliche Anlagen sowie andere Anlagen, bei denen ein Zu- und (1) 1Werden bauliche Anlagen sowie andere Anlagen errichtet oder geändert, Abfahrtsverkehr zu erwarten ist, errichtet, sind Stellplätze fü",
+          "text_full": "§ 48 Stellplätze für Kraftfahrzeuge und Fahrradplätze § 49 Grundstücksbezogene Mobilität\n(1) 1Werden bauliche Anlagen sowie andere Anlagen, bei denen ein Zu- und (1) 1Werden bauliche Anlagen sowie andere Anlagen errichtet oder geändert, Abfahrtsverkehr zu erwarten ist, errichtet, sind Stellplätze für Kraftfahrzeuge ist dem zu erwartenden Bedarf an grundstücksbezogener Mobilität der sowie Fahrradplätze auf dem Grundstück oder, durch Baulast gesichert, auf ständigen Nutzerinnen und Nutzer sowie Besucherinnen und Besucher einem geeigneten Grundstück in der Nähe in geeigneter Beschaffenheit (Mobilitätsbedarf) Rechnung zu tragen. herzustellen oder nachzuweisen (notwendige Stellplätze und notwendige Fahrradplätze). 86 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) 2Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und zu [jetzt in Absatz 2 Satz 2] erwartenden Kraftfahrzeuge und Fahrräder der ständigen Benutzerinnen und Benutzer und Besucherinnen und Besucher der Anlagen. 2Belange von Personen mit Mobilitätseinschränkungen sind angemessen zu berücksichtigen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 49 Ausgleichsabgabe für Stellplätze und Fahrradplätze",
+          "score": 0.5724,
+          "text_preview": "§ 49 Ausgleichsabgabe für Stellplätze und Fahrradplätze\n(1) 1Die Verpflichtung nach § 48 wird durch Zahlung eines Ausgleichsbetrages an die Freie und Hansestadt Hamburg erfüllt, wenn\n1. notwendige Stellplätze oder notwendige Fahrradplätze nicht oder nur unter unzumutbaren Schwierigkeiten hergestellt",
+          "text_full": "§ 49 Ausgleichsabgabe für Stellplätze und Fahrradplätze\n(1) 1Die Verpflichtung nach § 48 wird durch Zahlung eines Ausgleichsbetrages an die Freie und Hansestadt Hamburg erfüllt, wenn\n1. notwendige Stellplätze oder notwendige Fahrradplätze nicht oder nur unter unzumutbaren Schwierigkeiten hergestellt oder nachgewiesen werden können oder\n2. notwendige Stellplätze als Stellplätze für Wohnungen oder Wohnheime (§ 48 Absatz 1a) genutzt werden sollen und die Stellplätze für Wohnungen oder Wohnheime ansonsten nicht oder nur unter unzumutbaren Schwierigkeiten hergestellt werden können. 2Für die Verjährung eines festgesetzten Anspruchs gilt § 22 Absatz 3 des Gebührengesetzes vom 5. März 1986 (HmbGVBl. S. 37), zuletzt geändert am\n14. Dezember 2010 (HmbGVBl. S. 667), in der jeweils geltenden Fassung entsprechend.\n(2) 1Der Ausgleichsbetrag nach Absatz 1 beträgt\n1. für die jeweils ersten drei Stellplätze bei einer Nutzungsänderung . . . . . . . . . . . . . 0 Euro\n2. für Bauvorhaben in dem in der Anlage 1 rot umrandeten Bereich,\na) je notwendigem Stellplatz . . . . .. . . 10.000 Euro,\nb) je notwendigem Fahrradplatz . . . . . . 1.000 Euro,\n3. im Übrigen\na) je notwendigem Stellplatz . . . . .. . ."
+        }
+      ],
+      "top_score": 0.6348
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 30 Dächer § 32 Dächer",
+          "score": 0.6939,
+          "text_preview": "§ 30 Dächer § 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch (1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig s",
+          "text_full": "§ 30 Dächer § 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch (1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein (harte Bedachung). (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind (2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12,5 m, 1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen 2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m, Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die 3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 39 Leitungsanlagen, Installationsschächte und -kanäle § 40 Leitungsanlagen, Installationsschächte und –kanäle",
+          "score": 0.663,
+          "text_preview": "§ 39 Leitungsanlagen, Installationsschächte und -kanäle § 40 Leitungsanlagen, Installationsschächte und –kanäle\n(1) Leitungen dürfen durch Raum abschließende Bauteile, für die eine (1) Leitungen dürfen durch raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur h",
+          "text_full": "§ 39 Leitungsanlagen, Installationsschächte und -kanäle § 40 Leitungsanlagen, Installationsschächte und –kanäle\n(1) Leitungen dürfen durch Raum abschließende Bauteile, für die eine (1) Leitungen dürfen durch raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur hindurchgeführt werden, Feuerwiderstandsfähigkeit vorgeschrieben ist, nur hindurchgeführt werden, wenn eine Brandausbreitung ausreichend lange nicht zu befürchten ist oder wenn eine Brandausbreitung ausreichend lange nicht zu befürchten ist oder Vorkehrungen hiergegen getroffen sind; dies gilt nicht Vorkehrungen hiergegen getroffen sind; dies gilt nicht\n1. für Gebäude der Gebäudeklassen 1 und 2, 1. für Gebäude der Gebäudeklassen 1 und 2,\n2. innerhalb von Wohnungen, 2. innerhalb von Wohnungen,\n3. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 3. innerhalb derselben Nutzungseinheit mit nicht mehr als insgesamt 400 m2 Grundfläche in nicht mehr als zwei Geschossen. 400 m² in nicht mehr als zwei Geschossen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 68 Bautechnische Nachweise und ihre Prüfung § 66 Bautechnische Nachweise",
+          "score": 0.6538,
+          "text_preview": "§ 68 Bautechnische Nachweise und ihre Prüfung § 66 Bautechnische Nachweise\n(1) 1Die Einhaltung der Anforderungen an die Standsicherheit, den (1) 1Die Einhaltung der Anforderungen an die Standsicherheit, den Brandschutz Brandschutz, einschließlich der hierfür bedeutsamen Anlagen der technischen Gebäu",
+          "text_full": "§ 68 Bautechnische Nachweise und ihre Prüfung § 66 Bautechnische Nachweise\n(1) 1Die Einhaltung der Anforderungen an die Standsicherheit, den (1) 1Die Einhaltung der Anforderungen an die Standsicherheit, den Brandschutz Brandschutz, einschließlich der hierfür bedeutsamen Anlagen der technischen Gebäudeausrüstung, den Wärmeschutz und die Energieeinsparung den Wärmeschutz und die Energieeinsparung sowie an den Schallschutz und den Erschütterungsschutz ist sowie an den Schallschutz und den Erschütterungsschutz ist für genehmigungs- und zustimmungsbedürftige Vorhaben nach näherer Maßgabe der Verordnung auf Grund § 81 Absatz 6 nach Maßgabe der Verordnung nach § 85 Absatz 3 nachzuweisen nachzuweisen (bautechnische Nachweise). (bautechnische Nachweise). 2Zu den für den Brandschutz bedeutsamen Anlagen der technischen Gebäudeausrüstung gehören insbesondere Rauch- und Wärmeabzugsanlagen, Lüftungsanlagen und Starkstromanlagen sowie COÜberwachungsanlagen, Brandmeldeanlagen, Alarmierungsanlagen, Feuerlöschanlagen, Schutzvorhänge, Wandhydranten, technische Anlagen zur Unterstützung des Funkverkehrs (Gebäudefunkanlagen) und eine Sicherheitsstromversorgung."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 40 Lüftungsanlagen § 41 Lüftungsanlagen",
+          "score": 0.6449,
+          "text_preview": "2026) 2Lüftungsleitungen dürfen Raum abschließende Bauteile, für die eine 2Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreit",
+          "text_full": "2026) 2Lüftungsleitungen dürfen Raum abschließende Bauteile, für die eine 2Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lange nicht zu befürchten ist oder wenn Brandausbreitung ausreichend lange nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind. Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in (3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen. andere Räume übertragen.\n(4) 1Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die (4) 1Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 15 Standsicherheit § 12 Standsicherheit",
+          "score": 0.6316,
+          "text_preview": "§ 15 Standsicherheit § 12 Standsicherheit\n(1) 1Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für (1) 1Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für sich allein standsicher sein. sich allein standsicher sein. 2Bauteile müssen auch im Brandfall ausreichend l",
+          "text_full": "§ 15 Standsicherheit § 12 Standsicherheit\n(1) 1Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für (1) 1Jede bauliche Anlage muss im Ganzen und in ihren einzelnen Teilen für sich allein standsicher sein. sich allein standsicher sein. 2Bauteile müssen auch im Brandfall ausreichend lange standsicher sein. Die Standsicherheit muss auch beim Errichten, Ändern und Beseitigen sichergestellt sein. 3Die Standsicherheit anderer baulicher Anlagen und die Tragfähigkeit des 2Die Standsicherheit anderer baulicher Anlagen und die Tragfähigkeit des Baugrundes der Nachbargrundstücke dürfen nicht gefährdet werden. Baugrundes der Nachbargrundstücke dürfen nicht gefährdet werden.\n(2) 1Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist (2) Die Verwendung gemeinsamer Bauteile für mehrere bauliche Anlagen ist zulässig. zulässig, 2Für bauliche Anlagen auf mehreren Grundstücken gilt dies nur, wenn durch Baulast gesichert ist, dass die gemeinsamen Bauteile bei der wenn öffentlich-rechtlich gesichert ist, dass die gemeinsamen Bauteile bei Beseitigung einer der baulichen Anlagen bestehen bleiben können. der Beseitigung einer der baulichen Anlagen bestehen bleiben können."
+        }
+      ],
+      "top_score": 0.6939
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge",
+          "score": 0.6692,
+          "text_preview": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus (1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Nutzungseinheiten mit Aufenthal",
+          "text_full": "§ 34 Notwendige Flure, offene Gänge § 36 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus (1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass ihre Benutzung im Brandfall angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend ausreichend lange möglich ist. lange möglich ist. 2Notwendige Flure sind nicht erforderlich 2Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2, 1. in Wohngebäuden der Gebäudeklassen 1 und 2, 70 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in 2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen, Kellergeschossen,\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken § 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6687,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken § 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Wegen ist für Rettungs- und Löscharbeiten ein Zu- oder (1) 1Von öffentlichen Wegen ist insbesondere für die Feuerwehr ein Durchgang in ausreichender Breite und Höhe zu schaffen geradlin",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken § 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Wegen ist für Rettungs- und Löscharbeiten ein Zu- oder (1) 1Von öffentlichen Wegen ist insbesondere für die Feuerwehr ein Durchgang in ausreichender Breite und Höhe zu schaffen geradliniger Zu- oder Durchgang\n1. zur Vorderseite von Gebäuden,\n2. zur Rückseite von Gebäuden, zu rückwärtigen Gebäuden zu schaffen; wenn der zweite Rettungsweg aus diesen Gebäuden dort über zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Rettungsgeräte der Feuerwehr führt. Gebäude über Rettungsgeräte der Feuerwehr führt.\n(2) Zu Gebäuden, bei denen die Oberkante der Brüstung von Fenstern oder 2Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern Stellen, an die Rettungsgeräte der Feuerwehr angelegt werden sollen, mehr bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den als 8,0 m über der Geländeoberfläche liegt, ist abweichend von Absatz 1 Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Durchfahrt zu schaffen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 31 Erster und zweiter Rettungsweg § 33 Erster und zweiter Rettungsweg",
+          "score": 0.6596,
+          "text_preview": "2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine 2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. sein. 3E",
+          "text_full": "2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine 2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. sein. 3Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen 3Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, sicher benutzbaren Treppenraum möglich ist in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum). (Sicherheitstreppenraum). 4Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der (3) Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen. bestehen. 64 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 33 Notwendige Treppenräume, Ausgänge § 35 Notwendige Treppenräume, Ausgänge",
+          "score": 0.6491,
+          "text_preview": "§ 33 Notwendige Treppenräume, Ausgänge § 35 Notwendige Treppenräume, Ausgänge\n(1) 1Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus (1) 1Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum den Ges",
+          "text_full": "§ 33 Notwendige Treppenräume, Ausgänge § 35 Notwendige Treppenräume, Ausgänge\n(1) 1Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus (1) 1Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). liegen (notwendiger Treppenraum). 2Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, 2Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lange dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lange möglich ist. möglich ist. 3Notwendige Treppen sind ohne eigenen Treppenraum zulässig 3Notwendige Treppen sind ohne eigenen Treppenraum zulässig\n1. in Gebäuden der Gebäudeklassen 1 und 2, 1. in Gebäuden der Gebäudeklassen 1 und 2,\n2. für die Verbindung von höchstens zwei Geschossen innerhalb 2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 30 Dächer § 32 Dächer",
+          "score": 0.6442,
+          "text_preview": "2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3, 2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3. sowie für sonstige Anbauten bis 1,50 m Tiefe mit Dächern aus nicht brennbaren Bauteilen, wenn ein vertikaler Feuerüberschlagsweg von einem Meter zu Öffnun",
+          "text_full": "2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3, 2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3. sowie für sonstige Anbauten bis 1,50 m Tiefe mit Dächern aus nicht brennbaren Bauteilen, wenn ein vertikaler Feuerüberschlagsweg von einem Meter zu Öffnungen eingehalten wird.\n(8) Glasdächer über Rettungswegen müssen so ausgebildet sein, dass Menschen durch herabfallende Glasteile nicht gefährdet werden.\n(9) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare (8) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare Vorrichtungen anzubringen. Vorrichtungen anzubringen. 63 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        }
+      ],
+      "top_score": 0.6692
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 4 Erschließung der Grundstücke § 4 Bebauung der Grundstücke",
+          "score": 0.7689,
+          "text_preview": "§ 4 Erschließung der Grundstücke § 4 Bebauung der Grundstücke\n(1) 1Ein Grundstück (1) 1Bauliche Anlagen darf nur bebaut werden, dürfen nur errichtet werden, wenn es in ausreichender Breite von einem befahrbaren wenn das Grundstück in angemessener Breite an einem befahrbaren und nicht anbaufrei zu ha",
+          "text_full": "§ 4 Erschließung der Grundstücke § 4 Bebauung der Grundstücke\n(1) 1Ein Grundstück (1) 1Bauliche Anlagen darf nur bebaut werden, dürfen nur errichtet werden, wenn es in ausreichender Breite von einem befahrbaren wenn das Grundstück in angemessener Breite an einem befahrbaren und nicht anbaufrei zu haltenden öffentlichen Weg aus unmittelbar oder durch Baulast gesichert über ein öffentlichen Weg liegt oder wenn das Grundstück einen sonstigen, öffentlichanderes Grundstück zugänglich ist. rechtlich gesicherten Zugang zu einem befahrbaren öffentlichen Weg hat. 2Der öffentliche Weg und der Zugang zum Grundstück müssen so beschaffen 2Der öffentliche Weg und der Zugang zum Grundstück müssen so beschaffen sein, dass die Ver- und Entsorgung, der Einsatz von Rettungs- und sein, dass die Ver- und Entsorgung, der Einsatz von Rettungs- und Löschgeräten sowie der durch die jeweilige Grundstücksnutzung Löschgeräten sowie der durch die jeweilige Grundstücksnutzung hervorgerufene Verkehr ohne Schwierigkeiten möglich sind. hervorgerufene Verkehr ohne Schwierigkeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 74 Inanspruchnahme von Nachbargrundstücken § 83a Inanspruchnahme von Nachbargrundstücken",
+          "score": 0.7657,
+          "text_preview": "§ 74 Inanspruchnahme von Nachbargrundstücken § 83a Inanspruchnahme von Nachbargrundstücken\n(1) Die Grundeigentümerinnen und Grundeigentümer sind verpflichtet, das (1) Die Grundeigentümerinnen und Grundeigentümer sind verpflichtet, das Betreten ihrer Grundstücke und das Aufstellen der erforderlichen ",
+          "text_full": "§ 74 Inanspruchnahme von Nachbargrundstücken § 83a Inanspruchnahme von Nachbargrundstücken\n(1) Die Grundeigentümerinnen und Grundeigentümer sind verpflichtet, das (1) Die Grundeigentümerinnen und Grundeigentümer sind verpflichtet, das Betreten ihrer Grundstücke und das Aufstellen der erforderlichen Gerüste Betreten ihrer Grundstücke und das Aufstellen der erforderlichen Gerüste sowie die Vornahme von Arbeiten zu dulden, soweit dies zur Errichtung, sowie die Vornahme von Arbeiten zu dulden, soweit dies zur Errichtung, Änderung oder Unterhaltung von Anlagen auf den Nachbargrundstücken Änderung oder Unterhaltung von Anlagen auf den Nachbargrundstücken erforderlich ist. erforderlich ist.\n(2) Grenzt ein Gebäude unmittelbar an ein höheres Gebäude auf einem (2) Grenzt ein Gebäude unmittelbar an ein höheres Gebäude auf einem Nachbargrundstück, so hat die Eigentümerin oder der Eigentümer des Nachbargrundstück, so hat die Eigentümerin bzw."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 6 Abstandsflächen § 6 Abstandsflächen",
+          "score": 0.6995,
+          "text_preview": "(2) 1Abstandsflächen müssen auf dem Grundstück liegen. (2) 1Abstandsflächen müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte",
+          "text_full": "(2) 1Abstandsflächen müssen auf dem Grundstück liegen. (2) 1Abstandsflächen müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte. jedoch nur bis zu deren Mitte; 3Bei öffentlichen Grünflächen gilt dies nur sofern die Gebäude oder Anlagen bei öffentlichen Grünflächen gilt dies nur, sofern die Gebäude oder Anlagen innerhalb von Baulinien oder Baugrenzen errichtet werden. innerhalb von Baulinien oder Baugrenzen errichtet werden. 4Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke 3Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie nicht überbaut werden; erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut Absatz 3 bleibt unberührt. werden. 5Bei Wohngebäuden der Gebäudeklassen 1 bis 3 ist ein Flächenausgleich innerhalb einer unregelmäßig begrenzten Abstandsfläche zulässig."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 2 Begriffe § 2 Begriffe",
+          "score": 0.694,
+          "text_preview": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswi",
+          "text_full": "305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, und hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken deren Verwendung sich auf die Anforderungen nach § 3 Satz 1 auswirken kann. kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen (11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen. oder Teilen von baulichen Anlagen. 19 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 4 Erschließung der Grundstücke § 4 Bebauung der Grundstücke",
+          "score": 0.6927,
+          "text_preview": "347, 352), in der jeweils geltenden Fassung gesichert ist. [§ 7 (1)] (1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist (2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten öffentlich-rechtlich ges",
+          "text_full": "347, 352), in der jeweils geltenden Fassung gesichert ist. [§ 7 (1)] (1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist (2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes erlassenen Vorschriften widersprechen. widersprechen.\n(2) 1Jede Eigentümerin und jeder Eigentümer eines Gebäudes mit [Diese Regelungen finden sich nun im Hamburgische Abwassergesetz.] Aufenthaltsräumen ist verpflichtet, dieses an das öffentliche Wasserversorgungsnetz anzuschließen und die Wasserversorgungseinrichtungen zu benutzen. 2Auf Grundstücken, die nicht an das öffentliche Wasserversorgungsnetz angeschlossen werden können, ist die Herstellung von Brunnen zulässig, wenn die hygienischen Anforderungen eingehalten werden können."
+        }
+      ],
+      "top_score": 0.7689
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 28 Brandwände § 30 Brandwände",
+          "score": 0.7831,
+          "text_preview": "für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch tragenden und aussteifenden Teile des Gebä",
+          "text_full": "für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch Feuer hemmende Bauteile, und von außen nach innen die feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben, Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben.\n4. in den Fällen des Absatzes 2 Satz 1 Nummer 4 feuerbeständige Wände, 3In den Fällen des Absatzes 2 Satz 1 Nummer 4 sind anstelle von wenn der umbaute Raum des landwirtschaftlich genutzten Gebäudes Brandwänden feuerbeständige Wände zulässig, wenn der Brutto-Rauminhalt oder Gebäudeteils nicht größer als 2000 m3 ist. des landwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2000 m³ ist.\n(4) 1Brandwände müssen bis zur Bedachung durchgehen und in allen (4) 1Brandwände müssen bis zur Bedachung durchgehen und in allen Geschossen übereinander angeordnet sein. Geschossen übereinander angeordnet sein."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 30 Dächer § 32 Dächer",
+          "score": 0.7443,
+          "text_preview": "§ 30 Dächer § 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch (1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig s",
+          "text_full": "§ 30 Dächer § 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch (1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein (harte Bedachung). (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind (2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12,5 m, 1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen 2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m, Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die 3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 37 Aufzüge § 39 Aufzüge",
+          "score": 0.7346,
+          "text_preview": "in Gebäuden der Gebäudeklassen 1 und 2; 4Sie müssen sicher umkleidet sein. sie müssen sicher umkleidet sein.\n(2) 1Die Fahrschachtwände müssen als Raum abschließende Bauteile (2) 1Die Fahrschachtwände müssen als raumabschließende Bauteile\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig und aus nich",
+          "text_full": "in Gebäuden der Gebäudeklassen 1 und 2; 4Sie müssen sicher umkleidet sein. sie müssen sicher umkleidet sein.\n(2) 1Die Fahrschachtwände müssen als Raum abschließende Bauteile (2) 1Die Fahrschachtwände müssen als raumabschließende Bauteile\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig und aus nicht 1. in Gebäuden der Gebäudeklasse 5 feuerbeständig und aus brennbaren Baustoffen, nichtbrennbaren Baustoffen,\n2. in Gebäuden der Gebäudeklasse 4 hoch Feuer hemmend, 2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemmend,\n3. in Gebäuden der Gebäudeklasse 3 Feuer hemmend 3. in Gebäuden der Gebäudeklasse 3 feuerhemmend sein; sein; Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Fahrschachtwände aus brennbaren Baustoffen müssen schachtseitig eine Bekleidung aus nicht brennbaren Baustoffen in ausreichender Dicke haben. Bekleidung aus nichtbrennbaren Baustoffen in ausreichender Dicke haben."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 30 Dächer § 32 Dächer",
+          "score": 0.7238,
+          "text_preview": "2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3, 2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3. sowie für sonstige Anbauten bis 1,50 m Tiefe mit Dächern aus nicht brennbaren Bauteilen, wenn ein vertikaler Feuerüberschlagsweg von einem Meter zu Öffnun",
+          "text_full": "2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3, 2Dies gilt nicht für Anbauten an Wohngebäude der Gebäudeklassen 1 bis 3. sowie für sonstige Anbauten bis 1,50 m Tiefe mit Dächern aus nicht brennbaren Bauteilen, wenn ein vertikaler Feuerüberschlagsweg von einem Meter zu Öffnungen eingehalten wird.\n(8) Glasdächer über Rettungswegen müssen so ausgebildet sein, dass Menschen durch herabfallende Glasteile nicht gefährdet werden.\n(9) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare (8) Für vom Dach aus vorzunehmende Arbeiten sind sicher benutzbare Vorrichtungen anzubringen. Vorrichtungen anzubringen. 63 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 25 Tragende Wände, Stützen § 27 Tragende Wände, Stützen",
+          "score": 0.7096,
+          "text_preview": "§ 25 Tragende Wände, Stützen § 27 Tragende Wände, Stützen\n(1) 1Tragende und aussteifende Wände und Stützen müssen im Brandfall (1) 1Tragende und aussteifende Wände und Stützen müssen im Brandfall ausreichend lange standsicher sein. ausreichend lange standsicher sein. 2Sie müssen 2Sie müssen\n1. in Ge",
+          "text_full": "§ 25 Tragende Wände, Stützen § 27 Tragende Wände, Stützen\n(1) 1Tragende und aussteifende Wände und Stützen müssen im Brandfall (1) 1Tragende und aussteifende Wände und Stützen müssen im Brandfall ausreichend lange standsicher sein. ausreichend lange standsicher sein. 2Sie müssen 2Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig, 1. in Gebäuden der Gebäudeklasse 5 feuerbeständig, 50 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026)\n2. in Gebäuden der Gebäudeklasse 4 hoch Feuer hemmend, 2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemmend,\n3. in Gebäuden der Gebäudeklassen 2 und 3 Feuer hemmend 3. in Gebäuden der Gebäudeklassen 2 und 3 feuerhemmend sein. sein. 3Satz 2 gilt 3Satz 2 gilt\n1. für Geschosse im Dachraum nur, wenn darüber noch Aufenthaltsräume 1. für Geschosse im Dachraum nur, wenn darüber noch Aufenthaltsräume zulässig sind; § 27 Absatz 4 bleibt unberührt, möglich sind; § 29 Absatz 4 bleibt unberührt,\n2. nicht für Balkone. 2. nicht für Balkone, ausgenommen offene Gänge, die als notwendige Flure dienen."
+        }
+      ],
+      "top_score": 0.7831
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 7 Gebäude auf mehreren Grundstücken; Anbau an Nachbargrenzen",
+          "score": 0.7674,
+          "text_preview": "§ 7 Gebäude auf mehreren Grundstücken; Anbau an Nachbargrenzen\n(1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist zulässig, [jetzt in § 4 Absatz 2] wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes",
+          "text_full": "§ 7 Gebäude auf mehreren Grundstücken; Anbau an Nachbargrenzen\n(1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist zulässig, [jetzt in § 4 Absatz 2] wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes erlassenen Vorschriften widersprechen.\n(2) 1Darf nach planungsrechtlichen Vorschriften nicht an die Nachbargrenze (9) 1Darf nach planungsrechtlichen Vorschriften nicht an die Nachbargrenze gebaut werden, ist aber auf dem Nachbargrundstück ein Gebäude an der gebaut werden, ist aber auf dem Nachbargrundstück ein Gebäude an der Grenze vorhanden, so kann zugelassen oder verlangt werden, dass angebaut Grenze vorhanden, so kann zugelassen oder verlangt werden, dass angebaut wird. wird. 2Darf oder muss nach planungsrechtlichen Vorschriften an die Nachbargrenze 2Darf oder muss nach planungsrechtlichen Vorschriften an die Nachbargrenze gebaut werden, ist aber auf dem Nachbargrundstück ein Gebäude mit gebaut werden, ist aber auf dem Nachbargrundstück ein Gebäude mit 27 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 4 Erschließung der Grundstücke § 4 Bebauung der Grundstücke",
+          "score": 0.7454,
+          "text_preview": "347, 352), in der jeweils geltenden Fassung gesichert ist. [§ 7 (1)] (1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist (2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten öffentlich-rechtlich ges",
+          "text_full": "347, 352), in der jeweils geltenden Fassung gesichert ist. [§ 7 (1)] (1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist (2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes erlassenen Vorschriften widersprechen. widersprechen.\n(2) 1Jede Eigentümerin und jeder Eigentümer eines Gebäudes mit [Diese Regelungen finden sich nun im Hamburgische Abwassergesetz.] Aufenthaltsräumen ist verpflichtet, dieses an das öffentliche Wasserversorgungsnetz anzuschließen und die Wasserversorgungseinrichtungen zu benutzen. 2Auf Grundstücken, die nicht an das öffentliche Wasserversorgungsnetz angeschlossen werden können, ist die Herstellung von Brunnen zulässig, wenn die hygienischen Anforderungen eingehalten werden können."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.7401,
+          "text_preview": "§ 62 Genehmigungsfreistellung\n(1)1Keiner Genehmigung nach diesem Gesetz bedürfen unter den Voraussetzungen des Absatzes 2\n1. die Errichtung von\na) Wohngebäuden der Gebäudeklassen 1 und 2 ohne Tiefgaragen und\nb) freistehenden Wohngebäuden der Gebäudeklasse 3 ohne Tiefgaragen, einschließlich der zugeh",
+          "text_full": "§ 62 Genehmigungsfreistellung\n(1)1Keiner Genehmigung nach diesem Gesetz bedürfen unter den Voraussetzungen des Absatzes 2\n1. die Errichtung von\na) Wohngebäuden der Gebäudeklassen 1 und 2 ohne Tiefgaragen und\nb) freistehenden Wohngebäuden der Gebäudeklasse 3 ohne Tiefgaragen, einschließlich der zugehörigen Nebenanlagen und Nebengebäude sowie mit Räumen zur Ausübung freier Berufe nach § 13 der Baunutzungsverordnung in der Fassung vom 21. November 2017 (BGBl. I S. 3787), zuletzt geändert am 3. Juli 2023 (BGBl. I Nr. 176 S. 1, 6), in der jeweils geltenden Fassung,\n2. die Änderung von baulichen Anlagen, sofern dadurch bauliche Anlagen im Sinne von Nummer 1 entstehen,\n3. die Nutzungsänderung von Dachgeschossen zu Wohnzwecken sowie die Errichtung von Dachgauben bei Gebäuden gemäß Nummer 1\na) im Anwendungsbereich des § 34 des Baugesetzbuchs (BauGB) in der Fassung vom 3. November 2017 (BGBl. I S. 3635), zuletzt geändert am 20. Dezember 2023 (BGBl. I Nr. 394 S. 1, 28), in der jeweils geltenden Fassung unter den Voraussetzungen des Absatzes 2 Nummern 3 bis 5, 118 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 40 Lüftungsanlagen § 41 Lüftungsanlagen",
+          "score": 0.7389,
+          "text_preview": "Betriebssicherheit und des Brandschutzes bestehen. 2Die Abluft ist ins Freie zu führen. 2Die Abluft ist ins Freie zu führen. 3Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen 3Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig. unzulässig.",
+          "text_full": "Betriebssicherheit und des Brandschutzes bestehen. 2Die Abluft ist ins Freie zu führen. 2Die Abluft ist ins Freie zu führen. 3Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen 3Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig. unzulässig.\n(5) Die Absätze 2 und 3 gelten nicht (5) Die Absätze 2 und 3 gelten nicht\n1. für Gebäude der Gebäudeklassen 1 und 2, 1. für Gebäude der Gebäudeklassen 1 und 2,\n2. innerhalb von Wohnungen, 2. innerhalb von Wohnungen,\n3. innerhalb derselben Nutzungseinheit mit nicht mehr als 400 m2 in nicht 3. innerhalb derselben Nutzungseinheit mit nicht mehr als 400 m² in nicht mehr als zwei Geschossen. mehr als zwei Geschossen.\n(6) Für raumlufttechnische Anlagen und Warmluftheizungen gelten die (6) Für raumlufttechnische Anlagen und Warmluftheizungen gelten die Absätze 1 bis 5 entsprechend. Absätze 1 bis 5 entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 28 Brandwände § 30 Brandwände",
+          "score": 0.7203,
+          "text_preview": "Wände zwischen aneinandergebauten Gebäuden auf demselben Wände zwischen aneinandergebauten Gebäuden auf demselben Grundstück, Grundstück, wenn sie den Anforderungen an Trennwände nach § 27 wenn sie den Anforderungen an Trennwände nach § 29 entsprechen und die entsprechen und die aneinandergebauten G",
+          "text_full": "Wände zwischen aneinandergebauten Gebäuden auf demselben Wände zwischen aneinandergebauten Gebäuden auf demselben Grundstück, Grundstück, wenn sie den Anforderungen an Trennwände nach § 27 wenn sie den Anforderungen an Trennwände nach § 29 entsprechen und die entsprechen und die aneinandergebauten Gebäude in Abständen von aneinandergebauten Gebäude in Abständen von höchstens 40 m durch höchstens 40 m durch Gebäudeabschlusswände nach Absatz 1 unterteilt Brandwände nach Absatz 1 unterteilt werden. werden. 3Nachträgliche Wärmeschutzmaßnahmen an bestehenden Außenwänden mit 3Nachträgliche Wärmeschutzmaßnahmen an bestehenden Außenwänden mit einer zusätzlichen Wandstärke bis zu einer zusätzlichen Wandstärke bis zu 0,20 m 0,25 m werden bei der Abstandsbemessung nach Satz 1 Nummer 1 nicht werden bei der Abstandsbemessung nach Satz 1 Nummer 1 nicht berücksichtigt, sofern die neuen Bauteile aus nichtbrennbaren Baustoffen berücksichtigt, sofern die neuen Bauteile aus nichtbrennbaren Baustoffen bestehen. bestehen."
+        }
+      ],
+      "top_score": 0.7674
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 64 Baugenehmigungsverfahren",
+          "score": 0.6997,
+          "text_preview": "3Die Frist nach Satz 1 gilt nicht für Vorhaben innerhalb des angemessenen Sicherheitsabstands eines Betriebsbereichs nach § 70 Absatz 4 Satz 1 oder innerhalb des Achtungsabstands, sofern ein angemessener Sicherheitsabstand noch nicht ermittelt wurde.\n(3) 1Bei Anlagen, die in den Anwendungsbereich de",
+          "text_full": "3Die Frist nach Satz 1 gilt nicht für Vorhaben innerhalb des angemessenen Sicherheitsabstands eines Betriebsbereichs nach § 70 Absatz 4 Satz 1 oder innerhalb des Achtungsabstands, sofern ein angemessener Sicherheitsabstand noch nicht ermittelt wurde.\n(3) 1Bei Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fallen, ist über den Bauantrag innerhalb eines Jahres nach Vollständigkeit der Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin bzw. dem Antragsteller aus wichtigem Grund um bis zu ein Jahr verlängern. 125 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) 2Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der nach Satz 1 maßgeblichen Frist versagt worden ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.698,
+          "text_preview": "4Das Recht zur Ausführung des Bauvorhabens entsprechend der eingereichten Unterlagen erlischt, wenn innerhalb von drei Jahren nach Vorliegen der Voraussetzungen nach den Sätzen 2 und 3 mit dessen Ausführung nicht begonnen wurde, oder die Bauausführung mehr als drei Jahre unterbrochen worden ist.\n(4)",
+          "text_full": "4Das Recht zur Ausführung des Bauvorhabens entsprechend der eingereichten Unterlagen erlischt, wenn innerhalb von drei Jahren nach Vorliegen der Voraussetzungen nach den Sätzen 2 und 3 mit dessen Ausführung nicht begonnen wurde, oder die Bauausführung mehr als drei Jahre unterbrochen worden ist.\n(4)1Die Erklärung der Bauaufsichtsbehörde nach Absatz 2 Nummer 5 erste Alternative kann insbesondere deshalb erfolgen, weil sie eine Überprüfung der sonstigen Voraussetzungen des Absatzes 2 oder des Bauvorhabens aus anderen Gründen für erforderlich hält. 2Darauf, dass die Bauaufsichtsbehörde von ihrer Erklärungsmöglichkeit keinen Gebrauch macht, besteht kein Rechtsanspruch.\n(5)§ 68 Absatz 2 Satz 1 und Absatz 4, § 69 Absatz 5, § 72 Absatz 6 Nummer 2 sowie Absätze 7 und 8 sind entsprechend anzuwenden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 72a Baubeginn",
+          "score": 0.6682,
+          "text_preview": "§ 72a Baubeginn\n(1) 1Mit der Bauausführung, der Beseitigung baulicher Anlagen oder mit der (6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der ",
+          "text_full": "§ 72a Baubeginn\n(1) 1Mit der Bauausführung, der Beseitigung baulicher Anlagen oder mit der (6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der Bauherrin oder dem Bauherrn zugegangen ist 1. die Baugenehmigung der Bauherrin bzw. dem Bauherrn zugegangen ist und und\n2. die Baubeginnanzeige der Bauaufsichtsbehörde vorliegt. 2. die Baubeginnanzeige der Bauaufsichtsbehörde vorliegt. 2Abweichend von Satz 1 Nummer 1 kann die Bauaufsichtsbehörde in Bezug auf Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende auf Antrag vorläufig 142 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) zulassen, dass bereits vor Erteilung der Baugenehmigung mit den Maßnahmen nach Satz 1 begonnen wird (Zulassung des vorzeitigen Baubeginns), wenn\n1. mit der Erteilung der Baugenehmigung gerechnet werden kann und\n2."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 67 Bauvorlageberechtigung § 65 Bauvorlageberechtigung",
+          "score": 0.6634,
+          "text_preview": "Dezember 2022 270), in der jeweils geltenden Fassung als auswärtige Ingenieurin oder (HmbGVBl. 2023 S. 16, 19), in der jeweils geltenden Fassung als auswärtiger Ingenieur zur vorübergehenden und gelegentlichen auswärtige Ingenieurin oder auswärtiger Ingenieur zur vorübergehenden Erstellung von Bauvo",
+          "text_full": "Dezember 2022 270), in der jeweils geltenden Fassung als auswärtige Ingenieurin oder (HmbGVBl. 2023 S. 16, 19), in der jeweils geltenden Fassung als auswärtiger Ingenieur zur vorübergehenden und gelegentlichen auswärtige Ingenieurin oder auswärtiger Ingenieur zur vorübergehenden Erstellung von Bauvorlagen berechtigt ist. und gelegentlichen Erstellung von Bauvorlagen berechtigt ist.\n(3) 1Bauvorlageberechtigt sind ferner, (3) Bauvorlageberechtigt sind ferner,\n1. für Gebäude der Gebäudeklassen 1 und 2, die keine Sonderbauten sind, 1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 73 Geltungsdauer der Baugenehmigung und des Vorbescheids § 73 Geltungsdauer der Genehmigung",
+          "score": 0.6547,
+          "text_preview": "§ 73 Geltungsdauer der Baugenehmigung und des Vorbescheids § 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung (1) 1Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des 1. ",
+          "text_full": "§ 73 Geltungsdauer der Baugenehmigung und des Vorbescheids § 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung (1) 1Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des 1. innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Vorhabens nicht begonnen oder Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen 2. die Bauausführung länger als drei Jahre unterbrochen worden ist. worden ist. 2Die Einlegung eines Rechtsbehelfs hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Baugenehmigung.\n(2) Der Vorbescheid gilt zwei Jahre.\n(3) 1Die Fristen nach den Absätzen 1 und 2 können auf Antrag jeweils bis zu (2) 1Die Frist nach Absatz 1 kann auf Antrag in Textform einmalig um drei einem Jahr verlängert werden. Jahre verlängert werden. 2Sie können auch rückwirkend verlängert werden, wenn der Antrag vor 2Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist. Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        }
+      ],
+      "top_score": 0.6997
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 72a Baubeginn",
+          "score": 0.743,
+          "text_preview": "die Bauherrin oder der Bauherr sich verpflichtet, alle bis zur Entscheidung über die Erteilung der Baugenehmigung durch die Maßnahmen verursachten Schäden zu ersetzen und, wenn das Vorhaben nicht genehmigt wird, den früheren Zustand wiederherzustellen. 3Die Zulassung kann jederzeit widerrufen werden",
+          "text_full": "die Bauherrin oder der Bauherr sich verpflichtet, alle bis zur Entscheidung über die Erteilung der Baugenehmigung durch die Maßnahmen verursachten Schäden zu ersetzen und, wenn das Vorhaben nicht genehmigt wird, den früheren Zustand wiederherzustellen. 3Die Zulassung kann jederzeit widerrufen werden. 4Sie kann mit Auflagen verbunden oder unter dem Vorbehalt nachträglicher Auflagen erteilt werden. 5Die Bauaufsichtsbehörde kann die Leistung einer Sicherheit verlangen, soweit dies erforderlich ist, um die Erfüllung der Pflichten der Bauherrin oder des Bauherrn zu sichern. 6§ 72 Absatz 2 gilt entsprechend. 7Über die Maßnahmen sollen die Nachbarn möglichst frühzeitig informiert werden.\n(2) Vor Baubeginn eines Gebäudes müssen die Grundfläche abgesteckt und (7) 1Vor Baubeginn eines Gebäudes müssen die Grundfläche abgesteckt und seine Höhenlage festgelegt und gekennzeichnet sein. seine Höhenlage festgelegt sein.\n(3) Die Baugenehmigungen 2Baugenehmigungen, beziehungsweise der Bescheid über die Zulassung des vorzeitigen Baubeginns sowie die Bauvorlagen einschließlich der bautechnischen Nachweise Bauvorlagen sowie bautechnische Nachweise müssen an der Baustelle von Baubeginn an vorliegen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 14 Baustellen § 11 Baustelle",
+          "score": 0.7213,
+          "text_preview": "§ 14 Baustellen § 11 Baustelle\n(1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen (1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und ordnungsgemäß errichtet, geändert oder beseitigt w",
+          "text_full": "§ 14 Baustellen § 11 Baustelle\n(1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen (1) Baustellen sind so einzurichten und zu betreiben, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren nicht entstehen. Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden (2) 1Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. kennzeichnen. 2Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit 2Soweit erforderlich, sind Baustellen mit einem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten. beleuchten. 34 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 80 Ordnungswidrigkeiten § 84 Ordnungswidrigkeiten",
+          "score": 0.7021,
+          "text_preview": "ohne die erforderliche Baugenehmigung (§ 59 Absatz 1), Teilbaugenehmigung (§ 72 Absatz 5) beziehungsweise den erforderlichen Teilbaugenehmigung (§ 74), Abweichung (§ 67) oder abweichend davon Bescheid über die Zulassung des vorzeitigen Baubeginns (§ 72a Absatz 1), bauliche Anlagen errichtet, ändert,",
+          "text_full": "ohne die erforderliche Baugenehmigung (§ 59 Absatz 1), Teilbaugenehmigung (§ 72 Absatz 5) beziehungsweise den erforderlichen Teilbaugenehmigung (§ 74), Abweichung (§ 67) oder abweichend davon Bescheid über die Zulassung des vorzeitigen Baubeginns (§ 72a Absatz 1), bauliche Anlagen errichtet, ändert, benutzt oder beseitigt, abweichend davon oder ohne die erforderliche Ausnahme, Befreiung beziehungsweise Abweichungsentscheidung Anlagen errichtet, aufstellt, anbringt, ändert, benutzt oder beseitigt,\n8. entgegen der Vorschrift des § 62 Absatz 3 Sätze 2 bis 4 mit der Ausführung eines Bauvorhabens beginnt,\n8. entgegen § 72a Absatz 1 vor Zugang der Baugenehmigung oder des 9. entgegen der Vorschrift des § 72 Absatz 6 Bauarbeiten beginnt, Bescheides über die Zulassung des vorzeitigen Baubeginns oder ohne dass die Baubeginnanzeige nach § 72a Absatz 4 der Bauaufsichtsbehörde vorliegt, mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts beginnt,\n12. entgegen § 77 Absatz 1 Satz 1 Beginn und Beendigung bestimmter Bauarbeiten nicht anzeigt,\n13."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 72 Baugenehmigung § 72 Baugenehmigung, Baubeginn",
+          "score": 0.6979,
+          "text_preview": "§ 72 Baugenehmigung § 72 Baugenehmigung, Baubeginn\n(1) 1Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine (1) 1Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen öffentlich-rechtlichen Vorschriften ent",
+          "text_full": "§ 72 Baugenehmigung § 72 Baugenehmigung, Baubeginn\n(1) 1Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine (1) 1Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind. Genehmigungsverfahren zu prüfen sind. 2Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen. 2Sie wird innerhalb der gesetzlichen Fristen, gegebenenfalls unter dem Vorbehalt ergänzender Genehmigungen, erteilt.\n(2) 1Die Baugenehmigung schließt andere die Anlage betreffende behördliche (1a) 1Die Baugenehmigung schließt andere die Anlage betreffende Entscheidungen ein, sofern solche nach den im Baugenehmigungsverfahren behördliche Entscheidungen ein, sofern solche nach den im zu prüfenden öffentlich-rechtlichen Vorschriften erforderlich sind. Baugenehmigungsverfahren zu prüfenden öffentlich-rechtlichen Vorschriften erforderlich sind. 2Diese sind zu benennen. 2Diese sind zu benennen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 69 Abweichungen § 67 Abweichungen",
+          "score": 0.6798,
+          "text_preview": "bei bestehenden Gebäuden zusätzlicher Wohnraum durch Änderung des Dachgeschosses oder durch Errichtung zusätzlicher Geschosse geschaffen wird, das Vorhaben ansonsten nicht oder nur mit unzumutbarem Aufwand verwirklicht werden kann und die öffentliche Sicherheit und Ordnung nicht gefährdet werden, in",
+          "text_full": "bei bestehenden Gebäuden zusätzlicher Wohnraum durch Änderung des Dachgeschosses oder durch Errichtung zusätzlicher Geschosse geschaffen wird, das Vorhaben ansonsten nicht oder nur mit unzumutbarem Aufwand verwirklicht werden kann und die öffentliche Sicherheit und Ordnung nicht gefährdet werden, insbesondere wenn keine Bedenken wegen des Brandschutzes bestehen. 2§ 81a Absatz 1 Satz 3 bleibt unberührt. 3§ 85a Absatz 1 Satz 3 bleibt unberührt.\n(2) 1Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und (2) 1Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und Befreiungen Befreiungen 133 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) nach § 31 BauGB oder von den Festsetzungen eines Bebauungsplans oder von Abweichungen nach § 34 Absatz 3a BauGB von Abweichungen nach § 34 Absatz 3a BauGB oder von Regelungen der Baunutzungsverordnung ist gesondert zu beantragen; der Antrag ist zu begründen. ist gesondert zu beantragen; der Antrag ist zu begründen."
+        }
+      ],
+      "top_score": 0.743
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 74a Nachträgliche Wärmedämmung § 83b Nachträgliche Wärmedämmung",
+          "score": 0.73,
+          "text_preview": "die Benutzung des Grundstücks nicht oder nur geringfügig beeinträchtigt und eine zulässige beabsichtigte Nutzung des Grundstücks beeinträchtigt und eine zulässige beabsichtigte Nutzung des Grundstücks nicht oder nur geringfügig behindert wird, nicht oder nur geringfügig behindert wird,\n3. die übergr",
+          "text_full": "die Benutzung des Grundstücks nicht oder nur geringfügig beeinträchtigt und eine zulässige beabsichtigte Nutzung des Grundstücks beeinträchtigt und eine zulässige beabsichtigte Nutzung des Grundstücks nicht oder nur geringfügig behindert wird, nicht oder nur geringfügig behindert wird,\n3. die übergreifenden Bauteile öffentlich-rechtlichen Vorschriften 3. die übergreifenden Bauteile öffentlich-rechtlichen Vorschriften entsprechen, entsprechen,\n4. eine vergleichbare Wärmedämmung nicht auf andere, die Belange der 4. eine vergleichbare Wärmedämmung nicht auf andere, die Belange der zur Duldung Verpflichteten weniger stark berührende Weise mit zur Duldung Verpflichteten weniger stark berührende Weise mit vertretbarem Aufwand vorgenommen werden kann und vertretbarem Aufwand vorgenommen werden kann und\n5. die Anbringung einer vergleichbaren Wärmedämmung nicht bereits im 5. die Anbringung einer vergleichbaren Wärmedämmung nicht bereits im Zeitpunkt der Errichtung des Gebäudes üblich war. Zeitpunkt der Errichtung des Gebäudes üblich war. 2§ 7 Absatz 1 ist für nach Satz 1 zulässige Maßnahmen nicht anzuwenden. 2§ 4 Absatz 2 ist für nach Satz 1 zulässige Maßnahmen nicht anzuwenden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 4 Erschließung der Grundstücke § 4 Bebauung der Grundstücke",
+          "score": 0.7255,
+          "text_preview": "347, 352), in der jeweils geltenden Fassung gesichert ist. [§ 7 (1)] (1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist (2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten öffentlich-rechtlich ges",
+          "text_full": "347, 352), in der jeweils geltenden Fassung gesichert ist. [§ 7 (1)] (1) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist (2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn zulässig, wenn durch Baulast gesichert ist, dass keine Verhältnisse eintreten öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes können, die Vorschriften dieses Gesetzes oder auf Grund dieses Gesetzes erlassenen Vorschriften widersprechen. widersprechen.\n(2) 1Jede Eigentümerin und jeder Eigentümer eines Gebäudes mit [Diese Regelungen finden sich nun im Hamburgische Abwassergesetz.] Aufenthaltsräumen ist verpflichtet, dieses an das öffentliche Wasserversorgungsnetz anzuschließen und die Wasserversorgungseinrichtungen zu benutzen. 2Auf Grundstücken, die nicht an das öffentliche Wasserversorgungsnetz angeschlossen werden können, ist die Herstellung von Brunnen zulässig, wenn die hygienischen Anforderungen eingehalten werden können."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 10 Kinderspielflächen",
+          "score": 0.7216,
+          "text_preview": "(2) Die Herstellung ist auch auf einem anderen geeigneten Grundstück in unmittelbarer Nähe, dessen dauerhafte Nutzung für diesen Zweck durch Baulast gesichert ist, zulässig. 4Bei bestehenden Gebäuden gilt Satz 1 entsprechend, sofern dies die Gesundheit und der Schutz der Kinder erfordern. 30 Gesamts",
+          "text_full": "(2) Die Herstellung ist auch auf einem anderen geeigneten Grundstück in unmittelbarer Nähe, dessen dauerhafte Nutzung für diesen Zweck durch Baulast gesichert ist, zulässig. 4Bei bestehenden Gebäuden gilt Satz 1 entsprechend, sofern dies die Gesundheit und der Schutz der Kinder erfordern. 30 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 69 Abweichungen § 67 Abweichungen",
+          "score": 0.707,
+          "text_preview": "bei bestehenden Gebäuden zusätzlicher Wohnraum durch Änderung des Dachgeschosses oder durch Errichtung zusätzlicher Geschosse geschaffen wird, das Vorhaben ansonsten nicht oder nur mit unzumutbarem Aufwand verwirklicht werden kann und die öffentliche Sicherheit und Ordnung nicht gefährdet werden, in",
+          "text_full": "bei bestehenden Gebäuden zusätzlicher Wohnraum durch Änderung des Dachgeschosses oder durch Errichtung zusätzlicher Geschosse geschaffen wird, das Vorhaben ansonsten nicht oder nur mit unzumutbarem Aufwand verwirklicht werden kann und die öffentliche Sicherheit und Ordnung nicht gefährdet werden, insbesondere wenn keine Bedenken wegen des Brandschutzes bestehen. 2§ 81a Absatz 1 Satz 3 bleibt unberührt. 3§ 85a Absatz 1 Satz 3 bleibt unberührt.\n(2) 1Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und (2) 1Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und Befreiungen Befreiungen 133 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) nach § 31 BauGB oder von den Festsetzungen eines Bebauungsplans oder von Abweichungen nach § 34 Absatz 3a BauGB von Abweichungen nach § 34 Absatz 3a BauGB oder von Regelungen der Baunutzungsverordnung ist gesondert zu beantragen; der Antrag ist zu begründen. ist gesondert zu beantragen; der Antrag ist zu begründen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 40 Lüftungsanlagen § 41 Lüftungsanlagen",
+          "score": 0.7033,
+          "text_preview": "§ 40 Lüftungsanlagen § 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen (1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen. den ordnungsgemäßen Betrieb von Feue",
+          "text_full": "§ 40 Lüftungsanlagen § 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen (1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen. den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen (2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nicht brennbaren Baustoffen bestehen; brennbare Baustoffe sind aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Brandweiterleitung nicht zu befürchten ist. 78 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        }
+      ],
+      "top_score": 0.73
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 69 Abweichungen § 67 Abweichungen",
+          "score": 0.7663,
+          "text_preview": "§ 69 Abweichungen § 67 Abweichungen\n(1) 1Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses (1) 1Die Bauaufsichtsbehörde soll Abweichungen von Anforderungen dieses Gesetzes und auf Grund dieses Gesetzes erlassenen Vorschriften zulassen, Gesetzes und auf Grund dieses Gesetzes erlassen",
+          "text_full": "§ 69 Abweichungen § 67 Abweichungen\n(1) 1Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses (1) 1Die Bauaufsichtsbehörde soll Abweichungen von Anforderungen dieses Gesetzes und auf Grund dieses Gesetzes erlassenen Vorschriften zulassen, Gesetzes und auf Grund dieses Gesetzes erlassenen Vorschriften zulassen, wenn wenn\n1. sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter unter Würdigung Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 Satz 1, öffentlichen Belangen, insbesondere den Anforderungen des § 3 Satz 1 vereinbar sind, vereinbar sind.\n2. Gründe des Wohls der Allgemeinheit die Abweichung erfordern oder 2Dies gilt insbesondere für\n1. Vorhaben, die der Weiternutzung bestehender Gebäude dienen, insbesondere der Schaffung zusätzlichen Wohnraums,\n2. Vorhaben zur Energieeinsparung und Nutzung erneuerbarer Energien oder\n3. Vorhaben zur Erprobung neuer Bau- und Wohnformen.\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw",
+          "score": 0.7109,
+          "text_preview": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw\nachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme, Wasser und fü",
+          "text_full": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw\nachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme, Wasser und für die öffentliche Verwertung oder Entsorgung von Abwässern, ausgenommen Gebäude,\n2. Anlagen, die nach dem Kreislaufwirtschaftsgesetz einer Genehmigung bedürfen,\n3. Anlagen, die auf Grund des Produktsicherheitsgesetzes oder des Gesetzes über überwachungsbedürftige Anlagen einer Genehmigung oder Erlaubnis bedürfen,\n4. Anlagen, die einer Errichtungsgenehmigung nach dem Atomgesetz in der Fassung vom 15. Juli 1985 (BGBl. I S. 1566), zuletzt geändert am 4. Dezember 2022 (BGBl. I S. 2153), in der jeweils geltenden Fassung bedürfen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 64 Zustimmungsverfahren § 77 Bauaufsichtliche Zustimmung",
+          "score": 0.7077,
+          "text_preview": "anderen öffentlich-rechtlichen Vorschriften, soweit diese für das Vorhaben beachtlich sind und eine Zulässigkeitsentscheidung nicht Vorhaben beachtlich sind und eine Zulässigkeitsentscheidung nicht vorsehen. vorsehen. 2Eine Prüfung der Zulässigkeit des § 13 Absatz 1 des Hamburgischen Abwassergesetze",
+          "text_full": "anderen öffentlich-rechtlichen Vorschriften, soweit diese für das Vorhaben beachtlich sind und eine Zulässigkeitsentscheidung nicht Vorhaben beachtlich sind und eine Zulässigkeitsentscheidung nicht vorsehen. vorsehen. 2Eine Prüfung der Zulässigkeit des § 13 Absatz 1 des Hamburgischen Abwassergesetzes findet nicht statt. 3Sie entscheidet über Ausnahmen, Befreiungen und Abweichungen. 3Die Bauaufsichtsbehörde entscheidet über Ausnahmen, Befreiungen und Abweichungen. 4Für das Zustimmungsverfahren und die Zustimmung gelten die Vorschriften 4Die Vorschriften über das Baugenehmigungsverfahren sind entsprechend dieses Gesetzes sinngemäß. anzuwenden.\n(4) Die öffentliche Bauherrin oder der öffentliche Bauherr trägt die (4) Die öffentliche Bauherrin bzw. der öffentliche Bauherr trägt die Verantwortung, dass Entwurf und Ausführung des Vorhabens den öffentlich- Verantwortung, dass Entwurf und Ausführung des Vorhabens den öffentlichrechtlichen Vorschriften und dem Zustimmungsbescheid entsprechen. rechtlichen Vorschriften und dem Zustimmungsbescheid entsprechen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 80 Ordnungswidrigkeiten § 84 Ordnungswidrigkeiten",
+          "score": 0.6989,
+          "text_preview": "ohne die erforderliche Baugenehmigung (§ 59 Absatz 1), Teilbaugenehmigung (§ 72 Absatz 5) beziehungsweise den erforderlichen Teilbaugenehmigung (§ 74), Abweichung (§ 67) oder abweichend davon Bescheid über die Zulassung des vorzeitigen Baubeginns (§ 72a Absatz 1), bauliche Anlagen errichtet, ändert,",
+          "text_full": "ohne die erforderliche Baugenehmigung (§ 59 Absatz 1), Teilbaugenehmigung (§ 72 Absatz 5) beziehungsweise den erforderlichen Teilbaugenehmigung (§ 74), Abweichung (§ 67) oder abweichend davon Bescheid über die Zulassung des vorzeitigen Baubeginns (§ 72a Absatz 1), bauliche Anlagen errichtet, ändert, benutzt oder beseitigt, abweichend davon oder ohne die erforderliche Ausnahme, Befreiung beziehungsweise Abweichungsentscheidung Anlagen errichtet, aufstellt, anbringt, ändert, benutzt oder beseitigt,\n8. entgegen der Vorschrift des § 62 Absatz 3 Sätze 2 bis 4 mit der Ausführung eines Bauvorhabens beginnt,\n8. entgegen § 72a Absatz 1 vor Zugang der Baugenehmigung oder des 9. entgegen der Vorschrift des § 72 Absatz 6 Bauarbeiten beginnt, Bescheides über die Zulassung des vorzeitigen Baubeginns oder ohne dass die Baubeginnanzeige nach § 72a Absatz 4 der Bauaufsichtsbehörde vorliegt, mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts beginnt,\n12. entgegen § 77 Absatz 1 Satz 1 Beginn und Beendigung bestimmter Bauarbeiten nicht anzeigt,\n13."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 62 Baugenehmigungsverfahren mit Konzentrationswirkung § 64a Baugenehmigungsverfahren mit Konzentrationswirkung",
+          "score": 0.6851,
+          "text_preview": "anderen öffentlich-rechtlichen Vorschriften, soweit diese für das Vorhaben beachtlich sind; ausgenommen sind die Vorschriften zur Vorhaben beachtlich sind; ausgenommen sind die Vorschriften zur Genehmigung nach den §§ 6 und 7 des Atomgesetzes in der jeweils Genehmigung nach den §§ 6 und 7 des Atomge",
+          "text_full": "anderen öffentlich-rechtlichen Vorschriften, soweit diese für das Vorhaben beachtlich sind; ausgenommen sind die Vorschriften zur Vorhaben beachtlich sind; ausgenommen sind die Vorschriften zur Genehmigung nach den §§ 6 und 7 des Atomgesetzes in der jeweils Genehmigung nach den §§ 6 und 7 des Atomgesetzes sowie Vorschriften, geltenden Fassung sowie Vorschriften, die eine Prüfung im förmlichen die in einem förmlichen Verfahren geprüft werden. Verfahren vorsehen. 2Eine Prüfung der Zulässigkeit von Maßnahmen, die ausschließlich die Bauausführung betreffen, sowie des § 13 Absatz 1 des Hamburgischen Abwassergesetzes in der Fassung vom 24. Juli 2001 (HmbGVBl. S. 258, 280), zuletzt geändert am 17. Dezember 2013 (HmbGVBl. S. 540, 542), in der jeweils geltenden Fassung findet nicht statt. 3§ 59 Absatz 2 bleibt unberührt.\n(2) 1Die Bauaufsichtsbehörde hat über den Antrag innerhalb einer Frist von (2) 1Die Bauaufsichtsbehörde hat über den Antrag innerhalb einer Frist von drei Monaten nach Eingang der vollständigen Unterlagen zu entscheiden; drei Monaten nach Eingang der vollständigen Unterlagen zu entscheiden. 126 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11."
+        }
+      ],
+      "top_score": 0.7663
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 6 Abstandsflächen § 6 Abstandsflächen",
+          "score": 0.7065,
+          "text_preview": "§ 6 Abstandsflächen § 6 Abstandsflächen\n(1) 1Vor den Außenwänden von Gebäuden sind Flächen von oberirdischen (1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von Gebäuden freizuhalten (Abstandsflächen). oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von ",
+          "text_full": "§ 6 Abstandsflächen § 6 Abstandsflächen\n(1) 1Vor den Außenwänden von Gebäuden sind Flächen von oberirdischen (1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von Gebäuden freizuhalten (Abstandsflächen). oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Satz 2 gilt nicht für Antennen im Außenbereich einschließlich der Masten mit einer maximalen Breite des Mastes von 1,50 m und einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich. 3Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an 4Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen oder Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen oder bauordnungsrechtlichen Vorschriften an die Grenze gebaut werden muss bauordnungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf. oder darf."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 11 Einfriedigungen 1Bauliche Einfriedigungen an der Grenze zu öffentlichen Wegen und (3) 1Bauliche Einfriedungen an der Gren",
+          "score": 0.6923,
+          "text_preview": "§ 11 Einfriedigungen 1Bauliche Einfriedigungen an der Grenze zu öffentlichen Wegen und (3) 1Bauliche Einfriedungen an der Gren\nze zu öffentlichen Wegen und Grünflächen sowie an der Grenze zu benachbarten Grundstücken in der Tiefe Grünflächen sowie an der Grenze zu benachbarten Grundstücken in der Ti",
+          "text_full": "§ 11 Einfriedigungen 1Bauliche Einfriedigungen an der Grenze zu öffentlichen Wegen und (3) 1Bauliche Einfriedungen an der Gren\nze zu öffentlichen Wegen und Grünflächen sowie an der Grenze zu benachbarten Grundstücken in der Tiefe Grünflächen sowie an der Grenze zu benachbarten Grundstücken in der Tiefe der Vorgärten sind bis zu einer Höhe von 1,50 m, vom eigenen Grund der Vorgärten sind bis zu einer Höhe von 1,50 m, vom eigenen Grund gemessen, zulässig. gemessen, zulässig. 2Sie müssen durchbrochen sein. 2Sie müssen durchbrochen sein. 3Einfriedidungen von gewerblich genutzten Grundstücken dürfen dicht und 3Einfriedungen von gewerblich genutzten Grundstücken dürfen dicht und bis bis zu 2,25 m hoch ausgeführt werden. zu 2,25 m hoch ausgeführt werden."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Verfahrensfreie Vorhaben § 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6671,
+          "text_preview": "2 offene, sockellose Einfriedigungen für Grundstücke, die einem land- b) offene, sockellose Einfriedungen für Grundstücke, die einem land- oder oder forstwirtschaftlichen Betrieb forstwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummern 1 und 2 und § 201 BauGB dienen; oder einem Betrieb der g",
+          "text_full": "2 offene, sockellose Einfriedigungen für Grundstücke, die einem land- b) offene, sockellose Einfriedungen für Grundstücke, die einem land- oder oder forstwirtschaftlichen Betrieb forstwirtschaftlichen Betrieb im Sinne von § 35 Absatz 1 Nummern 1 und 2 und § 201 BauGB dienen; oder einem Betrieb der gartenbaulichen Erzeugung dienen;\n7. Verkehrsanlagen: Private Verkehrsanlagen einschließlich Brücken und Durchlässe mit einer 8. private Verkehrsanlagen einschließlich Brücken und Durchlässe mit einer lichten Weite bis zu 5,0 m und Untertunnelungen mit einem Durchmesser bis lichten Weite bis zu 5 m und Untertunnelungen mit einem Durchmesser bis zu 3,0 m; zu 3 m;\n8. Aufschüttungen und Abgrabungen: 9. Aufschüttungen und Abgrabungen\n8.1 bis insgesamt 50 m2 Grundfläche, a) mit einer Höhe oder Tiefe bis zu 2 m und einer Grundfläche bis zu 30 m², im Außenbereich bis zu 300 m²,\n8.2 von mehr als 50 m² bis zu 400 m2 Grundfläche und bis zu 2 m Höhe oder Tiefe, 109 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 6 Abstandsflächen § 6 Abstandsflächen",
+          "score": 0.6532,
+          "text_preview": "2,50 m; an den Grenzen zu anderen Baugebieten gilt Satz 1. 3Werden von einem Bebauungsplan oder einer anderen Rechtsvorschrift Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 und 2 liegen müssten, finden die Sätze 1 und 2 kein",
+          "text_full": "2,50 m; an den Grenzen zu anderen Baugebieten gilt Satz 1. 3Werden von einem Bebauungsplan oder einer anderen Rechtsvorschrift Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 und 2 liegen müssten, finden die Sätze 1 und 2 keine Anwendung, es sei denn, der Bebauungsplan oder die andere Rechtsvorschrift ordnet ihre Geltung an.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht (6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende untergeordnete Bauteile wie Gesimse 1. vor die Außenwand vortretende Bauteile wie Gesimse und und Dachüberstände, Dachüberstände bis zu einer Tiefe von 0,50 m,\n2. Vorbauten einschließlich Balkone, wenn sie 2. Vorbauten einschließlich Balkone, wenn sie 25 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 6 Abstandsflächen § 6 Abstandsflächen",
+          "score": 0.6297,
+          "text_preview": "(2) 1Abstandsflächen müssen auf dem Grundstück liegen. (2) 1Abstandsflächen müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte",
+          "text_full": "(2) 1Abstandsflächen müssen auf dem Grundstück liegen. (2) 1Abstandsflächen müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte. jedoch nur bis zu deren Mitte; 3Bei öffentlichen Grünflächen gilt dies nur sofern die Gebäude oder Anlagen bei öffentlichen Grünflächen gilt dies nur, sofern die Gebäude oder Anlagen innerhalb von Baulinien oder Baugrenzen errichtet werden. innerhalb von Baulinien oder Baugrenzen errichtet werden. 4Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke 3Abstandsflächen dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn durch Baulast gesichert ist, dass sie nicht überbaut werden; erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut Absatz 3 bleibt unberührt. werden. 5Bei Wohngebäuden der Gebäudeklassen 1 bis 3 ist ein Flächenausgleich innerhalb einer unregelmäßig begrenzten Abstandsfläche zulässig."
+        }
+      ],
+      "top_score": 0.7065
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 31 Erster und zweiter Rettungsweg § 33 Erster und zweiter Rettungsweg",
+          "score": 0.6468,
+          "text_preview": "2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine 2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. sein. 3E",
+          "text_full": "2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine 2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. sein. 3Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen 3Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, sicher benutzbaren Treppenraum möglich ist in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum). (Sicherheitstreppenraum). 4Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der (3) Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen. bestehen. 64 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken § 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6257,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken § 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Wegen ist für Rettungs- und Löscharbeiten ein Zu- oder (1) 1Von öffentlichen Wegen ist insbesondere für die Feuerwehr ein Durchgang in ausreichender Breite und Höhe zu schaffen geradlin",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken § 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Wegen ist für Rettungs- und Löscharbeiten ein Zu- oder (1) 1Von öffentlichen Wegen ist insbesondere für die Feuerwehr ein Durchgang in ausreichender Breite und Höhe zu schaffen geradliniger Zu- oder Durchgang\n1. zur Vorderseite von Gebäuden,\n2. zur Rückseite von Gebäuden, zu rückwärtigen Gebäuden zu schaffen; wenn der zweite Rettungsweg aus diesen Gebäuden dort über zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Rettungsgeräte der Feuerwehr führt. Gebäude über Rettungsgeräte der Feuerwehr führt.\n(2) Zu Gebäuden, bei denen die Oberkante der Brüstung von Fenstern oder 2Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern Stellen, an die Rettungsgeräte der Feuerwehr angelegt werden sollen, mehr bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den als 8,0 m über der Geländeoberfläche liegt, ist abweichend von Absatz 1 Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Durchfahrt zu schaffen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 28 Brandwände § 30 Brandwände",
+          "score": 0.586,
+          "text_preview": "§ 28 Brandwände § 30 Brandwände\n(1) Brandwände müssen als Raum abschließende Bauteile zum Abschluss von (1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung v",
+          "text_full": "§ 28 Brandwände § 30 Brandwände\n(1) Brandwände müssen als Raum abschließende Bauteile zum Abschluss von (1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lange die Brandabschnitte (innere Brandwand) ausreichend lange die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern. Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n(2) 1Brandwände sind erforderlich (2) 1Brandwände sind erforderlich\n1. als Gebäudeabschlusswand, 1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 31 Erster und zweiter Rettungsweg § 33 Erster und zweiter Rettungsweg",
+          "score": 0.579,
+          "text_preview": "§ 31 Erster und zweiter Rettungsweg § 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum (1) 1Für Nutzungseinheiten müssen in jedem Geschoss mindestens zwei voneinander unabhängige müssen in jedem Geschoss mit mindestens einem Aufenthaltsraum Rettungsweg",
+          "text_full": "§ 31 Erster und zweiter Rettungsweg § 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum (1) 1Für Nutzungseinheiten müssen in jedem Geschoss mindestens zwei voneinander unabhängige müssen in jedem Geschoss mit mindestens einem Aufenthaltsraum Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch mindestens zwei voneinander unabhängige Rettungswege ins Freie innerhalb des Geschosses über denselben notwendigen Flur führen. vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. 2Ein zweiter Rettungsweg ist für eingeschossige, zu ebener Erde liegende Nutzungseinheiten mit nicht mehr als 100 m² nicht erforderlich, wenn im Brandfall die Rettung über einen direkten Ausgang ins Freie möglich ist.\n(2) 1Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, (2) 1Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. muss der erste Rettungsweg über eine notwendige Treppe führen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 30 Dächer § 32 Dächer",
+          "score": 0.5726,
+          "text_preview": "§ 30 Dächer § 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch (1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig s",
+          "text_full": "§ 30 Dächer § 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch (1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein Flugfeuer und strahlende Wärme ausreichend lange widerstandsfähig sein (harte Bedachung). (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind (2) 1Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12,5 m, 1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen 2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m, Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die 3."
+        }
+      ],
+      "top_score": 0.6468
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 60 Verfahrensfreie Vorhaben § 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6373,
+          "text_preview": "für die neue Nutzung keine anderen öffentlich-rechtlichen 1. für die neue Nutzung keine im bauaufsichtlichen Verfahren zu prüfenden Anforderungen anderen öffentlich-rechtlichen Anforderungen als für die bisherige gelten oder als für die bisherige Nutzung gelten; bei der Bestimmung dieser Anforderung",
+          "text_full": "für die neue Nutzung keine anderen öffentlich-rechtlichen 1. für die neue Nutzung keine im bauaufsichtlichen Verfahren zu prüfenden Anforderungen anderen öffentlich-rechtlichen Anforderungen als für die bisherige gelten oder als für die bisherige Nutzung gelten; bei der Bestimmung dieser Anforderungen bleibt das Wahlrecht nach § 59 Absatz 3 unberücksichtigt, oder\n2. die Errichtung oder Änderung der Anlagen nach Abschnitt I 2. die Errichtung oder Änderung der Anlagen nach Abschnitt I verfahrensfrei wäre. verfahrensfrei wäre.\nIII III Beseitigung von Anlagen Beseitigung von Anlagen Verfahrensfrei ist die Beseitigung von Verfahrensfrei ist die Beseitigung von\n1. Anlagen nach Abschnitt I, 1. Anlagen nach Abschnitt I,\n2. Gebäuden der Gebäudeklassen 1 und 2, es sei denn, die zu 2. Gebäuden der Gebäudeklassen 1 und 2, es sei denn, die zu beseitigenden Gebäude der Gebäudeklasse 2 grenzen an Gebäude der beseitigenden Gebäude der Gebäudeklasse 2 grenzen an Gebäude der Gebäudeklassen 3 bis 5 an, Gebäudeklassen 3 bis 5 an,\n3. sonstigen Anlagen, die keine Gebäude sind, mit einer Höhe bis zu 10 m. 3. sonstigen Anlagen, die keine Gebäude sind, mit einer Höhe bis zu 10 m."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 69 Abweichungen § 67 Abweichungen",
+          "score": 0.6179,
+          "text_preview": "2Für Vorhaben, die keiner Genehmigung bedürfen, sowie für Abweichungen 2Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gilt von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gilt Satz 1 ents",
+          "text_full": "2Für Vorhaben, die keiner Genehmigung bedürfen, sowie für Abweichungen 2Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gilt von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gilt Satz 1 entsprechend. Satz 1 entsprechend.\n(3) Die Zulassungen von Abweichungen nach Absatz 2 Satz 2 erlischt, sofern innerhalb von drei Jahren nach ihrer Erteilung kein Gebrauch von ihr gemacht worden ist; § 73 Absatz 2 gilt entsprechend."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 64 Baugenehmigungsverfahren",
+          "score": 0.6106,
+          "text_preview": "3Die Frist nach Satz 1 gilt nicht für Vorhaben innerhalb des angemessenen Sicherheitsabstands eines Betriebsbereichs nach § 70 Absatz 4 Satz 1 oder innerhalb des Achtungsabstands, sofern ein angemessener Sicherheitsabstand noch nicht ermittelt wurde.\n(3) 1Bei Anlagen, die in den Anwendungsbereich de",
+          "text_full": "3Die Frist nach Satz 1 gilt nicht für Vorhaben innerhalb des angemessenen Sicherheitsabstands eines Betriebsbereichs nach § 70 Absatz 4 Satz 1 oder innerhalb des Achtungsabstands, sofern ein angemessener Sicherheitsabstand noch nicht ermittelt wurde.\n(3) 1Bei Anlagen, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fallen, ist über den Bauantrag innerhalb eines Jahres nach Vollständigkeit der Antragsunterlagen zu entscheiden; die Bauaufsichtsbehörde kann diese Frist gegenüber der Antragstellerin bzw. dem Antragsteller aus wichtigem Grund um bis zu ein Jahr verlängern. 125 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) 2Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der nach Satz 1 maßgeblichen Frist versagt worden ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 62 Baugenehmigungsverfahren mit Konzentrationswirkung § 64a Baugenehmigungsverfahren mit Konzentrationswirkung",
+          "score": 0.6009,
+          "text_preview": "dem Antragsteller aus wichtigem Grund um bis zu ein Jahr verlängern. 2Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der nach Satz 1 maßgeblichen Frist versagt worden ist.",
+          "text_full": "dem Antragsteller aus wichtigem Grund um bis zu ein Jahr verlängern. 2Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der nach Satz 1 maßgeblichen Frist versagt worden ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 81a Technische Baubestimmungen § 85a Technische Baubestimmungen",
+          "score": 0.5988,
+          "text_preview": "endungszwecke,\nf) die für einen bestimmten Verwendungszweck anzugebende oder f) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich für einen Verwendungsz",
+          "text_full": "endungszwecke,\nf) die für einen bestimmten Verwendungszweck anzugebende oder f) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich für einen Verwendungszweck auf die Erfüllung der das sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Satz 1 auswirkt, soweit vorgesehen in Klassen Anforderungen nach § 3 Satz 1 auswirkt, soweit vorgesehen in Klassen und Stufen, und Stufen,\n4. die Bauarten und die Bauprodukte, die nur eines allgemeinen 4. die Bauarten und die Bauprodukte, die nur eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 19a Absatz 3 oder nach § 20b bauaufsichtlichen Prüfzeugnisses nach § 16a Absatz 3 oder nach § 19 Absatz 1 bedürfen, Absatz 1 bedürfen,\n5. Voraussetzungen zur Abgabe der Übereinstimmungserklärung für ein 5. Voraussetzungen zur Abgabe der Übereinstimmungserklärung für ein Bauprodukt nach § 22a, Bauprodukt nach § 22,\n6. die Art, den Inhalt und die Form technischer Dokumentation. 6. die Art, den Inhalt und die Form technischer Dokumentation."
+        }
+      ],
+      "top_score": 0.6373
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-HH",
+      "latency_ms": 19,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 14 Baustellen § 11 Baustelle",
+          "score": 0.7504,
+          "text_preview": "2026)\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin (3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, das die Bezeichnung des bzw. der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Ba",
+          "text_full": "2026)\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin (3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat die Bauherrin oder der Bauherr an der Baustelle ein Schild, das die Bezeichnung des bzw. der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften der Bauleiterin oder des Bauvorhabens sowie die Namen und Anschriften der Entwurfsverfasserin Bauleiters und der Unternehmerin oder des Unternehmers für die bzw. des Entwurfsverfassers, der Bauleiterin bzw. des Bauleiters und der Hauptgewerke enthalten muss, dauerhaft und vom öffentlichen Weg aus Unternehmerin bzw. des Unternehmers für den Rohbau enthalten muss, sichtbar anzubringen. dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die auf Grund anderer (4) Bäume, Hecken und sonstige Bepflanzungen, die auf Grund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden. geschützt werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 72a Baubeginn",
+          "score": 0.7272,
+          "text_preview": "die Bauherrin oder der Bauherr sich verpflichtet, alle bis zur Entscheidung über die Erteilung der Baugenehmigung durch die Maßnahmen verursachten Schäden zu ersetzen und, wenn das Vorhaben nicht genehmigt wird, den früheren Zustand wiederherzustellen. 3Die Zulassung kann jederzeit widerrufen werden",
+          "text_full": "die Bauherrin oder der Bauherr sich verpflichtet, alle bis zur Entscheidung über die Erteilung der Baugenehmigung durch die Maßnahmen verursachten Schäden zu ersetzen und, wenn das Vorhaben nicht genehmigt wird, den früheren Zustand wiederherzustellen. 3Die Zulassung kann jederzeit widerrufen werden. 4Sie kann mit Auflagen verbunden oder unter dem Vorbehalt nachträglicher Auflagen erteilt werden. 5Die Bauaufsichtsbehörde kann die Leistung einer Sicherheit verlangen, soweit dies erforderlich ist, um die Erfüllung der Pflichten der Bauherrin oder des Bauherrn zu sichern. 6§ 72 Absatz 2 gilt entsprechend. 7Über die Maßnahmen sollen die Nachbarn möglichst frühzeitig informiert werden.\n(2) Vor Baubeginn eines Gebäudes müssen die Grundfläche abgesteckt und (7) 1Vor Baubeginn eines Gebäudes müssen die Grundfläche abgesteckt und seine Höhenlage festgelegt und gekennzeichnet sein. seine Höhenlage festgelegt sein.\n(3) Die Baugenehmigungen 2Baugenehmigungen, beziehungsweise der Bescheid über die Zulassung des vorzeitigen Baubeginns sowie die Bauvorlagen einschließlich der bautechnischen Nachweise Bauvorlagen sowie bautechnische Nachweise müssen an der Baustelle von Baubeginn an vorliegen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 78 Bauüberwachung § 81 Bauüberwachung",
+          "score": 0.722,
+          "text_preview": "der Bauherr hat für die Besichtigungen und die damit verbundenen möglichen Prüfungen die erforderlichen Arbeitskräfte und verbundenen möglichen Prüfungen die erforderlichen Arbeitskräfte und Geräte bereitzustellen. Geräte bereitzustellen.\n(4) Die Bauaufsichtsbehörde oder die bzw. der Prüfsachverstän",
+          "text_full": "der Bauherr hat für die Besichtigungen und die damit verbundenen möglichen Prüfungen die erforderlichen Arbeitskräfte und verbundenen möglichen Prüfungen die erforderlichen Arbeitskräfte und Geräte bereitzustellen. Geräte bereitzustellen.\n(4) Die Bauaufsichtsbehörde oder die bzw. der Prüfsachverständige soll, (4) Die Bauaufsichtsbehörde oder die bzw. der Prüfsachverständige soll, soweit sie oder er im Rahmen der Bauüberwachung Erkenntnisse über soweit sie oder er im Rahmen der Bauüberwachung Erkenntnisse über systematische Rechtsverstöße gegen die Verordnung (EU) Nr. 305/2011 systematische Rechtsverstöße gegen die Verordnung (EU) 305/2011 erlangt, diese der für die Marktüberwachung zuständigen Stelle mitteilen. erlangen, diese der für die Marktüberwachung zuständigen Stelle mitteilen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 72a Baubeginn",
+          "score": 0.7044,
+          "text_preview": "§ 72a Baubeginn\n(1) 1Mit der Bauausführung, der Beseitigung baulicher Anlagen oder mit der (6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der ",
+          "text_full": "§ 72a Baubeginn\n(1) 1Mit der Bauausführung, der Beseitigung baulicher Anlagen oder mit der (6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn Bauabschnitts darf erst begonnen werden, wenn\n1. die Baugenehmigung der Bauherrin oder dem Bauherrn zugegangen ist 1. die Baugenehmigung der Bauherrin bzw. dem Bauherrn zugegangen ist und und\n2. die Baubeginnanzeige der Bauaufsichtsbehörde vorliegt. 2. die Baubeginnanzeige der Bauaufsichtsbehörde vorliegt. 2Abweichend von Satz 1 Nummer 1 kann die Bauaufsichtsbehörde in Bezug auf Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende auf Antrag vorläufig 142 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) zulassen, dass bereits vor Erteilung der Baugenehmigung mit den Maßnahmen nach Satz 1 begonnen wird (Zulassung des vorzeitigen Baubeginns), wenn\n1. mit der Erteilung der Baugenehmigung gerechnet werden kann und\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Hamburg",
+          "jurisdiction": "DE-HH",
+          "source_paragraph": "§ 64 Zustimmungsverfahren § 77 Bauaufsichtliche Zustimmung",
+          "score": 0.7006,
+          "text_preview": "2Die Bauaufsichtsbehörde prüft die Zulässigkeit des Vorhabens nach (3) 1Die Bauaufsichtsbehörde prüft die Zulässigkeit des Vorhabens nach\n1. den Vorschriften des Baugesetzbuchs und auf Grund des 1. den Vorschriften des Baugesetzbuchs und auf Grund des Baugesetzbuchs, Baugesetzbuchs,\n2. den Vorschrif",
+          "text_full": "2Die Bauaufsichtsbehörde prüft die Zulässigkeit des Vorhabens nach (3) 1Die Bauaufsichtsbehörde prüft die Zulässigkeit des Vorhabens nach\n1. den Vorschriften des Baugesetzbuchs und auf Grund des 1. den Vorschriften des Baugesetzbuchs und auf Grund des Baugesetzbuchs, Baugesetzbuchs,\n2. den Vorschriften dieses Gesetzes und auf Grund dieses Gesetzes mit 2. den Vorschriften dieses Gesetzes und auf Grund dieses Gesetzes mit Ausnahme der Einhaltung der Anforderungen an die Standsicherheit, den Ausnahme der Einhaltung der Anforderungen an die Standsicherheit, den Wärmeschutz, die Energieeinsparung, den Schallschutz, den Wärmeschutz, die Energieeinsparung, den Schallschutz, den 152 Gesamtsynopse HBauO aktuell – HBauO neu - Stand: 27.11.2025 Nichtamtliche Lesefassung HBauO aktuell HBauO neu (ab 01.01.2026) Erschütterungsschutz sowie die technische Ausführung der für den Erschütterungsschutz sowie die technische Ausführung der für den Brandschutz bedeutsamen Anlagen der technischen Gebäudeausrüstung, Brandschutz bedeutsamen Anlagen der technischen Gebäudeausrüstung,\n3. anderen öffentlich-rechtlichen Vorschriften, soweit diese für das 3."
+        }
+      ],
+      "top_score": 0.7504
+    }
+  ]
+}

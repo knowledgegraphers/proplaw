@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-MV",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 15649,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6851,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwen",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Campingplätze, Wochenendplätze und Zeltplätze,\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze für Kraftfahrzeuge,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n9. Regale im Freien und Regale, die Teil der Gebäudekonstruktion sind oder Erschließungsfunktion haben,\n10. Werbeanlagen (§ 10). Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Absatz 1 Satz 2.\n(2) Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6543,
+          "text_preview": "5), die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen nach Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendu",
+          "text_full": "5), die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2. aus Produkten, Baustoffen, Bauteilen sowie Bausätzen nach Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden und deren Verwendung sich auf die Anforderungen nach § 3 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6524,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze nach Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4. April 2011, S."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.646,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) ortsveränderliche Antennenanlagen, die für längstens 24 Monate aufgestellt werden; bei Masten mit mehr als 10 m Höhe muss vor Baubeginn die Standsicherheit der Maßnahme durch einen qualifizierten Tragwerksplaner im Sinne des § 66 Absatz 2 beurteilt und im erforderlichen Umfang nachgewiesen werden;\n14. folgende Plätze:\na) Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne des"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 38",
+          "score": 0.6452,
+          "text_preview": "§ 38\n- Umwehrungen 31.10.2015\nAbschnitt 6 - Technische Gebäudeausrüstung 31.10.2015",
+          "text_full": "§ 38\n- Umwehrungen 31.10.2015\nAbschnitt 6 - Technische Gebäudeausrüstung 31.10.2015"
+        }
+      ],
+      "top_score": 0.6851
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 30,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6044,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze nach Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4. April 2011, S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.5633,
+          "text_preview": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Gebäuden der Gebäudeklassen 3 bis 5 mit Wohnungen sind leicht erreichbare und gut zugängliche Abstellräume für Kinderwagen, F",
+          "text_full": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Gebäuden der Gebäudeklassen 3 bis 5 mit Wohnungen sind leicht erreichbare und gut zugängliche Abstellräume für Kinderwagen, Fahrräder und Mobilitätshilfen sowie für jede Wohnung ein mindestens 5 m großer Abstellraum herzustellen. Liegt der Abstellraum für eine Wohnung außerhalb der Wohnung, muss zusätzlich innerhalb der Wohnung eine Abstellfläche von mindestens 1 m hergestellt werden.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(4) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder",
+          "score": 0.5591,
+          "text_preview": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) Die notwendigen Stellplätze und Garagen sowie Abstellmöglichkeiten für Fahrräder (§ 86 Absatz 1 Nummer 4) sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten\n- Seite 42 von 82 Grundstück herzustellen, desse",
+          "text_full": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) Die notwendigen Stellplätze und Garagen sowie Abstellmöglichkeiten für Fahrräder (§ 86 Absatz 1 Nummer 4) sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten\n- Seite 42 von 82 Grundstück herzustellen, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert wird. Die Verpflichtung nach Satz 1 entfällt, wenn bei einem rechtmäßig bestehenden Gebäude Wohnungen geteilt oder Wohnraum durch Nutzungsänderung, durch Aufstocken des Gebäudes oder durch Ausbau des Dachraums geschaffen wird.\n(2) Die Gemeinde hat den Geldbetrag für die Ablösung von Stellplätzen oder Garagen zu verwenden für\n1. die Herstellung zusätzlicher oder die Instandhaltung, die Instandsetzung oder die Modernisierung bestehender Parkeinrichtungen,\n2. sonstige Maßnahmen zur Entlastung der Straßen vom ruhenden Verkehr einschließlich investiver Maßnahmen des öffentlichen Personennahverkehrs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 47 Aufenthaltsräume",
+          "score": 0.5531,
+          "text_preview": "§ 47 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben, Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 eine lichte Raumhöhe von mindestens 2,30 m. Im Dachraum muss diese Raumhöhe über mindestens der Hälfte ihrer Netto-Grundfläche vorhanden sei",
+          "text_full": "§ 47 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben, Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 eine lichte Raumhöhe von mindestens 2,30 m. Im Dachraum muss diese Raumhöhe über mindestens der Hälfte ihrer Netto-Grundfläche vorhanden sein. Raumteile mit einer lichten Höhe bis zu 1,50 m bleiben bei der Berechnung der Netto-Grundfläche außer Betracht.\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens 1/8 der Netto-Grundfläche des Raumes einschließlich der Netto-Grundfläche verglaster Vorbauten und Loggien haben.\n(3) Aufenthaltsräume, deren Nutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5453,
+          "text_preview": "jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 3 m,\nh) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des Bundeskleingartengesetzes,\ni) 2 Wochenendhäuser bis 40 m2 Grundfläche auf den dafür vor",
+          "text_full": "jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 3 m,\nh) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des Bundeskleingartengesetzes,\ni) 2 Wochenendhäuser bis 40 m2 Grundfläche auf den dafür vorgesehenen Bereichen von Campingplätzen;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 m;\n3. folgende Anlagen zur Nutzung erneuerbarer Energien:\na) Solaranlagen in, an und auf Dach- und Außenwandflächen, ausgenommen bei Hochhäusern, sowie die damit verbundene Änderung der Nutzung oder der äußeren Gestalt des Gebäudes,\nb) gebäudeunabhängige Solaranlagen mit einer Höhe bis zu 3 m und einer Gesamtlänge bis zu 9 m,\nc) Windenergieanlagen bis zu 10 m Höhe, gemessen von der Geländeoberfläche bis zum höchsten Punkt der vom Rotor bestrichenen Fläche und einem Rotordurchmesser bis zu 3 m, außer in reinen, allgemeinen und besonderen Wohngebieten und in Mischgebieten;\n4."
+        }
+      ],
+      "top_score": 0.6044
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 27,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6643,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(7) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen. Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(8) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(9) Barrierefrei sind bauliche Anlagen, soweit sie für Menschen mit Behinderung in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze nach Artikel 2 Nummer 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4. April 2011, S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder",
+          "score": 0.5331,
+          "text_preview": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) Die notwendigen Stellplätze und Garagen sowie Abstellmöglichkeiten für Fahrräder (§ 86 Absatz 1 Nummer 4) sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten\n- Seite 42 von 82 Grundstück herzustellen, desse",
+          "text_full": "§ 49 Stellplätze, Garagen und Abstellplätze für Fahrräder\n(1) Die notwendigen Stellplätze und Garagen sowie Abstellmöglichkeiten für Fahrräder (§ 86 Absatz 1 Nummer 4) sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten\n- Seite 42 von 82 Grundstück herzustellen, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert wird. Die Verpflichtung nach Satz 1 entfällt, wenn bei einem rechtmäßig bestehenden Gebäude Wohnungen geteilt oder Wohnraum durch Nutzungsänderung, durch Aufstocken des Gebäudes oder durch Ausbau des Dachraums geschaffen wird.\n(2) Die Gemeinde hat den Geldbetrag für die Ablösung von Stellplätzen oder Garagen zu verwenden für\n1. die Herstellung zusätzlicher oder die Instandhaltung, die Instandsetzung oder die Modernisierung bestehender Parkeinrichtungen,\n2. sonstige Maßnahmen zur Entlastung der Straßen vom ruhenden Verkehr einschließlich investiver Maßnahmen des öffentlichen Personennahverkehrs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.5304,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinhe",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n- Seite 26 von 82 -\n(3) Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nummer 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen; werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5209,
+          "text_preview": "Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als 1 000 Besucher fa",
+          "text_full": "Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als 1 000 Besucher fassen,\n8. Schank- und Speisegaststätten mit mehr als 40 Gastplätzen in Gebäuden oder mehr als 1 000 Gastplätze im Freien, Beherbergungsstätten mit mehr als zwölf Betten und Spielhallen mit mehr als 150 m2 Grundfläche,\n9. Gebäude mit Nutzungseinheiten zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als acht Personen oder\nb) für Personen mit Intensivpflegebedarf bestimmt sind oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als zwölf Personen bestimmt sind,\n10. Krankenhäuser,\n11. sonstige Einrichtungen zur Unterbringung von Personen sowie Wohnheime,\n12. Tageseinrichtungen für Kinder, Menschen mit Behinderung und alte Menschen, ausgenommen Tageseinrichtungen einschließlich Tagespflege für nicht mehr als zehn Kinder,\n13."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5003,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) ortsveränderliche Antennenanlagen, die für längstens 24 Monate aufgestellt werden; bei Masten mit mehr als 10 m Höhe muss vor Baubeginn die Standsicherheit der Maßnahme durch einen qualifizierten Tragwerksplaner im Sinne des § 66 Absatz 2 beurteilt und im erforderlichen Umfang nachgewiesen werden;\n14. folgende Plätze:\na) Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne des"
+        }
+      ],
+      "top_score": 0.6643
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 73 Geltungsdauer der Genehmigung",
+          "score": 0.7523,
+          "text_preview": "§ 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann ",
+          "text_full": "§ 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7395,
+          "text_preview": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) Bei Vorhaben, für die nach dem Gesetz über die Umweltverträglichkeitsprüfung oder n",
+          "text_full": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) Bei Vorhaben, für die nach dem Gesetz über die Umweltverträglichkeitsprüfung oder nach dem Landes-UVP-Gesetz eine Umweltverträglichkeitsprüfung durchgeführt wird, muss zudem sichergestellt sein, dass\n1. Gefahren für die in § 2 Absatz 1 Nummer 1 bis 5 dieser Gesetze genannten Schutzgüter nicht hervorgerufen werden können und\n2. Vorsorge gegen erhebliche nachteilige Auswirkungen auf die Schutzgüter, insbesondere durch Maßnahmen entsprechend dem Stand der Technik, getroffen wird.\n(3) Die Baugenehmigung bedarf der Schriftform; sie ist nur insoweit zu begründen, als Abweichungen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und der Nachbar nicht nach § 70 Absatz 2 zugestimmt hat.\n(4) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(5) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7256,
+          "text_preview": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Der Bauh",
+          "text_full": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. In den Fällen des § 81 Absatz 2 Satz 2 ist die jeweilige Bestätigung mit der Anzeige nach Satz 1 vorzulegen. Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs- und Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt. Feuerstätten dürfen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und die sichere Benutzbarkeit\n- Seite 73 von 82 der Abgasanlagen bescheinigt hat; hierzu ist ihm rechtzeitig Gelegenheit zu geben, auch den Rohbauzustand zu besichtigen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 72a Typengenehmigung",
+          "score": 0.7135,
+          "text_preview": "§ 72a Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Ges",
+          "text_full": "§ 72a Typengenehmigung\n(1) Für bauliche Anlagen, die in derselben Ausführung an mehreren Stellen errichtet werden sollen, wird auf Antrag durch die oberste Bauaufsichtsbehörde eine Typengenehmigung erteilt, wenn die baulichen Anlagen oder Teile von baulichen Anlagen den Anforderungen nach diesem Gesetz oder aufgrund dieses Gesetzes erlassenen Vorschriften entsprechen. Eine Typengenehmigung kann auch für bauliche Anlagen erteilt werden, die in unterschiedlicher Ausführung, aber nach einem bestimmten System und aus bestimmten Bauteilen an mehreren Stellen errichtet werden sollen; in der Typengenehmigung ist die zulässige Veränderbarkeit festzulegen. Für Fliegende Bauten wird eine Typengenehmigung nicht erteilt.\n(2) Die Typengenehmigung gilt fünf Jahre. Die Frist kann auf Antrag jeweils bis zu fünf Jahre verlängert werden. § 73 Absatz 2 Satz 2 gilt entsprechend.\n(3) Die oberste Bauaufsichtsbehörde kann Typengenehmigungen anderer Länder auch in Mecklenburg-Vorpommern anerkennen.\n(4) Eine Typengenehmigung entbindet nicht von der Verpflichtung, ein bauaufsichtliches Verfahren durchzuführen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 22 Übereinstimmungserklärung des Herstellers",
+          "score": 0.7113,
+          "text_preview": "(3) In den Technischen Baubestimmungen nach § 85a, in den allgemeinen bauaufsichtlichen Zulassungen oder in den Zustimmungen im Einzelfall kann eine Zertifizierung vor Abgabe der Übereinstimmungserklärung vorgeschrieben werden, wenn dies zum Nachweis einer ordnungsgemäßen Herstellung eines Bauproduk",
+          "text_full": "(3) In den Technischen Baubestimmungen nach § 85a, in den allgemeinen bauaufsichtlichen Zulassungen oder in den Zustimmungen im Einzelfall kann eine Zertifizierung vor Abgabe der Übereinstimmungserklärung vorgeschrieben werden, wenn dies zum Nachweis einer ordnungsgemäßen Herstellung eines Bauproduktes erforderlich ist. Die oberste Bauaufsichtsbehörde kann im Einzelfall die Verwendung von Bauprodukten ohne Zertifizierung gestatten, wenn nachgewiesen ist, dass diese Bauprodukte den technischen Regeln, Zulassungen, Prüfzeugnissen oder Zustimmungen nach Absatz 1 entsprechen.\n(4) Bauprodukte, die nicht in Serie hergestellt werden, bedürfen nur einer Übereinstimmungserklärung nach Absatz 1, sofern nichts anderes bestimmt ist."
+        }
+      ],
+      "top_score": 0.7523
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.66,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist nicht erford",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden,\n1. die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf, oder\n2. soweit nach der umgebenden Bebauung im Sinne des § 34 Absatz 1 Satz 1 des Baugesetzbuches abweichende Gebäudeabstände zulässig sind. Satz 2 gilt nicht im Außenbereich\n- Seite 13 von 82 -\n1. für Antennen einschließlich der Masten mit einer maximalen Breite des Mastes von 1,50 m und einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich und\n2. für Windenergieanlagen.\n(2) Abstandsflächen sowie Abstände nach § 30 Absatz 2 Nummer 1 und § 32 Absatz 2 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6532,
+          "text_preview": "Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut werden; Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet wer",
+          "text_full": "Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut werden; Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen,\n2. Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden der Gebäudeklassen 1 und 2,\n3. Gebäude und andere bauliche Anlagen, die in den Abstandsflächen zulässig sind.\n(4) Die Tiefe der Abstandsfläche bemisst sich nach der Wandhöhe; sie wird senkrecht zur Wand gemessen. Wandhöhe ist das Maß von der Geländeoberfläche bis zum Schnittpunkt der Wand mit der Dachhaut oder bis zum oberen Abschluss der Wand. Die Höhe von Dächern mit einer Neigung von weniger als 70 Grad wird zu einem Drittel der Wandhöhe hinzugerechnet. Andernfalls wird die Höhe des Daches voll hinzugerechnet. Die Sätze 1 bis 4 gelten für Dachaufbauten entsprechend. Das sich ergebende Maß ist H.\n(5) Die Tiefe der Abstandsflächen beträgt 0,4 H, mindestens 3 m."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6385,
+          "text_preview": "(7) Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden Gebäuden, unabhängig davon, ob diese den Anforderungen der Absätze 2 bis 6 entsprechen, außer Betracht, wenn sie\n1. eine Stärke von nicht mehr als 0,25 m aufweisen und\n2. mind",
+          "text_full": "(7) Bei der Bemessung der Abstandsflächen bleiben Maßnahmen zum Zwecke der Energieeinsparung und Solaranlagen an bestehenden Gebäuden, unabhängig davon, ob diese den Anforderungen der Absätze 2 bis 6 entsprechen, außer Betracht, wenn sie\n1. eine Stärke von nicht mehr als 0,25 m aufweisen und\n2. mindestens 2,50 m von der Nachbargrenze zurückbleiben."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.6015,
+          "text_preview": "In Gewerbe- und Industriegebieten sowie für Antennenanlagen im Außenbereich genügt eine Tiefe von 0,2 H, mindestens 3 m. Vor den Außenwänden von Wohngebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. Werden von einer städteba",
+          "text_full": "In Gewerbe- und Industriegebieten sowie für Antennenanlagen im Außenbereich genügt eine Tiefe von 0,2 H, mindestens 3 m. Vor den Außenwänden von Wohngebäuden der Gebäudeklassen 1 und 2 mit nicht mehr als drei oberirdischen Geschossen genügt als Tiefe der Abstandsfläche 3 m. Werden von einer städtebaulichen Satzung oder einer Satzung nach § 86 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 bis 3 liegen müssten, finden die Sätze 1 bis 3 keine Anwendung, es sei denn, die Satzung ordnet die Geltung dieser Vorschriften an.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht\n1. vor die Außenwand vortretende Bauteile wie Gesimse und Dachüberstände,\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen,\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 m von der gegenüberliegenden Nachbargrenze entfernt bleiben,\n- Seite 14 von 82 -\n3. bei Gebäuden an der Grundstücksgrenze die Seitenwände von Vorbauten und Dachaufbauten, auch wenn sie nicht an der Grundstücksgrenze errichtet werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 38 Umwehrungen",
+          "score": 0.5715,
+          "text_preview": "§ 38 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n",
+          "text_full": "§ 38 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren oder mit Brüstungen zu versehen:\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 1 m tiefer liegende Flächen angrenzen; dies gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. nicht begehbare Oberlichte und Glasabdeckungen in Flächen, die im Allgemeinen zum Begehen bestimmt sind, wenn sie weniger als 0,50 m aus diesen Flächen herausragen,\n3. Dächer oder Dachteile, die zum auch nur zeitweiligen Aufenthalt von Menschen bestimmt sind,\n4. Öffnungen in begehbaren Decken sowie in Dächern oder Dachteilen nach Nummer 3, wenn sie nicht sicher abgedeckt sind,\n5. nicht begehbare Glasflächen in Decken sowie in Dächern oder Dachteilen nach Nummer 3,\n6. die freien Seiten von Treppenläufen, Treppenabsätzen und Treppenöffnungen (Treppenaugen),\n7. Kellerlichtschächte und Betriebsschächte, die an Verkehrsflächen liegen, wenn sie nicht verkehrssicher abgedeckt sind.\n(2) In Verkehrsflächen liegende Kellerlichtschächte und Betriebsschächte sind in Höhe der Verkehrsfläche verkehrssicher abzudecken."
+        }
+      ],
+      "top_score": 0.66
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7374,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufg",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten und zu ändern, dass die öffentliche Sicherheit und Ordn",
+          "score": 0.7045,
+          "text_preview": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten und zu ändern, dass die öffentliche Sicherheit und Ordn\nung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang I der Verordnung (E",
+          "text_full": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten und zu ändern, dass die öffentliche Sicherheit und Ordn\nung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änderung ihrer Nutzung.\n- Seite 12 von 82 Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zweck entsprechend angemessen dauerhaft erfüllen und ohne Missstände benutzbar sein.\nTeil 2 Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 10 Anlagen der Außenwerbung, Warenautomaten",
+          "score": 0.6941,
+          "text_preview": "§ 10 Anlagen der Außenwerbung, Warenautomaten\nAbschnitt 2 Allgemeine Anforderungen an die Bauausführung\n- Seite 5 von 82 -",
+          "text_full": "§ 10 Anlagen der Außenwerbung, Warenautomaten\nAbschnitt 2 Allgemeine Anforderungen an die Bauausführung\n- Seite 5 von 82 -"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6926,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 26",
+          "score": 0.6807,
+          "text_preview": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.06.2021 Bauteilen",
+          "text_full": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.06.2021 Bauteilen"
+        }
+      ],
+      "top_score": 0.7374
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 48 Wohnungen",
+          "score": 0.6175,
+          "text_preview": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Gebäuden der Gebäudeklassen 3 bis 5 mit Wohnungen sind leicht erreichbare und gut zugängliche Abstellräume für Kinderwagen, F",
+          "text_full": "§ 48 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) In Gebäuden der Gebäudeklassen 3 bis 5 mit Wohnungen sind leicht erreichbare und gut zugängliche Abstellräume für Kinderwagen, Fahrräder und Mobilitätshilfen sowie für jede Wohnung ein mindestens 5 m großer Abstellraum herzustellen. Liegt der Abstellraum für eine Wohnung außerhalb der Wohnung, muss zusätzlich innerhalb der Wohnung eine Abstellfläche von mindestens 1 m hergestellt werden.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(4) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5607,
+          "text_preview": "jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 3 m,\nh) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des Bundeskleingartengesetzes,\ni) 2 Wochenendhäuser bis 40 m2 Grundfläche auf den dafür vor",
+          "text_full": "jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) 2 Terrassenüberdachungen mit einer Fläche bis zu 30 m und einer Tiefe bis zu 3 m,\nh) Gartenlauben in Kleingartenanlagen im Sinne des § 1 Absatz 1 des Bundeskleingartengesetzes,\ni) 2 Wochenendhäuser bis 40 m2 Grundfläche auf den dafür vorgesehenen Bereichen von Campingplätzen;\n2. Anlagen der technischen Gebäudeausrüstung, ausgenommen freistehende Abgasanlagen mit einer Höhe von mehr als 10 m;\n3. folgende Anlagen zur Nutzung erneuerbarer Energien:\na) Solaranlagen in, an und auf Dach- und Außenwandflächen, ausgenommen bei Hochhäusern, sowie die damit verbundene Änderung der Nutzung oder der äußeren Gestalt des Gebäudes,\nb) gebäudeunabhängige Solaranlagen mit einer Höhe bis zu 3 m und einer Gesamtlänge bis zu 9 m,\nc) Windenergieanlagen bis zu 10 m Höhe, gemessen von der Geländeoberfläche bis zum höchsten Punkt der vom Rotor bestrichenen Fläche und einem Rotordurchmesser bis zu 3 m, außer in reinen, allgemeinen und besonderen Wohngebieten und in Mischgebieten;\n4."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 47 Aufenthaltsräume",
+          "score": 0.5598,
+          "text_preview": "§ 47 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben, Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 eine lichte Raumhöhe von mindestens 2,30 m. Im Dachraum muss diese Raumhöhe über mindestens der Hälfte ihrer Netto-Grundfläche vorhanden sei",
+          "text_full": "§ 47 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Raumhöhe von mindestens 2,40 m haben, Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2 eine lichte Raumhöhe von mindestens 2,30 m. Im Dachraum muss diese Raumhöhe über mindestens der Hälfte ihrer Netto-Grundfläche vorhanden sein. Raumteile mit einer lichten Höhe bis zu 1,50 m bleiben bei der Berechnung der Netto-Grundfläche außer Betracht.\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens 1/8 der Netto-Grundfläche des Raumes einschließlich der Netto-Grundfläche verglaster Vorbauten und Loggien haben.\n(3) Aufenthaltsräume, deren Nutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungs-, Sport-, Spiel-, Werk- und ähnliche Räume sind ohne Fenster zulässig."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.5457,
+          "text_preview": "§ 50 Barrierefreies Bauen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpflichtung kann auch durch barrierefrei erreichbare Wohnungen in mehreren Geschossen erfüllt werden. In diesen Wohnungen müssen die Wohn- und Schlafräume",
+          "text_full": "§ 50 Barrierefreies Bauen\n(1) In Gebäuden mit mehr als zwei Wohnungen müssen die Wohnungen eines Geschosses barrierefrei erreichbar sein; diese Verpflichtung kann auch durch barrierefrei erreichbare Wohnungen in mehreren Geschossen erfüllt werden. In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad, die Küche oder die Kochnische und, soweit vorhanden, der Freisitz barrierefrei sein. § 39 Absatz 4 bleibt unberührt.\n(2) Bauliche Anlagen, die öffentlich zugänglich sind, müssen in den dem allgemeinen Besucher- und Benutzerverkehr dienenden Teilen barrierefrei sein. Dies gilt insbesondere für\n1. Einrichtungen der Kultur und des Bildungswesens,\n2. Sport- und Freizeitstätten,\n3. Einrichtungen des Gesundheitswesens,\n4. Büro-, Verwaltungs- und Gerichtsgebäude,\n5. Verkaufs-, Gast- und Beherbergungsstätten,\n6. Stellplätze, Garagen und Toilettenanlagen. Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. Toilettenräume und notwendige Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 86 Örtliche Bauvorschriften",
+          "score": 0.5383,
+          "text_preview": "Zahl, Größe und Beschaffenheit der Stellplätze oder Garagen sowie Abstellmöglichkeiten für Fahrräder (§ 49 Absatz 1), die unter Berücksichtigung der Sicherheit und Leichtigkeit des Verkehrs, der Bedürfnisse des ruhenden Verkehrs und der Erschließung durch Einrichtungen des öffentlichen Personennahve",
+          "text_full": "Zahl, Größe und Beschaffenheit der Stellplätze oder Garagen sowie Abstellmöglichkeiten für Fahrräder (§ 49 Absatz 1), die unter Berücksichtigung der Sicherheit und Leichtigkeit des Verkehrs, der Bedürfnisse des ruhenden Verkehrs und der Erschließung durch Einrichtungen des öffentlichen Personennahverkehrs für Anlagen erforderlich sind, bei denen ein Zu- und Abgangsverkehr mit Kraftfahrzeugen oder Fahrrädern zu erwarten ist (notwendige Stellplätze und Abstellplätze für Fahrräder), einschließlich des Mehrbedarfs bei Änderungen und Nutzungsänderungen der Anlagen sowie die Ablösung der Herstellungspflicht und die Höhe der Ablösungsbeträge, die nach Art der Nutzung und Lage der Anlage unterschiedlich geregelt werden kann,\n5. die Gestaltung der Plätze für bewegliche Abfallbehälter und der unbebauten Flächen der bebauten Grundstücke sowie über die Notwendigkeit, Art, Gestaltung und Höhe von Einfriedungen; dabei kann bestimmt werden, dass Vorgärten nicht als Arbeitsflächen oder Lagerflächen benutzt werden dürfen,\n6."
+        }
+      ],
+      "top_score": 0.6175
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eine",
+          "score": 0.7568,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eine\ns Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mög",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eine\ns Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.749,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 26",
+          "score": 0.7223,
+          "text_preview": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.06.2021 Bauteilen",
+          "text_full": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.06.2021 Bauteilen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung",
+          "score": 0.7166,
+          "text_preview": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, bauliche",
+          "text_full": "§ 42 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht gereinigt werden können.\n(4) Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen.\n(5) Für die Aufstellung von ortsfesten Verbrennungsmotoren, Blockheizkraftwerken, Brennstoffzellen und Verdichtern sowie die Ableitung ihrer Verbrennungsgase gelten die Absätze 1 bis 3 entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7048,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe si",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine\n- Seite 39 von 82 Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig."
+        }
+      ],
+      "top_score": 0.7568
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7305,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb ",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum).\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 36 Notwendige Flure, offene Gänge",
+          "score": 0.7076,
+          "text_preview": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausre",
+          "text_full": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. 2 innerhalb von Nutzungseinheiten mit nicht mehr als 200 m und innerhalb von Wohnungen,\n- Seite 35 von 82 -\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m ; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m sind, Trennwände nach § 29 Absatz 2 Nummer 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 33 Absatz 1 hat.\n(2) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6988,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 61 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.668,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, ",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Gerüste,\nc) Toilettenwagen,\nd) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\ne) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen Fliegende Bauten,\nf) Verkaufsstände und andere bauliche Anlagen auf Straßenfesten, Volksfesten und Märkten, ausgenommen Fliegende Bauten,\ng) ortsveränderliche Antennenanlagen, die für längstens 24 Monate aufgestellt werden; bei Masten mit mehr als 10 m Höhe muss vor Baubeginn die Standsicherheit der Maßnahme durch einen qualifizierten Tragwerksplaner im Sinne des § 66 Absatz 2 beurteilt und im erforderlichen Umfang nachgewiesen werden;\n14. folgende Plätze:\na) Lager- und Abstellplätze, die einem land- oder forstwirtschaftlichen Betrieb im Sinne des"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 35 Notwendige Treppenräume, Ausgänge",
+          "score": 0.6533,
+          "text_preview": "§ 35 Notwendige Treppenräume, Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung de",
+          "text_full": "§ 35 Notwendige Treppenräume, Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lang möglich ist. Notwendige Treppen sind ohne eigenen Treppenraum zulässig\n1. in Gebäuden der Gebäudeklassen 1 und 2,\n2. für die Verbindung von höchstens zwei Geschossen innerhalb derselben Nutzungseinheit von insgesamt nicht mehr als 200 m , wenn in jedem Geschoss ein anderer Rettungsweg erreicht werden kann,\n3. als Außentreppe, wenn ihre Nutzung ausreichend sicher ist und im Brandfall nicht gefährdet werden kann.\n- Seite 33 von 82 -\n(2) Von jeder Stelle eines Aufenthaltsraumes sowie eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein. Übereinanderliegende Kellergeschosse müssen jeweils mindestens zwei Ausgänge in notwendige Treppenräume oder ins Freie haben."
+        }
+      ],
+      "top_score": 0.7305
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 28,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7384,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet oder geändert werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öf",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet oder geändert werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder aufgrund dieses Gesetzes widersprechen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 3",
+          "score": 0.717,
+          "text_preview": "§ 3\n- Allgemeine Anforderungen 30.06.2021\nTeil 2 - Das Grundstück und seine Bebauung 31.10.2015",
+          "text_full": "§ 3\n- Allgemeine Anforderungen 30.06.2021\nTeil 2 - Das Grundstück und seine Bebauung 31.10.2015"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 70 Beteiligung der Nachbarn und der Öffentlichkeit",
+          "score": 0.7154,
+          "text_preview": "wo und wann die Akten des Verfahrens eingesehen werden können,\n2. wo und wann Einwendungen gegen das Bauvorhaben vorgebracht werden können,\n3. welche Rechtsfolgen mit Ablauf der Frist des Satzes 2 eintreten und\n4. dass die Zustellung der Baugenehmigung durch öffentliche Bekanntmachung ersetzt werden",
+          "text_full": "wo und wann die Akten des Verfahrens eingesehen werden können,\n2. wo und wann Einwendungen gegen das Bauvorhaben vorgebracht werden können,\n3. welche Rechtsfolgen mit Ablauf der Frist des Satzes 2 eintreten und\n4. dass die Zustellung der Baugenehmigung durch öffentliche Bekanntmachung ersetzt werden kann.\n(5) Bei der Errichtung, Änderung oder Nutzungsänderung\n1. eines Gebäudes oder mehrerer Gebäude, wenn dadurch dem Wohnen dienende Nutzungseinheiten mit einer Größe von insgesamt mehr als 5 000 m² Brutto-Grundfläche geschaffen werden,\n2. baulicher Anlagen, die öffentlich zugänglich sind, wenn dadurch die gleichzeitige Nutzung durch mehr als 100 zusätzliche Besucher ermöglicht wird,\n3. baulicher Anlagen, die nach Durchführung des Bauvorhabens Sonderbauten nach § 2 Absatz 4 Nummer 9 Buchstabe c und Nummern 10 bis 13 sowie 15 und 16 sind, ist eine Öffentlichkeitsbeteiligung entsprechend § 18 Absätze 2, 4 und 5 der Störfall-Verordnung –\n12. BImSchV in der Fassung der Bekanntmachung vom 8. Juni 2005 (BGBl. I S. 1598), die durch Artikel 1 der Verordnung vom 9. Januar 2017 (BGBl. I S."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7089,
+          "text_preview": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sich e",
+          "text_full": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sich einen Auszug erstellen lassen. Öffentlich bestellte Vermessungsingenieure sowie Notare und Rechtsanwälte im nachgewiesenen Auftrag eines Notars sind befugt, das Baulastenverzeichnis einzusehen und eine Abschrift zu verlangen, ohne dass es der Darlegung eines berechtigten Interesses bedarf.\nTeil 6 Ordnungswidrigkeiten, Verordnungsermächtigungen; Übergangsbestimmungen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 86 Örtliche Bauvorschriften",
+          "score": 0.7075,
+          "text_preview": "von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung sowie der Brandschutz gewährleistet sind,\n7. die Begrünung baulicher Anlagen.\n(2) Die",
+          "text_full": "von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung sowie der Brandschutz gewährleistet sind,\n7. die Begrünung baulicher Anlagen.\n(2) Die Gemeinde erlässt die örtliche Bauvorschrift als Satzung im übertragenen Wirkungskreis.\n(3) Örtliche Bauvorschriften können auch durch Bebauungsplan oder, soweit das Baugesetzbuch dies vorsieht, durch andere Satzungen nach den Vorschriften des Baugesetzbuches erlassen werden. Werden die örtlichen Bauvorschriften durch Bebauungsplan oder durch eine sonstige städtebauliche Satzung nach dem Baugesetzbuch erlassen, so sind die Vorschriften des Ersten und des Dritten Abschnitts des Ersten Teils, des Ersten Abschnitts des Zweiten Teils, die §§ 13, 13a, 30, 31, 33, 36 und 214 und 215 des Baugesetzbuches entsprechend anzuwenden.\n(4) Anforderungen nach den Absätzen 1 und 2 können innerhalb der örtlichen Bauvorschrift auch in Form zeichnerischer Darstellungen gestellt werden."
+        }
+      ],
+      "top_score": 0.7384
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.818,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7702,
+          "text_preview": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammb",
+          "text_full": "§ 26 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe) dürfen nicht verwendet werden; dies gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende,\n3. feuerhemmende; die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n- Seite 24 von 82 -\n3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 26",
+          "score": 0.7702,
+          "text_preview": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.06.2021 Bauteilen",
+          "text_full": "§ 26\n- Allgemeine Anforderungen an das Brandverhalten von Baustoffen und 30.06.2021 Bauteilen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.7604,
+          "text_preview": "(3) Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. Anstelle von Brandwänden sind in den Fällen des Absatzes 2 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanisc",
+          "text_full": "(3) Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. Anstelle von Brandwänden sind in den Fällen des Absatzes 2 Nummer 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind,\n2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände,\n- Seite 27 von 82 -\n3. für Gebäude der Gebäudeklassen 1 bis 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben. In den Fällen des Absatzes 2 Nummer 4 sind anstelle von Brandwänden feuerbeständige Wände zulässig, wenn der Brutto-Rauminhalt des landwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2 000 m ist.\n(4) Brandwände müssen bis zur Bedachung durchgehen und in allen Geschossen übereinander angeordnet sein. Abweichend davon dürfen anstelle innerer Brandwände Wände geschossweise versetzt angeordnet werden, wenn\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen",
+          "score": 0.7585,
+          "text_preview": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nAbschnitt 4 Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer",
+          "text_full": "§ 25 Besondere Sachkunde- und Sorgfaltsanforderungen\nAbschnitt 4 Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer"
+        }
+      ],
+      "top_score": 0.818
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 86 Örtliche Bauvorschriften",
+          "score": 0.7756,
+          "text_preview": "von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung sowie der Brandschutz gewährleistet sind,\n7. die Begrünung baulicher Anlagen.\n(2) Die",
+          "text_full": "von § 6 abweichende Maße der Abstandsflächentiefe, soweit dies zur Gestaltung des Ortsbildes oder zur Verwirklichung der Festsetzungen einer städtebaulichen Satzung erforderlich ist und eine ausreichende Belichtung sowie der Brandschutz gewährleistet sind,\n7. die Begrünung baulicher Anlagen.\n(2) Die Gemeinde erlässt die örtliche Bauvorschrift als Satzung im übertragenen Wirkungskreis.\n(3) Örtliche Bauvorschriften können auch durch Bebauungsplan oder, soweit das Baugesetzbuch dies vorsieht, durch andere Satzungen nach den Vorschriften des Baugesetzbuches erlassen werden. Werden die örtlichen Bauvorschriften durch Bebauungsplan oder durch eine sonstige städtebauliche Satzung nach dem Baugesetzbuch erlassen, so sind die Vorschriften des Ersten und des Dritten Abschnitts des Ersten Teils, des Ersten Abschnitts des Zweiten Teils, die §§ 13, 13a, 30, 31, 33, 36 und 214 und 215 des Baugesetzbuches entsprechend anzuwenden.\n(4) Anforderungen nach den Absätzen 1 und 2 können innerhalb der örtlichen Bauvorschrift auch in Form zeichnerischer Darstellungen gestellt werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 86 Örtliche Bauvorschriften",
+          "score": 0.7755,
+          "text_preview": "§ 86 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung örtliche Bauvorschriften erlassen über\n1. Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern,\n2. das Verbot von Werbeanlagen und Warenauto",
+          "text_full": "§ 86 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung örtliche Bauvorschriften erlassen über\n1. Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern,\n2. das Verbot von Werbeanlagen und Warenautomaten aus ortsgestalterischen Gründen,\n3. die Lage, Größe, Beschaffenheit, Ausstattung und Unterhaltung von Kinderspielplätzen (§ 8 Absatz 2) und die Höhe der Geldbeträge für die Ablösung der Kinderspielplätze,\n4."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.7715,
+          "text_preview": "Die Grundflächen der Nutzungseinheiten im Sinne dieses Gesetzes sind die Brutto-Grundflächen; bei der Berechnung der Brutto-Grundflächen nach Satz 1 bleiben Flächen in Kellergeschossen außer Betracht. Wird ein Nebengebäude an ein Gebäude der Gebäudeklasse 1 angebaut, verändert sich die Gebäudeklasse",
+          "text_full": "Die Grundflächen der Nutzungseinheiten im Sinne dieses Gesetzes sind die Brutto-Grundflächen; bei der Berechnung der Brutto-Grundflächen nach Satz 1 bleiben Flächen in Kellergeschossen außer Betracht. Wird ein Nebengebäude an ein Gebäude der Gebäudeklasse 1 angebaut, verändert sich die Gebäudeklasse nicht, wenn das Nebengebäude nach § 61 Absatz 1 Nummer 1 Buchstabe a oder b verfahrensfrei ist.\n(4) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Hochhäuser (Gebäude mit einer Höhe nach Absatz 3 Satz 2 von mehr als 22 m),\n2. bauliche Anlagen mit einer Höhe von mehr als 30 m,\n3. 2 Gebäude mit mehr als 1 600 m2 Grundfläche des Geschosses mit der größten Ausdehnung, ausgenommen Wohngebäude und Garagen,\n4. Verkaufsstätten, deren Verkaufsräume und Ladenstraßen eine Grundfläche von insgesamt mehr als 800 m haben,\n5. Gebäude mit Räumen, die einer Büro- oder Verwaltungsnutzung dienen und einzeln eine Grundfläche von mehr als 400 m haben,\n- Seite 10 von 82 -\n6. Gebäude mit Räumen, die einzeln für die Nutzung durch mehr als 100 Personen bestimmt sind,\n7."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.758,
+          "text_preview": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet oder geändert werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öf",
+          "text_full": "§ 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur errichtet oder geändert werden, wenn das Grundstück in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegt oder wenn das Grundstück eine befahrbare, öffentlich-rechtlich gesicherte Zufahrt zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) Ein Gebäude auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass dadurch keine Verhältnisse eintreten können, die Vorschriften dieses Gesetzes oder aufgrund dieses Gesetzes widersprechen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 63 Vereinfachtes Baugenehmigungsverfahren",
+          "score": 0.7551,
+          "text_preview": "§ 63 Vereinfachtes Baugenehmigungsverfahren\n(1) Bei\na) Wohngebäuden,\nb) sonstigen baulichen Anlagen, die keine Gebäude sind,\nc) Nebengebäuden und Nebenanlagen zu Bauvorhaben nach den Buchstaben a und b,\nd) Mobilställen, ausgenommen Sonderbauten, prüft die Bauaufsichtsbehörde\n1. die Übereinstimmung m",
+          "text_full": "§ 63 Vereinfachtes Baugenehmigungsverfahren\n(1) Bei\na) Wohngebäuden,\nb) sonstigen baulichen Anlagen, die keine Gebäude sind,\nc) Nebengebäuden und Nebenanlagen zu Bauvorhaben nach den Buchstaben a und b,\nd) Mobilställen, ausgenommen Sonderbauten, prüft die Bauaufsichtsbehörde\n1. die Übereinstimmung mit den Vorschriften über die Zulässigkeit der baulichen Anlagen nach den §§ 29 bis 38 des Baugesetzbuches,\n2. beantragte Abweichungen im Sinne des § 67 Absatz 1 und 2 Satz 2 und gemäß § 50 Absatz 3 sowie die Übereinstimmung mit den Vorschriften des § 6,\n3. andere öffentlich-rechtliche Anforderungen, soweit wegen der Baugenehmigung eine Entscheidung nach anderen öffentlich-rechtlichen Vorschriften entfällt oder ersetzt wird."
+        }
+      ],
+      "top_score": 0.7756
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 70 Beteiligung der Nachbarn und der Öffentlichkeit",
+          "score": 0.6933,
+          "text_preview": "wo und wann die Akten des Verfahrens eingesehen werden können,\n2. wo und wann Einwendungen gegen das Bauvorhaben vorgebracht werden können,\n3. welche Rechtsfolgen mit Ablauf der Frist des Satzes 2 eintreten und\n4. dass die Zustellung der Baugenehmigung durch öffentliche Bekanntmachung ersetzt werden",
+          "text_full": "wo und wann die Akten des Verfahrens eingesehen werden können,\n2. wo und wann Einwendungen gegen das Bauvorhaben vorgebracht werden können,\n3. welche Rechtsfolgen mit Ablauf der Frist des Satzes 2 eintreten und\n4. dass die Zustellung der Baugenehmigung durch öffentliche Bekanntmachung ersetzt werden kann.\n(5) Bei der Errichtung, Änderung oder Nutzungsänderung\n1. eines Gebäudes oder mehrerer Gebäude, wenn dadurch dem Wohnen dienende Nutzungseinheiten mit einer Größe von insgesamt mehr als 5 000 m² Brutto-Grundfläche geschaffen werden,\n2. baulicher Anlagen, die öffentlich zugänglich sind, wenn dadurch die gleichzeitige Nutzung durch mehr als 100 zusätzliche Besucher ermöglicht wird,\n3. baulicher Anlagen, die nach Durchführung des Bauvorhabens Sonderbauten nach § 2 Absatz 4 Nummer 9 Buchstabe c und Nummern 10 bis 13 sowie 15 und 16 sind, ist eine Öffentlichkeitsbeteiligung entsprechend § 18 Absätze 2, 4 und 5 der Störfall-Verordnung –\n12. BImSchV in der Fassung der Bekanntmachung vom 8. Juni 2005 (BGBl. I S. 1598), die durch Artikel 1 der Verordnung vom 9. Januar 2017 (BGBl. I S."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.6918,
+          "text_preview": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Der Bauh",
+          "text_full": "§ 82 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) Die Bauaufsichtsbehörde kann verlangen, dass ihr Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde der Fortführung der Bauarbeiten zugestimmt hat.\n(2) Der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. In den Fällen des § 81 Absatz 2 Satz 2 ist die jeweilige Bestätigung mit der Anzeige nach Satz 1 vorzulegen. Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs- und Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt. Feuerstätten dürfen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und die sichere Benutzbarkeit\n- Seite 73 von 82 der Abgasanlagen bescheinigt hat; hierzu ist ihm rechtzeitig Gelegenheit zu geben, auch den Rohbauzustand zu besichtigen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.6845,
+          "text_preview": "§ 68 Absatz 2 Satz 1, Absatz 4 Satz 1 und 2, § 72 Absatz 7 Nummer 2, Absatz 8 und 9 sind entsprechend anzuwenden.\n(6) Die vorläufige Untersagung eines Vorhabens nach § 15 Absatz 1 Satz 2 des Baugesetzbuches ist durch die Bauaufsichtsbehörde innerhalb eines Monats nach Eingang des Antrages der Gemein",
+          "text_full": "§ 68 Absatz 2 Satz 1, Absatz 4 Satz 1 und 2, § 72 Absatz 7 Nummer 2, Absatz 8 und 9 sind entsprechend anzuwenden.\n(6) Die vorläufige Untersagung eines Vorhabens nach § 15 Absatz 1 Satz 2 des Baugesetzbuches ist durch die Bauaufsichtsbehörde innerhalb eines Monats nach Eingang des Antrages der Gemeinde auszusprechen.\n(7) Ist das Vorhaben wegen Verstoßes gegen Vorschriften, die wegen der Unwirksamkeit des Bebauungsplans anzuwenden sind, rechtswidrig, darf die Beseitigung oder Untersagung der Nutzung nur angeordnet werden, soweit Rechte Dritter verletzt werden.\nAbschnitt 3 Genehmigungsverfahren"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 62 Genehmigungsfreistellung",
+          "score": 0.6696,
+          "text_preview": "die Gemeinde nicht innerhalb der Frist nach Absatz 3 Satz 2 erklärt, dass das vereinfachte Baugenehmigungsverfahren durchgeführt werden soll oder eine vorläufige Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuches beantragt wurde.\n(3) Der Bauherr hat die erforderlichen Unterlagen bei der Gemei",
+          "text_full": "die Gemeinde nicht innerhalb der Frist nach Absatz 3 Satz 2 erklärt, dass das vereinfachte Baugenehmigungsverfahren durchgeführt werden soll oder eine vorläufige Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuches beantragt wurde.\n(3) Der Bauherr hat die erforderlichen Unterlagen bei der Gemeinde einzureichen; die Gemeinde legt, soweit die Unterlagen nicht elektronisch eingereicht wurden und sie nicht selbst Trägerin der Bauaufsichtsbehörde ist, eine Ausfertigung der Unterlagen unverzüglich der Bauaufsichtsbehörde vor. Mit dem Bauvorhaben darf einen Monat nach Eingang der erforderlichen Unterlagen bei der Gemeinde begonnen werden. Teilt die Gemeinde dem Bauherrn vor Ablauf der Frist mit, dass kein Genehmigungsverfahren durchgeführt werden soll und sie eine Untersagung nach § 15 Absatz 1 Satz 2 des Baugesetzbuches nicht beantragen wird, darf der Bauherr mit der Ausführung des Bauvorhabens beginnen; von der Mitteilung nach Halbsatz 1 hat die Gemeinde die Bauaufsichtsbehörde zu unterrichten. Will der Bauherr mit der Ausführung des Bauvorhabens mehr als drei Jahre, nachdem die Bauausführung nach Satz 2 und 3 zulässig geworden ist, beginnen, gilt Satz 1 bis 3 entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 73 Geltungsdauer der Genehmigung",
+          "score": 0.6656,
+          "text_preview": "§ 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann ",
+          "text_full": "§ 73 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung länger als ein Jahr unterbrochen worden ist.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        }
+      ],
+      "top_score": 0.6933
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 72 Baugenehmigung, Baubeginn",
+          "score": 0.7219,
+          "text_preview": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) Bei Vorhaben, für die nach dem Gesetz über die Umweltverträglichkeitsprüfung oder n",
+          "text_full": "§ 72 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind.\n(2) Bei Vorhaben, für die nach dem Gesetz über die Umweltverträglichkeitsprüfung oder nach dem Landes-UVP-Gesetz eine Umweltverträglichkeitsprüfung durchgeführt wird, muss zudem sichergestellt sein, dass\n1. Gefahren für die in § 2 Absatz 1 Nummer 1 bis 5 dieser Gesetze genannten Schutzgüter nicht hervorgerufen werden können und\n2. Vorsorge gegen erhebliche nachteilige Auswirkungen auf die Schutzgüter, insbesondere durch Maßnahmen entsprechend dem Stand der Technik, getroffen wird.\n(3) Die Baugenehmigung bedarf der Schriftform; sie ist nur insoweit zu begründen, als Abweichungen oder Befreiungen von nachbarschützenden Vorschriften zugelassen werden und der Nachbar nicht nach § 70 Absatz 2 zugestimmt hat.\n(4) Die Baugenehmigung kann unter Auflagen, Bedingungen und dem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage sowie befristet erteilt werden.\n(5) Die Baugenehmigung wird unbeschadet der Rechte Dritter erteilt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 77 Bauaufsichtliche Zustimmung",
+          "score": 0.7184,
+          "text_preview": "§ 77 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes oder eines Landes übertragen ist und\n2. die Baudienststell",
+          "text_full": "§ 77 Bauaufsichtliche Zustimmung\n(1) Nicht verfahrensfreie Bauvorhaben bedürfen keiner Genehmigung, Genehmigungsfreistellung und Bauüberwachung, wenn\n1. die Leitung der Entwurfsarbeiten und die Bauüberwachung einer Baudienststelle des Bundes oder eines Landes übertragen ist und\n2. die Baudienststelle ausreichend mit geeigneten Fachkräften besetzt ist. Solche baulichen Anlagen bedürfen jedoch der Zustimmung der unteren Bauaufsichtsbehörde. Die Zustimmung entfällt, wenn die Gemeinde nicht widerspricht und, soweit ihre öffentlich-rechtlich geschützten Belange von Abweichungen, Ausnahmen und Befreiungen berührt sein können, die Nachbarn dem Bauvorhaben zustimmen. Keiner Genehmigung, Genehmigungsfreistellung oder Zustimmung bedürfen unter den Voraussetzungen des Satzes 1 Baumaßnahmen in oder an bestehenden Gebäuden, soweit sie nicht zu einer Erweiterung des Bauvolumens oder zu einer nicht verfahrensfreien Nutzungsänderung führen, sowie die Beseitigung baulicher Anlagen. Satz 3 gilt nicht für bauliche Anlagen, für die nach § 70 Absatz 5 eine Öffentlichkeitsbeteiligung durchzuführen ist.\n(2) Der Antrag auf Zustimmung ist bei der unteren Bauaufsichtsbehörde einzureichen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 80a Anpassung von Anlagen, Anpassungsverlangen",
+          "score": 0.7063,
+          "text_preview": "(3) Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Bauaufsichtsbehörde den Abbruch oder die Beseitigung anordnen, es sei denn, dass ein öffentliches oder schutzwürdiges privates Interesse an ihrer Erhaltung besteht oder auf andere Weise rechtmäßige Zustände herg",
+          "text_full": "(3) Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Bauaufsichtsbehörde den Abbruch oder die Beseitigung anordnen, es sei denn, dass ein öffentliches oder schutzwürdiges privates Interesse an ihrer Erhaltung besteht oder auf andere Weise rechtmäßige Zustände hergestellt werden können.\n- Seite 72 von 82 -\n(4) Die Vorschriften der § 58 Absatz 1 Satz 2 und § 80 bleiben unberührt.\nAbschnitt 5 Bauüberwachung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 69 Behandlung des Bauantrags",
+          "score": 0.7003,
+          "text_preview": "§ 69 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hört zum Bauantrag die Gemeinde und diejenigen Stellen,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist, oder\n- Seite 64 von 82 -\n2. ohne deren Stellungnahme die Genehmigun",
+          "text_full": "§ 69 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hört zum Bauantrag die Gemeinde und diejenigen Stellen,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist, oder\n- Seite 64 von 82 -\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Bauantrags nicht beurteilt werden kann; die Beteiligung oder Anhörung entfällt, wenn die Gemeinde oder die jeweilige Stelle dem Bauantrag bereits vor Einleitung des Baugenehmigungsverfahrens zugestimmt hat. Bedarf die Erteilung der Baugenehmigung der Zustimmung oder des Einvernehmens einer anderen Körperschaft, Behörde oder sonstigen Stelle, so gilt diese als erteilt, wenn sie nicht einen Monat nach Eingang des Ersuchens verweigert wird; von der Frist nach Halbsatz 1 abweichende Regelungen durch Rechtsvorschrift bleiben unberührt. Stellungnahmen bleiben unberücksichtigt, wenn sie nicht innerhalb eines Monats nach Aufforderung zur Stellungnahme bei der Bauaufsichtsbehörde eingehen, es sei denn, die verspätete Stellungnahme ist für die Rechtmäßigkeit der Entscheidung über den Bauantrag von Bedeutung."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 68 Bauantrag, Bauvorlagen",
+          "score": 0.6945,
+          "text_preview": "§ 68 Bauantrag, Bauvorlagen\n(1) Der Bauantrag ist bei der Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Bauvorhabens und die Bearbeitung des Bauantrags erforderlichen Unterlagen (Bauvorlagen) einzureichen. Es kann gestattet werden, dass einzelne Bauvorlage",
+          "text_full": "§ 68 Bauantrag, Bauvorlagen\n(1) Der Bauantrag ist bei der Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Bauvorhabens und die Bearbeitung des Bauantrags erforderlichen Unterlagen (Bauvorlagen) einzureichen. Es kann gestattet werden, dass einzelne Bauvorlagen nachgereicht werden.\n(3) In besonderen Fällen kann zur Beurteilung der Einwirkung des Bauvorhabens auf die Umgebung verlangt werden, dass es in geeigneter Weise auf dem Baugrundstück dargestellt wird.\n(4) Ist der Bauherr nicht Grundstückseigentümer, kann die Zustimmung des Grundstückseigentümers zu dem Bauvorhaben gefordert werden."
+        }
+      ],
+      "top_score": 0.7219
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 80a Anpassung von Anlagen, Anpassungsverlangen",
+          "score": 0.8075,
+          "text_preview": "(3) Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Bauaufsichtsbehörde den Abbruch oder die Beseitigung anordnen, es sei denn, dass ein öffentliches oder schutzwürdiges privates Interesse an ihrer Erhaltung besteht oder auf andere Weise rechtmäßige Zustände herg",
+          "text_full": "(3) Soweit bauliche Anlagen nicht genutzt werden und im Verfall begriffen sind, kann die Bauaufsichtsbehörde den Abbruch oder die Beseitigung anordnen, es sei denn, dass ein öffentliches oder schutzwürdiges privates Interesse an ihrer Erhaltung besteht oder auf andere Weise rechtmäßige Zustände hergestellt werden können.\n- Seite 72 von 82 -\n(4) Die Vorschriften der § 58 Absatz 1 Satz 2 und § 80 bleiben unberührt.\nAbschnitt 5 Bauüberwachung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung",
+          "score": 0.7991,
+          "text_preview": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergeste",
+          "text_full": "§ 80 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können.\n(2) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, kann diese Nutzung untersagt werden. Wird eine unzulässige Nutzung trotz einer schriftlich verfügten Nutzungsuntersagung fortgesetzt, so kann die Bauaufsichtsbehörde die Anlagen oder Teile der Anlagen versiegeln."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7422,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abz",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert oder beseitigt werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen.\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen oder durch Warnzeichen zu kennzeichnen. Soweit erforderlich, sind Baustellen mit ei-\n- Seite 17 von 82 nem Bauzaun abzugrenzen, mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften des Entwurfsverfassers, des Bauleiters und der Unternehmer für den Rohbau enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen.\n(4) Bäume, Hecken und sonstige Bepflanzungen, die aufgrund anderer Rechtsvorschriften zu erhalten sind, müssen während der Bauausführung geschützt werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 41 Lüftungsanlagen",
+          "score": 0.7367,
+          "text_preview": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe si",
+          "text_full": "§ 41 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine\n- Seite 39 von 82 Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. Die Abluft ist ins Freie zu führen. Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 76 Genehmigung Fliegender Bauten",
+          "score": 0.7335,
+          "text_preview": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit",
+          "text_full": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit oder Standsicherheit nicht oder nicht mehr gewährleistet ist oder weil von der Ausführungsgenehmigung abgewichen wird. Wird die Aufstellung oder der Gebrauch untersagt, ist dies in das Prüfbuch einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n(8) Bei Fliegenden Bauten, die von Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. Das Ergebnis der Nachabnahme ist in das Prüfbuch einzutragen.\n(9) § 68 Absatz 1, 2 und 4, § 81 Absatz 1 und 4 gelten entsprechend."
+        }
+      ],
+      "top_score": 0.8075
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 67 Abweichungen",
+          "score": 0.7607,
+          "text_preview": "§ 67 Abweichungen\n(1) Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarliche",
+          "text_full": "§ 67 Abweichungen\n(1) Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen dieses Gesetzes und aufgrund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange mit den öffentlichen Belangen, insbesondere den Anforderungen des § 3 vereinbar sind. § 85a Absatz 1 Satz 3 bleibt unberührt.\n(2) Die Zulassung von Abweichungen nach Absatz 1, von Ausnahmen und Befreiungen von den Festsetzungen eines Bebauungsplans oder einer sonstigen städtebaulichen Satzung oder von Regelungen der Baunutzungsverordnung ist gesondert zu beantragen; der Antrag ist zu begründen. Für Anlagen, die keiner Genehmigung bedürfen, sowie für Abweichungen von Vorschriften, die im Genehmigungsverfahren nicht geprüft werden, gilt Satz 1 entsprechend.\n(3) Über Abweichungen nach Absatz 1 Satz 1 von örtlichen Bauvorschriften sowie über Ausnahmen und Befreiungen nach Absatz 2 Satz 1 entscheidet bei verfahrensfreien Bauvorhaben die Gemeinde nach Maßgabe der Absätze 1 und 2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 85 Verordnungsermächtigungen",
+          "score": 0.7553,
+          "text_preview": "§ 85 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 48,\n2. ",
+          "text_full": "§ 85 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 48,\n2. Anforderungen an Feuerungsanlagen (§ 42),\n3. Anforderungen an Garagen (§ 49),\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen für Errichtung, Änderung, Unterhaltung, Betrieb und Nutzung ergeben (§ 51), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n6. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen wie Bühnenbetriebe und technisch schwierige Fliegende Bauten einschließlich des Nachweises der Befähigung dieser Personen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7247,
+          "text_preview": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sich e",
+          "text_full": "andere baurechtliche Verpflichtungen des Grundstückseigentümers zu einem sein Grundstück betreffenden Tun, Dulden oder Unterlassen,\n2. Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen oder sich einen Auszug erstellen lassen. Öffentlich bestellte Vermessungsingenieure sowie Notare und Rechtsanwälte im nachgewiesenen Auftrag eines Notars sind befugt, das Baulastenverzeichnis einzusehen und eine Abschrift zu verlangen, ohne dass es der Darlegung eines berechtigten Interesses bedarf.\nTeil 6 Ordnungswidrigkeiten, Verordnungsermächtigungen; Übergangsbestimmungen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 83 Baulasten, Baulastenverzeichnis",
+          "score": 0.7127,
+          "text_preview": "§ 83 Baulasten, Baulastenverzeichnis\nTeil 6 Ordnungswidrigkeiten, Verordnungsermächtigungen; Übergangsbestimmungen",
+          "text_full": "§ 83 Baulasten, Baulastenverzeichnis\nTeil 6 Ordnungswidrigkeiten, Verordnungsermächtigungen; Übergangsbestimmungen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw",
+          "score": 0.6963,
+          "text_preview": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw\nachung nach diesem Gesetz bedürfen\n1. nach wasserrechtlichen Rechtsvorschriften zulassungsbedürftige Anlagen, die dem Ausbau oder der Unterhaltung eines Gewässers dienen, so",
+          "text_full": "§ 60 Vorrang anderer Gestattungsverfahren Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüberw\nachung nach diesem Gesetz bedürfen\n1. nach wasserrechtlichen Rechtsvorschriften zulassungsbedürftige Anlagen, die dem Ausbau oder der Unterhaltung eines Gewässers dienen, sowie Abwasserbehandlungsanlagen, die einer Umweltverträglichkeitsprüfung bedürfen, ausgenommen Gebäude, die Sonderbauten sind,\n2. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme und Wasser, ausgenommen Gebäude, die Sonderbauten sind,\n3. Anlagen, die einer Errichtungsgenehmigung nach dem Atomrecht bedürfen,\n4. Anlagen, die nach Produktsicherheitsrecht einer Genehmigung oder Erlaubnis bedürfen."
+        }
+      ],
+      "top_score": 0.7607
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.7393,
+          "text_preview": "Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut werden; Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet wer",
+          "text_full": "Abstandsflächen sowie Abstände im Sinne des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut werden; Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen,\n2. Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden der Gebäudeklassen 1 und 2,\n3. Gebäude und andere bauliche Anlagen, die in den Abstandsflächen zulässig sind.\n(4) Die Tiefe der Abstandsfläche bemisst sich nach der Wandhöhe; sie wird senkrecht zur Wand gemessen. Wandhöhe ist das Maß von der Geländeoberfläche bis zum Schnittpunkt der Wand mit der Dachhaut oder bis zum oberen Abschluss der Wand. Die Höhe von Dächern mit einer Neigung von weniger als 70 Grad wird zu einem Drittel der Wandhöhe hinzugerechnet. Andernfalls wird die Höhe des Daches voll hinzugerechnet. Die Sätze 1 bis 4 gelten für Dachaufbauten entsprechend. Das sich ergebende Maß ist H.\n(5) Die Tiefe der Abstandsflächen beträgt 0,4 H, mindestens 3 m."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 6 Abstandsflächen, Abstände",
+          "score": 0.7041,
+          "text_preview": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist nicht erford",
+          "text_full": "§ 6 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. Eine Abstandsfläche ist nicht erforderlich vor Außenwänden,\n1. die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf, oder\n2. soweit nach der umgebenden Bebauung im Sinne des § 34 Absatz 1 Satz 1 des Baugesetzbuches abweichende Gebäudeabstände zulässig sind. Satz 2 gilt nicht im Außenbereich\n- Seite 13 von 82 -\n1. für Antennen einschließlich der Masten mit einer maximalen Breite des Mastes von 1,50 m und einer Gesamthöhe von nicht mehr als 50 m gegenüber anderen Grundstücken im Außenbereich und\n2. für Windenergieanlagen.\n(2) Abstandsflächen sowie Abstände nach § 30 Absatz 2 Nummer 1 und § 32 Absatz 2 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 46 Schutzanlagen",
+          "score": 0.6295,
+          "text_preview": "Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen\n- im Ergebnis wirtschaftlich beurteilt mehrheitlich den gleichen natürlichen oder juristischen Personen zuzuordnen sind, unbeschadet der gewählten Gesellschaftsform und entweder\n- in demselben Eignungsgebiet liegen ode",
+          "text_full": "Ein enger räumlicher und betrieblicher Zusammenhang ist gegeben, wenn die Anlagen\n- im Ergebnis wirtschaftlich beurteilt mehrheitlich den gleichen natürlichen oder juristischen Personen zuzuordnen sind, unbeschadet der gewählten Gesellschaftsform und entweder\n- in demselben Eignungsgebiet liegen oder\n- in demselben Bebauungsplangebiet liegen oder\n- in demselben Flächennutzungsplangebiet liegen oder\n- mit gemeinsamen Betriebseinrichtungen verbunden sind.\n(3) Der Bauherr hat im Falle des Absatzes 2 Satz 2 eine Ablöse je Windenergieanlage in Höhe von 100 TEUR an das für Energie zuständige Ministerium oder eine durch dieses bestimmte Behörde zu erbringen. Das Land hat die Ablöse zweckgebunden für die Installation und für den Betrieb von bedarfsge-\n- Seite 41 von 82 steuerten Nachtkennzeichnungen an bestehenden Windenergieanlagen zu verwenden. Der Bauherr kann von dieser Verpflichtung bei Vorliegen besonderer Umstände befreit werden.\n(4) Bei Windenergieanlagen auf See bleiben die seeverkehrsrechtlichen Anforderungen zur Befeuerung unberührt.\n(5) Die Landesregierung berichtet beginnend am 31."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6275,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwen",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen; eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder auf ortsfesten Bahnen begrenzt beweglich ist oder wenn die Anlage nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Bauliche Anlagen sind auch\n1. Aufschüttungen und Abgrabungen,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Campingplätze, Wochenendplätze und Zeltplätze,\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze für Kraftfahrzeuge,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n9. Regale im Freien und Regale, die Teil der Gebäudekonstruktion sind oder Erschließungsfunktion haben,\n10. Werbeanlagen (§ 10). Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Absatz 1 Satz 2.\n(2) Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6197,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        }
+      ],
+      "top_score": 0.7393
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 16,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eine",
+          "score": 0.6975,
+          "text_preview": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eine\ns Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mög",
+          "text_full": "§ 14 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und in Stand zu halten, dass der Entstehung eine\ns Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.6771,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb ",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum).\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6336,
+          "text_preview": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 5 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über Gelände liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.602,
+          "text_preview": "Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen.",
+          "text_full": "Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.5885,
+          "text_preview": "begrünte Bedachungen zulässig, wenn eine Brandentstehung bei einer Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme nicht zu befürchten ist oder Vorkehrungen hiergegen getroffen werden.\n(5) Dachüberstände, Dachgesimse und Dachaufbauten, lichtdurchlässige Bedachungen, Dachflächenfens",
+          "text_full": "begrünte Bedachungen zulässig, wenn eine Brandentstehung bei einer Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme nicht zu befürchten ist oder Vorkehrungen hiergegen getroffen werden.\n(5) Dachüberstände, Dachgesimse und Dachaufbauten, lichtdurchlässige Bedachungen, Dachflächenfenster, Lichtkuppeln, Oberlichte und Solaranlagen sind so anzuordnen und herzustellen, dass Feuer nicht auf andere Gebäudeteile und Nachbargrundstücke übertragen werden kann. Von Brandwänden und von Wänden, die anstelle von Brandwänden zulässig sind, müssen folgende Abstände eingehalten werden:\n1. ohne Abstand\na) Dachflächenfenster, Oberlichte, Lichtkuppeln und Öffnungen in der Bedachung, wenn die Wände nach Halbsatz 1 mindestens 30 cm über die Bedachung geführt sind,\nb) Solaranlagen, Dachgauben und ähnliche Dachaufbauten aus brennbaren Baustoffen, wenn sie durch die Wände nach Halbsatz 1 gegen Brandübertragung geschützt sind,\n2. mindestens 0,50 m Solaranlagen, die mit maximal 30 cm Höhe über der Dachhaut installiert oder im Dach integriert sind, wenn sie nicht unter Nummer 1 Buchstabe b fallen,\n3."
+        }
+      ],
+      "top_score": 0.6975
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6512,
+          "text_preview": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufg",
+          "text_full": "§ 16b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau nach § 3 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 17 Verwendbarkeitsnachweise",
+          "score": 0.6221,
+          "text_preview": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 85a Absatz 2 Nummer 3) wesentlic",
+          "text_full": "§ 17 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 18 bis 20) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 85a Absatz 2 Nummer 3) wesentlich abweicht oder\n3. eine Rechtsverordnung nach § 85 Absatz 4a es vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften nur eine untergeordnete Bedeutung hat."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten und zu ändern, dass die öffentliche Sicherheit und Ordn",
+          "score": 0.6045,
+          "text_preview": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten und zu ändern, dass die öffentliche Sicherheit und Ordn\nung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang I der Verordnung (E",
+          "text_full": "§ 3 Allgemeine Anforderungen Anlagen sind so anzuordnen, zu errichten und zu ändern, dass die öffentliche Sicherheit und Ordn\nung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen nicht gefährdet werden; dabei sind die Grundanforderungen an Bauwerke nach Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt auch für die Beseitigung von Anlagen und bei der Änderung ihrer Nutzung.\n- Seite 12 von 82 Anlagen müssen bei ordnungsgemäßer Instandhaltung die allgemeinen Anforderungen des Satzes 1 ihrem Zweck entsprechend angemessen dauerhaft erfüllen und ohne Missstände benutzbar sein.\nTeil 2 Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 76 Genehmigung Fliegender Bauten",
+          "score": 0.5903,
+          "text_preview": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit",
+          "text_full": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist, insbesondere weil die Betriebssicherheit oder Standsicherheit nicht oder nicht mehr gewährleistet ist oder weil von der Ausführungsgenehmigung abgewichen wird. Wird die Aufstellung oder der Gebrauch untersagt, ist dies in das Prüfbuch einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n(8) Bei Fliegenden Bauten, die von Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. Das Ergebnis der Nachabnahme ist in das Prüfbuch einzutragen.\n(9) § 68 Absatz 1, 2 und 4, § 81 Absatz 1 und 4 gelten entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 85 Verordnungsermächtigungen",
+          "score": 0.5883,
+          "text_preview": "§ 85 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 48,\n2. ",
+          "text_full": "§ 85 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3, § 16a Absatz 1 und § 16b Absatz 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen der §§ 4 bis 48,\n2. Anforderungen an Feuerungsanlagen (§ 42),\n3. Anforderungen an Garagen (§ 49),\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen für Errichtung, Änderung, Unterhaltung, Betrieb und Nutzung ergeben (§ 51), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfung von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n6. die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen wie Bühnenbetriebe und technisch schwierige Fliegende Bauten einschließlich des Nachweises der Befähigung dieser Personen."
+        }
+      ],
+      "top_score": 0.6512
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-MV",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 56 Bauleiter",
+          "score": 0.8088,
+          "text_preview": "§ 56 Bauleiter\n(1) Der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen und den für die Ausführung notwendigen Einzelzeichnungen, Einzelberechnungen und Anweisungen durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. Er hat",
+          "text_full": "§ 56 Bauleiter\n(1) Der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlich-rechtlichen Anforderungen und den für die Ausführung notwendigen Einzelzeichnungen, Einzelberechnungen und Anweisungen durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. Er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmer zu achten. Die Verantwortlichkeit der Unternehmer bleibt unberührt.\n(2) Der Bauleiter muss über die für seine Aufgabe erforderliche Sachkunde und Erfahrung verfügen. Verfügt er auf einzelnen Teilgebieten nicht über die erforderliche Sachkunde, so sind geeignete Fachbauleiter heranzuziehen. Diese treten insoweit an die Stelle des Bauleiters. Der Bauleiter hat die Tätigkeit der Fachbauleiter und seine Tätigkeit aufeinander abzustimmen.\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 53 Bauherr",
+          "score": 0.7459,
+          "text_preview": "§ 53 Bauherr\n(1) Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschriften",
+          "text_full": "§ 53 Bauherr\n(1) Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der §§ 54 bis 56 zu bestellen, soweit er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschriften geeignet ist. Er hat dafür zu sorgen, dass die für die Ausführung des jeweiligen Bauvorhabens notwendigen Einzelzeichnungen, Einzelberechnungen und Anweisungen angefertigt werden. Dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erlassener Vorschriften erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CEKennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 56 Bauleiter",
+          "score": 0.7426,
+          "text_preview": "§ 56 Bauleiter\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden",
+          "text_full": "§ 56 Bauleiter\nTeil 5 Bauaufsichtsbehörden, Verfahren\nAbschnitt 1 Bauaufsichtsbehörden"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 53 Bauherr",
+          "score": 0.7313,
+          "text_preview": "Der Bauherr hat vor Baubeginn den Namen des Tragwerksplaners für die Beseitigung von Anlagen im Sinne des § 61 Absatz 3 Satz 4, den Namen des Bauleiters und während der Bauausführung einen Wechsel des Bauleiters unverzüglich der Bauaufsichtsbehörde in Textform mitzuteilen. Wechselt der Bauherr, hat ",
+          "text_full": "Der Bauherr hat vor Baubeginn den Namen des Tragwerksplaners für die Beseitigung von Anlagen im Sinne des § 61 Absatz 3 Satz 4, den Namen des Bauleiters und während der Bauausführung einen Wechsel des Bauleiters unverzüglich der Bauaufsichtsbehörde in Textform mitzuteilen. Wechselt der Bauherr, hat der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich in Textform mitzuteilen.\n(2) Treten bei einem Bauvorhaben mehrere Personen als Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass ihr gegenüber ein Vertreter bestellt wird, der die dem Bauherrn nach den öffentlich-rechtlichen Vorschriften obliegenden Verpflichtungen zu erfüllen hat. Im Übrigen findet § 18 Absatz 1 Satz 2 und 3 und Absatz 2 des Landesverwaltungsverfahrensgesetzes mit der Maßgabe entsprechende Anwendung, dass eine Erklärung in Textform ausreichend ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Mecklenburg-Vorpommern",
+          "jurisdiction": "DE-MV",
+          "source_paragraph": "§ 57 Aufbau und Zuständigkeit der Bauaufsichtsbehörden",
+          "score": 0.7234,
+          "text_preview": "(3) Die unteren Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen und mit den erforderlichen Vorrichtungen auszustatten.",
+          "text_full": "(3) Die unteren Bauaufsichtsbehörden sind zur Durchführung ihrer Aufgaben ausreichend mit geeigneten Fachkräften zu besetzen und mit den erforderlichen Vorrichtungen auszustatten."
+        }
+      ],
+      "top_score": 0.8088
+    }
+  ]
+}

@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-RP",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 16711,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50",
+          "score": 0.705,
+          "text_preview": "§ 50\n- Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonder- 13.02.2021 bauten)",
+          "text_full": "§ 50\n- Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonder- 13.02.2021 bauten)"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6725,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn die Anlage durch eigene Schwere auf\n- Seite 8 von 92 dem Boden ruht oder wenn sie nach ihrem Verwendungszweck dazu bestimmt ist, überwie",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch dann, wenn die Anlage durch eigene Schwere auf\n- Seite 8 von 92 dem Boden ruht oder wenn sie nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Als bauliche Anlagen gelten auch\n1. Aufschüttungen und Abgrabungen,\n2. Lager-, Abstell-, Aufstell- und Ausstellungsplätze,\n3. Camping- und Wochenendplätze,\n4. Stellplätze,\n5. Sport- und Spielplätze,\n6. Schiffe und sonstige schwimmfähige Anlagen, die ortsfest benutzt werden und dem Wohnen oder gewerblichen, sportlichen oder ähnlichen Zwecken dienen,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen. Sie werden in folgende Gebäudeklassen eingeteilt:\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6445,
+          "text_preview": "aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, wie Fertighäuser, Fertiggaragen und Silos,\n- Seite 10 von 92 und deren Verwendung sich auf die Anforderu",
+          "text_full": "aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, wie Fertighäuser, Fertiggaragen und Silos,\n- Seite 10 von 92 und deren Verwendung sich auf die Anforderungen nach § 3 Abs. 1 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 42 Kleinkläranlagen und Gruben Sechster Abschnitt Aufenthaltsräume und Wohnungen",
+          "score": 0.6421,
+          "text_preview": "§ 42 Kleinkläranlagen und Gruben Sechster Abschnitt Aufenthaltsräume und Wohnungen",
+          "text_full": "§ 42 Kleinkläranlagen und Gruben Sechster Abschnitt Aufenthaltsräume und Wohnungen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.6121,
+          "text_preview": "bauliche Anlagen und Räume, die für gewerbliche Betriebe bestimmt sind,\n11. bauliche Anlagen und Räume, deren Nutzung mit einem starken Abgang schädlicher Stoffe verbunden ist,\n12. Fliegende Bauten,\n13. Camping- und Wochenendplätze.",
+          "text_full": "bauliche Anlagen und Räume, die für gewerbliche Betriebe bestimmt sind,\n11. bauliche Anlagen und Räume, deren Nutzung mit einem starken Abgang schädlicher Stoffe verbunden ist,\n12. Fliegende Bauten,\n13. Camping- und Wochenendplätze."
+        }
+      ],
+      "top_score": 0.705
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 42 Kleinkläranlagen und Gruben Sechster Abschnitt Aufenthaltsräume und Wohnungen",
+          "score": 0.6434,
+          "text_preview": "§ 42 Kleinkläranlagen und Gruben Sechster Abschnitt Aufenthaltsräume und Wohnungen",
+          "text_full": "§ 42 Kleinkläranlagen und Gruben Sechster Abschnitt Aufenthaltsräume und Wohnungen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 45",
+          "score": 0.6222,
+          "text_preview": "§ 45\n- Aufenthaltsräume und Wohnungen in Kellergeschossen und Dachräu- 13.02.2021 men",
+          "text_full": "§ 45\n- Aufenthaltsräume und Wohnungen in Kellergeschossen und Dachräu- 13.02.2021 men"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 43 Aufenthaltsräume",
+          "score": 0.6011,
+          "text_preview": "§ 43 Aufenthaltsräume\n- Seite 38 von 92 -\n(1) Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von 2,40 m haben.\n(2) Aufenthaltsräume müssen unmittelbar ins Freie führende Fenster von solcher Zahl und Beschaffenheit haben, dass die Räume ausreichend mit T",
+          "text_full": "§ 43 Aufenthaltsräume\n- Seite 38 von 92 -\n(1) Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von 2,40 m haben.\n(2) Aufenthaltsräume müssen unmittelbar ins Freie führende Fenster von solcher Zahl und Beschaffenheit haben, dass die Räume ausreichend mit Tageslicht beleuchtet und gelüftet werden können (notwendige Fenster). Das Rohbaumaß der Fensteröffnungen muss mindestens ein Zehntel der Grundfläche des Raums betragen; ein geringeres Maß kann zugelassen werden, wenn wegen der Lichtverhältnisse keine Bedenken bestehen. Bei Aufenthaltsräumen im Dachraum bleiben Raumteile mit einer lichten Höhe bis 1,50 m bei der Ermittlung der Grundfläche außer Betracht. Oberlichte anstelle von Fenstern können zugelassen werden, wenn die Gesundheit nicht beeinträchtigt wird.\n(3) Verglaste Vorbauten und Loggien sind vor notwendigen Fenstern zulässig, wenn die Beleuchtung mit Tageslicht und die Lüftung gewährleistet sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 44 Wohnungen",
+          "score": 0.5973,
+          "text_preview": "§ 44 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen br",
+          "text_full": "§ 44 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen brauchen nicht abgeschlossen zu sein. Wohnungen in Gebäuden, die nicht nur dem Wohnen dienen, müssen einen besonderen Zugang haben; gemeinsame Zugänge sind zulässig, wenn Gefahren oder unzumutbare Belästigungen für die Benutzerinnen und Benutzer der Wohnungen nicht entstehen.\n(2) Wohnungen müssen durchlüftet werden können. Jede Wohnung mit mehreren Aufenthaltsräumen soll einen besonnten Wohn- oder Schlafraum haben.\n(3) Jede Wohnung muss eine Küche oder Kochnische sowie einen Abstellraum haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind. Der Abstellraum soll 6 m² groß sein; davon soll eine Abstellfläche von 1 m² innerhalb der Wohnung liegen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 47 Stellplätze und Garagen",
+          "score": 0.5836,
+          "text_preview": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl ",
+          "text_full": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und zu erwartenden Kraftfahrzeuge der Benutzerinnen und Benutzer sowie der Besucherinnen und Besucher der Anlagen; dabei ist die Möglichkeit der Inanspruch-\n- Seite 41 von 92 nahme öffentlicher Verkehrsmittel oder alternativer Mobilitätskonzepte zu berücksichtigen. Statt der Stellplätze können Garagen hergestellt werden. Die Herstellung von Garagen anstelle von Stellplätzen kann verlangt werden, wenn die in Absatz 7 genannten Erfordernisse dies gebieten. Es kann zugelassen werden, dass die notwendigen Stellplätze oder Garagen innerhalb einer angemessenen Frist nach Fertigstellung der Anlagen hergestellt werden. Abstellplätze für Fahrräder sind herzustellen, soweit ein Zugangs- und Abgangsverkehr mit Fahrrädern zu erwarten ist; die Absätze 2, 3 und 9 gelten entsprechend."
+        }
+      ],
+      "top_score": 0.6434
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 19,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.5886,
+          "text_preview": "Brandschutzeinrichtungen und Brandschutzvorkehrungen sowie Löschwasserrückhalteeinrichtungen,\n6. Feuerungsanlagen, Heizräume sowie Räume für die Aufstellung ortsfester Verbrennungsmotoren und Verdichter,\n7. Anordnung und Herstellung der Aufzüge sowie der Treppen, Ausgänge und sonstigen Rettungswege,",
+          "text_full": "Brandschutzeinrichtungen und Brandschutzvorkehrungen sowie Löschwasserrückhalteeinrichtungen,\n6. Feuerungsanlagen, Heizräume sowie Räume für die Aufstellung ortsfester Verbrennungsmotoren und Verdichter,\n7. Anordnung und Herstellung der Aufzüge sowie der Treppen, Ausgänge und sonstigen Rettungswege,\n8. zulässige Zahl der Benutzerinnen und Benutzer, die Anordnung und Zahl der zulässigen Sitzund Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n9. Lüftung,\n10. Beleuchtung und Energieversorgung,\n11. Wasserversorgung,\n12. Aufbewahrung und Beseitigung von Abwasser und Abfällen,\n13. Stellplätze und Garagen,\n14. Anlage der Zu- und Abfahrten, einschließlich Maßgaben für bauleitende Personen nach § 56a. Als Nachweis dafür, dass die besonderen Anforderungen erfüllt sind, können Bescheinigungen und besondere Nachweise wie ein Brandschutzkonzept verlangt werden. Ferner kann gefordert werden, dass Prüfungen und deren Wiederholungen in festzulegenden Zeitabständen durch die Bauaufsichtsbehörde oder sachverständige Personen oder Stellen vorgenommen werden."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 47 Stellplätze und Garagen",
+          "score": 0.5738,
+          "text_preview": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl ",
+          "text_full": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und zu erwartenden Kraftfahrzeuge der Benutzerinnen und Benutzer sowie der Besucherinnen und Besucher der Anlagen; dabei ist die Möglichkeit der Inanspruch-\n- Seite 41 von 92 nahme öffentlicher Verkehrsmittel oder alternativer Mobilitätskonzepte zu berücksichtigen. Statt der Stellplätze können Garagen hergestellt werden. Die Herstellung von Garagen anstelle von Stellplätzen kann verlangt werden, wenn die in Absatz 7 genannten Erfordernisse dies gebieten. Es kann zugelassen werden, dass die notwendigen Stellplätze oder Garagen innerhalb einer angemessenen Frist nach Fertigstellung der Anlagen hergestellt werden. Abstellplätze für Fahrräder sind herzustellen, soweit ein Zugangs- und Abgangsverkehr mit Fahrrädern zu erwarten ist; die Absätze 2, 3 und 9 gelten entsprechend."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 46 Bäder und Toilettenräume Siebter Abschnitt Besondere Anlagen",
+          "score": 0.5628,
+          "text_preview": "§ 46 Bäder und Toilettenräume Siebter Abschnitt Besondere Anlagen\n- Seite 6 von 92 -",
+          "text_full": "§ 46 Bäder und Toilettenräume Siebter Abschnitt Besondere Anlagen\n- Seite 6 von 92 -"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5409,
+          "text_preview": "(7) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(8) Stellplätze sind Flächen zum Abstellen von Kraftfahrzeugen außerhalb öffentlicher Verkehrsflächen. Garagen sind ganz oder teilweise umschlossene Rä",
+          "text_full": "(7) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen.\n(8) Stellplätze sind Flächen zum Abstellen von Kraftfahrzeugen außerhalb öffentlicher Verkehrsflächen. Garagen sind ganz oder teilweise umschlossene Räume zum Abstellen von Kraftfahrzeugen. Ausstellungs-, Verkaufs-, Werk- und Lagerräume gelten nicht als Garagen.\n(9) Barrierefrei sind bauliche Anlagen, soweit sie ihrem Zweck entsprechend für Menschen mit Behinderungen, ältere Menschen und Personen mit Kleinkindern in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.\n(10) Bauprodukte sind\n1. Produkte, Baustoffe, Bauteile und Anlagen sowie Bausätze gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. EU Nr. L 88 S. 5; 2013 Nr. L 103 S. 10) in der jeweils geltenden Fassung, die hergestellt werden, um dauerhaft in bauliche Anlagen eingebaut zu werden,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 51 Barrierefreiheit [1]",
+          "score": 0.5389,
+          "text_preview": "Versammlungsstätten einschließlich Kultureinrichtungen und für den Gottesdienst bestimmte Anlagen,\n2. Verkaufsstätten; Läden und ähnliche Geschäftsräume in Erdgeschossen müssen barrierefrei zugänglich sein,\n- Seite 45 von 92 -\n3. Gebäude der öffentlichen Verwaltung und Gerichte,\n4. Schalter- und Abf",
+          "text_full": "Versammlungsstätten einschließlich Kultureinrichtungen und für den Gottesdienst bestimmte Anlagen,\n2. Verkaufsstätten; Läden und ähnliche Geschäftsräume in Erdgeschossen müssen barrierefrei zugänglich sein,\n- Seite 45 von 92 -\n3. Gebäude der öffentlichen Verwaltung und Gerichte,\n4. Schalter- und Abfertigungsräume der Verkehrs- und Versorgungseinrichtungen sowie Einrichtungen für Finanz- und Postdienstleistungen,\n5. Gaststätten, Kantinen, Beherbergungsbetriebe,\n6. Schulen, Hochschulen und Weiterbildungseinrichtungen sowie Forschungsinstitute,\n7. Kindertagesstätten und sonstige Einrichtungen für Kinder und Jugendliche,\n8. Krankenhäuser und Rehabilitationseinrichtungen,\n9. Arztpraxen und ähnliche Einrichtungen der Gesundheitspflege,\n10. Notariate, Steuerberatungs- und Rechtsanwaltskanzleien und sonstige Nutzungseinheiten für freiberuflich Tätige und solche Gewerbetreibende, die ihren Beruf in ähnlicher Art ausüben, jeweils mit einer Nutzfläche von mehr als 100 m ; kleinere Nutzungseinheiten für diese Berufe in Erdgeschossen müssen barrierefrei zugänglich sein,\n11."
+        }
+      ],
+      "top_score": 0.5886
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 66 Vereinfachtes Genehmigungsverfahren",
+          "score": 0.7927,
+          "text_preview": "Die Baugenehmigung gilt als erteilt, wenn über den Bauantrag nicht innerhalb der nach den Sätzen 2 bis 4 maßgeblichen Frist entschieden worden ist. Satz 6 findet keine Anwendung, wenn die Bauherrin oder der Bauherr vor Ablauf der Frist gegenüber der Bauaufsichtsbehörde in Textform auf den Eintritt d",
+          "text_full": "Die Baugenehmigung gilt als erteilt, wenn über den Bauantrag nicht innerhalb der nach den Sätzen 2 bis 4 maßgeblichen Frist entschieden worden ist. Satz 6 findet keine Anwendung, wenn die Bauherrin oder der Bauherr vor Ablauf der Frist gegenüber der Bauaufsichtsbehörde in Textform auf den Eintritt der Genehmigungsfiktion verzichtet hat; auf Verlangen der Bauherrin oder des Bauherrn hat die Bauaufsichtsbehörde die Baugenehmigung nach Satz 6 schriftlich zu bestätigen. Die Sätze 1 bis 7 gelten nicht für Vorhaben im Außenbereich nach § 35 BauGB; davon ausgenommen sind Antennenanlagen nach Absatz 2 Satz 3. Bei Bauvorhaben nach Absatz 1 Satz 1 Nr. 11, die eine Anlage mit einer Stromerzeugungskapazität unter 150 kW betreffen, darf das Baugenehmigungsverfahren nicht länger als ein Jahr, bei sonstigen Anlagen nach Absatz 1 Satz 1 Nr. 11 nicht länger als zwei Jahre jeweils nach Eingang der vollständigen Bauunterlagen dauern. Die Bauaufsichtsbehörde kann die Fris-\n- Seite 68 von 92 ten nach Satz 9 in durch außergewöhnliche Umstände hinreichend begründeten Fällen um bis zu einem Jahr verlängern."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 74 Geltungsdauer der Baugenehmigung",
+          "score": 0.7579,
+          "text_preview": "§ 74 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von vier Jahren nach ihrer Zustellung oder Bekanntgabe nach Maßgabe des § 9 Abs. 1 OZG mit der Ausführung des Vorhabens nicht begonnen oder die Ausführung vier Jahre unterbrochen worden ",
+          "text_full": "§ 74 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von vier Jahren nach ihrer Zustellung oder Bekanntgabe nach Maßgabe des § 9 Abs. 1 OZG mit der Ausführung des Vorhabens nicht begonnen oder die Ausführung vier Jahre unterbrochen worden ist. Die Ausführung eines Vorhabens gilt nur dann als begonnen oder als nicht unterbrochen, wenn innerhalb der Frist wesentliche Bauarbeiten ausgeführt wurden.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu vier Jahre verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist. Die Verlängerung kann mit neuen Nebenbestimmungen verbunden werden. Der Bescheid über die Verlängerung ist der Bauherrin oder dem Bauherrn zuzustellen oder nach Maßgabe des § 9 Abs. 1 OZG bekannt zu geben; § 70 Abs. 4 und 5 gilt entsprechend."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 63 Bauantrag",
+          "score": 0.7386,
+          "text_preview": "§ 63 Bauantrag\n(1) Der Antrag auf Erteilung der Baugenehmigung (Bauantrag) ist von der Bauherrin oder dem Bauherrn bei der Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Vorhabens und die Bearbeitung des Antrags erforderlichen Unterlagen (Bauunterlagen) ein",
+          "text_full": "§ 63 Bauantrag\n(1) Der Antrag auf Erteilung der Baugenehmigung (Bauantrag) ist von der Bauherrin oder dem Bauherrn bei der Bauaufsichtsbehörde einzureichen.\n(2) Mit dem Bauantrag sind alle für die Beurteilung des Vorhabens und die Bearbeitung des Antrags erforderlichen Unterlagen (Bauunterlagen) einzureichen. Es kann zugelassen werden, dass einzelne Bauunterlagen nachgereicht werden.\n(3) Die Bauaufsichtsbehörde leitet den Bauantrag unverzüglich an die Gemeindeverwaltung weiter und ersucht soweit erforderlich um die Erteilung des Einvernehmens oder der Zustimmung der Gemeinde nach dem Baugesetzbuch, die umgehend zu dem Vorhaben Stellung nimmt. Bei verbandsangehörigen Gemeinden tritt an die Stelle der Gemeindeverwaltung die Verbandsgemeindeverwaltung.\n(4) Hat die Bauherrin oder der Bauherr nicht das Eigentum oder das Erbbaurecht an dem Grundstück inne, so kann ein zur Ausführung des Vorhabens berechtigender Nachweis verlangt werden.\n(5) Zur Beurteilung, wie sich das Vorhaben in die Umgebung einfügt, kann verlangt werden, dass es in geeigneter Weise, soweit erforderlich auf dem Grundstück, dargestellt wird."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 91 Übergangsbestimmungen",
+          "score": 0.7343,
+          "text_preview": "§ 91 Übergangsbestimmungen\n(1) Bestehende Anerkennungen als Prüf-, Überwachungs- und Zertifizierungsstellen bleiben in dem bis zum 28. Juni 2019 bestimmten Umfang wirksam. Vor dem 29. Juni 2019 gestellte Anträge gelten als Anträge nach diesem Gesetz.\n(2) Bis zum 28. Juni 2019 für Bauarten erteilte a",
+          "text_full": "§ 91 Übergangsbestimmungen\n(1) Bestehende Anerkennungen als Prüf-, Überwachungs- und Zertifizierungsstellen bleiben in dem bis zum 28. Juni 2019 bestimmten Umfang wirksam. Vor dem 29. Juni 2019 gestellte Anträge gelten als Anträge nach diesem Gesetz.\n(2) Bis zum 28. Juni 2019 für Bauarten erteilte allgemeine bauaufsichtliche Zulassungen oder Zustimmungen im Einzelfall gelten als Bauartgenehmigungen fort.\n(3) Die bis zum 28. Juni 2019 eingeführten technischen Baubestimmungen und an die Stelle der Bauregellisten getretenen Bestimmungen gelten bis zum Inkrafttreten der Verwaltungsvorschrift nach § 3 Abs. 2 als Technische Baubestimmungen nach § 87a fort.\n(4) Die in der Anlage bestimmten Ausbildungsanforderungen finden keine Anwendung auf Personen, die zum 31. März 2025 ihr Studium bereits begonnen haben. Für diese Personen gelten die Ausbildungsanforderungen des § 64 in der bis zum 3. Januar 2025 geltenden Fassung."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 66 Vereinfachtes Genehmigungsverfahren",
+          "score": 0.7235,
+          "text_preview": "1 bis 10 ist über den Bauantrag innerhalb einer Frist von einem Monat, bei Vorhaben nach Absatz 2 Satz 1 und 3 innerhalb einer Frist von drei Monaten zu entscheiden. Die Frist beginnt\n1. 15 Arbeitstage nach Eingang des Bauantrags bei der Bauaufsichtsbehörde oder\n2. 15 Arbeitstage nach Eingang der ve",
+          "text_full": "1 bis 10 ist über den Bauantrag innerhalb einer Frist von einem Monat, bei Vorhaben nach Absatz 2 Satz 1 und 3 innerhalb einer Frist von drei Monaten zu entscheiden. Die Frist beginnt\n1. 15 Arbeitstage nach Eingang des Bauantrags bei der Bauaufsichtsbehörde oder\n2. 15 Arbeitstage nach Eingang der verlangten Unterlagen, wenn die Bauaufsichtsbehörde vor Fristbeginn eine Aufforderung nach § 65 Abs. 2 Satz 2 versandt hat; ist das Einvernehmen oder die Zustimmung der Gemeinde nach dem Baugesetzbuch erforderlich, beginnt diese Frist frühestens mit Eingang der Mitteilung über die Entscheidung der Gemeinde oder, sofern das Einvernehmen oder die Zustimmung der Gemeinde durch Fristablauf als erteilt gilt, mit dem Zeitpunkt, bis zu dem die Mitteilung über die Verweigerung des Einvernehmens oder der Zustimmung der Gemeinde bei der Bauaufsichtsbehörde hätte eingehen müssen. Die Bauaufsichtsbehörde kann die Frist aus wichtigem Grund um bis zu zwei Monate verlängern. Als wichtiger Grund gelten insbesondere die notwendige Beteiligung anderer Behörden sowie Entscheidungen über Abweichungen."
+        }
+      ],
+      "top_score": 0.7927
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 8 Abstandsflächen",
+          "score": 0.639,
+          "text_preview": "(10) Geringere Abstandsflächen sind zulässig, wenn sie aus zwingenden Festsetzungen eines Bebauungsplans, aus der Sonderregelung zur sparsamen und effizienten Nutzung von Energie nach § 248 BauGB oder aus einer örtlichen Bauvorschrift nach § 88 folgen und die Beleuchtung mit Tageslicht, die Lüftung ",
+          "text_full": "(10) Geringere Abstandsflächen sind zulässig, wenn sie aus zwingenden Festsetzungen eines Bebauungsplans, aus der Sonderregelung zur sparsamen und effizienten Nutzung von Energie nach § 248 BauGB oder aus einer örtlichen Bauvorschrift nach § 88 folgen und die Beleuchtung mit Tageslicht, die Lüftung und der Brandschutz gewährleistet sind; entsprechendes gilt für größere Abstandsflächen.\n(11) Bei rechtmäßig bestehenden Gebäuden, deren Außenwände die nach diesem Gesetz erforderlichen Abstandsflächen nicht einhalten, sind abweichend von den Absätzen 1 bis 6 auch zulässig\n1. Ausbau und Änderungen innerhalb des Gebäudes,\n- Seite 15 von 92 -\n2. Nutzungsänderungen,\n3. die Errichtung und Änderung von Vor- und Anbauten, die für sich genommen die Tiefe der Abstandsflächen nach Absatz 6 einhalten,\n4. Aufstockungen und die Errichtung und Änderung von Aufbauten, wenn deren Abstandsflächen nicht über die Abstandsflächen des bestehenden Gebäudes hinausgehen,\n5. der Ersatz von Gebäuden oder Gebäudeteilen bis zu den bisherigen Abmessungen; die Nummern 2 bis 4 bleiben unberührt,\n6."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 8 Abstandsflächen",
+          "score": 0.6341,
+          "text_preview": "§ 8 Abstandsflächen\n(1) Vor Außenwänden oberirdischer Gebäude sind Flächen von Gebäuden freizuhalten (Abstandsflächen). Innerhalb der überbaubaren Grundstücksflächen sind Abstandsflächen nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vor",
+          "text_full": "§ 8 Abstandsflächen\n(1) Vor Außenwänden oberirdischer Gebäude sind Flächen von Gebäuden freizuhalten (Abstandsflächen). Innerhalb der überbaubaren Grundstücksflächen sind Abstandsflächen nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften\n1. das Gebäude ohne Grenzabstand gebaut werden muss oder\n2. das Gebäude ohne Grenzabstand gebaut werden darf und öffentlich-rechtlich gesichert ist, dass auf dem Nachbargrundstück ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften mit Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude ohne Grenzabstand vorhanden, so kann zugelassen oder verlangt werden, dass ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften ohne Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude mit Grenzabstand vorhanden, so kann zugelassen oder verlangt werden, dass eine Abstandsfläche eingehalten wird.\n(2) Die Abstandsflächen müssen auf dem Grundstück selbst liegen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 9",
+          "score": 0.622,
+          "text_preview": "§ 9\n- Übernahme von Abständen und Abstandsflächen auf Nachbargrund- 01.08.2021 stücke, Grundstücksteilungen",
+          "text_full": "§ 9\n- Übernahme von Abständen und Abstandsflächen auf Nachbargrund- 01.08.2021 stücke, Grundstücksteilungen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 8 Abstandsflächen",
+          "score": 0.6177,
+          "text_preview": "Sie sind ohne eigene Abstandsflächen oder mit einer geringeren Tiefe der Abstandsflächen und in den Abstandsflächen von Gebäuden zulässig, wenn die Beleuchtung mit Tageslicht nicht erheblich beeinträchtigt wird und der Brandschutz gewährleistet ist. Ohne eigene Abstandsflächen und in den Abstandsflä",
+          "text_full": "Sie sind ohne eigene Abstandsflächen oder mit einer geringeren Tiefe der Abstandsflächen und in den Abstandsflächen von Gebäuden zulässig, wenn die Beleuchtung mit Tageslicht nicht erheblich beeinträchtigt wird und der Brandschutz gewährleistet ist. Ohne eigene Abstandsflächen und in den Abstandsflächen von Gebäuden sind Einfriedungen und Stützmauern bis zu 2 m Höhe, in Gewerbe- und Industriegebieten ohne Begrenzung der Höhe zulässig.\n(8) Gegenüber Grundstücksgrenzen dürfen ohne Abstandsflächen oder mit einer geringeren Tiefe der Abstandsflächen\n1. Garagen ohne Feuerstätten,\n2. Gebäude und Anlagen zur örtlichen Versorgung mit Elektrizität, Gas und Wasser und\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "score": 0.6144,
+          "text_preview": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "text_full": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen"
+        }
+      ],
+      "top_score": 0.639
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7487,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgr",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die den in Vorschriften eines anderen Mitgliedstaates der Europäischen Union oder eines nach dem Recht der Europäischen Union gleichgestellten Staates genannten technischen Anforderungen entsprechen, dürfen verwendet oder angewendet werden, wenn das geforderte Schutzniveau in Bezug auf Sicherheit, Gesundheit und Gebrauchstauglichkeit gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 12 Einfriedungen Dritter Teil Bauliche Anlagen Erster Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "score": 0.7364,
+          "text_preview": "§ 12 Einfriedungen Dritter Teil Bauliche Anlagen Erster Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 12 Einfriedungen Dritter Teil Bauliche Anlagen Erster Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.7097,
+          "text_preview": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten",
+          "text_full": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten,\n3. Versammlungsstätten,\n4. Büro- und Verwaltungsgebäude,\n5. Gaststätten, Beherbergungsbetriebe,\n6. Krankenhäuser und ähnliche Einrichtungen der Gesundheitspflege, bauliche Anlagen zum Zweck der Pflege oder Betreuung, Tages- und Begegnungsstätten sowie Wohnheime, einschließlich der Gebäude mit Nutzungseinheiten zum Zwecke der Pflege und Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\n- Seite 44 von 92 -\na) einzeln für mehr als acht Personen oder\nb) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als 16 Personen bestimmt sind,\n7. Kindertagesstätten und sonstige Einrichtungen für Kinder und Jugendliche,\n8. Schulen und Sportstätten,\n9. bauliche Anlagen und Räume von großer Ausdehnung oder mit erhöhter Brand-, Explosionsoder Verkehrsgefahr,\n10."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.7017,
+          "text_preview": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass sie die öffentliche Sicherheit oder Ordnung sowie die natürlichen Lebensgrundlagen nicht gefährden; dabei si",
+          "text_full": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass sie die öffentliche Sicherheit oder Ordnung sowie die natürlichen Lebensgrundlagen nicht gefährden; dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt entsprechend für die Änderung ihrer Benutzung und ihren Abbruch.\n(2) Die oberste Bauaufsichtsbehörde macht zur Durchführung dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen die Technischen Baubestimmungen nach § 87a als Verwaltungsvorschrift bekannt; diese sind zu beachten. Bei der Bekanntmachung kann hinsichtlich des Inhalts auf eine Fundstelle verwiesen werden; dazu wird die Anlage zur Verwaltungsvorschrift bei der obersten Bauaufsichtsbehörde geführt und vorgehalten sowie auf der Internetseite des für die oberste Bauaufsichtsbehörde zuständigen Ministeriums veröffentlicht."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6746,
+          "text_preview": "aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, wie Fertighäuser, Fertiggaragen und Silos,\n- Seite 10 von 92 und deren Verwendung sich auf die Anforderu",
+          "text_full": "aus Produkten, Baustoffen, Bauteilen sowie Bausätzen gemäß Artikel 2 Nr. 2 der Verordnung (EU) Nr. 305/2011 vorgefertigte Anlagen, die hergestellt werden, um mit dem Erdboden verbunden zu werden, wie Fertighäuser, Fertiggaragen und Silos,\n- Seite 10 von 92 und deren Verwendung sich auf die Anforderungen nach § 3 Abs. 1 Satz 1 auswirken kann.\n(11) Bauart ist das Zusammenfügen von Bauprodukten zu baulichen Anlagen oder Teilen von baulichen Anlagen."
+        }
+      ],
+      "top_score": 0.7487
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.6545,
+          "text_preview": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten",
+          "text_full": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten,\n3. Versammlungsstätten,\n4. Büro- und Verwaltungsgebäude,\n5. Gaststätten, Beherbergungsbetriebe,\n6. Krankenhäuser und ähnliche Einrichtungen der Gesundheitspflege, bauliche Anlagen zum Zweck der Pflege oder Betreuung, Tages- und Begegnungsstätten sowie Wohnheime, einschließlich der Gebäude mit Nutzungseinheiten zum Zwecke der Pflege und Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\n- Seite 44 von 92 -\na) einzeln für mehr als acht Personen oder\nb) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als 16 Personen bestimmt sind,\n7. Kindertagesstätten und sonstige Einrichtungen für Kinder und Jugendliche,\n8. Schulen und Sportstätten,\n9. bauliche Anlagen und Räume von großer Ausdehnung oder mit erhöhter Brand-, Explosionsoder Verkehrsgefahr,\n10."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 45",
+          "score": 0.6266,
+          "text_preview": "§ 45\n- Aufenthaltsräume und Wohnungen in Kellergeschossen und Dachräu- 13.02.2021 men",
+          "text_full": "§ 45\n- Aufenthaltsräume und Wohnungen in Kellergeschossen und Dachräu- 13.02.2021 men"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 47 Stellplätze und Garagen",
+          "score": 0.6105,
+          "text_preview": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl ",
+          "text_full": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und zu erwartenden Kraftfahrzeuge der Benutzerinnen und Benutzer sowie der Besucherinnen und Besucher der Anlagen; dabei ist die Möglichkeit der Inanspruch-\n- Seite 41 von 92 nahme öffentlicher Verkehrsmittel oder alternativer Mobilitätskonzepte zu berücksichtigen. Statt der Stellplätze können Garagen hergestellt werden. Die Herstellung von Garagen anstelle von Stellplätzen kann verlangt werden, wenn die in Absatz 7 genannten Erfordernisse dies gebieten. Es kann zugelassen werden, dass die notwendigen Stellplätze oder Garagen innerhalb einer angemessenen Frist nach Fertigstellung der Anlagen hergestellt werden. Abstellplätze für Fahrräder sind herzustellen, soweit ein Zugangs- und Abgangsverkehr mit Fahrrädern zu erwarten ist; die Absätze 2, 3 und 9 gelten entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 43 Aufenthaltsräume",
+          "score": 0.6092,
+          "text_preview": "§ 43 Aufenthaltsräume\n- Seite 38 von 92 -\n(1) Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von 2,40 m haben.\n(2) Aufenthaltsräume müssen unmittelbar ins Freie führende Fenster von solcher Zahl und Beschaffenheit haben, dass die Räume ausreichend mit T",
+          "text_full": "§ 43 Aufenthaltsräume\n- Seite 38 von 92 -\n(1) Aufenthaltsräume müssen eine für ihre Benutzung ausreichende Grundfläche und eine lichte Höhe von 2,40 m haben.\n(2) Aufenthaltsräume müssen unmittelbar ins Freie führende Fenster von solcher Zahl und Beschaffenheit haben, dass die Räume ausreichend mit Tageslicht beleuchtet und gelüftet werden können (notwendige Fenster). Das Rohbaumaß der Fensteröffnungen muss mindestens ein Zehntel der Grundfläche des Raums betragen; ein geringeres Maß kann zugelassen werden, wenn wegen der Lichtverhältnisse keine Bedenken bestehen. Bei Aufenthaltsräumen im Dachraum bleiben Raumteile mit einer lichten Höhe bis 1,50 m bei der Ermittlung der Grundfläche außer Betracht. Oberlichte anstelle von Fenstern können zugelassen werden, wenn die Gesundheit nicht beeinträchtigt wird.\n(3) Verglaste Vorbauten und Loggien sind vor notwendigen Fenstern zulässig, wenn die Beleuchtung mit Tageslicht und die Lüftung gewährleistet sind."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 44 Wohnungen",
+          "score": 0.5988,
+          "text_preview": "§ 44 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen br",
+          "text_full": "§ 44 Wohnungen\n(1) Jede Wohnung muss von anderen Wohnungen und fremden Räumen baulich abgeschlossen sein und einen eigenen, abschließbaren Zugang unmittelbar vom Freien, von einem Treppenraum, einem Flur oder einem anderen Vorraum haben. Wohnungen in Wohngebäuden mit nicht mehr als zwei Wohnungen brauchen nicht abgeschlossen zu sein. Wohnungen in Gebäuden, die nicht nur dem Wohnen dienen, müssen einen besonderen Zugang haben; gemeinsame Zugänge sind zulässig, wenn Gefahren oder unzumutbare Belästigungen für die Benutzerinnen und Benutzer der Wohnungen nicht entstehen.\n(2) Wohnungen müssen durchlüftet werden können. Jede Wohnung mit mehreren Aufenthaltsräumen soll einen besonnten Wohn- oder Schlafraum haben.\n(3) Jede Wohnung muss eine Küche oder Kochnische sowie einen Abstellraum haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind. Der Abstellraum soll 6 m² groß sein; davon soll eine Abstellfläche von 1 m² innerhalb der Wohnung liegen."
+        }
+      ],
+      "top_score": 0.6545
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 15 Brandschutz",
+          "score": 0.7606,
+          "text_preview": "§ 15 Brandschutz\n(1) Bauliche Anlagen müssen so angeordnet und beschaffen sein, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anf",
+          "text_full": "§ 15 Brandschutz\n(1) Bauliche Anlagen müssen so angeordnet und beschaffen sein, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in nicht brennbare, schwer entflammbare und normalentflammbare Baustoffe. Leicht entflammbare Baustoffe dürfen nicht verwendet werden; dies gilt nicht, wenn sie durch Verbindung mit anderen Baustoffen nicht mehr leicht entflammbar sind.\n(3) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in feuerbeständige, hochfeuerhemmende und feuerhemmende Bauteile. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden. Feuerbeständige Bauteile müssen mindestens in den wesentlichen Teilen aus nicht brennbaren Baustoffen bestehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 87 Ermächtigung zum Erlass von Rechts- und Verwaltungsvorschriften",
+          "score": 0.7107,
+          "text_preview": "die nähere Bestimmung allgemeiner Anforderungen in § 39, insbesondere über Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung und Anlagen zur Verteilung von Wärme oder zur Warmwasserversorgung sowie über deren Betrieb, über Brennstoff-\n- Seite 81 von 92 leitungsanlagen, ",
+          "text_full": "die nähere Bestimmung allgemeiner Anforderungen in § 39, insbesondere über Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung und Anlagen zur Verteilung von Wärme oder zur Warmwasserversorgung sowie über deren Betrieb, über Brennstoff-\n- Seite 81 von 92 leitungsanlagen, über Aufstellräume für Feuerstätten, Verbrennungsmotoren und Verdichter, über die Lagerung von Brennstoffen sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen; dabei können Erleichterungen unter bestimmten Voraussetzungen allgemein für zulässig erklärt und es kann vorgesehen werden, dass für Feuerungsanlagen besonderer Art andere Anforderungen gestellt werden können,\n5. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen und Räume für ihre Errichtung, Änderung, Instandhaltung, Nutzung und ihren Betrieb ergeben (§§ 50 und 51) sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen,\n6."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 40 Lüftungsanlagen, Installationsschächte und -kanäle, Leitungsdurchführungen",
+          "score": 0.7042,
+          "text_preview": "§ 40 Lüftungsanlagen, Installationsschächte und -kanäle, Leitungsdurchführungen\n(1) Lüftungsanlagen müssen betriebs- und brandsicher sein. Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nicht",
+          "text_full": "§ 40 Lüftungsanlagen, Installationsschächte und -kanäle, Leitungsdurchführungen\n(1) Lüftungsanlagen müssen betriebs- und brandsicher sein. Sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nicht brennbaren Baustoffen bestehen; Abweichungen können zugelassen werden, wenn der Brandschutz gewährleistet ist. Sie dürfen Brandwände und Wände, die anstelle von Brandwänden zulässig sind, sowie raumabschließende Bauteile in Gebäuden der Gebäudeklassen 3 bis 5, die feuerwiderstandsfähig sein müssen, nur überbrücken, wenn eine Brandausbreitung ausreichend lange nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind; dies gilt nicht für Decken innerhalb von Wohnungen sowie innerhalb von Nutzungseinheiten mit einer Nutzfläche von nicht mehr als 200 m² in höchstens zwei Geschossen.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen. Die Weiterleitung von Schall in fremde Räume muss gedämmt sein."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 39 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung",
+          "score": 0.7006,
+          "text_preview": "§ 39 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baul",
+          "text_full": "§ 39 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht gereinigt werden können. Die Sätze 1 bis 3 gelten nicht für Feuerungsanlagen, die nach dem Stand der Technik ohne eine Einrichtung zur Ableitung der Abgase betrieben werden können.\n(4) Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.6647,
+          "text_preview": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten",
+          "text_full": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten,\n3. Versammlungsstätten,\n4. Büro- und Verwaltungsgebäude,\n5. Gaststätten, Beherbergungsbetriebe,\n6. Krankenhäuser und ähnliche Einrichtungen der Gesundheitspflege, bauliche Anlagen zum Zweck der Pflege oder Betreuung, Tages- und Begegnungsstätten sowie Wohnheime, einschließlich der Gebäude mit Nutzungseinheiten zum Zwecke der Pflege und Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\n- Seite 44 von 92 -\na) einzeln für mehr als acht Personen oder\nb) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als 16 Personen bestimmt sind,\n7. Kindertagesstätten und sonstige Einrichtungen für Kinder und Jugendliche,\n8. Schulen und Sportstätten,\n9. bauliche Anlagen und Räume von großer Ausdehnung oder mit erhöhter Brand-, Explosionsoder Verkehrsgefahr,\n10."
+        }
+      ],
+      "top_score": 0.7606
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 7 Zugänge und Zufahrten",
+          "score": 0.6855,
+          "text_preview": "§ 7 Zugänge und Zufahrten\n(1) Zu Gebäuden der Gebäudeklassen 2 und 3 ist von öffentlichen Verkehrsflächen ein geradliniger Zu- oder Durchgang zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Der Zu- oder Durchgang muss 1,25 m breit sein. Bei Türöffnung",
+          "text_full": "§ 7 Zugänge und Zufahrten\n(1) Zu Gebäuden der Gebäudeklassen 2 und 3 ist von öffentlichen Verkehrsflächen ein geradliniger Zu- oder Durchgang zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Der Zu- oder Durchgang muss 1,25 m breit sein. Bei Türöffnungen und anderen geringfügigen Einengungen genügt eine lichte Breite von 1 m. Die lichte Höhe des Zu- oder Durchgangs muss 2 m betragen.\n(2) Zu Gebäuden der Gebäudeklassen 4 und 5 ist anstelle eines Zu- oder Durchgangs nach Absatz 1 eine 3 m breite Zu- oder Durchfahrt zu schaffen. Die lichte Höhe der Zu- oder Durchfahrt muss senkrecht zur Fahrbahn gemessen 3,50 m betragen. Wände und Decken von Durchfahrten müssen feuerbeständig sein.\n(3) Eine andere Verbindung als nach den Absätzen 1 oder 2 kann zugelassen werden, wenn dadurch der Einsatz der Feuerwehr nicht behindert wird. Bei Gebäuden, deren zweiter Rettungsweg nicht über Rettungsgeräte der Feuerwehr führt, kann eine Verbindung nach den Absätzen 1 oder 2 verlangt werden, wenn der Einsatz der Feuerwehr dies erfordert.\n(4) Bei Gebäuden der Gebäudeklassen 4 und 5 müssen die mit Rettungsgeräten der Feuerwehr erreichbaren Stellen (§ 15 Abs."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 15 Brandschutz",
+          "score": 0.6845,
+          "text_preview": "Bei Gebäuden, die nicht Hochhäuser sind, darf der zweite Rettungsweg über mit vorhandenen Rettungsgeräten der Feuerwehr erreichbare Stellen (Oberkante der Brüstung eines notwendigen Fensters oder sonstige geeignete Stellen) führen; diese Stellen dürfen bei Gebäuden der Gebäudeklassen 2 und 3 nicht m",
+          "text_full": "Bei Gebäuden, die nicht Hochhäuser sind, darf der zweite Rettungsweg über mit vorhandenen Rettungsgeräten der Feuerwehr erreichbare Stellen (Oberkante der Brüstung eines notwendigen Fensters oder sonstige geeignete Stellen) führen; diese Stellen dürfen bei Gebäuden der Gebäudeklassen 2 und 3 nicht mehr als 8 m über der Geländeoberfläche liegen. Abweichend von Satz 1 genügt ein Rettungsweg,\n1. wenn der Treppenraum der notwendigen Treppe so angeordnet und beschaffen ist, dass Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum),\n2. für eingeschossige Nutzungseinheiten, die zu ebener Erde liegen, wenn die Rettung über einen direkten Ausgang ins Freie möglich ist.\n(5) Bauliche Anlagen, bei denen Blitzschlag leicht eintreten oder zu besonders schweren Folgen führen kann, sind mit dauernd wirksamen Blitzschutzanlagen zu versehen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.6678,
+          "text_preview": "Brandschutzeinrichtungen und Brandschutzvorkehrungen sowie Löschwasserrückhalteeinrichtungen,\n6. Feuerungsanlagen, Heizräume sowie Räume für die Aufstellung ortsfester Verbrennungsmotoren und Verdichter,\n7. Anordnung und Herstellung der Aufzüge sowie der Treppen, Ausgänge und sonstigen Rettungswege,",
+          "text_full": "Brandschutzeinrichtungen und Brandschutzvorkehrungen sowie Löschwasserrückhalteeinrichtungen,\n6. Feuerungsanlagen, Heizräume sowie Räume für die Aufstellung ortsfester Verbrennungsmotoren und Verdichter,\n7. Anordnung und Herstellung der Aufzüge sowie der Treppen, Ausgänge und sonstigen Rettungswege,\n8. zulässige Zahl der Benutzerinnen und Benutzer, die Anordnung und Zahl der zulässigen Sitzund Stehplätze bei Versammlungsstätten, Tribünen und Fliegenden Bauten,\n9. Lüftung,\n10. Beleuchtung und Energieversorgung,\n11. Wasserversorgung,\n12. Aufbewahrung und Beseitigung von Abwasser und Abfällen,\n13. Stellplätze und Garagen,\n14. Anlage der Zu- und Abfahrten, einschließlich Maßgaben für bauleitende Personen nach § 56a. Als Nachweis dafür, dass die besonderen Anforderungen erfüllt sind, können Bescheinigungen und besondere Nachweise wie ein Brandschutzkonzept verlangt werden. Ferner kann gefordert werden, dass Prüfungen und deren Wiederholungen in festzulegenden Zeitabständen durch die Bauaufsichtsbehörde oder sachverständige Personen oder Stellen vorgenommen werden."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.6644,
+          "text_preview": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten",
+          "text_full": "Soweit notwendig, können auch Anforderungen an den Betrieb und die Nutzung der Anlagen und Räume gestellt werden einschließlich der Bestellung und der Qualifikation einer oder eines Brandschutzbeauftragten.\n(2) Die Bestimmungen des Absatzes 1 gelten insbesondere für\n1. Hochhäuser,\n2. Verkaufsstätten,\n3. Versammlungsstätten,\n4. Büro- und Verwaltungsgebäude,\n5. Gaststätten, Beherbergungsbetriebe,\n6. Krankenhäuser und ähnliche Einrichtungen der Gesundheitspflege, bauliche Anlagen zum Zweck der Pflege oder Betreuung, Tages- und Begegnungsstätten sowie Wohnheime, einschließlich der Gebäude mit Nutzungseinheiten zum Zwecke der Pflege und Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\n- Seite 44 von 92 -\na) einzeln für mehr als acht Personen oder\nb) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als 16 Personen bestimmt sind,\n7. Kindertagesstätten und sonstige Einrichtungen für Kinder und Jugendliche,\n8. Schulen und Sportstätten,\n9. bauliche Anlagen und Räume von großer Ausdehnung oder mit erhöhter Brand-, Explosionsoder Verkehrsgefahr,\n10."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 35 Notwendige Flure und Gänge",
+          "score": 0.6567,
+          "text_preview": "§ 35 Notwendige Flure und Gänge\n(1) Flure, über die Rettungswege von Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu notwendigen Treppenräumen oder zu Ausgängen ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreic",
+          "text_full": "§ 35 Notwendige Flure und Gänge\n(1) Flure, über die Rettungswege von Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu notwendigen Treppenräumen oder zu Ausgängen ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. Als notwendige Flure gelten nicht\n1. Flure innerhalb von Wohnungen oder sonstigen Nutzungseinheiten vergleichbarer Größe,\n2. Flure in Gebäuden der Gebäudeklassen 1 und 2,\n3. Flure innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen und deren Nutzfläche in einem Geschoss nicht mehr als 400 m² beträgt.\n(2) Die benutzbare Breite notwendiger Flure muss für den größten zu erwartenden Verkehr ausreichen. Notwendige Flure von mehr als 30 m Länge sollen durch nicht abschließbare, rauchdichte und selbstschließende Türen in Rauchabschnitte unterteilt werden. Stufen in Fluren sind nur als Folge von mindestens drei Stufen zulässig.\n- Seite 34 von 92 -\n(3) Wände notwendiger Flure sind als raumabschließende Bauteile in Gebäuden der\n1."
+        }
+      ],
+      "top_score": 0.6855
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "score": 0.707,
+          "text_preview": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "text_full": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "score": 0.6976,
+          "text_preview": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen\n(1) Soweit nach diesem Gesetz oder nach Vorschriften aufgrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, kann zugelassen werden, dass sie sich ganz oder teilweise a",
+          "text_full": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen\n(1) Soweit nach diesem Gesetz oder nach Vorschriften aufgrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, kann zugelassen werden, dass sie sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut und auf die auf diesen Grundstücken erforderlichen Abstände und Abstandsflächen nicht angerechnet werden. Vorschriften, nach denen eine Überbauung zulässig ist oder zugelassen werden kann, bleiben unberührt.\n(2) Die bei der Errichtung eines Gebäudes vorgeschriebenen Abstände und Abstandsflächen dürfen bei nachträglichen Grenzänderungen und Grundstücksteilungen nicht unterschritten oder überbaut werden. Dabei muss die Erschließung gesichert sein und es dürfen auch sonst keine baurechtlichen Vorschriften entgegenstehen. Absatz 1 gilt entsprechend. Die Zulassung von Abweichungen nach § 69 ist zu beantragen; die §§ 63, 65, 68 und 70 gelten entsprechend.\n- Seite 16 von 92 -"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 12 Einfriedungen Dritter Teil Bauliche Anlagen Erster Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "score": 0.6927,
+          "text_preview": "§ 12 Einfriedungen Dritter Teil Bauliche Anlagen Erster Abschnitt Allgemeine Anforderungen an die Bauausführung",
+          "text_full": "§ 12 Einfriedungen Dritter Teil Bauliche Anlagen Erster Abschnitt Allgemeine Anforderungen an die Bauausführung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 53 Baustellen",
+          "score": 0.6851,
+          "text_preview": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsfläch",
+          "text_full": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsflächen, Versorgungs-, Abwasser- und Meldeanlagen sowie Pegel- und Grundwassermessstellen, Vermessungs- und Grenzmarken sind während der Bauarbeiten zu schützen und, soweit erforderlich, unter den notwendigen Sicherheitsvorkehrungen zugänglich zu halten. Bäume, Hecken und andere Gehölze, die aufgrund öffentlich-rechtlicher Vorschriften zu erhalten sind, müssen während der Bauarbeiten geschützt werden.\n(3) Bei der Ausführung genehmigungsbedürftiger Vorhaben ist an der Baustelle eine von der Bauaufsichtsbehörde ausgehändigte Kennzeichnung anzubringen, die über die Erteilung der Baugenehmigung unter Angabe des Ausstellungsdatums, des Aktenzeichens sowie des Namens und der Rufnummer der Bauherrin oder des Bauherrn Auskunft gibt."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 86 Baulasten",
+          "score": 0.6808,
+          "text_preview": "§ 86 Baulasten\n(1) Die Person, die das Eigentum an dem Grundstück innehat, kann durch Erklärung gegenüber der Bauaufsichtsbehörde öffentlich-rechtliche Verpflichtungen zu einem ihr Grundstück betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffentlich-rechtlichen Vorsch",
+          "text_full": "§ 86 Baulasten\n(1) Die Person, die das Eigentum an dem Grundstück innehat, kann durch Erklärung gegenüber der Bauaufsichtsbehörde öffentlich-rechtliche Verpflichtungen zu einem ihr Grundstück betreffenden Tun, Dulden oder Unterlassen übernehmen, die sich nicht schon aus öffentlich-rechtlichen Vorschriften ergeben (Baulast). Baulasten werden unbeschadet der Rechte Dritter mit der Eintragung in das Baulastenverzeichnis wirksam und wirken auch gegenüber den Rechtsnachfolgenden.\n(2) Die Erklärung nach Absatz 1 bedarf der Schriftform. Eine Erklärung in elektronischer Form ist ausgeschlossen. Die Unterschrift muss öffentlich beglaubigt oder vor der Bauaufsichtsbehörde geleistet oder vor ihr anerkannt werden.\n(3) Das Baulastenverzeichnis wird von der Bauaufsichtsbehörde geführt. In das Baulastenverzeichnis können auch Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte eingetragen werden. Eintragungen in das Baulastenverzeichnis sind den zuständigen Vermessungs- und Katasterbehörden zum Zweck der Aufnahme eines Hinweises in das Liegenschaftskataster mitzuteilen.\n(4) Die Baulast geht durch Verzicht der Bauaufsichtsbehörde unter."
+        }
+      ],
+      "top_score": 0.707
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 15 Brandschutz",
+          "score": 0.7924,
+          "text_preview": "§ 15 Brandschutz\n(1) Bauliche Anlagen müssen so angeordnet und beschaffen sein, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anf",
+          "text_full": "§ 15 Brandschutz\n(1) Bauliche Anlagen müssen so angeordnet und beschaffen sein, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in nicht brennbare, schwer entflammbare und normalentflammbare Baustoffe. Leicht entflammbare Baustoffe dürfen nicht verwendet werden; dies gilt nicht, wenn sie durch Verbindung mit anderen Baustoffen nicht mehr leicht entflammbar sind.\n(3) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in feuerbeständige, hochfeuerhemmende und feuerhemmende Bauteile. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden. Feuerbeständige Bauteile müssen mindestens in den wesentlichen Teilen aus nicht brennbaren Baustoffen bestehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.7681,
+          "text_preview": "§ 32 Dächer\n(1) Die Bedachung muss gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n- Seit",
+          "text_full": "§ 32 Dächer\n(1) Die Bedachung muss gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n- Seite 29 von 92 -\n1. einen Abstand von der Grundstücksgrenze von 12 m, bei Gebäuden der Gebäudeklassen 1 und 2 von 6 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von 15 m, bei Gebäuden der Gebäudeklassen 1 und 2 von 9 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von 24 m, bei Gebäuden der Gebäudeklassen 1 und 2 von 12 m,\n4. von kleinen, nur Nebenzwecken dienenden Gebäuden ohne Feuerstätten auf demselben Grundstück einen Abstand von 5 m einhalten, soweit wegen des Brandverhaltens der Bedachung oder aufgrund von Vorkehrungen nicht geringere Abstände zugelassen werden. In den Fällen des Satzes 1 Nr. 1 werden angrenzende öffentliche Verkehrs-, Grün- und Wasserflächen zur Hälfte eingerechnet.\n(3) Die Absätze 1 und 2 gelten nicht für\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.7664,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände sind als raumabschließende Bauteile zur Verhinderung der Brandausbreitung innerhalb von Geschossen herzustellen\n1. zwischen Wohnungen sowie zwischen Wohnungen und fremden Räumen,\n2. zwischen sonstigen Nutzungseinheiten.\n(2) Die Trennwände müssen in Gebäuden der\n1. Gebä",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände sind als raumabschließende Bauteile zur Verhinderung der Brandausbreitung innerhalb von Geschossen herzustellen\n1. zwischen Wohnungen sowie zwischen Wohnungen und fremden Räumen,\n2. zwischen sonstigen Nutzungseinheiten.\n(2) Die Trennwände müssen in Gebäuden der\n1. Gebäudeklasse 5 feuerbeständig,\n2. Gebäudeklasse 4 hochfeuerhemmend, jeweils im obersten Geschoss im Dachraum feuerhemmend,\n3. Gebäudeklassen 2 und 3 feuerhemmend sein.\n(3) Die Trennwände sind bis zur Rohdecke oder bis unter die Dachhaut zu führen. Öffnungen sind zulässig, wenn sie für die Benutzung des Gebäudes erforderlich sind. Sie sind mit mindestens feuerhemmenden, dicht- und selbstschließenden Abschlüssen zu versehen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.7559,
+          "text_preview": "§ 30 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile feuerbeständig sein und aus nicht brennbaren Baustoffen bestehen; sie müssen so beschaffen sein, dass sie bei einem Brand ihre Standsicherheit auch unter zusätzlicher mechanischer Beanspruchung nicht verlieren und die Brandausbreit",
+          "text_full": "§ 30 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile feuerbeständig sein und aus nicht brennbaren Baustoffen bestehen; sie müssen so beschaffen sein, dass sie bei einem Brand ihre Standsicherheit auch unter zusätzlicher mechanischer Beanspruchung nicht verlieren und die Brandausbreitung auf andere Gebäude oder Gebäudeabschnitte verhindern.\n(2) Brandwände sind herzustellen\n1. zum Abschluss von Gebäuden, soweit die Abschlusswand in einem Abstand bis zu 2,50 m von der Nachbargrenze errichtet wird, es sei denn, dass ein Abstand von 5 m zu auf dem Nachbargrundstück bestehenden oder nach baurechtlichen Vorschriften zulässigen Gebäuden öffent-\n- Seite 26 von 92 lich-rechtlich gesichert ist; dies gilt nicht für Gebäude ohne Aufenthaltsräume, Toiletten oder Feuerstätten bis zu 50 m³ umbauten Raums,\n2. zum Abschluss von aneinander gereihten Gebäuden auf demselben Grundstück in Abständen von höchstens 60 m, bei Gebäuden, deren tragende Bauteile in den wesentlichen Teilen aus brennbaren Baustoffen bestehen, in Abständen von höchstens 40 m,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 35 Notwendige Flure und Gänge",
+          "score": 0.7555,
+          "text_preview": "Gebäudeklassen 4 und 5 feuerhemmend und in den wesentlichen Teilen aus nicht brennbaren Baustoffen oder feuerhemmend und mit einer gegen Brandeinwirkung widerstandsfähigen Bekleidung aus nicht brennbaren Baustoffen,\n2. Gebäudeklasse 3 feuerhemmend herzustellen. Die Wände sind bis an die Rohdecke ode",
+          "text_full": "Gebäudeklassen 4 und 5 feuerhemmend und in den wesentlichen Teilen aus nicht brennbaren Baustoffen oder feuerhemmend und mit einer gegen Brandeinwirkung widerstandsfähigen Bekleidung aus nicht brennbaren Baustoffen,\n2. Gebäudeklasse 3 feuerhemmend herzustellen. Die Wände sind bis an die Rohdecke oder bis an einen oberen Raumabschluss zu führen, der hinsichtlich Feuerwiderstand und Bauart den Wänden entspricht; Türen in diesen Wänden müssen dicht schließend sein.\n(4) Offene Gänge vor den Außenwänden, die als Rettungswege dienen, müssen in ihren tragenden Teilen den Anforderungen an tragende und aussteifende Wände sowie an Decken entsprechen. Für Wände und Brüstungen von offenen Gängen mit nur einer Fluchtrichtung gilt Absatz 3 entsprechend; Fenster sind in diesen Außenwänden ab einer Brüstungshöhe von 0,90 m zulässig.\n(5) Bekleidungen einschließlich Unterdecken und Dämmstoffe müssen in notwendigen Fluren und offenen Gängen aus nicht brennbaren Baustoffen bestehen; entsprechende Bekleidungen sind auch erforderlich, wenn Wände und Decken in diesen Fluren und Gängen aus brennbaren Baustoffen bestehen. Leitungsanlagen sind nur zulässig, wenn der Brandschutz gewährleistet ist."
+        }
+      ],
+      "top_score": 0.7924
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 53 Baustellen",
+          "score": 0.774,
+          "text_preview": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsfläch",
+          "text_full": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsflächen, Versorgungs-, Abwasser- und Meldeanlagen sowie Pegel- und Grundwassermessstellen, Vermessungs- und Grenzmarken sind während der Bauarbeiten zu schützen und, soweit erforderlich, unter den notwendigen Sicherheitsvorkehrungen zugänglich zu halten. Bäume, Hecken und andere Gehölze, die aufgrund öffentlich-rechtlicher Vorschriften zu erhalten sind, müssen während der Bauarbeiten geschützt werden.\n(3) Bei der Ausführung genehmigungsbedürftiger Vorhaben ist an der Baustelle eine von der Bauaufsichtsbehörde ausgehändigte Kennzeichnung anzubringen, die über die Erteilung der Baugenehmigung unter Angabe des Ausstellungsdatums, des Aktenzeichens sowie des Namens und der Rufnummer der Bauherrin oder des Bauherrn Auskunft gibt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 88 Örtliche Bauvorschriften",
+          "score": 0.7627,
+          "text_preview": "§ 88 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung Vorschriften erlassen über\n1. die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Durchführung gestalterischer Absichten in bestimmten bebauten oder unbebauten Teilen des Gemeindegebiets; die Vorsc",
+          "text_full": "§ 88 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung Vorschriften erlassen über\n1. die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Durchführung gestalterischer Absichten in bestimmten bebauten oder unbebauten Teilen des Gemeindegebiets; die Vorschriften über Werbeanlagen können sich auch auf deren Art, Größe und Anbringungsort erstrecken,\n2. besondere Anforderungen gestalterischer Art an bauliche Anlagen, Werbeanlagen und Warenautomaten zum Schutz bestimmter Bauten, Straßen, Plätze oder Ortsteile von kultureller, historischer oder städtebaulicher Bedeutung oder zum Schutz von Kultur- und Naturdenkmälern; dabei können nach den örtlichen Gegebenheiten insbesondere bestimmte Arten von Werbeanlagen und Warenautomaten und die Werbung an bestimmten baulichen Anlagen ausgeschlossen sowie Werbeanlagen und Warenautomaten auf Teile baulicher Anlagen und auf bestimmte Farben beschränkt werden,\n3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 49 Behelfsbauten und untergeordnete Gebäude",
+          "score": 0.7594,
+          "text_preview": "§ 49 Behelfsbauten und untergeordnete Gebäude\n(1) Für bauliche Anlagen, die nur für eine begrenzte Zeit aufgestellt werden sollen (Behelfsbauten), können Erleichterungen von den §§ 27 bis 48 zugelassen werden, wenn keine Gründe nach § 3 Abs. 1 entgegenstehen.\n(2) Absatz 1 gilt auch für freistehende ",
+          "text_full": "§ 49 Behelfsbauten und untergeordnete Gebäude\n(1) Für bauliche Anlagen, die nur für eine begrenzte Zeit aufgestellt werden sollen (Behelfsbauten), können Erleichterungen von den §§ 27 bis 48 zugelassen werden, wenn keine Gründe nach § 3 Abs. 1 entgegenstehen.\n(2) Absatz 1 gilt auch für freistehende andere Gebäude, die eingeschossig und nicht für einen Aufenthalt oder nur für einen vorübergehenden Aufenthalt bestimmt sind wie Lauben und Unterkunftshütten."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 47 Stellplätze und Garagen",
+          "score": 0.7365,
+          "text_preview": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl ",
+          "text_full": "§ 47 Stellplätze und Garagen\n(1) Bauliche Anlagen sowie andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, dürfen nur errichtet werden, wenn Stellplätze in ausreichender Zahl und Größe sowie in geeigneter Beschaffenheit hergestellt werden (notwendige Stellplätze). Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und zu erwartenden Kraftfahrzeuge der Benutzerinnen und Benutzer sowie der Besucherinnen und Besucher der Anlagen; dabei ist die Möglichkeit der Inanspruch-\n- Seite 41 von 92 nahme öffentlicher Verkehrsmittel oder alternativer Mobilitätskonzepte zu berücksichtigen. Statt der Stellplätze können Garagen hergestellt werden. Die Herstellung von Garagen anstelle von Stellplätzen kann verlangt werden, wenn die in Absatz 7 genannten Erfordernisse dies gebieten. Es kann zugelassen werden, dass die notwendigen Stellplätze oder Garagen innerhalb einer angemessenen Frist nach Fertigstellung der Anlagen hergestellt werden. Abstellplätze für Fahrräder sind herzustellen, soweit ein Zugangs- und Abgangsverkehr mit Fahrrädern zu erwarten ist; die Absätze 2, 3 und 9 gelten entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 47 Stellplätze und Garagen",
+          "score": 0.7364,
+          "text_preview": "(2) Werden bauliche Anlagen oder andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, geändert oder ändert sich ihre Benutzung, so sind Stellplätze in solcher Zahl und Größe herzustellen, dass sie die infolge der Änderung zusätzlich zu erwartenden Kraftfahrzeuge aufnehmen könn",
+          "text_full": "(2) Werden bauliche Anlagen oder andere Anlagen, bei denen ein Zugangs- oder Abgangsverkehr zu erwarten ist, geändert oder ändert sich ihre Benutzung, so sind Stellplätze in solcher Zahl und Größe herzustellen, dass sie die infolge der Änderung zusätzlich zu erwartenden Kraftfahrzeuge aufnehmen können. Dies gilt nicht, wenn Wohnraum in Gebäuden, deren Fertigstellung mindestens zwei Jahre zurückliegt, durch Wohnungsteilung, Änderung der Nutzung, Aufstocken oder durch Ausbau des Dachgeschosses geschaffen wird.\n(3) Die Stellplätze oder Garagen sind auf dem Grundstück oder, sofern öffentlich-rechtlich gesichert, auf einem in zumutbarer Entfernung liegenden anderen Grundstück herzustellen. Die Bauaufsichtsbehörde kann, wenn Gründe des Verkehrs dies erfordern, im Einzelfall bestimmen, ob die Stellplätze oder Garagen auf dem zu bebauenden Grundstück oder einem anderen Grundstück herzustellen sind.\n(4) Ist die Herstellung notwendiger Stellplätze oder Garagen nicht oder nur unter großen Schwierigkeiten möglich oder ist sie aufgrund einer Satzung nach § 88 Abs."
+        }
+      ],
+      "top_score": 0.774
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 74 Geltungsdauer der Baugenehmigung",
+          "score": 0.7135,
+          "text_preview": "§ 74 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von vier Jahren nach ihrer Zustellung oder Bekanntgabe nach Maßgabe des § 9 Abs. 1 OZG mit der Ausführung des Vorhabens nicht begonnen oder die Ausführung vier Jahre unterbrochen worden ",
+          "text_full": "§ 74 Geltungsdauer der Baugenehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von vier Jahren nach ihrer Zustellung oder Bekanntgabe nach Maßgabe des § 9 Abs. 1 OZG mit der Ausführung des Vorhabens nicht begonnen oder die Ausführung vier Jahre unterbrochen worden ist. Die Ausführung eines Vorhabens gilt nur dann als begonnen oder als nicht unterbrochen, wenn innerhalb der Frist wesentliche Bauarbeiten ausgeführt wurden.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu vier Jahre verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist. Die Verlängerung kann mit neuen Nebenbestimmungen verbunden werden. Der Bescheid über die Verlängerung ist der Bauherrin oder dem Bauherrn zuzustellen oder nach Maßgabe des § 9 Abs. 1 OZG bekannt zu geben; § 70 Abs. 4 und 5 gilt entsprechend."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 66 Vereinfachtes Genehmigungsverfahren",
+          "score": 0.7109,
+          "text_preview": "1 bis 10 ist über den Bauantrag innerhalb einer Frist von einem Monat, bei Vorhaben nach Absatz 2 Satz 1 und 3 innerhalb einer Frist von drei Monaten zu entscheiden. Die Frist beginnt\n1. 15 Arbeitstage nach Eingang des Bauantrags bei der Bauaufsichtsbehörde oder\n2. 15 Arbeitstage nach Eingang der ve",
+          "text_full": "1 bis 10 ist über den Bauantrag innerhalb einer Frist von einem Monat, bei Vorhaben nach Absatz 2 Satz 1 und 3 innerhalb einer Frist von drei Monaten zu entscheiden. Die Frist beginnt\n1. 15 Arbeitstage nach Eingang des Bauantrags bei der Bauaufsichtsbehörde oder\n2. 15 Arbeitstage nach Eingang der verlangten Unterlagen, wenn die Bauaufsichtsbehörde vor Fristbeginn eine Aufforderung nach § 65 Abs. 2 Satz 2 versandt hat; ist das Einvernehmen oder die Zustimmung der Gemeinde nach dem Baugesetzbuch erforderlich, beginnt diese Frist frühestens mit Eingang der Mitteilung über die Entscheidung der Gemeinde oder, sofern das Einvernehmen oder die Zustimmung der Gemeinde durch Fristablauf als erteilt gilt, mit dem Zeitpunkt, bis zu dem die Mitteilung über die Verweigerung des Einvernehmens oder der Zustimmung der Gemeinde bei der Bauaufsichtsbehörde hätte eingehen müssen. Die Bauaufsichtsbehörde kann die Frist aus wichtigem Grund um bis zu zwei Monate verlängern. Als wichtiger Grund gelten insbesondere die notwendige Beteiligung anderer Behörden sowie Entscheidungen über Abweichungen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 79 Benutzung der baulichen Anlagen",
+          "score": 0.6915,
+          "text_preview": "§ 79 Benutzung der baulichen Anlagen\n(1) Eine bauliche Anlage darf erst benutzt werden, wenn sie ordnungsgemäß fertig gestellt und sicher benutzbar ist. Genehmigungsbedürftige bauliche Anlagen und bauliche Anlagen, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, dürfen frühestens ei",
+          "text_full": "§ 79 Benutzung der baulichen Anlagen\n(1) Eine bauliche Anlage darf erst benutzt werden, wenn sie ordnungsgemäß fertig gestellt und sicher benutzbar ist. Genehmigungsbedürftige bauliche Anlagen und bauliche Anlagen, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, dürfen frühestens eine Woche nach dem in der Anzeige nach § 78 Abs. 2 Satz 1 oder 2 genannten Zeitpunkt der abschließenden Fertigstellung benutzt werden. Die Bauaufsichtsbehörde soll auf Antrag zulassen, dass die bauliche Anlage ganz oder teilweise schon früher benutzt wird, wenn wegen der öffentlichen Sicherheit oder Ordnung keine Bedenken bestehen.\n(2) Bei der Errichtung oder Änderung von Feuerungsanlagen muss sich die Bauherrin oder der Bauherr vor der Inbetriebnahme die sichere Benutzbarkeit der Abgasanlagen und der Anschlüsse der Feu-\n- Seite 78 von 92 erstätten durch die bevollmächtigte Bezirksschornsteinfegerin oder den bevollmächtigten Bezirksschornsteinfeger bescheinigen lassen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 78 Bauüberwachung",
+          "score": 0.6759,
+          "text_preview": "Die abschließende Fertigstellung baulicher Anlagen, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, ist der Bauaufsichtsbehörde von der Bauherrin oder dem Bauherrn zwei Wochen vorher anzuzeigen, um ihr eine Besichtigung des Bauzustands zu ermöglichen. Hat die Bauherrin oder der Bauh",
+          "text_full": "Die abschließende Fertigstellung baulicher Anlagen, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, ist der Bauaufsichtsbehörde von der Bauherrin oder dem Bauherrn zwei Wochen vorher anzuzeigen, um ihr eine Besichtigung des Bauzustands zu ermöglichen. Hat die Bauherrin oder der Bauherr Bescheinigungen sachverständiger Personen nach § 65 Abs. 4 vorgelegt, sind mit der Anzeige über die abschließende Fertigstellung Bescheinigungen dieser Personen einzureichen, dass sie die Bauausführung bezüglich der von ihnen zu verantwortenden Bauunterlagen überwacht haben. In den Fällen des § 66 Abs. 1 und des § 67 Abs. 1 gilt Satz 3 sinngemäß hinsichtlich einer Erklärung der Person, die den Standsicherheitsnachweis aufgestellt hat.\n(3) Der Rohbau ist fertig gestellt, wenn die tragenden Teile, Schornsteine, Brandwände, Treppenräume und die Dachkonstruktion vollendet sind. Zur Besichtigung des Rohbaus sind die Bauteile, die für die Standsicherheit und, soweit möglich, die Bauteile, die für den Brandschutz, den Wärme- und den Schallschutz sowie für die Abwasserbeseitigung wesentlich sind, derart offen zu halten, dass Maße\n- Seite 77 von 92 und Ausführungsart geprüft werden können."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 89 Ordnungswidrigkeiten",
+          "score": 0.6638,
+          "text_preview": "1 mit der Ausführung eines genehmigungsbedürftigen Vorhabens beginnt,\n11. entgegen § 78 Abs. 2 die Fertigstellung des Rohbaus oder die abschließende Fertigstellung der baulichen Anlage nicht oder nicht fristgerecht anzeigt oder mit der Anzeige der abschließenden Fertigstellung die erforderlichen Bes",
+          "text_full": "1 mit der Ausführung eines genehmigungsbedürftigen Vorhabens beginnt,\n11. entgegen § 78 Abs. 2 die Fertigstellung des Rohbaus oder die abschließende Fertigstellung der baulichen Anlage nicht oder nicht fristgerecht anzeigt oder mit der Anzeige der abschließenden Fertigstellung die erforderlichen Bescheinigungen nicht, nicht richtig oder nicht vollständig vorlegt,\n12. entgegen § 78 Abs. 5 mit dem Innenausbau beginnt,\n13. entgegen § 78 Abs. 6 bestimmte Arbeiten fortsetzt oder eine bauliche Anlage benutzt,\n14. entgegen § 78 Abs. 7 Satz 1 Beginn oder Beendigung bestimmter Bauarbeiten nicht anzeigt,\n15. entgegen § 79 Abs. 1 eine bauliche Anlage benutzt oder entgegen § 79 Abs. 2 Feuerungsanlagen in Betrieb nimmt,\n16. einer vollziehbaren Einstellungsanordnung nach § 80 Abs. 1 zuwiderhandelt,\n17. einer vollziehbaren Benutzungsuntersagung nach § 81 zuwiderhandelt oder\n18. gegen eine Verfahrens- oder Betriebsbestimmung verstößt, die in einer aufgrund des § 87 Abs. 1 Nr. 5 oder 6 oder Abs. 7 erlassenen Rechtsverordnung enthalten ist oder auf die verwiesen wird, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldbestimmung verweist."
+        }
+      ],
+      "top_score": 0.7135
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 70 Baugenehmigung",
+          "score": 0.7555,
+          "text_preview": "§ 70 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine baurechtlichen oder sonstigen öffentlich-rechtlichen Vorschriften entgegenstehen. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfü",
+          "text_full": "§ 70 Baugenehmigung\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine baurechtlichen oder sonstigen öffentlich-rechtlichen Vorschriften entgegenstehen. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen; § 66 Abs. 5 Satz 2 ist nicht anzuwenden. Die Baugenehmigung wird unbeschadet privater Rechte Dritter erteilt und wirkt für und gegen die Rechtsnachfolgenden der Bauherrin oder des Bauherrn. Die Baugenehmigung bedarf der Schriftform (Bauschein); sie und ihre Nebenbestimmungen müssen nur insoweit begründet werden, als Einwendungen von Nachbarinnen und Nachbarn nicht entsprochen wird. Wird die Baugenehmigung mit Nebenbestimmungen erteilt, kann eine Sicherheitsleistung verlangt werden.\n(2) Bauliche Anlagen, die nur für eine begrenzte Zeit errichtet werden sollen, können widerruflich oder befristet genehmigt werden. Die Baugenehmigung soll nur erteilt werden, wenn die Beseitigung bei Widerruf oder nach Fristablauf gesichert ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 62 Genehmigungsfreie Vorhaben",
+          "score": 0.734,
+          "text_preview": "§ 62 Genehmigungsfreie Vorhaben\n(1) Unbeschadet einer nach anderen Vorschriften erforderlichen Genehmigung bedürfen keiner Baugenehmigung das Errichten, Herstellen, Aufstellen, Anbringen oder Ändern von folgenden baulichen Anlagen, anderen Anlagen und Einrichtungen:\n1.",
+          "text_full": "§ 62 Genehmigungsfreie Vorhaben\n(1) Unbeschadet einer nach anderen Vorschriften erforderlichen Genehmigung bedürfen keiner Baugenehmigung das Errichten, Herstellen, Aufstellen, Anbringen oder Ändern von folgenden baulichen Anlagen, anderen Anlagen und Einrichtungen:\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 80 Baueinstellung",
+          "score": 0.7198,
+          "text_preview": "§ 80 Baueinstellung\n(1) Werden Bauarbeiten im Widerspruch zu baurechtlichen oder sonstigen öffentlich-rechtlichen Vorschriften ausgeführt oder werden Bauprodukte verwendet, die unberechtigt mit dem CE-Zeichen (§ 18a) oder dem Ü-Zeichen (§ 22 Abs. 3) gekennzeichnet sind, so kann die Bauaufsichtsbehör",
+          "text_full": "§ 80 Baueinstellung\n(1) Werden Bauarbeiten im Widerspruch zu baurechtlichen oder sonstigen öffentlich-rechtlichen Vorschriften ausgeführt oder werden Bauprodukte verwendet, die unberechtigt mit dem CE-Zeichen (§ 18a) oder dem Ü-Zeichen (§ 22 Abs. 3) gekennzeichnet sind, so kann die Bauaufsichtsbehörde die Einstellung dieser Arbeiten anordnen.\n(2) Werden Bauarbeiten trotz einer angeordneten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle versiegeln und die an der Baustelle vorhandenen Bauprodukte, Hilfsmittel, Gerüste, Maschinen und ähnliche Gegenstände auf Kosten der Bauherrin oder des Bauherrn sicherstellen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 53 Baustellen",
+          "score": 0.6853,
+          "text_preview": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsfläch",
+          "text_full": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsflächen, Versorgungs-, Abwasser- und Meldeanlagen sowie Pegel- und Grundwassermessstellen, Vermessungs- und Grenzmarken sind während der Bauarbeiten zu schützen und, soweit erforderlich, unter den notwendigen Sicherheitsvorkehrungen zugänglich zu halten. Bäume, Hecken und andere Gehölze, die aufgrund öffentlich-rechtlicher Vorschriften zu erhalten sind, müssen während der Bauarbeiten geschützt werden.\n(3) Bei der Ausführung genehmigungsbedürftiger Vorhaben ist an der Baustelle eine von der Bauaufsichtsbehörde ausgehändigte Kennzeichnung anzubringen, die über die Erteilung der Baugenehmigung unter Angabe des Ausstellungsdatums, des Aktenzeichens sowie des Namens und der Rufnummer der Bauherrin oder des Bauherrn Auskunft gibt."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 71 Ersetzung des gemeindlichen Einvernehmens",
+          "score": 0.6839,
+          "text_preview": "3 oder 4 der Verwaltungsgerichtsordnung die aufschiebende Wirkung von Widerspruch und Anfechtungsklage gegen die Baugenehmigung, haben diese Rechtsbehelfe auch insoweit keine aufschiebende Wirkung, als die Baugenehmigung als Ersatzvornahme gilt. Den Widerspruchsbescheid erlässt der Kreisrechtsaussch",
+          "text_full": "3 oder 4 der Verwaltungsgerichtsordnung die aufschiebende Wirkung von Widerspruch und Anfechtungsklage gegen die Baugenehmigung, haben diese Rechtsbehelfe auch insoweit keine aufschiebende Wirkung, als die Baugenehmigung als Ersatzvornahme gilt. Den Widerspruchsbescheid erlässt der Kreisrechtsausschuss.\n(5) Wird die Baugenehmigung versagt, ist das rechtswidrig versagte Einvernehmen der Gemeinde im Widerspruchsverfahren durch Erteilung der Baugenehmigung gemäß Absatz 2 zu ersetzen; die Absätze 3 und 4 gelten für das Widerspruchsverfahren entsprechend. Für die Beteiligung der Gemeinde in diesem Widerspruchsverfahren finden § 65 Abs. 2 und § 121 der Verwaltungsgerichtsordnung entsprechende Anwendung."
+        }
+      ],
+      "top_score": 0.7555
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 85 Nachträgliche Anforderungen",
+          "score": 0.7902,
+          "text_preview": "§ 85 Nachträgliche Anforderungen\n(1) Bei rechtmäßig begonnenen oder bestehenden baulichen Anlagen sowie anderen Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 können nachträglich Anforderungen nur gestellt werden, wenn dies zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit",
+          "text_full": "§ 85 Nachträgliche Anforderungen\n(1) Bei rechtmäßig begonnenen oder bestehenden baulichen Anlagen sowie anderen Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 können nachträglich Anforderungen nur gestellt werden, wenn dies zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit, insbesondere für Leben oder Gesundheit, erforderlich ist. Bei Gefahr im Verzug kann bis zur Erfüllung dieser Anforderungen die Benutzung der Anlagen und Einrichtungen eingeschränkt oder untersagt werden.\n(2) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile mit den baurechtlichen und sonstigen öffentlich-rechtlichen Vorschriften in Einklang gebracht werden, wenn dies keine unzumutbaren Mehrkosten verursacht.\n- Seite 80 von 92 -"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)",
+          "score": 0.7586,
+          "text_preview": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)\n(1) Soweit die Bestimmungen der §§ 6 bis 48 zur Abwehr von Gefahren oder unzumutbaren Belästigungen nicht ausreichen, können für bauliche Anlagen und Räume besonderer Art oder Nutzung im Einzelfall besondere Anforderungen ges",
+          "text_full": "§ 50 Bauliche Anlagen und Räume besonderer Art oder Nutzung (Sonderbauten)\n(1) Soweit die Bestimmungen der §§ 6 bis 48 zur Abwehr von Gefahren oder unzumutbaren Belästigungen nicht ausreichen, können für bauliche Anlagen und Räume besonderer Art oder Nutzung im Einzelfall besondere Anforderungen gestellt werden. Erleichterungen können zugelassen werden, soweit es im Einzelfall der Einhaltung dieser Bestimmungen wegen der besonderen Art oder Nutzung der baulichen Anlagen und Räume oder wegen besonderer Anforderungen nach Satz 1 nicht bedarf. Anforderungen und Erleichterungen können sich insbesondere erstrecken auf die\n1. Abstände von Grundstücksgrenzen, von anderen baulichen Anlagen auf dem Grundstück, von öffentlichen Verkehrsflächen, von Gewässern sowie auf die Größe der freizuhaltenden Flächen der Grundstücke,\n2. Anordnung der baulichen Anlagen auf dem Grundstück,\n3. Öffnungen zu öffentlichen Verkehrsflächen und zu angrenzenden Grundstücken,\n4. Bauart und Anordnung aller für die Standsicherheit, Verkehrssicherheit, den Brandschutz, den Wärme- und Schallschutz oder Gesundheitsschutz wesentlichen Bauteile,\n- Seite 43 von 92 -\n5."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 70 Baugenehmigung",
+          "score": 0.7479,
+          "text_preview": "Behelfsbauten, Werbeanlagen und Warenautomaten sowie bauliche Anlagen auf öffentlichen Verkehrs-, Versorgungs- und Grünflächen sowie auf Flächen, die als solche festgesetzt sind, dürfen nur widerruflich oder befristet genehmigt werden. Nach Widerruf oder nach Fristablauf sind die Anlagen ohne Entsch",
+          "text_full": "Behelfsbauten, Werbeanlagen und Warenautomaten sowie bauliche Anlagen auf öffentlichen Verkehrs-, Versorgungs- und Grünflächen sowie auf Flächen, die als solche festgesetzt sind, dürfen nur widerruflich oder befristet genehmigt werden. Nach Widerruf oder nach Fristablauf sind die Anlagen ohne Entschädigung zu beseitigen; ein ordnungsgemäßer Zustand ist herzustellen.\n(3) Die Baugenehmigung ist der Bauherrin oder dem Bauherrn mit den mit dem Genehmigungsvermerk versehenen Unterlagen zuzustellen oder nach Maßgabe des § 9 Abs. 1 OZG bekannt zu geben. Haben Nachbarinnen oder Nachbarn Einwendungen erhoben, denen nicht entsprochen wird, oder haben sie sich innerhalb der Frist nach § 68 Abs. 2 Satz 3 nicht geäußert, so ist ihnen eine Ausfertigung des Bauscheins mit Rechtsbehelfsbelehrung zuzustellen oder nach Maßgabe des § 9 Abs. 1 OZG bekannt zu geben.\n(4) Der Gemeindeverwaltung ist die Entscheidung der Bauaufsichtsbehörde durch Übermittlung des Bescheids zur Kenntnis zu geben.\n- Seite 72 von 92 -\n(5) Bei Anlagen und Räumen, die für gewerbliche Betriebe bestimmt sind, ist der Gewerbeaufsicht die Entscheidung der Bauaufsichtsbehörde durch Übermittlung des Bescheids zur Kenntnis zu geben."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 80 Baueinstellung",
+          "score": 0.7322,
+          "text_preview": "§ 80 Baueinstellung\n(1) Werden Bauarbeiten im Widerspruch zu baurechtlichen oder sonstigen öffentlich-rechtlichen Vorschriften ausgeführt oder werden Bauprodukte verwendet, die unberechtigt mit dem CE-Zeichen (§ 18a) oder dem Ü-Zeichen (§ 22 Abs. 3) gekennzeichnet sind, so kann die Bauaufsichtsbehör",
+          "text_full": "§ 80 Baueinstellung\n(1) Werden Bauarbeiten im Widerspruch zu baurechtlichen oder sonstigen öffentlich-rechtlichen Vorschriften ausgeführt oder werden Bauprodukte verwendet, die unberechtigt mit dem CE-Zeichen (§ 18a) oder dem Ü-Zeichen (§ 22 Abs. 3) gekennzeichnet sind, so kann die Bauaufsichtsbehörde die Einstellung dieser Arbeiten anordnen.\n(2) Werden Bauarbeiten trotz einer angeordneten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle versiegeln und die an der Baustelle vorhandenen Bauprodukte, Hilfsmittel, Gerüste, Maschinen und ähnliche Gegenstände auf Kosten der Bauherrin oder des Bauherrn sicherstellen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 53 Baustellen",
+          "score": 0.7253,
+          "text_preview": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsfläch",
+          "text_full": "§ 53 Baustellen\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder unzumutbare Belästigungen nicht entstehen.\n(2) Öffentliche Verkehrsflächen, Versorgungs-, Abwasser- und Meldeanlagen sowie Pegel- und Grundwassermessstellen, Vermessungs- und Grenzmarken sind während der Bauarbeiten zu schützen und, soweit erforderlich, unter den notwendigen Sicherheitsvorkehrungen zugänglich zu halten. Bäume, Hecken und andere Gehölze, die aufgrund öffentlich-rechtlicher Vorschriften zu erhalten sind, müssen während der Bauarbeiten geschützt werden.\n(3) Bei der Ausführung genehmigungsbedürftiger Vorhaben ist an der Baustelle eine von der Bauaufsichtsbehörde ausgehändigte Kennzeichnung anzubringen, die über die Erteilung der Baugenehmigung unter Angabe des Ausstellungsdatums, des Aktenzeichens sowie des Namens und der Rufnummer der Bauherrin oder des Bauherrn Auskunft gibt."
+        }
+      ],
+      "top_score": 0.7902
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 85 Nachträgliche Anforderungen",
+          "score": 0.7633,
+          "text_preview": "§ 85 Nachträgliche Anforderungen\n(1) Bei rechtmäßig begonnenen oder bestehenden baulichen Anlagen sowie anderen Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 können nachträglich Anforderungen nur gestellt werden, wenn dies zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit",
+          "text_full": "§ 85 Nachträgliche Anforderungen\n(1) Bei rechtmäßig begonnenen oder bestehenden baulichen Anlagen sowie anderen Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 können nachträglich Anforderungen nur gestellt werden, wenn dies zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit, insbesondere für Leben oder Gesundheit, erforderlich ist. Bei Gefahr im Verzug kann bis zur Erfüllung dieser Anforderungen die Benutzung der Anlagen und Einrichtungen eingeschränkt oder untersagt werden.\n(2) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile mit den baurechtlichen und sonstigen öffentlich-rechtlichen Vorschriften in Einklang gebracht werden, wenn dies keine unzumutbaren Mehrkosten verursacht.\n- Seite 80 von 92 -"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 18b Verwendbarkeitsnachweise",
+          "score": 0.762,
+          "text_preview": "(4) Das fachlich zuständige Ministerium kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen bestimmte Nachweise der Verwendbarkeit und bestimmte Überein-\n- Seite 21 von ",
+          "text_full": "(4) Das fachlich zuständige Ministerium kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen bestimmte Nachweise der Verwendbarkeit und bestimmte Überein-\n- Seite 21 von 92 stimmungsnachweise nach Maßgabe der §§ 18b bis 26 zu führen sind, wenn die anderen Rechtsvorschriften diese Nachweise verlangen oder zulassen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 87 Ermächtigung zum Erlass von Rechts- und Verwaltungsvorschriften",
+          "score": 0.7277,
+          "text_preview": "6 sich einer laufenden Fortbildung unterziehen und ausreichend haftpflichtversichert sein müssen sowie unter welchen Voraussetzungen die Eintragung in die Liste nach § 64 Abs. 2 Nr. 2 und § 66 Abs. 6 zu löschen ist.\n(4) Das fachlich zuständige Ministerium kann zur Vereinfachung oder Beschleunigung d",
+          "text_full": "6 sich einer laufenden Fortbildung unterziehen und ausreichend haftpflichtversichert sein müssen sowie unter welchen Voraussetzungen die Eintragung in die Liste nach § 64 Abs. 2 Nr. 2 und § 66 Abs. 6 zu löschen ist.\n(4) Das fachlich zuständige Ministerium kann zur Vereinfachung oder Beschleunigung des Baugenehmigungsverfahrens oder zur Entlastung der Bauaufsichtsbehörden durch Rechtsverordnung Vorschriften erlassen über\n1. weitere und weitergehende Ausnahmen von den Erfordernissen der Baugenehmigung,\n2. den vollständigen oder teilweisen Wegfall der bautechnischen Prüfung bei bestimmten Arten von Bauvorhaben,\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 51 Barrierefreiheit [1]",
+          "score": 0.6893,
+          "text_preview": "(4) Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen an die Barrierefreiheit der Absätze 1 bis 3 zulassen, soweit sie nur mit unverhältnismäßigem Mehraufwand erfüllt werden können, insbesondere wegen des Einbaus eines sonst nicht erforderlichen Aufzugs, bei baulichen Maßnahmen im Gebäudeb",
+          "text_full": "(4) Die Bauaufsichtsbehörde kann Abweichungen von Anforderungen an die Barrierefreiheit der Absätze 1 bis 3 zulassen, soweit sie nur mit unverhältnismäßigem Mehraufwand erfüllt werden können, insbesondere wegen des Einbaus eines sonst nicht erforderlichen Aufzugs, bei baulichen Maßnahmen im Gebäudebestand oder bei der Änderung der Nutzung. Fußnoten [1]) Absatz 1 in Kraft mit Wirkung vom 01.12.2015 [2])\n- Seite 46 von 92 Absatz 3 in Kraft mit Wirkung vom 01.12.2015"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.689,
+          "text_preview": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass sie die öffentliche Sicherheit oder Ordnung sowie die natürlichen Lebensgrundlagen nicht gefährden; dabei si",
+          "text_full": "§ 3 Allgemeine Anforderungen\n(1) Bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass sie die öffentliche Sicherheit oder Ordnung sowie die natürlichen Lebensgrundlagen nicht gefährden; dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011 zu berücksichtigen. Dies gilt entsprechend für die Änderung ihrer Benutzung und ihren Abbruch.\n(2) Die oberste Bauaufsichtsbehörde macht zur Durchführung dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen die Technischen Baubestimmungen nach § 87a als Verwaltungsvorschrift bekannt; diese sind zu beachten. Bei der Bekanntmachung kann hinsichtlich des Inhalts auf eine Fundstelle verwiesen werden; dazu wird die Anlage zur Verwaltungsvorschrift bei der obersten Bauaufsichtsbehörde geführt und vorgehalten sowie auf der Internetseite des für die oberste Bauaufsichtsbehörde zuständigen Ministeriums veröffentlicht."
+        }
+      ],
+      "top_score": 0.7633
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "score": 0.8595,
+          "text_preview": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "text_full": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 9",
+          "score": 0.8009,
+          "text_preview": "§ 9\n- Übernahme von Abständen und Abstandsflächen auf Nachbargrund- 01.08.2021 stücke, Grundstücksteilungen",
+          "text_full": "§ 9\n- Übernahme von Abständen und Abstandsflächen auf Nachbargrund- 01.08.2021 stücke, Grundstücksteilungen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen",
+          "score": 0.7138,
+          "text_preview": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen\n(1) Soweit nach diesem Gesetz oder nach Vorschriften aufgrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, kann zugelassen werden, dass sie sich ganz oder teilweise a",
+          "text_full": "§ 9 Übernahme von Abständen und Abstandsflächen auf Nachbargrundstücke, Grundstücksteilungen\n(1) Soweit nach diesem Gesetz oder nach Vorschriften aufgrund dieses Gesetzes Abstände und Abstandsflächen auf dem Grundstück selbst liegen müssen, kann zugelassen werden, dass sie sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn öffentlich-rechtlich gesichert ist, dass sie nicht überbaut und auf die auf diesen Grundstücken erforderlichen Abstände und Abstandsflächen nicht angerechnet werden. Vorschriften, nach denen eine Überbauung zulässig ist oder zugelassen werden kann, bleiben unberührt.\n(2) Die bei der Errichtung eines Gebäudes vorgeschriebenen Abstände und Abstandsflächen dürfen bei nachträglichen Grenzänderungen und Grundstücksteilungen nicht unterschritten oder überbaut werden. Dabei muss die Erschließung gesichert sein und es dürfen auch sonst keine baurechtlichen Vorschriften entgegenstehen. Absatz 1 gilt entsprechend. Die Zulassung von Abweichungen nach § 69 ist zu beantragen; die §§ 63, 65, 68 und 70 gelten entsprechend.\n- Seite 16 von 92 -"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 8 Abstandsflächen",
+          "score": 0.6887,
+          "text_preview": "§ 8 Abstandsflächen\n(1) Vor Außenwänden oberirdischer Gebäude sind Flächen von Gebäuden freizuhalten (Abstandsflächen). Innerhalb der überbaubaren Grundstücksflächen sind Abstandsflächen nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vor",
+          "text_full": "§ 8 Abstandsflächen\n(1) Vor Außenwänden oberirdischer Gebäude sind Flächen von Gebäuden freizuhalten (Abstandsflächen). Innerhalb der überbaubaren Grundstücksflächen sind Abstandsflächen nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften\n1. das Gebäude ohne Grenzabstand gebaut werden muss oder\n2. das Gebäude ohne Grenzabstand gebaut werden darf und öffentlich-rechtlich gesichert ist, dass auf dem Nachbargrundstück ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften mit Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude ohne Grenzabstand vorhanden, so kann zugelassen oder verlangt werden, dass ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften ohne Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude mit Grenzabstand vorhanden, so kann zugelassen oder verlangt werden, dass eine Abstandsfläche eingehalten wird.\n(2) Die Abstandsflächen müssen auf dem Grundstück selbst liegen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 10 Höhenlage, Abfall- und Wertstoffbehälter, nicht überbaute Flächen",
+          "score": 0.6384,
+          "text_preview": "§ 10 Höhenlage, Abfall- und Wertstoffbehälter, nicht überbaute Flächen\n(1) Bei der Errichtung oder Änderung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks erhalten oder in ihrer Höhenlage verändert wird, um eine Störung des Straßen-, Ortsoder Landschaftsbildes zu vermeid",
+          "text_full": "§ 10 Höhenlage, Abfall- und Wertstoffbehälter, nicht überbaute Flächen\n(1) Bei der Errichtung oder Änderung baulicher Anlagen kann verlangt werden, dass die Oberfläche des Grundstücks erhalten oder in ihrer Höhenlage verändert wird, um eine Störung des Straßen-, Ortsoder Landschaftsbildes zu vermeiden oder zu beseitigen oder um die Oberfläche an die Höhe der Verkehrsfläche oder der Nachbargrundstücke anzugleichen.\n(2) Die Höhenlage der baulichen Anlagen ist, soweit erforderlich, festzusetzen. Hierbei sind die Höhenlage der Verkehrsflächen und die Anforderungen an die Abwasserbeseitigung zu beachten.\n(3) Für Abfall- und Wertstoffbehälter sollen befestigte Plätze an geeigneter Stelle hergestellt werden.\n(4) Nicht überbaute Flächen bebauter Grundstücke sind zu begrünen, soweit sie nicht für eine zulässige Nutzung benötigt werden. Befestigungen, die die Wasserdurchlässigkeit des Bodens wesentlich beschränken, sind nur zulässig, soweit ihre Zweckbestimmung dies erfordert. Die Sätze 1 und 2 finden keine Anwendung, soweit Bebauungspläne oder andere Satzungen entgegenstehende Festsetzungen zu den nicht überbauten Flächen treffen."
+        }
+      ],
+      "top_score": 0.8595
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 15 Brandschutz",
+          "score": 0.6317,
+          "text_preview": "§ 15 Brandschutz\n(1) Bauliche Anlagen müssen so angeordnet und beschaffen sein, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anf",
+          "text_full": "§ 15 Brandschutz\n(1) Bauliche Anlagen müssen so angeordnet und beschaffen sein, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren und wirksame Löscharbeiten möglich sind.\n(2) Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in nicht brennbare, schwer entflammbare und normalentflammbare Baustoffe. Leicht entflammbare Baustoffe dürfen nicht verwendet werden; dies gilt nicht, wenn sie durch Verbindung mit anderen Baustoffen nicht mehr leicht entflammbar sind.\n(3) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in feuerbeständige, hochfeuerhemmende und feuerhemmende Bauteile. Die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden. Feuerbeständige Bauteile müssen mindestens in den wesentlichen Teilen aus nicht brennbaren Baustoffen bestehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 7 Zugänge und Zufahrten",
+          "score": 0.6114,
+          "text_preview": "4) von einer für Feuerwehrfahrzeuge befahrbaren Fläche anleiterbar sein. Die für Feuerwehrfahrzeuge erforderlichen Aufstell- und Bewegungsflächen sind vorzusehen.\n- Seite 12 von 92 -\n(5) Die Zu- und Durchfahrten nach Absatz 2 sowie die Flächen nach Absatz 4 dürfen nicht durch Einbauten eingeengt wer",
+          "text_full": "4) von einer für Feuerwehrfahrzeuge befahrbaren Fläche anleiterbar sein. Die für Feuerwehrfahrzeuge erforderlichen Aufstell- und Bewegungsflächen sind vorzusehen.\n- Seite 12 von 92 -\n(5) Die Zu- und Durchfahrten nach Absatz 2 sowie die Flächen nach Absatz 4 dürfen nicht durch Einbauten eingeengt werden und müssen für Feuerwehrfahrzeuge ausreichend befestigt und tragfähig sein; sie sind ständig freizuhalten."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.6056,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände sind als raumabschließende Bauteile zur Verhinderung der Brandausbreitung innerhalb von Geschossen herzustellen\n1. zwischen Wohnungen sowie zwischen Wohnungen und fremden Räumen,\n2. zwischen sonstigen Nutzungseinheiten.\n(2) Die Trennwände müssen in Gebäuden der\n1. Gebä",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände sind als raumabschließende Bauteile zur Verhinderung der Brandausbreitung innerhalb von Geschossen herzustellen\n1. zwischen Wohnungen sowie zwischen Wohnungen und fremden Räumen,\n2. zwischen sonstigen Nutzungseinheiten.\n(2) Die Trennwände müssen in Gebäuden der\n1. Gebäudeklasse 5 feuerbeständig,\n2. Gebäudeklasse 4 hochfeuerhemmend, jeweils im obersten Geschoss im Dachraum feuerhemmend,\n3. Gebäudeklassen 2 und 3 feuerhemmend sein.\n(3) Die Trennwände sind bis zur Rohdecke oder bis unter die Dachhaut zu führen. Öffnungen sind zulässig, wenn sie für die Benutzung des Gebäudes erforderlich sind. Sie sind mit mindestens feuerhemmenden, dicht- und selbstschließenden Abschlüssen zu versehen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 15 Brandschutz",
+          "score": 0.5906,
+          "text_preview": "Bei Gebäuden, die nicht Hochhäuser sind, darf der zweite Rettungsweg über mit vorhandenen Rettungsgeräten der Feuerwehr erreichbare Stellen (Oberkante der Brüstung eines notwendigen Fensters oder sonstige geeignete Stellen) führen; diese Stellen dürfen bei Gebäuden der Gebäudeklassen 2 und 3 nicht m",
+          "text_full": "Bei Gebäuden, die nicht Hochhäuser sind, darf der zweite Rettungsweg über mit vorhandenen Rettungsgeräten der Feuerwehr erreichbare Stellen (Oberkante der Brüstung eines notwendigen Fensters oder sonstige geeignete Stellen) führen; diese Stellen dürfen bei Gebäuden der Gebäudeklassen 2 und 3 nicht mehr als 8 m über der Geländeoberfläche liegen. Abweichend von Satz 1 genügt ein Rettungsweg,\n1. wenn der Treppenraum der notwendigen Treppe so angeordnet und beschaffen ist, dass Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum),\n2. für eingeschossige Nutzungseinheiten, die zu ebener Erde liegen, wenn die Rettung über einen direkten Ausgang ins Freie möglich ist.\n(5) Bauliche Anlagen, bei denen Blitzschlag leicht eintreten oder zu besonders schweren Folgen führen kann, sind mit dauernd wirksamen Blitzschutzanlagen zu versehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 30 Brandwände",
+          "score": 0.5833,
+          "text_preview": "§ 30 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile feuerbeständig sein und aus nicht brennbaren Baustoffen bestehen; sie müssen so beschaffen sein, dass sie bei einem Brand ihre Standsicherheit auch unter zusätzlicher mechanischer Beanspruchung nicht verlieren und die Brandausbreit",
+          "text_full": "§ 30 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile feuerbeständig sein und aus nicht brennbaren Baustoffen bestehen; sie müssen so beschaffen sein, dass sie bei einem Brand ihre Standsicherheit auch unter zusätzlicher mechanischer Beanspruchung nicht verlieren und die Brandausbreitung auf andere Gebäude oder Gebäudeabschnitte verhindern.\n(2) Brandwände sind herzustellen\n1. zum Abschluss von Gebäuden, soweit die Abschlusswand in einem Abstand bis zu 2,50 m von der Nachbargrenze errichtet wird, es sei denn, dass ein Abstand von 5 m zu auf dem Nachbargrundstück bestehenden oder nach baurechtlichen Vorschriften zulässigen Gebäuden öffent-\n- Seite 26 von 92 lich-rechtlich gesichert ist; dies gilt nicht für Gebäude ohne Aufenthaltsräume, Toiletten oder Feuerstätten bis zu 50 m³ umbauten Raums,\n2. zum Abschluss von aneinander gereihten Gebäuden auf demselben Grundstück in Abständen von höchstens 60 m, bei Gebäuden, deren tragende Bauteile in den wesentlichen Teilen aus brennbaren Baustoffen bestehen, in Abständen von höchstens 40 m,\n3."
+        }
+      ],
+      "top_score": 0.6317
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 79 Benutzung der baulichen Anlagen",
+          "score": 0.6642,
+          "text_preview": "§ 79 Benutzung der baulichen Anlagen\n(1) Eine bauliche Anlage darf erst benutzt werden, wenn sie ordnungsgemäß fertig gestellt und sicher benutzbar ist. Genehmigungsbedürftige bauliche Anlagen und bauliche Anlagen, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, dürfen frühestens ei",
+          "text_full": "§ 79 Benutzung der baulichen Anlagen\n(1) Eine bauliche Anlage darf erst benutzt werden, wenn sie ordnungsgemäß fertig gestellt und sicher benutzbar ist. Genehmigungsbedürftige bauliche Anlagen und bauliche Anlagen, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, dürfen frühestens eine Woche nach dem in der Anzeige nach § 78 Abs. 2 Satz 1 oder 2 genannten Zeitpunkt der abschließenden Fertigstellung benutzt werden. Die Bauaufsichtsbehörde soll auf Antrag zulassen, dass die bauliche Anlage ganz oder teilweise schon früher benutzt wird, wenn wegen der öffentlichen Sicherheit oder Ordnung keine Bedenken bestehen.\n(2) Bei der Errichtung oder Änderung von Feuerungsanlagen muss sich die Bauherrin oder der Bauherr vor der Inbetriebnahme die sichere Benutzbarkeit der Abgasanlagen und der Anschlüsse der Feu-\n- Seite 78 von 92 erstätten durch die bevollmächtigte Bezirksschornsteinfegerin oder den bevollmächtigten Bezirksschornsteinfeger bescheinigen lassen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6226,
+          "text_preview": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgr",
+          "text_full": "§ 18 Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die den in Vorschriften eines anderen Mitgliedstaates der Europäischen Union oder eines nach dem Recht der Europäischen Union gleichgestellten Staates genannten technischen Anforderungen entsprechen, dürfen verwendet oder angewendet werden, wenn das geforderte Schutzniveau in Bezug auf Sicherheit, Gesundheit und Gebrauchstauglichkeit gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 85 Nachträgliche Anforderungen",
+          "score": 0.619,
+          "text_preview": "§ 85 Nachträgliche Anforderungen\n(1) Bei rechtmäßig begonnenen oder bestehenden baulichen Anlagen sowie anderen Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 können nachträglich Anforderungen nur gestellt werden, wenn dies zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit",
+          "text_full": "§ 85 Nachträgliche Anforderungen\n(1) Bei rechtmäßig begonnenen oder bestehenden baulichen Anlagen sowie anderen Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2 können nachträglich Anforderungen nur gestellt werden, wenn dies zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit, insbesondere für Leben oder Gesundheit, erforderlich ist. Bei Gefahr im Verzug kann bis zur Erfüllung dieser Anforderungen die Benutzung der Anlagen und Einrichtungen eingeschränkt oder untersagt werden.\n(2) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen wesentlich geändert werden, so kann gefordert werden, dass auch die nicht unmittelbar berührten Teile mit den baurechtlichen und sonstigen öffentlich-rechtlichen Vorschriften in Einklang gebracht werden, wenn dies keine unzumutbaren Mehrkosten verursacht.\n- Seite 80 von 92 -"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 87a Technische Baubestimmungen",
+          "score": 0.6084,
+          "text_preview": "1 Satz 1 auswirken,\nd) zulässige oder unzulässige besondere Verwendungszwecke,\ne) die Festlegung von Klassen und Stufen in Bezug auf bestimmte Verwendungszwecke,\nf) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich fü",
+          "text_full": "1 Satz 1 auswirken,\nd) zulässige oder unzulässige besondere Verwendungszwecke,\ne) die Festlegung von Klassen und Stufen in Bezug auf bestimmte Verwendungszwecke,\nf) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Abs. 1 Satz 1 auswirkt, soweit vorgesehen in Klassen und Stufen,\n4. die Bauarten und die Bauprodukte, die nur eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 17a Abs. 3 oder nach § 20 Abs. 1 bedürfen,\n5. Voraussetzungen zur Abgabe der Übereinstimmungserklärung für ein Bauprodukt nach § 23,\n6. die Art, den Inhalt und die Form technischer Dokumentation.\n- Seite 85 von 92 -\n(3) Die Technischen Baubestimmungen sollen nach den Grundanforderungen gemäß Anhang I der Verordnung (EU) Nr. 305/2011 gegliedert sein.\n(4) Die Technischen Baubestimmungen enthalten die in § 18b Abs. 3 genannte Liste."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 18b Verwendbarkeitsnachweise",
+          "score": 0.6059,
+          "text_preview": "§ 18b Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis in Form einer allgemeinen bauaufsichtlichen Zulassung nach § 19, eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 20 oder einer Zustimmung im Einzelfall nach § 21 ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische ",
+          "text_full": "§ 18b Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis in Form einer allgemeinen bauaufsichtlichen Zulassung nach § 19, eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 20 oder einer Zustimmung im Einzelfall nach § 21 ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung nach § 87a und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung nach § 87a Abs. 2 Nr. 3 wesentlich abweicht oder\n3. eine Verordnung nach Absatz 4 es vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 87a enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        }
+      ],
+      "top_score": 0.6642
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-RP",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 55 Bauherrin, Bauherr",
+          "score": 0.7848,
+          "text_preview": "§ 55 Bauherrin, Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Ausführung und Überwachung genehmigungsbedürftiger Vorhaben und von Vorhaben, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, nach Sachkunde und Erfahrung geeignete Beteiligte nach Maßgabe der §§ 56 bis",
+          "text_full": "§ 55 Bauherrin, Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Ausführung und Überwachung genehmigungsbedürftiger Vorhaben und von Vorhaben, für die das Freistellungsverfahren nach § 67 durchgeführt wurde, nach Sachkunde und Erfahrung geeignete Beteiligte nach Maßgabe der §§ 56 bis 57 zu bestellen; § 50 bleibt unberührt. Der Bauherrin oder dem Bauherrn obliegt es, die nach baurechtlichen und sonstigen öffentlich-rechtlichen Vorschriften erforderlichen Anzeigen und Nachweise gegenüber der Bauaufsichtsbehörde zu erbringen. Sie oder er hat die zur Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. Die Bauherrin oder der Bauherr hat vor Baubeginn Namen und Anschrift der bauleitenden Person und während der Bauausführung einen Wechsel dieser Person unverzüglich der Bauaufsichtsbehörde in Textform mitzuteilen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 57 Unternehmen",
+          "score": 0.7483,
+          "text_preview": "(3) Die Unternehmen und Fachleute haben auf Verlangen der Bauaufsichtsbehörde für Bauarbeiten, bei denen die Sicherheit der baulichen Anlage in außergewöhnlichem Maße von einer besonderen Sachkunde und Erfahrung oder von einer Ausstattung des Unternehmens mit besonderen Einrichtungen abhängt, nachzu",
+          "text_full": "(3) Die Unternehmen und Fachleute haben auf Verlangen der Bauaufsichtsbehörde für Bauarbeiten, bei denen die Sicherheit der baulichen Anlage in außergewöhnlichem Maße von einer besonderen Sachkunde und Erfahrung oder von einer Ausstattung des Unternehmens mit besonderen Einrichtungen abhängt, nachzuweisen, dass sie für diese Bauarbeiten geeignet sind und über die erforderlichen Einrichtungen verfügen. Fünfter Teil Behörden"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 56a Bauleiterin, Bauleiter",
+          "score": 0.7378,
+          "text_preview": "§ 56a Bauleiterin, Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme nach den Vorschriften des öffentlichen Baurechts durchgeführt wird. Verstöße, denen nicht abgeholfen wird, hat sie oder er unverzüglich der Bauaufsichtsbehörde mitzuteilen.\n(2) Soweit die ",
+          "text_full": "§ 56a Bauleiterin, Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme nach den Vorschriften des öffentlichen Baurechts durchgeführt wird. Verstöße, denen nicht abgeholfen wird, hat sie oder er unverzüglich der Bauaufsichtsbehörde mitzuteilen.\n(2) Soweit die Überwachung besondere Sachkunde oder Erfahrung erfordert, hat die Bauleiterin oder der Bauleiter die Bauherrin oder den Bauherrn zu veranlassen, geeignete Fachbauleiterinnen oder Fachbauleiter hinzuzuziehen. Für diese gilt Absatz 1 entsprechend. Neben der Veranlassung nach Satz 1 ist die Bauleiterin oder der Bauleiter für das Ineinandergreifen ihrer oder seiner Tätigkeit und der Tätigkeiten der Fachbauleiterinnen oder Fachbauleiter sowie anderer sachverständiger Personen verantwortlich."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 55 Bauherrin, Bauherr",
+          "score": 0.7282,
+          "text_preview": "(5) Wechselt die Bauherrin oder der Bauherr, so hat die neue Bauherrin oder der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich in Textform mitzuteilen.\n(6) Treten bei einem Vorhaben mehrere Personen als Bauherrin oder Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass eine Vertretu",
+          "text_full": "(5) Wechselt die Bauherrin oder der Bauherr, so hat die neue Bauherrin oder der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich in Textform mitzuteilen.\n(6) Treten bei einem Vorhaben mehrere Personen als Bauherrin oder Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass eine Vertretung bestellt wird, die ihr gegenüber die Pflichten der Bauherrin oder des Bauherrn zu erfüllen hat."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Rheinland-Pfalz",
+          "jurisdiction": "DE-RP",
+          "source_paragraph": "§ 55 Bauherrin, Bauherr",
+          "score": 0.7266,
+          "text_preview": "(2) Bei geringfügigen oder technisch einfachen Vorhaben kann die Bauaufsichtsbehörde auf die Bestellung einer Entwurfsverfasserin oder eines Entwurfsverfassers und einer Bauleiterin oder eines Bauleiters verzichten. Bei Bauarbeiten, die in Selbst- oder Nachbarschaftshilfe ausgeführt werden, ist die ",
+          "text_full": "(2) Bei geringfügigen oder technisch einfachen Vorhaben kann die Bauaufsichtsbehörde auf die Bestellung einer Entwurfsverfasserin oder eines Entwurfsverfassers und einer Bauleiterin oder eines Bauleiters verzichten. Bei Bauarbeiten, die in Selbst- oder Nachbarschaftshilfe ausgeführt werden, ist die Bestellung von Unternehmen nach Absatz 1 Satz 1 nicht erforderlich, wenn genügend Fachkräfte mit der notwendigen Sachkunde, Erfahrung und Zuverlässigkeit mitwirken.\n(3) Die Bauaufsichtsbehörde kann verlangen, dass ihr für bestimmte Bauarbeiten die Unternehmen und Fachleute (§ 57) namhaft gemacht werden.\n(4) Ist eine von der Bauherrin oder dem Bauherrn bestellte Person für ihre Aufgabe nach Sachkunde und Erfahrung nicht geeignet, so kann die Bauaufsichtsbehörde vor und während der Ausführung des Vorhabens verlangen, dass sie durch eine geeignete Person ersetzt wird oder geeignete Fachleute oder sachverständige Personen herangezogen werden. Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, bis geeignete Personen bestellt oder herangezogen worden sind. Die Sätze 1 und 2 gelten für von der Bauherrin oder dem Bauherrn bestellte Unternehmen entsprechend."
+        }
+      ],
+      "top_score": 0.7848
+    }
+  ]
+}

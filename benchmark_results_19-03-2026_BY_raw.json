@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-BY",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 11335,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 2 Begriffe",
+          "score": 0.7054,
+          "text_preview": "Art. 2 Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. 2Ortsfeste Anlagen der Wirtschaftswerbung (Werbeanlagen) einschließlich Automaten sind bauliche Anlagen. 3Als bauliche Anlagen gelten Anlagen, die nach ihrem Verwendungszweck dazu bestimmt ",
+          "text_full": "Art. 2 Begriffe\n(1) 1Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. 2Ortsfeste Anlagen der Wirtschaftswerbung (Werbeanlagen) einschließlich Automaten sind bauliche Anlagen. 3Als bauliche Anlagen gelten Anlagen, die nach ihrem Verwendungszweck dazu bestimmt sind, überwiegend ortsfest benutzt zu werden, sowie\n1. Aufschüttungen, soweit sie nicht unmittelbare Folge von Abgrabungen sind,\n2. Lagerplätze, Abstellplätze und Ausstellungsplätze,\n3. Campingplätze und Wochenendplätze,\n4. Freizeit- und Vergnügungsparks,\n5. Stellplätze für Kraftfahrzeuge. 4Anlagen sind bauliche Anlagen sowie andere Anlagen und Einrichtungen im Sinn des Art. 1 Abs. 1 Satz 2.\n(2) Gebäude sind selbständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können.\n(3) 1Gebäude werden in folgende Gebäudeklassen eingeteilt:\n1. Gebäudeklasse 1:\na) freistehende Gebäude mit einer Höhe bis zu 7 m und nicht mehr als zwei Nutzungseinheiten von insgesamt nicht mehr als 400 m2 und\nb) land- oder forstwirtschaftlich genutzte Gebäude,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6939,
+          "text_preview": "2 BauGB dienen,\ng) andere unbedeutende Anlagen oder unbedeutende Teile von Anlagen wie Hauseingangsüberdachungen, Markisen, Rollläden, Terrassen, Maschinenfundamente, Straßenfahrzeugwaagen, Pergolen, Jägerstände, Wildfütterungen, Bienenfreistände, Taubenhäuser, Hofeinfahrten und Teppichstangen,\n17. ",
+          "text_full": "2 BauGB dienen,\ng) andere unbedeutende Anlagen oder unbedeutende Teile von Anlagen wie Hauseingangsüberdachungen, Markisen, Rollläden, Terrassen, Maschinenfundamente, Straßenfahrzeugwaagen, Pergolen, Jägerstände, Wildfütterungen, Bienenfreistände, Taubenhäuser, Hofeinfahrten und Teppichstangen,\n17. alle baulichen Anlagen inländischer öffentlicher Stellen auf Militärgelände,\n18. Dachgeschossausbauten zu Wohnzwecken einschließlich der Errichtung von Dachgauben und im Anwendungsbereich des § 34 Abs. 1 Satz 1 BauGB der Einbau weiterer Wohnungen in bestehende Gebäude, wenn die Konstruktion und die äußere Gestalt des Gebäudes im Übrigen nicht verändert werden.\n(2) Unbeschadet des Abs. 1 sind verfahrensfrei\n1. Garagen mit einer Nutzfläche bis zu 100 m2 sowie überdachte Stellplätze,\n2. Wochenendhäuser sowie Anlagen, die keine Gebäude sind, in durch Bebauungsplan festgesetzten Wochenendhausgebieten,\n3. Anlagen in Dauerkleingärten im Sinn des § 1 Abs. 3 BKleingG,\n4. Dachgauben und vergleichbare Dachaufbauten,\n5. Mauern und Einfriedungen,\n6."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6287,
+          "text_preview": "folgende tragende und nichttragende Bauteile:\na) nichttragende und nichtaussteifende Bauteile in baulichen Anlagen,\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden,\nc) Fenster und Türen sowie die dafür bestimmten Öffnungen,\nd) Außenwandbekleidungen einschließlich Maß",
+          "text_full": "folgende tragende und nichttragende Bauteile:\na) nichttragende und nichtaussteifende Bauteile in baulichen Anlagen,\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden,\nc) Fenster und Türen sowie die dafür bestimmten Öffnungen,\nd) Außenwandbekleidungen einschließlich Maßnahmen der Wärmedämmung, ausgenommen bei Hochhäusern, Verblendungen und Verputz baulicher Anlagen,\ne) Bedachungen einschließlich Maßnahmen der Wärmedämmung ausgenommen bei Hochhäusern, auch vor Fertigstellung der Anlage,\n12. folgende Werbeanlagen:\na) Werbeanlagen am Ort der Leistungserbringung, in Auslagen oder an Schaufenstern, im Übrigen mit einer Ansichtsfläche bis zu 1 m2,\nb) Waren- und Geldautomaten,\nc) Werbeanlagen, die nicht vom öffentlichen Verkehrsraum aus sichtbar sind,\nd) Werbeanlagen, die nach ihrem erkennbaren Zweck nur vorübergehend für höchstens zwei Monate angebracht werden, im Außenbereich nur, soweit sie einem Vorhaben im Sinn des § 35 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6279,
+          "text_preview": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Toilettenwagen,\nc) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\nd) bauliche Anlagen, die für höch",
+          "text_full": "folgende vorübergehend aufgestellte oder benutzbare Anlagen:\na) Baustelleneinrichtungen einschließlich der Lagerhallen, Schutzhallen und Unterkünfte,\nb) Toilettenwagen,\nc) Behelfsbauten, die der Landesverteidigung, dem Katastrophenschutz oder der Unfallhilfe dienen,\nd) bauliche Anlagen, die für höchstens drei Monate auf genehmigtem Messe- und Ausstellungsgelände errichtet werden, ausgenommen fliegende Bauten,\ne) Verkaufsstände und andere bauliche Anlagen wie Zelte, Bühnen und Tribünen auf Straßenfesten, Volksfesten, Vereinsfesten und Märkten, ausgenommen fliegende Bauten,\nf) Zeltlager, die nach ihrem erkennbaren Zweck gelegentlich, höchstens für zwei Monate errichtet werden,\n14. Fahrgeschäfte mit einer Höhe bis zu 5 m, die für Kinder betrieben werden und eine Geschwindigkeit von höchstens 1 m/s haben,\n15. folgende Plätze:\na) Lager-, Abstell- und Ausstellungsplätze, die einem land- oder forstwirtschaftlichen Betrieb oder einem Betrieb der gartenbaulichen Erzeugung im Sinn der § 35 Abs. 1 Nr."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 9 Baustelle",
+          "score": 0.6205,
+          "text_preview": "Art. 9 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert, beseitigt oder instand gehalten werden können und dass keine Gefahren, vermeidbaren Nachteile oder vermeidbaren Belästigungen entstehen.\n(2) Öffentliche Verkehrsflächen, Versorgungs-, Abwas",
+          "text_full": "Art. 9 Baustelle\n(1) Baustellen sind so einzurichten, dass bauliche Anlagen ordnungsgemäß errichtet, geändert, beseitigt oder instand gehalten werden können und dass keine Gefahren, vermeidbaren Nachteile oder vermeidbaren Belästigungen entstehen.\n(2) Öffentliche Verkehrsflächen, Versorgungs-, Abwasserbeseitigungs- und Meldeanlagen, Grundwassermessstellen, Vermessungszeichen, Abmarkungszeichen und Grenzzeichen sind für die Dauer der Bauausführung zu schützen und, soweit erforderlich, unter den notwendigen Sicherheitsvorkehrungen zugänglich zu halten.\n(3) Bei der Ausführung nicht verfahrensfreier Bauvorhaben hat der Bauherr an der Baustelle ein Schild, das die Bezeichnung des Bauvorhabens sowie die Namen und Anschriften des Bauherrn und des Entwurfsverfassers enthalten muss, dauerhaft und von der öffentlichen Verkehrsfläche aus sichtbar anzubringen."
+        }
+      ],
+      "top_score": 0.7054
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 2 Begriffe",
+          "score": 0.6144,
+          "text_preview": "1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind, ausgenommen Wohngebäude, die keine Hochhäuser sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(6) Flächen von Gebäuden, Gesch",
+          "text_full": "1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind, ausgenommen Wohngebäude, die keine Hochhäuser sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(6) Flächen von Gebäuden, Geschossen, Nutzungseinheiten und Räumen sind als Brutto-Grundfläche zu ermitteln, soweit nichts anderes geregelt ist.\n(7) 1Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. 2Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(8) 1Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsfläche dienen. 2Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. 3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(9) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 48 Barrierefreies Bauen",
+          "score": 0.5678,
+          "text_preview": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl b",
+          "text_full": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein. 5Diese Anforderungen gelten nicht bei Nutzungsänderungen, wenn die Anforderungen nur mit unverhältnismäßigem Aufwand erfüllt werden können. 6Die Anforderungen an Gaststätten, die einer gaststättenrechtlichen Erlaubnis bedürfen, sind im Rahmen des gaststättenrechtlichen Erlaubnisverfahrens zu beachten.\n(3) Bauliche Anlagen und Einrichtungen, die überwiegend oder ausschließlich von Menschen mit Behinderung, alten Menschen und Personen mit Kleinkindern genutzt werden, wie\n1. Tagesstätten, Werkstätten und stationäre Einrichtungen für Menschen mit Behinderung,\n2. stationäre Einrichtungen für pflegebedürftige und alte Menschen müssen in allen der zweckentsprechenden Nutzung dienenden Teilen barrierefrei sein.\n(4) 1Die Abs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5404,
+          "text_preview": "2 BauGB dienen,\ng) andere unbedeutende Anlagen oder unbedeutende Teile von Anlagen wie Hauseingangsüberdachungen, Markisen, Rollläden, Terrassen, Maschinenfundamente, Straßenfahrzeugwaagen, Pergolen, Jägerstände, Wildfütterungen, Bienenfreistände, Taubenhäuser, Hofeinfahrten und Teppichstangen,\n17. ",
+          "text_full": "2 BauGB dienen,\ng) andere unbedeutende Anlagen oder unbedeutende Teile von Anlagen wie Hauseingangsüberdachungen, Markisen, Rollläden, Terrassen, Maschinenfundamente, Straßenfahrzeugwaagen, Pergolen, Jägerstände, Wildfütterungen, Bienenfreistände, Taubenhäuser, Hofeinfahrten und Teppichstangen,\n17. alle baulichen Anlagen inländischer öffentlicher Stellen auf Militärgelände,\n18. Dachgeschossausbauten zu Wohnzwecken einschließlich der Errichtung von Dachgauben und im Anwendungsbereich des § 34 Abs. 1 Satz 1 BauGB der Einbau weiterer Wohnungen in bestehende Gebäude, wenn die Konstruktion und die äußere Gestalt des Gebäudes im Übrigen nicht verändert werden.\n(2) Unbeschadet des Abs. 1 sind verfahrensfrei\n1. Garagen mit einer Nutzfläche bis zu 100 m2 sowie überdachte Stellplätze,\n2. Wochenendhäuser sowie Anlagen, die keine Gebäude sind, in durch Bebauungsplan festgesetzten Wochenendhausgebieten,\n3. Anlagen in Dauerkleingärten im Sinn des § 1 Abs. 3 BKleingG,\n4. Dachgauben und vergleichbare Dachaufbauten,\n5. Mauern und Einfriedungen,\n6."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5379,
+          "text_preview": "1 und 2, § 201 BauGB dienen,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\nf) Schutzhütten für Wanderer, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) Terrassenüberdachungen mit einer Fläche bis zu 30 m2,\nh) Gartenlauben in Klei",
+          "text_full": "1 und 2, § 201 BauGB dienen,\ne) Fahrgastunterstände, die dem öffentlichen Personenverkehr oder der Schülerbeförderung dienen,\nf) Schutzhütten für Wanderer, die jedermann zugänglich sind und keine Aufenthaltsräume haben,\ng) Terrassenüberdachungen mit einer Fläche bis zu 30 m2,\nh) Gartenlauben in Kleingartenanlagen im Sinn des § 1 Abs. 1 des Bundeskleingartengesetzes (BKleingG) vom 28. Februar 1983 (BGBl I S. 210), zuletzt geändert durch Art. 11 des Gesetzes vom 19. September 2006 (BGBl I S. 2146),\n2. folgende Anlagen der technischen Gebäudeausrüstung:\na) Abgasanlagen in, auf und an Gebäuden sowie freistehende Abgasanlagen mit einer freien Höhe bis zu 10 m,\nb) sonstige Anlagen der technischen Gebäudeausrüstung,\n3. folgende Energiegewinnungsanlagen:\na) Solarenergieanlagen und Sonnenkollektoren\naa) in, auf und an Dach- und Außenwandflächen sowie, soweit sie in, auf oder an einer bestehenden baulichen Anlage errichtet werden, die damit verbundene Änderung der Nutzung oder der äußeren Gestalt der Anlage,\nbb) die gemäß § 35 Abs. 1 Nr."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 81 Örtliche Bauvorschriften",
+          "score": 0.5294,
+          "text_preview": "über\na) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Errichtung von Anlagen herzustellen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist,\nb) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Änderung oder Nutzungsänderung von Anlagen herzustellen, wenn dadurch zusätzli",
+          "text_full": "über\na) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Errichtung von Anlagen herzustellen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist,\nb) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Änderung oder Nutzungsänderung von Anlagen herzustellen, wenn dadurch zusätzlicher Zu- oder Abfahrtsverkehr zu erwarten ist; ausgenommen sind, wenn sie zu Wohnzwecken erfolgen, Nutzungsänderungen, der Ausbau von Dachgeschossen, der Einbau weiterer Wohnungen in bestehende Wohngebäude und die Aufstockung von Wohngebäuden,\nc) eine im Sinne von Art. 47 Abs."
+        }
+      ],
+      "top_score": 0.6144
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.5591,
+          "text_preview": "1 und 2, § 201 BauGB dienen,\nb) nicht überdachte Stellplätze und sonstige Lager- und Abstellplätze und deren Zufahrten, außer im Außenbereich,\nc) Kinderspielplätze,\nd) Freischankflächen bis zu 100 m2 einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte oder einer Verkaufsstelle d",
+          "text_full": "1 und 2, § 201 BauGB dienen,\nb) nicht überdachte Stellplätze und sonstige Lager- und Abstellplätze und deren Zufahrten, außer im Außenbereich,\nc) Kinderspielplätze,\nd) Freischankflächen bis zu 100 m2 einschließlich einer damit verbundenen Nutzungsänderung einer Gaststätte oder einer Verkaufsstelle des Lebensmittelhandwerks,\n16. folgende sonstige Anlagen:\na) Fahrradabstellanlagen, soweit sie nicht Gebäude sind,\nb) Ladestationen für Elektrofahrzeuge einschließlich technischer Nebenanlagen,\nc) Zapfsäulen und Tankautomaten genehmigter Tankstellen,\nd) Regale mit einer Höhe bis zu 7,50 m Oberkante Lagergut,\ne) Feldkreuze, Denkmäler und sonstige Kunstwerke jeweils mit einer Höhe bis zu 4 m sowie Grabdenkmale auf Friedhöfen,\nf) transparente Wetterschutzeinrichtungen, die auf Masten mit einer Höhe bis zu 10 m befestigt werden und einem Betrieb der gartenbaulichen Erzeugung im Sinn von § 35 Abs. 1 Nr."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 48 Barrierefreies Bauen",
+          "score": 0.5291,
+          "text_preview": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl b",
+          "text_full": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein. 5Diese Anforderungen gelten nicht bei Nutzungsänderungen, wenn die Anforderungen nur mit unverhältnismäßigem Aufwand erfüllt werden können. 6Die Anforderungen an Gaststätten, die einer gaststättenrechtlichen Erlaubnis bedürfen, sind im Rahmen des gaststättenrechtlichen Erlaubnisverfahrens zu beachten.\n(3) Bauliche Anlagen und Einrichtungen, die überwiegend oder ausschließlich von Menschen mit Behinderung, alten Menschen und Personen mit Kleinkindern genutzt werden, wie\n1. Tagesstätten, Werkstätten und stationäre Einrichtungen für Menschen mit Behinderung,\n2. stationäre Einrichtungen für pflegebedürftige und alte Menschen müssen in allen der zweckentsprechenden Nutzung dienenden Teilen barrierefrei sein.\n(4) 1Die Abs."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 47 Stellplätze, Verordnungsermächtigung",
+          "score": 0.5197,
+          "text_preview": "Art. 47 Stellplätze, Verordnungsermächtigung\n(1) 1Wenn die Gemeinde dies durch Satzung nach Art. 81 Abs. 1 Nr. 4 angeordnet hat, sind Stellplätze auf dem Baugrundstück oder auf einem geeigneten Grundstück in der Nähe des Baugrundstücks herzustellen. 2Bei Herstellung der Stellplätze auf einem geeigne",
+          "text_full": "Art. 47 Stellplätze, Verordnungsermächtigung\n(1) 1Wenn die Gemeinde dies durch Satzung nach Art. 81 Abs. 1 Nr. 4 angeordnet hat, sind Stellplätze auf dem Baugrundstück oder auf einem geeigneten Grundstück in der Nähe des Baugrundstücks herzustellen. 2Bei Herstellung der Stellplätze auf einem geeigneten Grundstück in der Nähe des Baugrundstücks ist dessen Benutzung für diesen Zweck gegenüber dem Rechtsträger der Bauaufsichtsbehörde rechtlich zu sichern.\n(2) 1Die Zahl der notwendigen Stellplätze nach Abs. 1 Satz 1 legt das Staatsministerium für Wohnen, Bau und Verkehr durch Rechtsverordnung fest. 2Wird eine geringere Zahl notwendiger Stellplätze durch Satzung nach Art. 81 Abs. 1 Nr. 4 festgelegt, ist diese Zahl maßgeblich."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 27 Trennwände",
+          "score": 0.5116,
+          "text_preview": "Art. 27 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinh",
+          "text_full": "Art. 27 Trennwände\n(1) Trennwände nach Abs. 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) 1Trennwände nach Abs. 2 Nr. 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. 2Trennwände nach Abs. 2 Nr. 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Abs. 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen; werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen.\n(5) Öffnungen in Trennwänden nach Abs. 2 müssen feuerhemmende, dicht- und selbstschließende Abschlüsse haben.\n(6) Die Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 2 Begriffe",
+          "score": 0.4995,
+          "text_preview": "1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind, ausgenommen Wohngebäude, die keine Hochhäuser sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(6) Flächen von Gebäuden, Gesch",
+          "text_full": "1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind, ausgenommen Wohngebäude, die keine Hochhäuser sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(6) Flächen von Gebäuden, Geschossen, Nutzungseinheiten und Räumen sind als Brutto-Grundfläche zu ermitteln, soweit nichts anderes geregelt ist.\n(7) 1Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. 2Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(8) 1Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsfläche dienen. 2Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. 3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(9) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        }
+      ],
+      "top_score": 0.5591
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 69 Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung",
+          "score": 0.7861,
+          "text_preview": "Art. 69 Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung\n(1) Sind in ihnen keine anderen Fristen bestimmt, erlöschen die Baugenehmigung und die Teilbaugenehmigung, wenn innerhalb von vier Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung",
+          "text_full": "Art. 69 Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung\n(1) Sind in ihnen keine anderen Fristen bestimmt, erlöschen die Baugenehmigung und die Teilbaugenehmigung, wenn innerhalb von vier Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung vier Jahre unterbrochen worden ist; die Einlegung eines Rechtsbehelfs hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Genehmigung.\n(2) 1Die Frist nach Abs. 1 kann auf schriftlichen Antrag jeweils bis zu vier Jahre verlängert werden. 2Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 70 Teilbaugenehmigung 1Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Baut",
+          "score": 0.7807,
+          "text_preview": "Art. 70 Teilbaugenehmigung 1Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Baut\neile oder Bauabschnitte auf schriftlichen Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung); eine Teilbaugenehmigung kann auch für die E",
+          "text_full": "Art. 70 Teilbaugenehmigung 1Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Baut\neile oder Bauabschnitte auf schriftlichen Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung); eine Teilbaugenehmigung kann auch für die Errichtung einer baulichen Anlage unter Vorbehalt der künftigen Nutzung erteilt werden, wenn und soweit die Genehmigungsfähigkeit der baulichen Anlage nicht von deren künftiger Nutzung abhängt. 2Art. 67 und 68 Abs. 1 und Abs. 3 bis 8 gelten entsprechend."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 65 Behandlung des Bauantrags",
+          "score": 0.7532,
+          "text_preview": "2Bedarf die Erteilung der Baugenehmigung der Zustimmung oder des Einvernehmens einer anderen Körperschaft, Behörde oder sonstigen Stelle, so gilt diese als erteilt, wenn sie nicht einen Monat nach Eingang des Ersuchens verweigert wird; von der Frist nach Halbsatz 1 abweichende Regelungen durch Recht",
+          "text_full": "2Bedarf die Erteilung der Baugenehmigung der Zustimmung oder des Einvernehmens einer anderen Körperschaft, Behörde oder sonstigen Stelle, so gilt diese als erteilt, wenn sie nicht einen Monat nach Eingang des Ersuchens verweigert wird; von der Frist nach Halbsatz 1 abweichende Regelungen durch Rechtsvorschrift bleiben unberührt. 3Stellungnahmen bleiben unberücksichtigt, wenn sie nicht innerhalb eines Monats nach Aufforderung zur Stellungnahme bei der Bauaufsichtsbehörde eingehen, es sei denn, die verspätete Stellungnahme ist für die Rechtmäßigkeit der Entscheidung über den Bauantrag von Bedeutung.\n(3) Betrifft der Bauantrag eine Anlage, die in den Anwendungsbereich der Richtlinie (EU) 2018/2001 fällt, gilt:\n1. Auf Antrag des Bauherrn werden die erforderlichen Zulassungsverfahren über eine einheitliche Stelle im Sinne des Art. 71a Abs. 1 BayVwVfG abgewickelt.\n2. Einheitliche Stelle nach Nr. 1 sind die unteren Bauaufsichtsbehörden, soweit sich nicht aus Art. 1 Abs. 1 Satz 3 des Bayerischen Immissionsschutzgesetzes oder Art. 63 Abs. 8 BayWG Abweichendes ergibt.\n3."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 73 Bauaufsichtliche Zustimmung",
+          "score": 0.7376,
+          "text_preview": "4Keiner Baugenehmigung, Genehmigungsfreistellung oder Zustimmung bedürfen unter den Voraussetzungen des Satzes 1 Baumaßnahmen in oder an bestehenden Gebäuden, soweit sie nicht zur Erweiterung des Bauvolumens oder zu einer der Genehmigungspflicht unterliegenden Nutzungsänderung führen.\n(2) 1Der Antra",
+          "text_full": "4Keiner Baugenehmigung, Genehmigungsfreistellung oder Zustimmung bedürfen unter den Voraussetzungen des Satzes 1 Baumaßnahmen in oder an bestehenden Gebäuden, soweit sie nicht zur Erweiterung des Bauvolumens oder zu einer der Genehmigungspflicht unterliegenden Nutzungsänderung führen.\n(2) 1Der Antrag auf Zustimmung ist bei der Regierung einzureichen. 2Die Regierung prüft\n1. die Übereinstimmung des Bauvorhabens mit den Vorschriften über die Zulässigkeit der baulichen Anlagen nach den §§ 29 bis 38 BauGB und den Regelungen örtlicher Bauvorschriften im Sinn des Art. 81 Abs. 1 sowie\n2. andere öffentlich-rechtliche Anforderungen, soweit wegen der Zustimmung eine Entscheidung nach anderen öffentlich-rechtlichen Vorschriften entfällt, ersetzt oder eingeschlossen wird. 3Sie führt eine Öffentlichkeitsbeteiligung nach Art. 66a Abs. 2 durch. 4Die Regierung entscheidet über Abweichungen von den nach Satz 2 zu prüfenden sowie sonstigen Vorschriften, soweit sie drittschützend sind; darüber hinaus bedarf die Zulässigkeit von Ausnahmen, Befreiungen und Abweichungen keiner bauaufsichtlichen Entscheidung. 5Die Gemeinde ist vor Erteilung der Zustimmung zu hören; § 36 Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 72 Genehmigung fliegender Bauten",
+          "score": 0.7371,
+          "text_preview": "(6) 1Die beabsichtigte Aufstellung genehmigungspflichtiger fliegender Bauten ist der Bauaufsichtsbehörde mindestens eine Woche zuvor unter Vorlage des Prüfbuchs anzuzeigen, es sei denn, dass dies nach der Ausführungsgenehmigung nicht erforderlich ist. 2Genehmigungsbedürftige fliegende Bauten dürfen ",
+          "text_full": "(6) 1Die beabsichtigte Aufstellung genehmigungspflichtiger fliegender Bauten ist der Bauaufsichtsbehörde mindestens eine Woche zuvor unter Vorlage des Prüfbuchs anzuzeigen, es sei denn, dass dies nach der Ausführungsgenehmigung nicht erforderlich ist. 2Genehmigungsbedürftige fliegende Bauten dürfen nur in Betrieb genommen werden, wenn\n1. sie von der Bauaufsichtsbehörde abgenommen worden sind (Gebrauchsabnahme), es sei denn, dass dies nach der Ausführungsgenehmigung nicht erforderlich ist oder die Bauaufsichtsbehörde im Einzelfall darauf verzichtet, und\n2. in der Ausführungsgenehmigung vorgeschriebene Abnahmen durch Sachverständige nach Abs. 2 Satz 3 vorgenommen worden sind.\n(7) 1Auf fliegende Bauten, die der Landesverteidigung oder dem Katastrophenschutz dienen, finden die Abs. 1 bis 6 und Art. 73 keine Anwendung. 2Sie bedürfen auch keiner Baugenehmigung."
+        }
+      ],
+      "top_score": 0.7861
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 48 Barrierefreies Bauen",
+          "score": 0.6339,
+          "text_preview": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl b",
+          "text_full": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein. 5Diese Anforderungen gelten nicht bei Nutzungsänderungen, wenn die Anforderungen nur mit unverhältnismäßigem Aufwand erfüllt werden können. 6Die Anforderungen an Gaststätten, die einer gaststättenrechtlichen Erlaubnis bedürfen, sind im Rahmen des gaststättenrechtlichen Erlaubnisverfahrens zu beachten.\n(3) Bauliche Anlagen und Einrichtungen, die überwiegend oder ausschließlich von Menschen mit Behinderung, alten Menschen und Personen mit Kleinkindern genutzt werden, wie\n1. Tagesstätten, Werkstätten und stationäre Einrichtungen für Menschen mit Behinderung,\n2. stationäre Einrichtungen für pflegebedürftige und alte Menschen müssen in allen der zweckentsprechenden Nutzung dienenden Teilen barrierefrei sein.\n(4) 1Die Abs."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 6 Abstandsflächen, Abstände",
+          "score": 0.6301,
+          "text_preview": "Art. 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Satz 2 gilt insbesondere nicht",
+          "text_full": "Art. 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Satz 2 gilt insbesondere nicht für\n1. Antennen und Antennen tragende Masten für den Mobilfunk und den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BOS) im Außenbereich,\n2. Windenergieanlagen im Außenbereich,\n3. ebenerdige Terrassen und\n4. Wärmepumpen und zugehörige Einhausungen mit einer Höhe bis zu 2 m über der Geländeoberfläche. 4Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf. 5Art. 63 bleibt unberührt.\n(2) 1Abstandsflächen sowie Abstände nach Art. 28 Abs. 2 Nr. 1 und Art. 30 Abs. 2 müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 36 Umwehrungen",
+          "score": 0.6057,
+          "text_preview": "Art. 36 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 0,50 m tiefer liegende Flächen angrenzen; das gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. Dächer, die zum Aufenthal",
+          "text_full": "Art. 36 Umwehrungen\n(1) In, an und auf baulichen Anlagen sind zu umwehren\n1. Flächen, die im Allgemeinen zum Begehen bestimmt sind und unmittelbar an mehr als 0,50 m tiefer liegende Flächen angrenzen; das gilt nicht, wenn die Umwehrung dem Zweck der Flächen widerspricht,\n2. Dächer, die zum Aufenthalt von Menschen bestimmt sind, sowie Öffnungen und nicht begehbare Flächen in diesen Dächern und in begehbaren Decken, soweit sie nicht sicher abgedeckt oder gegen Betreten gesichert sind,\n3. die freien Seiten von Treppenläufen, Treppenabsätzen und Treppenöffnungen (Treppenaugen); Fenster, die unmittelbar an Treppen und deren Brüstungen unter der notwendigen Umwehrungshöhe liegen, sind zu sichern.\n(2) 1Die Umwehrungen müssen ausreichend hoch und fest sein. 2Ist mit der Anwesenheit unbeaufsichtigter Kleinkinder auf der zu sichernden Fläche üblicherweise zu rechnen, müssen Umwehrungen so ausgebildet werden, dass sie Kleinkindern das Über- oder Durchklettern nicht erleichtern; das gilt nicht innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2 und innerhalb von Wohnungen. Abschnitt VI Technische Gebäudeausrüstung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 6 Abstandsflächen, Abstände",
+          "score": 0.5891,
+          "text_preview": "Stützmauern und geschlossene Einfriedungen in Gewerbe- und Industriegebieten, außerhalb dieser Baugebiete mit einer Höhe bis zu 2 m. 2Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach den Nrn. 1 und 2 darf auf einem Grundstück insgesamt 15 m nic",
+          "text_full": "Stützmauern und geschlossene Einfriedungen in Gewerbe- und Industriegebieten, außerhalb dieser Baugebiete mit einer Höhe bis zu 2 m. 2Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach den Nrn. 1 und 2 darf auf einem Grundstück insgesamt 15 m nicht überschreiten."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 33 Notwendige Treppenräume, Ausgänge",
+          "score": 0.579,
+          "text_preview": "3Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n(3) 1Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. 2Sofern der Ausgang eines notwendigen Treppenr",
+          "text_full": "3Sind mehrere notwendige Treppenräume erforderlich, müssen sie so verteilt sein, dass sie möglichst entgegengesetzt liegen und dass die Rettungswege möglichst kurz sind.\n(3) 1Jeder notwendige Treppenraum muss einen unmittelbaren Ausgang ins Freie haben. 2Sofern der Ausgang eines notwendigen Treppenraums nicht unmittelbar ins Freie führt, muss der Raum zwischen dem notwendigen Treppenraum und dem Ausgang ins Freie\n1. mindestens so breit sein wie die dazugehörigen Treppenläufe,\n2. Wände haben, die die Anforderungen an die Wände des Treppenraums erfüllen,\n3. rauchdichte und selbstschließende Abschlüsse zu notwendigen Fluren haben und\n4. ohne Öffnungen zu anderen Räumen, ausgenommen zu notwendigen Fluren, sein.\n(4) 1Die Wände notwendiger Treppenräume müssen als raumabschließende Bauteile\n1. in Gebäuden der Gebäudeklasse 5 die Bauart von Brandwänden haben,\n2. in Gebäuden der Gebäudeklasse 4 auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend und\n3. in Gebäuden der Gebäudeklasse 3 feuerhemmend sein."
+        }
+      ],
+      "top_score": 0.6339
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 15,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A",
+          "score": 0.7532,
+          "text_preview": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A\nnlagen sind die Belange der Baukultur, insbesondere die anerkannten Regeln der Baukunst, so zu berücksichtigen, dass die öffentliche Sicherheit und Ordnung, insbesondere L",
+          "text_full": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A\nnlagen sind die Belange der Baukultur, insbesondere die anerkannten Regeln der Baukunst, so zu berücksichtigen, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben und Gesundheit, und die natürlichen Lebensgrundlagen nicht gefährdet werden. 2Anlagen müssen bei ordnungsgemäßer Instandhaltung die Anforderungen des Satzes 1 während einer dem Zweck entsprechenden angemessenen Zeitdauer erfüllen und ohne Missstände benutzbar sein. Zweiter Teil Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 22 Besondere Sachkunde- und Sorgfaltsanforderungen In der allgemeinen bauaufsichtlichen Zulassung oder in der Zustimmung im",
+          "score": 0.7209,
+          "text_preview": "Art. 22 Besondere Sachkunde- und Sorgfaltsanforderungen In der allgemeinen bauaufsichtlichen Zulassung oder in der Zustimmung im\nEinzelfall kann vorgeschrieben werden, dass\n1. der Hersteller von Bauprodukten, deren Herstellung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrau",
+          "text_full": "Art. 22 Besondere Sachkunde- und Sorgfaltsanforderungen In der allgemeinen bauaufsichtlichen Zulassung oder in der Zustimmung im\nEinzelfall kann vorgeschrieben werden, dass\n1. der Hersteller von Bauprodukten, deren Herstellung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, über solche Fachkräfte und Vorrichtungen verfügen muss und den Nachweis hierüber gegenüber einer Prüfstelle zu erbringen hat,\n2. der Einbau, der Transport, die Instandhaltung oder die Reinigung von Bauprodukten, die wegen ihrer besonderen Eigenschaften oder ihres besonderen Verwendungszwecks einer außergewöhnlichen Sorgfalt bedürfen, durch eine Überwachungsstelle zu überwachen sind, soweit diese Tätigkeiten nicht bereits durch die Verordnung (EU) Nr. 305/2011 erfasst sind."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 17 Verwendbarkeitsnachweise Die in Art. 16 Abs. 2 Satz 1 genannten Anforderungen sind für Bauprodukte, die für die Erfüllung",
+          "score": 0.7016,
+          "text_preview": "Art. 17 Verwendbarkeitsnachweise Die in Art. 16 Abs. 2 Satz 1 genannten Anforderungen sind für Bauprodukte, die für die Erfüllung\nder Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes nicht nur eine untergeordnete Bedeutung haben, durch eine allgemeine bauaufsichtliche Zulassung, ein allg",
+          "text_full": "Art. 17 Verwendbarkeitsnachweise Die in Art. 16 Abs. 2 Satz 1 genannten Anforderungen sind für Bauprodukte, die für die Erfüllung\nder Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes nicht nur eine untergeordnete Bedeutung haben, durch eine allgemeine bauaufsichtliche Zulassung, ein allgemeines bauaufsichtliches Prüfzeugnis oder eine Zustimmung im Einzelfall (Verwendbarkeitsnachweise) nachzuweisen, wenn\n1. es keine Technische Baubestimmung oder allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung in Bezug auf die Leistung von Bauprodukten wesentlich abweicht oder\n3. eine Rechtsverordnung nach Art. 80 Abs. 5 Nr. 5 es vorsieht."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 15 Bauarten",
+          "score": 0.6897,
+          "text_preview": "Art. 15 Bauarten\n(1) Bauarten dürfen nur angewendet werden, wenn sie für ihren Anwendungszweck tauglich sind und bei ihrer Anwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf Grund",
+          "text_full": "Art. 15 Bauarten\n(1) Bauarten dürfen nur angewendet werden, wenn sie für ihren Anwendungszweck tauglich sind und bei ihrer Anwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes erfüllen.\n(2) 1Bauarten, die von Technischen Baubestimmungen in Bezug auf die Planung, Bemessung und Ausführung baulicher Anlagen und ihrer Teile wesentlich abweichen, oder für die es keine allgemein anerkannten Regeln der Technik gibt, dürfen nur angewendet werden, wenn für sie\n1. eine allgemeine Bauartgenehmigung oder\n2. eine vorhabenbezogene Bauartgenehmigung erteilt worden ist. 2Art. 18 gilt entsprechend.\n(3) 1Anstelle einer allgemeinen Bauartgenehmigung genügt ein allgemeines bauaufsichtliches Prüfzeugnis, wenn die Bauart nach allgemein anerkannten Prüfverfahren beurteilt werden kann. 2Art. 18 gilt entsprechend.\n(4) Sind Gefahren für die öffentliche Sicherheit und Ordnung, insbesondere Leben und Gesundheit, und die natürlichen Lebensgrundlagen nicht zu erwarten, kann die oberste Bauaufsichtsbehörde festlegen, dass eine Bauartgenehmigung nicht erforderlich ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 48 Barrierefreies Bauen",
+          "score": 0.6875,
+          "text_preview": "1 bis 3 gelten nicht, soweit die Anforderungen wegen schwieriger Geländeverhältnisse, wegen ungünstiger vorhandener Bebauung oder im Hinblick auf die Sicherheit der Menschen mit Behinderung oder alten Menschen oder bei Anlagen nach Abs. 1 auch wegen des Einbaus eines sonst nicht erforderlichen Aufzu",
+          "text_full": "1 bis 3 gelten nicht, soweit die Anforderungen wegen schwieriger Geländeverhältnisse, wegen ungünstiger vorhandener Bebauung oder im Hinblick auf die Sicherheit der Menschen mit Behinderung oder alten Menschen oder bei Anlagen nach Abs. 1 auch wegen des Einbaus eines sonst nicht erforderlichen Aufzugs nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können. 2Bei bestehenden baulichen Anlagen im Sinn der Abs. 2 und 3 soll die Bauaufsichtsbehörde verlangen, dass ein gleichwertiger Zustand hergestellt wird, wenn das technisch möglich und dem Eigentümer wirtschaftlich zumutbar ist. Vierter Teil Die am Bau Beteiligten"
+        }
+      ],
+      "top_score": 0.7532
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 48 Barrierefreies Bauen",
+          "score": 0.6773,
+          "text_preview": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl b",
+          "text_full": "Beherbergungsstätten,\n9. Stellplätze, Garagen und Toilettenanlagen. 3Für die der zweckentsprechenden Nutzung dienenden Räume und Anlagen genügt es, wenn sie in dem erforderlichen Umfang barrierefrei sind. 4Toilettenräume und Stellplätze für Besucher und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein. 5Diese Anforderungen gelten nicht bei Nutzungsänderungen, wenn die Anforderungen nur mit unverhältnismäßigem Aufwand erfüllt werden können. 6Die Anforderungen an Gaststätten, die einer gaststättenrechtlichen Erlaubnis bedürfen, sind im Rahmen des gaststättenrechtlichen Erlaubnisverfahrens zu beachten.\n(3) Bauliche Anlagen und Einrichtungen, die überwiegend oder ausschließlich von Menschen mit Behinderung, alten Menschen und Personen mit Kleinkindern genutzt werden, wie\n1. Tagesstätten, Werkstätten und stationäre Einrichtungen für Menschen mit Behinderung,\n2. stationäre Einrichtungen für pflegebedürftige und alte Menschen müssen in allen der zweckentsprechenden Nutzung dienenden Teilen barrierefrei sein.\n(4) 1Die Abs."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 46 Wohnungen",
+          "score": 0.6197,
+          "text_preview": "Art. 46 Wohnungen\n(1) 1Jede Wohnung muss eine Küche oder Kochnische haben. 2Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Für Gebäude der Gebäudeklassen 3 bis 5 sind für jede Wohnung ein ausreichend großer Abstellraum und, soweit die Wohnungen n",
+          "text_full": "Art. 46 Wohnungen\n(1) 1Jede Wohnung muss eine Küche oder Kochnische haben. 2Fensterlose Küchen oder Kochnischen sind zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(2) Für Gebäude der Gebäudeklassen 3 bis 5 sind für jede Wohnung ein ausreichend großer Abstellraum und, soweit die Wohnungen nicht nur zu ebener Erde liegen, leicht erreichbare und gut zugängliche Abstellräume für Kinderwagen, Fahrräder und Mobilitätshilfen erforderlich.\n(3) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben.\n(4) 1In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, die zu Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. 2Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. 3Die Eigentümer vorhandener Wohnungen sind verpflichtet, jede Wohnung bis zum 31. Dezember 2017 entsprechend auszustatten. 4Die Sicherstellung der Betriebsbereitschaft obliegt den unmittelbaren Besitzern, es sei denn, der Eigentümer übernimmt diese Verpflichtung selbst."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 81 Örtliche Bauvorschriften",
+          "score": 0.589,
+          "text_preview": "über\na) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Errichtung von Anlagen herzustellen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist,\nb) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Änderung oder Nutzungsänderung von Anlagen herzustellen, wenn dadurch zusätzli",
+          "text_full": "über\na) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Errichtung von Anlagen herzustellen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist,\nb) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Änderung oder Nutzungsänderung von Anlagen herzustellen, wenn dadurch zusätzlicher Zu- oder Abfahrtsverkehr zu erwarten ist; ausgenommen sind, wenn sie zu Wohnzwecken erfolgen, Nutzungsänderungen, der Ausbau von Dachgeschossen, der Einbau weiterer Wohnungen in bestehende Wohngebäude und die Aufstockung von Wohngebäuden,\nc) eine im Sinne von Art. 47 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 2 Begriffe",
+          "score": 0.5625,
+          "text_preview": "1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind, ausgenommen Wohngebäude, die keine Hochhäuser sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(6) Flächen von Gebäuden, Gesch",
+          "text_full": "1 bis 19 nicht aufgeführt und deren Art oder Nutzung mit vergleichbaren Gefahren verbunden sind, ausgenommen Wohngebäude, die keine Hochhäuser sind.\n(5) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(6) Flächen von Gebäuden, Geschossen, Nutzungseinheiten und Räumen sind als Brutto-Grundfläche zu ermitteln, soweit nichts anderes geregelt ist.\n(7) 1Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,40 m über die Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. 2Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.\n(8) 1Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsfläche dienen. 2Garagen sind Gebäude oder Gebäudeteile zum Abstellen von Kraftfahrzeugen. 3Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(9) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 2 Begriffe",
+          "score": 0.5523,
+          "text_preview": "Gebäude mit Nutzungseinheiten zum Zweck der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen bestimmt sind,\nb) für Personen mit Intensivpflegebedarf bestimmt",
+          "text_full": "Gebäude mit Nutzungseinheiten zum Zweck der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderung, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn die Nutzungseinheiten\na) einzeln für mehr als sechs Personen bestimmt sind,\nb) für Personen mit Intensivpflegebedarf bestimmt sind oder\nc) einen gemeinsamen Rettungsweg haben und für insgesamt mehr als zwölf Personen bestimmt sind,\n12. Krankenhäuser,\n13. sonstige Einrichtungen zur Unterbringung von Personen sowie Wohnheime,\n14. Tageseinrichtungen für Kinder, Menschen mit Behinderung und alte Menschen, in denen mehr als zehn Personen betreut werden,\n15. Schulen, Hochschulen und ähnliche Einrichtungen,\n16. Justizvollzugsanstalten und bauliche Anlagen für den Maßregelvollzug,\n17. Freizeit- und Vergnügungsparks,\n18. fliegende Bauten, soweit sie einer Ausführungsgenehmigung bedürfen, sowie Fahrgeschäfte, die keine fliegenden Bauten und nicht verfahrensfrei sind,\n19. Regale mit einer Oberkante Lagerguthöhe von mehr als 7,50 m,\n20. bauliche Anlagen, deren Nutzung durch Umgang mit oder Lagerung von Stoffen mit Explosions- oder erhöhter Brandgefahr verbunden ist,\n21. Anlagen und Räume, die in den Nrn."
+        }
+      ],
+      "top_score": 0.6773
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 15,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7421,
+          "text_preview": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mö",
+          "text_full": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 62b Brandschutznachweis",
+          "score": 0.7315,
+          "text_preview": "Art. 62b Brandschutznachweis\n(1) Der Brandschutznachweis muss erstellt sein von Personen, die\n1. für das Bauvorhaben bauvorlageberechtigt sind,\n2. zur Bescheinigung von Brandschutznachweisen befugt sind oder\n3. nach Abschluss der Ausbildung mindestens zwei Jahre auf dem Gebiet der brandschutztechnis",
+          "text_full": "Art. 62b Brandschutznachweis\n(1) Der Brandschutznachweis muss erstellt sein von Personen, die\n1. für das Bauvorhaben bauvorlageberechtigt sind,\n2. zur Bescheinigung von Brandschutznachweisen befugt sind oder\n3. nach Abschluss der Ausbildung mindestens zwei Jahre auf dem Gebiet der brandschutztechnischen Planung und Ausführung von Gebäuden oder deren Prüfung praktisch tätig gewesen sind und die erforderlichen Kenntnisse des Brandschutzes nachgewiesen haben\na) als Angehöriger eines Studiengangs der Fachrichtung Architektur, Hochbau (Art. 49 Abs. 1 der Richtlinie 2005/36/EG), Bauingenieurwesen oder eines Studiengangs mit Schwerpunkt Brandschutz, der ein Studium an einer deutschen Hochschule oder ein gleichwertiges Studium an einer ausländischen Hochschule abgeschlossen hat, oder\nb) als Absolvent einer Ausbildung für Ämter mit Einstieg in der dritten und vierten Qualifikationsebene in der Fachlaufbahn Naturwissenschaft und Technik, Schwerpunkt feuerwehrtechnischer Dienst.\n(2) 1Der Brandschutznachweis muss durch einen Prüfsachverständigen für Brandschutz bescheinigt sein oder wird bauaufsichtlich geprüft bei\n1. Sonderbauten,\n2."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 39 Lüftungsanlagen",
+          "score": 0.7095,
+          "text_preview": "Art. 39 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoff",
+          "text_full": "Art. 39 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. 2Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) 1Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. 2Die Abluft ist ins Freie zu führen. 3Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Die Abs. 2 und 3 gelten nicht\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 24 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7094,
+          "text_preview": "Art. 24 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) 1Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. 2Baustoffe, die nicht mindestens normalentflammbar sind (leichtentf",
+          "text_full": "Art. 24 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) 1Baustoffe werden nach den Anforderungen an ihr Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. 2Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; das gilt nicht, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) 1Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende,\n3. feuerhemmende; die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. 2Bauteile werden zusätzlich nach dem Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 40 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung",
+          "score": 0.702,
+          "text_preview": "Art. 40 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, bauli",
+          "text_full": "Art. 40 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung, Brennstoffversorgung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) 1Abgase von Feuerstätten sind durch Abgasleitungen, Kamine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. 2Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. 3Sie müssen leicht gereinigt werden können.\n(4) 1Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. 2Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen.\n(5) Für die Aufstellung von ortsfesten Verbrennungsmotoren, Blockheizkraftwerken, Brennstoffzellen und Verdichtern sowie die Ableitung ihrer Verbrennungsgase gelten die Abs. 1 bis 3 entsprechend."
+        }
+      ],
+      "top_score": 0.7421
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 18,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 34 Notwendige Flure, offene Gänge",
+          "score": 0.7033,
+          "text_preview": "Art. 34 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall a",
+          "text_full": "Art. 34 Notwendige Flure, offene Gänge\n(1) 1Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu Ausgängen in notwendige Treppenräume oder ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. 2Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. innerhalb von Nutzungseinheiten mit nicht mehr als 200 m2 und innerhalb von Wohnungen,\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m2; das gilt auch für Teile größerer Nutzungseinheiten, wenn diese Teile nicht größer als 400 m2 sind, Trennwände nach Art. 27 Abs. 2 Nr. 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach Art. 31 Abs. 1 hat.\n(2) 1Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen. 2In den Fluren ist eine Folge von weniger als drei Stufen unzulässig."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 31 Rettungswege",
+          "score": 0.6982,
+          "text_preview": "(3) 1Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsg",
+          "text_full": "(3) 1Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt. 2Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 31 Rettungswege",
+          "score": 0.6884,
+          "text_preview": "Art. 31 Rettungswege\n(1) 1Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses",
+          "text_full": "Art. 31 Rettungswege\n(1) 1Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. 2Abweichend von Satz 1 genügt ein Rettungsweg\n1. aus Geschossen ohne Aufenthaltsräume,\n2. bei zu ebener Erde liegenden Geschossen bis 400 m2, wenn dieser aus der Nutzungseinheit unmittelbar ins Freie führt; Art. 34 Abs. 3 Satz 4 gilt entsprechend.\n(2) 1Für Nutzungseinheiten nach Abs. 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. 2Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. 3Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 33 Notwendige Treppenräume, Ausgänge",
+          "score": 0.681,
+          "text_preview": "Art. 33 Notwendige Treppenräume, Ausgänge\n(1) 1Jede notwendige Treppe muss zur Sicherung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). 2Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung de",
+          "text_full": "Art. 33 Notwendige Treppenräume, Ausgänge\n(1) 1Jede notwendige Treppe muss zur Sicherung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). 2Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lang möglich ist. 3Notwendige Treppen sind ohne eigenen Treppenraum zulässig\n1. in Gebäuden der Gebäudeklassen 1 und 2,\n2. für die Verbindung von höchstens zwei Geschossen innerhalb derselben Nutzungseinheit von insgesamt nicht mehr als 200 m2, wenn in jedem Geschoss ein anderer Rettungsweg erreicht werden kann,\n3. als Außentreppe, wenn ihre Nutzung ausreichend sicher ist und im Brandfall nicht gefährdet werden kann.\n(2) 1Von jeder Stelle eines Aufenthaltsraums sowie eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein; das gilt nicht für land- oder forstwirtschaftlich genutzte Gebäude. 2Übereinanderliegende Kellergeschosse müssen jeweils mindestens zwei Ausgänge in notwendige Treppenräume oder ins Freie haben."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 30 Dächer",
+          "score": 0.669,
+          "text_preview": "Art. 30 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Abs. 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn",
+          "text_full": "Art. 30 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Abs. 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 12 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Abs. 1 nicht erfüllen, einen Abstand von mindestens 24 m,\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m3 Brutto-Rauminhalt einen Abstand von mindestens 5 m einhalten. 2Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. der Nrn. 1 und 2 ein Abstand von mindestens 9 m,\n2. der Nr. 3 ein Abstand von mindestens 12 m.\n(3) Die Abs. 1 und 2 gelten nicht für\n1. Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m3 Brutto-Rauminhalt,\n2."
+        }
+      ],
+      "top_score": 0.7033
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 4 Bebauung der Grundstücke mit Gebäuden",
+          "score": 0.7985,
+          "text_preview": "Art. 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur unter folgenden Voraussetzungen errichtet werden:\n1. Das Grundstück muss nach Lage, Form, Größe und Beschaffenheit für die beabsichtigte Bebauung geeignet sein;\n2. das Grundstück muss in einer angemessenen Breite an einer befahrbare",
+          "text_full": "Art. 4 Bebauung der Grundstücke mit Gebäuden\n(1) Gebäude dürfen nur unter folgenden Voraussetzungen errichtet werden:\n1. Das Grundstück muss nach Lage, Form, Größe und Beschaffenheit für die beabsichtigte Bebauung geeignet sein;\n2. das Grundstück muss in einer angemessenen Breite an einer befahrbaren öffentlichen Verkehrsfläche liegen.\n(2) Abweichend von Abs. 1 Nr. 2 sind im Geltungsbereich eines Bebauungsplans im Sinn der §§ 12 und 30 Abs. 1 des Baugesetzbuchs (BauGB) und innerhalb eines im Zusammenhang bebauten Ortsteils (§ 34 BauGB) nicht erforderlich\n1. die Befahrbarkeit von Wohnwegen begrenzter Länge, wenn keine Bedenken wegen des Brandschutzes oder des Rettungsdienstes bestehen,\n2. die Widmung von Wohnwegen begrenzter Länge, wenn von dem Wohnweg nur Wohngebäude der Gebäudeklassen 1 bis 3 erschlossen werden und gegenüber dem Rechtsträger der Bauaufsichtsbehörde rechtlich gesichert ist, dass der Wohnweg sachgerecht unterhalten wird und allgemein benutzt werden kann.\n(3) Im Außenbereich genügt eine befahrbare, gegenüber dem Rechtsträger der Bauaufsichtsbehörde rechtlich gesicherte Zufahrt zu einem befahrbaren öffentlichen Weg."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A",
+          "score": 0.7284,
+          "text_preview": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A\nnlagen sind die Belange der Baukultur, insbesondere die anerkannten Regeln der Baukunst, so zu berücksichtigen, dass die öffentliche Sicherheit und Ordnung, insbesondere L",
+          "text_full": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A\nnlagen sind die Belange der Baukultur, insbesondere die anerkannten Regeln der Baukunst, so zu berücksichtigen, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben und Gesundheit, und die natürlichen Lebensgrundlagen nicht gefährdet werden. 2Anlagen müssen bei ordnungsgemäßer Instandhaltung die Anforderungen des Satzes 1 während einer dem Zweck entsprechenden angemessenen Zeitdauer erfüllen und ohne Missstände benutzbar sein. Zweiter Teil Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 7 Begrünung",
+          "score": 0.7272,
+          "text_preview": "Art. 7 Begrünung\n(1) 1Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der F",
+          "text_full": "Art. 7 Begrünung\n(1) 1Die nicht mit Gebäuden oder vergleichbaren baulichen Anlagen überbauten Flächen der bebauten Grundstücke sind\n1. wasseraufnahmefähig zu belassen oder herzustellen und\n2. zu begrünen oder zu bepflanzen, soweit dem nicht die Erfordernisse einer anderen zulässigen Verwendung der Flächen entgegenstehen. 2Soweit die Flächen nach Satz 1 zulässigerweise anders verwendet werden, ist eine Bodenversiegelung möglichst zu vermeiden. 3Satz 1 findet keine Anwendung, soweit Bebauungspläne oder andere Satzungen Festsetzungen zu den nicht überbauten Flächen treffen.\n(2) 1Im Eigentum des Freistaates Bayern stehende Gebäude und ihre zugehörigen Freiflächen sollen über Abs. 1 hinaus vorbehaltlich der bestehenden baurechtlichen, satzungsrechtlichen, denkmalschützenden oder sonstigen rechtlichen Festlegungen angemessen begrünt oder bepflanzt werden. 2Den kommunalen Gebietskörperschaften wird empfohlen, hinsichtlich ihrer Gebäude und zugehörigen Freiflächen entsprechend Satz 1 zu verfahren. Dritter Teil Bauliche Anlagen Abschnitt I Baugestaltung"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 81 Örtliche Bauvorschriften",
+          "score": 0.7175,
+          "text_preview": "über\na) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Errichtung von Anlagen herzustellen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist,\nb) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Änderung oder Nutzungsänderung von Anlagen herzustellen, wenn dadurch zusätzli",
+          "text_full": "über\na) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Errichtung von Anlagen herzustellen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist,\nb) die Pflicht, Stellplätze oder Fahrradabstellplätze bei der Änderung oder Nutzungsänderung von Anlagen herzustellen, wenn dadurch zusätzlicher Zu- oder Abfahrtsverkehr zu erwarten ist; ausgenommen sind, wenn sie zu Wohnzwecken erfolgen, Nutzungsänderungen, der Ausbau von Dachgeschossen, der Einbau weiterer Wohnungen in bestehende Wohngebäude und die Aufstockung von Wohngebäuden,\nc) eine im Sinne von Art. 47 Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 53 Aufbau und Zuständigkeit der Bauaufsichtsbehörden, Verordnungsermächtigung",
+          "score": 0.7079,
+          "text_preview": "Aufgaben der unteren Bauaufsichtsbehörde für\na) Wohngebäude der Gebäudeklassen 1 bis 3,\nb) Gebäude der Gebäudeklassen 1 bis 3, die neben einer Wohnnutzung teilweise oder ausschließlich freiberuflich oder gewerblich im Sinn des § 13 der Baunutzungsverordnung (BauNVO) genutzt werden, einschließlich ih",
+          "text_full": "Aufgaben der unteren Bauaufsichtsbehörde für\na) Wohngebäude der Gebäudeklassen 1 bis 3,\nb) Gebäude der Gebäudeklassen 1 bis 3, die neben einer Wohnnutzung teilweise oder ausschließlich freiberuflich oder gewerblich im Sinn des § 13 der Baunutzungsverordnung (BauNVO) genutzt werden, einschließlich ihrer jeweiligen Nebengebäude und Nebenanlagen im Geltungsbereich von Bebauungsplänen im Sinn der §§ 12, 30 Abs. 1 und 2 BauGB. 2Das Staatsministerium für Wohnen, Bau und Verkehr kann die Rechtsverordnung nach Satz 1 auf Antrag der Gemeinde aufheben. 3Die Rechtsverordnung ist aufzuheben, wenn die Voraussetzungen für ihren Erlass nach Satz 1 und Abs. 3 Satz 1 bis 4 nicht vorgelegen haben oder nicht mehr vorliegen. 4Werden Aufgaben der unteren Bauaufsichtsbehörde nach Satz 1 übertragen, ist für die Entscheidung über Anträge nach Art. 63 Abs. 2 Satz 2, Art. 64 Abs. 1 Satz 1, Art. 70 Satz 1 und Art. 71 Satz 1 als untere Bauaufsichtsbehörde diejenige Behörde zuständig, die zum Zeitpunkt des Eingangs des Antrags bei der Gemeinde zuständig war; das gilt entsprechend bei der Erhebung einer Gemeinde zur Großen Kreisstadt."
+        }
+      ],
+      "top_score": 0.7985
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 19,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 62b Brandschutznachweis",
+          "score": 0.7779,
+          "text_preview": "Art. 62b Brandschutznachweis\n(1) Der Brandschutznachweis muss erstellt sein von Personen, die\n1. für das Bauvorhaben bauvorlageberechtigt sind,\n2. zur Bescheinigung von Brandschutznachweisen befugt sind oder\n3. nach Abschluss der Ausbildung mindestens zwei Jahre auf dem Gebiet der brandschutztechnis",
+          "text_full": "Art. 62b Brandschutznachweis\n(1) Der Brandschutznachweis muss erstellt sein von Personen, die\n1. für das Bauvorhaben bauvorlageberechtigt sind,\n2. zur Bescheinigung von Brandschutznachweisen befugt sind oder\n3. nach Abschluss der Ausbildung mindestens zwei Jahre auf dem Gebiet der brandschutztechnischen Planung und Ausführung von Gebäuden oder deren Prüfung praktisch tätig gewesen sind und die erforderlichen Kenntnisse des Brandschutzes nachgewiesen haben\na) als Angehöriger eines Studiengangs der Fachrichtung Architektur, Hochbau (Art. 49 Abs. 1 der Richtlinie 2005/36/EG), Bauingenieurwesen oder eines Studiengangs mit Schwerpunkt Brandschutz, der ein Studium an einer deutschen Hochschule oder ein gleichwertiges Studium an einer ausländischen Hochschule abgeschlossen hat, oder\nb) als Absolvent einer Ausbildung für Ämter mit Einstieg in der dritten und vierten Qualifikationsebene in der Fachlaufbahn Naturwissenschaft und Technik, Schwerpunkt feuerwehrtechnischer Dienst.\n(2) 1Der Brandschutznachweis muss durch einen Prüfsachverständigen für Brandschutz bescheinigt sein oder wird bauaufsichtlich geprüft bei\n1. Sonderbauten,\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 28 Brandwände",
+          "score": 0.7709,
+          "text_preview": "für Gebäude der Gebäudeklasse 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben. ",
+          "text_full": "für Gebäude der Gebäudeklasse 3 Gebäudeabschlusswände, die jeweils von innen nach außen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Teile des Gebäudes, mindestens jedoch feuerhemmende Bauteile, und von außen nach innen die Feuerwiderstandsfähigkeit feuerbeständiger Bauteile haben. 3In den Fällen des Abs. 2 Nr. 4 sind an Stelle von Brandwänden feuerbeständige Wände zulässig, wenn der Brutto-Rauminhalt des land- oder forstwirtschaftlich genutzten Gebäudes oder Gebäudeteils nicht größer als 2 000 m3 ist.\n(4) 1Brandwände müssen durchgehend und in allen Geschossen und dem Dachraum übereinander angeordnet sein. 2Abweichend davon dürfen an Stelle innerer Brandwände Wände geschossweise versetzt angeordnet werden, wenn\n1. die Wände im Übrigen Abs. 3 Satz 1 entsprechen,\n2. die Decken, soweit sie in Verbindung mit diesen Wänden stehen, feuerbeständig sind, aus nichtbrennbaren Baustoffen bestehen und keine Öffnungen haben,\n3. die Bauteile, die diese Wände und Decken unterstützen, feuerbeständig sind und aus nichtbrennbaren Baustoffen bestehen,\n4. die Außenwände in der Breite des Versatzes in dem Geschoss oberhalb oder unterhalb des Versatzes feuerbeständig sind und\n5."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 29 Decken",
+          "score": 0.7537,
+          "text_preview": "Art. 29 Decken\n(1) 1Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. 2Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeue",
+          "text_full": "Art. 29 Decken\n(1) 1Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. 2Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemmend,\n3. in Gebäuden der Gebäudeklassen 2 und 3 feuerhemmend sein. 3Satz 2 gilt\n1. für Geschosse im Dachraum nur, wenn darüber Aufenthaltsräume möglich sind; Art. 27 Abs. 4 bleibt unberührt,\n2. nicht für Balkone, ausgenommen offene Gänge, die als notwendige Flure dienen.\n(2) 1Im Kellergeschoss müssen Decken\n1. in Gebäuden der Gebäudeklassen 3 bis 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklassen 1 und 2 feuerhemmend sein. 2Decken müssen feuerbeständig sein\n1. unter und über Räumen mit Explosions- oder erhöhter Brandgefahr, ausgenommen in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. zwischen dem land- oder forstwirtschaftlich genutzten Teil und dem Wohnteil eines Gebäudes.\n(3) Der Anschluss der Decken an die Außenwand ist so herzustellen, dass er den Anforderungen aus Abs. 1 Satz 1 genügt."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 30 Dächer",
+          "score": 0.7467,
+          "text_preview": "Art. 30 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Abs. 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn",
+          "text_full": "Art. 30 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) 1Bedachungen, die die Anforderungen nach Abs. 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 12 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Abs. 1 nicht erfüllen, einen Abstand von mindestens 24 m,\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m3 Brutto-Rauminhalt einen Abstand von mindestens 5 m einhalten. 2Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. der Nrn. 1 und 2 ein Abstand von mindestens 9 m,\n2. der Nr. 3 ein Abstand von mindestens 12 m.\n(3) Die Abs. 1 und 2 gelten nicht für\n1. Gebäude ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m3 Brutto-Rauminhalt,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7413,
+          "text_preview": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mö",
+          "text_full": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        }
+      ],
+      "top_score": 0.7779
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 53 Aufbau und Zuständigkeit der Bauaufsichtsbehörden, Verordnungsermächtigung",
+          "score": 0.8085,
+          "text_preview": "Aufgaben der unteren Bauaufsichtsbehörde für\na) Wohngebäude der Gebäudeklassen 1 bis 3,\nb) Gebäude der Gebäudeklassen 1 bis 3, die neben einer Wohnnutzung teilweise oder ausschließlich freiberuflich oder gewerblich im Sinn des § 13 der Baunutzungsverordnung (BauNVO) genutzt werden, einschließlich ih",
+          "text_full": "Aufgaben der unteren Bauaufsichtsbehörde für\na) Wohngebäude der Gebäudeklassen 1 bis 3,\nb) Gebäude der Gebäudeklassen 1 bis 3, die neben einer Wohnnutzung teilweise oder ausschließlich freiberuflich oder gewerblich im Sinn des § 13 der Baunutzungsverordnung (BauNVO) genutzt werden, einschließlich ihrer jeweiligen Nebengebäude und Nebenanlagen im Geltungsbereich von Bebauungsplänen im Sinn der §§ 12, 30 Abs. 1 und 2 BauGB. 2Das Staatsministerium für Wohnen, Bau und Verkehr kann die Rechtsverordnung nach Satz 1 auf Antrag der Gemeinde aufheben. 3Die Rechtsverordnung ist aufzuheben, wenn die Voraussetzungen für ihren Erlass nach Satz 1 und Abs. 3 Satz 1 bis 4 nicht vorgelegen haben oder nicht mehr vorliegen. 4Werden Aufgaben der unteren Bauaufsichtsbehörde nach Satz 1 übertragen, ist für die Entscheidung über Anträge nach Art. 63 Abs. 2 Satz 2, Art. 64 Abs. 1 Satz 1, Art. 70 Satz 1 und Art. 71 Satz 1 als untere Bauaufsichtsbehörde diejenige Behörde zuständig, die zum Zeitpunkt des Eingangs des Antrags bei der Gemeinde zuständig war; das gilt entsprechend bei der Erhebung einer Gemeinde zur Großen Kreisstadt."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 47 Stellplätze, Verordnungsermächtigung",
+          "score": 0.7971,
+          "text_preview": "Art. 47 Stellplätze, Verordnungsermächtigung\n(1) 1Wenn die Gemeinde dies durch Satzung nach Art. 81 Abs. 1 Nr. 4 angeordnet hat, sind Stellplätze auf dem Baugrundstück oder auf einem geeigneten Grundstück in der Nähe des Baugrundstücks herzustellen. 2Bei Herstellung der Stellplätze auf einem geeigne",
+          "text_full": "Art. 47 Stellplätze, Verordnungsermächtigung\n(1) 1Wenn die Gemeinde dies durch Satzung nach Art. 81 Abs. 1 Nr. 4 angeordnet hat, sind Stellplätze auf dem Baugrundstück oder auf einem geeigneten Grundstück in der Nähe des Baugrundstücks herzustellen. 2Bei Herstellung der Stellplätze auf einem geeigneten Grundstück in der Nähe des Baugrundstücks ist dessen Benutzung für diesen Zweck gegenüber dem Rechtsträger der Bauaufsichtsbehörde rechtlich zu sichern.\n(2) 1Die Zahl der notwendigen Stellplätze nach Abs. 1 Satz 1 legt das Staatsministerium für Wohnen, Bau und Verkehr durch Rechtsverordnung fest. 2Wird eine geringere Zahl notwendiger Stellplätze durch Satzung nach Art. 81 Abs. 1 Nr. 4 festgelegt, ist diese Zahl maßgeblich."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 81 Örtliche Bauvorschriften",
+          "score": 0.7827,
+          "text_preview": "Art. 81 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung im eigenen Wirkungskreis örtliche Bauvorschriften erlassen\n1. über besondere Anforderungen an die äußere Gestaltung von baulichen Anlagen zur Erhaltung und Gestaltung des Ortsbildes, insbesondere zur Begrünung von Gebäuden,\n2. ü",
+          "text_full": "Art. 81 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung im eigenen Wirkungskreis örtliche Bauvorschriften erlassen\n1. über besondere Anforderungen an die äußere Gestaltung von baulichen Anlagen zur Erhaltung und Gestaltung des Ortsbildes, insbesondere zur Begrünung von Gebäuden,\n2. über das Verbot der Errichtung von Werbeanlagen aus ortsgestalterischen Gründen,\n3. über die Pflicht, bei der Errichtung von Gebäuden mit mehr als fünf Wohnungen einen Spielplatz angemessener Größe und Ausstattung zu errichten, auszustatten und zu unterhalten, sowie die Lage des Spielplatzes, die Art der Erfüllung einschließlich der Ablöse dieser Pflicht; soweit die Pflicht auch für Gebäude gilt, die dem Wohnen von Senioren und Studenten bestimmt sind, ist ein Recht des Bauherrn auf Ablöse dieser Pflicht vorzusehen, wobei der Ablösebetrag 5 000 € je abzulösenden Spielplatz nicht übersteigen darf; mit der Ablöse vereinnahmte Geldbeträge hat die Gemeinde für die Herstellung oder Unterhaltung örtlicher Kinder- oder Jugendfreizeiteinrichtungen zu verwenden,\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 28 Brandwände",
+          "score": 0.7809,
+          "text_preview": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten land- oder forstwirtschaftlich genutzten Gebäuden sowie als innere Brandwand zwischen dem Wohnteil und dem land- oder forstwirtschaftlich genutzten Teil eines Gebäudes. 2Satz 1 Nr. 1 gilt nicht für Gebäude der Gebäudeklassen 1 und 2; in d",
+          "text_full": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten land- oder forstwirtschaftlich genutzten Gebäuden sowie als innere Brandwand zwischen dem Wohnteil und dem land- oder forstwirtschaftlich genutzten Teil eines Gebäudes. 2Satz 1 Nr. 1 gilt nicht für Gebäude der Gebäudeklassen 1 und 2; in diesen Fällen findet Art. 27 entsprechend Anwendung, es sei denn, dass ein Abstand von mindestens 5 m zu bestehenden oder nach den baurechtlichen Vorschriften zulässigen künftigen Gebäuden gesichert ist.\n(3) 1Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. 2An Stelle von Brandwänden sind in den Fällen von Abs. 2 Nr. 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind,\n2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 62a Standsicherheitsnachweis",
+          "score": 0.7765,
+          "text_preview": "Gebäuden der Gebäudeklassen 1 bis 3, bei Behältern, Brücken, Stützmauern, Tribünen und bei sonstigen baulichen Anlagen mit einer freien Höhe von mehr als 10 m, die keine Gebäude sind, wenn dies nach Maßgabe eines in der Rechtsverordnung nach Art. 80 Abs. 4 geregelten Kriterienkatalogs erforderlich i",
+          "text_full": "Gebäuden der Gebäudeklassen 1 bis 3, bei Behältern, Brücken, Stützmauern, Tribünen und bei sonstigen baulichen Anlagen mit einer freien Höhe von mehr als 10 m, die keine Gebäude sind, wenn dies nach Maßgabe eines in der Rechtsverordnung nach Art. 80 Abs. 4 geregelten Kriterienkatalogs erforderlich ist. 2Bei baulichen Anlagen nach Satz 1, die Sonderbauten sind, muss der Standsicherheitsnachweis durch die Bauaufsichtsbehörde, einen Prüfingenieur oder ein Prüfamt geprüft sein. 3Einer Bescheinigung oder Prüfung bedarf es nicht\n1. für Wohngebäude der Gebäudeklassen 1 und 2 sowie für oberirdische eingeschossige Gebäude mit freien Stützweiten von nicht mehr als 12 m und nicht mehr als 1 600 m², die nicht oder nur zum vorübergehenden Aufenthalt einzelner Personen bestimmt sind, sowie\n2. für Bauvorhaben oder deren Teile, für die Standsicherheitsnachweise vorliegen, die von einem Prüfamt oder der zuständigen Stelle eines anderen Landes allgemein geprüft sind (Typenprüfung). 4Im Übrigen wird der Standsicherheitsnachweis nicht geprüft."
+        }
+      ],
+      "top_score": 0.8085
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 17,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 65 Behandlung des Bauantrags",
+          "score": 0.7016,
+          "text_preview": "Art. 65 Behandlung des Bauantrags\n(1) 1Die Bauaufsichtsbehörde hat innerhalb von drei Wochen nach Eingang des Bauantrags den Bauantrag und die Bauvorlagen auf Vollständigkeit zu prüfen. 2Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde den",
+          "text_full": "Art. 65 Behandlung des Bauantrags\n(1) 1Die Bauaufsichtsbehörde hat innerhalb von drei Wochen nach Eingang des Bauantrags den Bauantrag und die Bauvorlagen auf Vollständigkeit zu prüfen. 2Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde den Bauherrn zur Behebung der Mängel innerhalb einer angemessenen Frist auf. 3Werden die Mängel innerhalb der Frist nicht behoben, gilt der Antrag als zurückgenommen, wenn der Antragsteller auf diese Rechtsfolge hingewiesen worden ist. 4Sobald der Bauantrag und die Bauvorlagen für die Entscheidung der Gemeinde über ihr Einvernehmen nach § 36 BauGB hinreichend vollständig sind, hat die Bauaufsichtsbehörde unverzüglich die Gemeinde zu beteiligen.\n(2) 1Die Bauaufsichtsbehörde hört zum Bauantrag diejenigen Stellen,\n1. deren Beteiligung oder Anhörung für die Entscheidung über den Bauantrag durch Rechtsvorschrift vorgeschrieben ist, oder\n2. ohne deren Stellungnahme die Genehmigungsfähigkeit des Bauantrags nicht beurteilt werden kann; die Beteiligung oder Anhörung entfällt, wenn die jeweilige Stelle dem Bauantrag bereits vor Einleitung des Baugenehmigungsverfahrens in Textform zugestimmt hat."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 58 Genehmigungsfreistellung",
+          "score": 0.678,
+          "text_preview": "1 Satz 2 BauGB nicht beantragen wird, darf der Bauherr mit der Ausführung des Bauvorhabens beginnen; von der Mitteilung nach Halbsatz 1 hat die Gemeinde die Bauaufsichtsbehörde zu unterrichten. 7Will der Bauherr mit der Ausführung des Bauvorhabens mehr als vier Jahre, nachdem die Bauausführung nach ",
+          "text_full": "1 Satz 2 BauGB nicht beantragen wird, darf der Bauherr mit der Ausführung des Bauvorhabens beginnen; von der Mitteilung nach Halbsatz 1 hat die Gemeinde die Bauaufsichtsbehörde zu unterrichten. 7Will der Bauherr mit der Ausführung des Bauvorhabens mehr als vier Jahre, nachdem die Bauausführung nach den Sätzen 5 und 6 zulässig geworden ist, beginnen, gelten die Sätze 1 bis 6 entsprechend.\n(3) 1Die Erklärung der Gemeinde nach Abs. 1 Satz 1 Nr. 5 Alternative 1 kann insbesondere deshalb erfolgen, weil sie eine Überprüfung der sonstigen Voraussetzungen des Abs. 1 oder des Bauvorhabens aus anderen Gründen für erforderlich hält. 2Darauf, dass die Gemeinde von ihrer Erklärungsmöglichkeit keinen Gebrauch macht, besteht kein Rechtsanspruch. 3Hat der Bauherr bei der Vorlage der Unterlagen bestimmt, dass seine Vorlage im Fall der Erklärung nach Abs. 1 Nr. 5 als Bauantrag zu behandeln ist, leitet sie die Unterlagen gleichzeitig mit der Erklärung an die Bauaufsichtsbehörde weiter.\n(4) 1Die Art. 62 bis 62b bleiben unberührt. 2Art. 64 Abs. 2 Satz 1, Abs. 4 Satz 1 und 2, Art. 68 Abs. 6 Nr. 2 und 3, Abs. 7 und 8 sind entsprechend anzuwenden. Abschnitt III Genehmigungsverfahren"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 71 Vorbescheid 1Vor Einreichung des Bauantrags ist auf Antrag des Bauherrn zu einzelnen Fragen des Bauvorhabens ein Vorbesch",
+          "score": 0.6743,
+          "text_preview": "Art. 71 Vorbescheid 1Vor Einreichung des Bauantrags ist auf Antrag des Bauherrn zu einzelnen Fragen des Bauvorhabens ein Vorbesch\neid zu erteilen. 2Der Vorbescheid gilt vier Jahre, soweit in ihm keine andere Frist bestimmt ist. 3Die Frist kann auf schriftlichen Antrag jeweils bis zu vier Jahre verlä",
+          "text_full": "Art. 71 Vorbescheid 1Vor Einreichung des Bauantrags ist auf Antrag des Bauherrn zu einzelnen Fragen des Bauvorhabens ein Vorbesch\neid zu erteilen. 2Der Vorbescheid gilt vier Jahre, soweit in ihm keine andere Frist bestimmt ist. 3Die Frist kann auf schriftlichen Antrag jeweils bis zu vier Jahre verlängert werden. 4Art. 64 bis 67, Art. 68 Abs. 1 und Abs. 3 bis 5 sowie Art. 69 Abs. 2 Satz 2 gelten entsprechend; die Bauaufsichtsbehörde kann von der Anwendung des Art. 66 absehen, wenn der Bauherr dies beantragt."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 69 Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung",
+          "score": 0.6738,
+          "text_preview": "Art. 69 Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung\n(1) Sind in ihnen keine anderen Fristen bestimmt, erlöschen die Baugenehmigung und die Teilbaugenehmigung, wenn innerhalb von vier Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung",
+          "text_full": "Art. 69 Geltungsdauer der Baugenehmigung und der Teilbaugenehmigung\n(1) Sind in ihnen keine anderen Fristen bestimmt, erlöschen die Baugenehmigung und die Teilbaugenehmigung, wenn innerhalb von vier Jahren nach ihrer Erteilung mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung vier Jahre unterbrochen worden ist; die Einlegung eines Rechtsbehelfs hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Genehmigung.\n(2) 1Die Frist nach Abs. 1 kann auf schriftlichen Antrag jeweils bis zu vier Jahre verlängert werden. 2Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6635,
+          "text_preview": "2Im Übrigen ist die beabsichtigte Beseitigung von Anlagen mindestens einen Monat zuvor der Gemeinde und der Bauaufsichtsbehörde anzuzeigen. 3Bei nicht freistehenden Gebäuden muss durch einen qualifizierten Tragwerksplaner im Sinn des Art. 62a Abs. 1 beurteilt und im erforderlichen Umfang nachgewiese",
+          "text_full": "2Im Übrigen ist die beabsichtigte Beseitigung von Anlagen mindestens einen Monat zuvor der Gemeinde und der Bauaufsichtsbehörde anzuzeigen. 3Bei nicht freistehenden Gebäuden muss durch einen qualifizierten Tragwerksplaner im Sinn des Art. 62a Abs. 1 beurteilt und im erforderlichen Umfang nachgewiesen werden, dass das Gebäude oder die Gebäude, an die das zu beseitigende Gebäude angebaut ist, während und nach der Beseitigung standsicher sind; die Beseitigung ist, soweit notwendig, durch den qualifizierten Tragwerksplaner zu überwachen. 4Satz 3 gilt nicht, soweit an verfahrensfreie Gebäude angebaut ist. 5Art. 68 Abs. 6 Nr. 3 und Abs. 8 gilt entsprechend.\n(6) Verfahrensfrei sind Instandhaltungsarbeiten.\n(7) Ausbauten im Sinne von Abs. 1 Nr. 18 sind der Gemeinde zwei Wochen vor Baubeginn in Textform anzuzeigen, Nutzungsänderungen nach Abs. 4 Nr. 1 zwei Wochen vor Aufnahme der geänderten Nutzung."
+        }
+      ],
+      "top_score": 0.7016
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 68 Baugenehmigung, Genehmigungsfiktion und Baubeginn",
+          "score": 0.7165,
+          "text_preview": "Art. 68 Baugenehmigung, Genehmigungsfiktion und Baubeginn\n(1) 1Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, w",
+          "text_full": "Art. 68 Baugenehmigung, Genehmigungsfiktion und Baubeginn\n(1) 1Die Baugenehmigung ist zu erteilen, wenn dem Bauvorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Bauvorhaben gegen sonstige öffentlich-rechtliche Vorschriften verstößt. 2Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n(2) 1Betrifft ein Bauantrag die Errichtung oder Änderung eines Gebäudes, das ausschließlich oder überwiegend dem Wohnen dient, oder eine Nutzungsänderung, durch die Wohnraum geschaffen werden soll, und ist über diesen Bauantrag im vereinfachten Genehmigungsverfahren nach Art. 59 zu entscheiden, gilt"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 42a BayVwVfG mit folgenden Maßgaben entsprechend:",
+          "score": 0.7139,
+          "text_preview": "2Die Bauaufsichtsbehörde kann verlangen, dass Absteckung und Höhenlage von ihr abgenommen oder die Einhaltung der festgelegten Grundfläche und Höhenlage nachgewiesen wird. 3Baugenehmigungen, Bauvorlagen, bautechnische Nachweise, soweit es sich nicht um Bauvorlagen handelt, sowie Bescheinigungen von ",
+          "text_full": "2Die Bauaufsichtsbehörde kann verlangen, dass Absteckung und Höhenlage von ihr abgenommen oder die Einhaltung der festgelegten Grundfläche und Höhenlage nachgewiesen wird. 3Baugenehmigungen, Bauvorlagen, bautechnische Nachweise, soweit es sich nicht um Bauvorlagen handelt, sowie Bescheinigungen von Prüfsachverständigen müssen an der Baustelle von Baubeginn an vorliegen.\n(8) Der Bauherr hat den Ausführungsbeginn genehmigungspflichtiger Bauvorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als sechs Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde schriftlich mitzuteilen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 70 Teilbaugenehmigung 1Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Baut",
+          "score": 0.7032,
+          "text_preview": "Art. 70 Teilbaugenehmigung 1Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Baut\neile oder Bauabschnitte auf schriftlichen Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung); eine Teilbaugenehmigung kann auch für die E",
+          "text_full": "Art. 70 Teilbaugenehmigung 1Ist ein Bauantrag eingereicht, kann der Beginn der Bauarbeiten für die Baugrube und für einzelne Baut\neile oder Bauabschnitte auf schriftlichen Antrag schon vor Erteilung der Baugenehmigung gestattet werden (Teilbaugenehmigung); eine Teilbaugenehmigung kann auch für die Errichtung einer baulichen Anlage unter Vorbehalt der künftigen Nutzung erteilt werden, wenn und soweit die Genehmigungsfähigkeit der baulichen Anlage nicht von deren künftiger Nutzung abhängt. 2Art. 67 und 68 Abs. 1 und Abs. 3 bis 8 gelten entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 58 Genehmigungsfreistellung",
+          "score": 0.6969,
+          "text_preview": "Art. 58 Genehmigungsfreistellung\n(1) 1Die Errichtung, Änderung und Nutzungsänderung einer baulichen Anlage, die kein Sonderbau ist, ist genehmigungsfrei gestellt, wenn\n1. sie im Geltungsbereich eines Bebauungsplans im Sinn des § 30 Abs. 1 oder der §§ 12, 30 Abs. 2 BauGB liegt,\n2. sie den Festsetzung",
+          "text_full": "Art. 58 Genehmigungsfreistellung\n(1) 1Die Errichtung, Änderung und Nutzungsänderung einer baulichen Anlage, die kein Sonderbau ist, ist genehmigungsfrei gestellt, wenn\n1. sie im Geltungsbereich eines Bebauungsplans im Sinn des § 30 Abs. 1 oder der §§ 12, 30 Abs. 2 BauGB liegt,\n2. sie den Festsetzungen des Bebauungsplans und den Regelungen örtlicher Bauvorschriften im Sinn des Art. 81 Abs. 1 nicht widerspricht,\n3. die Erschließung im Sinn des Baugesetzbuchs gesichert ist,\n4. sie nicht die Errichtung, Änderung oder Nutzungsänderung baulicher Anlagen betrifft,\na) durch die dem Wohnen dienende Nutzungseinheiten mit einer Größe von insgesamt mehr als 5 000 m2 Bruttogrundfläche geschaffen werden oder\nb) die öffentlich zugänglich sind und der gleichzeitigen Nutzung durch mehr als 100 Personen dienen und die Vorhaben den angemessenen Sicherheitsabstand im Sinn des Art. 13 Abs. 2 Buchst. a der Richtlinie 2012/18/EU zu einem Betriebsbereich nicht einhalten und\n5. die Gemeinde nicht innerhalb der Frist nach Abs. 3 Satz 5 erklärt, dass das vereinfachte Baugenehmigungsverfahren durchgeführt werden soll, oder eine vorläufige Untersagung nach § 15 Abs. 1 Satz 2 BauGB beantragt."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 48 Barrierefreies Bauen",
+          "score": 0.6931,
+          "text_preview": "1 bis 3 gelten nicht, soweit die Anforderungen wegen schwieriger Geländeverhältnisse, wegen ungünstiger vorhandener Bebauung oder im Hinblick auf die Sicherheit der Menschen mit Behinderung oder alten Menschen oder bei Anlagen nach Abs. 1 auch wegen des Einbaus eines sonst nicht erforderlichen Aufzu",
+          "text_full": "1 bis 3 gelten nicht, soweit die Anforderungen wegen schwieriger Geländeverhältnisse, wegen ungünstiger vorhandener Bebauung oder im Hinblick auf die Sicherheit der Menschen mit Behinderung oder alten Menschen oder bei Anlagen nach Abs. 1 auch wegen des Einbaus eines sonst nicht erforderlichen Aufzugs nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können. 2Bei bestehenden baulichen Anlagen im Sinn der Abs. 2 und 3 soll die Bauaufsichtsbehörde verlangen, dass ein gleichwertiger Zustand hergestellt wird, wenn das technisch möglich und dem Eigentümer wirtschaftlich zumutbar ist. Vierter Teil Die am Bau Beteiligten"
+        }
+      ],
+      "top_score": 0.7165
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 76 Beseitigung von Anlagen, Nutzungsuntersagung 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errich",
+          "score": 0.7739,
+          "text_preview": "Art. 76 Beseitigung von Anlagen, Nutzungsuntersagung 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errich\ntet oder geändert, so kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände herg",
+          "text_full": "Art. 76 Beseitigung von Anlagen, Nutzungsuntersagung 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errich\ntet oder geändert, so kann die Bauaufsichtsbehörde die teilweise oder vollständige Beseitigung der Anlagen anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können. 2Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden. 3Die Bauaufsichtsbehörde kann verlangen, dass ein Bauantrag gestellt wird. Abschnitt V Bauüberwachung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 78 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.7389,
+          "text_preview": "3Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs- und Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt.\n(3) Feuerstätten dürfen erst in Betrieb gen",
+          "text_full": "3Eine bauliche Anlage darf erst benutzt werden, wenn sie selbst, Zufahrtswege, Wasserversorgungs- und Abwasserentsorgungs- sowie Gemeinschaftsanlagen in dem erforderlichen Umfang sicher benutzbar sind, nicht jedoch vor dem in Satz 1 bezeichneten Zeitpunkt.\n(3) Feuerstätten dürfen erst in Betrieb genommen werden, wenn der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und die sichere Benutzbarkeit der Abgasanlagen bescheinigt hat; ortsfeste Verbrennungsmotoren und Blockheizkraftwerke dürfen erst dann in Betrieb genommen werden, wenn er die Tauglichkeit und sichere Benutzbarkeit der Leitungen zur Abführung von Verbrennungsgasen bescheinigt hat. Sechster Teil Ordnungswidrigkeiten, Rechtsvorschriften"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 44a Solaranlagen",
+          "score": 0.7215,
+          "text_preview": "anderen öffentlich-rechtlichen Pflichten, insbesondere solchen aus einer städtebaulichen Satzung oder einer Satzung nach Art. 81, widerspricht, oder\n2. im Einzelfall\na) technisch unmöglich ist oder\nb) wegen besonderer Umstände, durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer unbi",
+          "text_full": "anderen öffentlich-rechtlichen Pflichten, insbesondere solchen aus einer städtebaulichen Satzung oder einer Satzung nach Art. 81, widerspricht, oder\n2. im Einzelfall\na) technisch unmöglich ist oder\nb) wegen besonderer Umstände, durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer unbilligen Härte führen würde, insbesondere wenn glaubhaft gemacht wird, dass die erforderlichen Aufwendungen innerhalb der üblichen Nutzungsdauer nicht erwirtschaftet werden können.\n(6) Die Pflichten nach den Abs. 1 und 2 gelten für Gebäude, die der Nutzungspflicht erneuerbarer Energien des Gebäudeenergiegesetzes unterfallen, als erfüllt, wenn solarthermische Anlagen oder Anlagen für Strom aus solarer Strahlungsenergie errichtet und betrieben werden, mit denen mindestens 15 % des Wärme- und Kälteenergiebedarfs gedeckt werden. Abschnitt VII Nutzungsbedingte Anforderungen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 39 Lüftungsanlagen",
+          "score": 0.7142,
+          "text_preview": "Art. 39 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoff",
+          "text_full": "Art. 39 Lüftungsanlagen\n(1) Lüftungsanlagen müssen betriebssicher und brandsicher sein; sie dürfen den ordnungsgemäßen Betrieb von Feuerungsanlagen nicht beeinträchtigen.\n(2) 1Lüftungsleitungen sowie deren Bekleidungen und Dämmstoffe müssen aus nichtbrennbaren Baustoffen bestehen; brennbare Baustoffe sind zulässig, wenn ein Beitrag der Lüftungsleitung zur Brandentstehung und Brandweiterleitung nicht zu befürchten ist. 2Lüftungsleitungen dürfen raumabschließende Bauteile, für die eine Feuerwiderstandsfähigkeit vorgeschrieben ist, nur überbrücken, wenn eine Brandausbreitung ausreichend lang nicht zu befürchten ist oder wenn Vorkehrungen hiergegen getroffen sind.\n(3) Lüftungsanlagen sind so herzustellen, dass sie Gerüche und Staub nicht in andere Räume übertragen.\n(4) 1Lüftungsanlagen dürfen nicht in Abgasanlagen eingeführt werden; die gemeinsame Nutzung von Lüftungsleitungen zur Lüftung und zur Ableitung der Abgase von Feuerstätten ist zulässig, wenn keine Bedenken wegen der Betriebssicherheit und des Brandschutzes bestehen. 2Die Abluft ist ins Freie zu führen. 3Nicht zur Lüftungsanlage gehörende Einrichtungen sind in Lüftungsleitungen unzulässig.\n(5) Die Abs. 2 und 3 gelten nicht\n1."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 75 Einstellung von Arbeiten",
+          "score": 0.7084,
+          "text_preview": "Art. 75 Einstellung von Arbeiten\n(1) 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. 2Das gilt auch dann, wenn\n1. die Ausführung eines Bauvorhabens entgegen den Vorschriften ",
+          "text_full": "Art. 75 Einstellung von Arbeiten\n(1) 1Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet, geändert oder beseitigt, kann die Bauaufsichtsbehörde die Einstellung der Arbeiten anordnen. 2Das gilt auch dann, wenn\n1. die Ausführung eines Bauvorhabens entgegen den Vorschriften des Art. 68 Abs. 6 begonnen wurde oder\n2. bei der Ausführung\na) eines genehmigungsbedürftigen Bauvorhabens von den genehmigten Bauvorlagen,\nb) eines genehmigungsfreigestellten Bauvorhabens von den eingereichten Unterlagen abgewichen wird,\n3. Bauprodukte verwendet werden, die entgegen der Verordnung (EU) Nr. 305/2011 keine CEKennzeichnung oder entgegen Art. 21 kein Ü-Zeichen tragen,\n4. Bauprodukte verwendet werden, die unberechtigt mit der CE-Kennzeichnung oder entgegen Art. 21 Abs. 2 Satz 2 dem Ü-Zeichen gekennzeichnet sind.\n(2) Werden unzulässige Arbeiten trotz einer verfügten Einstellung fortgesetzt, kann die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen."
+        }
+      ],
+      "top_score": 0.7739
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 63 Abweichungen",
+          "score": 0.7593,
+          "text_preview": "Art. 63 Abweichungen\n(1) 1Die Bauaufsichtsbehörde soll Abweichungen von Anforderungen dieses Gesetzes und auf Grund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und bei Würdigung sowohl gesetzlich definierter überragender öff",
+          "text_full": "Art. 63 Abweichungen\n(1) 1Die Bauaufsichtsbehörde soll Abweichungen von Anforderungen dieses Gesetzes und auf Grund dieses Gesetzes erlassener Vorschriften zulassen, wenn sie unter Berücksichtigung des Zwecks der jeweiligen Anforderung und bei Würdigung sowohl gesetzlich definierter überragender öffentlicher wie auch öffentlich-rechtlich geschützter nachbarlicher Interessen mit den öffentlichen Belangen, insbesondere den Anforderungen des Art. 3 Satz 1 vereinbar sind. 2Dies gilt insbesondere für\n1. Vorhaben, die der Weiternutzung bestehender Gebäude dienen,\n2. Abweichungen von den Anforderungen des Art. 6, wenn ein rechtmäßig errichtetes Gebäude durch ein Gebäude höchstens gleicher Abmessung und Gestalt ersetzt wird,\n3. Vorhaben zur Energieeinsparung und Nutzung erneuerbarer Energien,\n4. Vorhaben zur Erprobung neuer Bau- und Wohnformen. 3Der Zulassung einer Abweichung bedarf es nicht, wenn bautechnische Nachweise durch einen Prüfsachverständigen bescheinigt werden oder in den Fällen des Abs. 2 Satz 2 Halbsatz 1 das Vorliegen der Voraussetzung für eine Abweichung durch ihn bescheinigt wird. 4Art. 81a Abs. 1 Satz 2 bleibt unberührt.\n(2) 1Die Zulassung von Abweichungen nach Abs."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 80 Rechtsverordnungen",
+          "score": 0.7318,
+          "text_preview": "2In diesen Rechtsverordnungen kann wegen der technischen Anforderungen auf Bekanntmachungen besonders sachverständiger Stellen mit Angabe der Fundstelle verwiesen werden.\n(2) 1Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. P",
+          "text_full": "2In diesen Rechtsverordnungen kann wegen der technischen Anforderungen auf Bekanntmachungen besonders sachverständiger Stellen mit Angabe der Fundstelle verwiesen werden.\n(2) 1Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. Prüfingenieure und Prüfämter, denen bauaufsichtliche Prüfaufgaben einschließlich der Bauüberwachung und der Bauzustandsbesichtigung übertragen werden, sowie\n2. Prüfsachverständige, die im Auftrag des Bauherrn oder des sonstigen nach Bauordnungsrecht Verantwortlichen die Einhaltung bauordnungsrechtlicher Anforderungen prüfen und bescheinigen. 2Die Rechtsverordnungen nach Satz 1 regeln, soweit erforderlich,\n1. die Fachbereiche und die Fachrichtungen, in denen Prüfingenieure, Prüfämter und Prüfsachverständige tätig werden,\n2. die Anerkennungsvoraussetzungen und das Anerkennungsverfahren,\n3. Erlöschen, Rücknahme und Widerruf der Anerkennung einschließlich der Festlegung einer Altersgrenze,\n4. die Aufgabenerledigung,\n5. die Vergütung. 3Das Staatsministerium für Wohnen, Bau und Verkehr kann durch Rechtsverordnung ferner\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 80 Rechtsverordnungen",
+          "score": 0.7159,
+          "text_preview": "22, insbesondere auch Mindestanforderungen an die Ausbildung, die durch Prüfung nachzuweisende Befähigung und die Ausbildungsstätten einschließlich der Anerkennungsvoraussetzungen zu stellen,\n7. zu bestimmen, dass Ausführungsgenehmigungen für fliegende Bauten nur durch bestimmte Bauaufsichtsbehörden",
+          "text_full": "22, insbesondere auch Mindestanforderungen an die Ausbildung, die durch Prüfung nachzuweisende Befähigung und die Ausbildungsstätten einschließlich der Anerkennungsvoraussetzungen zu stellen,\n7. zu bestimmen, dass Ausführungsgenehmigungen für fliegende Bauten nur durch bestimmte Bauaufsichtsbehörden oder durch von ihm bestimmte Stellen erteilt werden, und die Vergütung dieser Stellen zu regeln.\n(6) 1Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass die Anforderungen der auf Grund des § 34 des Produktsicherheitsgesetzes (ProdSG) und des § 49 Abs. 4 des Energiewirtschaftsgesetzes erlassenen Rechtsverordnungen entsprechend für Anlagen gelten, die weder gewerblichen noch wirtschaftlichen Zwecken dienen und in deren Gefahrenbereich auch keine Arbeitnehmer beschäftigt werden. 2Es kann auch die Verfahrensvorschriften dieser Rechtsverordnungen für anwendbar erklären oder selbst das Verfahren bestimmen sowie Zuständigkeiten und Gebühren regeln. 3Dabei kann es auch vorschreiben, dass danach zu erteilende Erlaubnisse die Baugenehmigung einschließlich der zugehörigen Abweichungen einschließen und dass § 35 Abs."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 56 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber",
+          "score": 0.7157,
+          "text_preview": "Art. 56 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber\nwachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen in oder an oberirdischen Gewässern und Anlagen, die dem Ausbau, der Un",
+          "text_full": "Art. 56 Vorrang anderer Gestattungsverfahren 1Keiner Baugenehmigung, Abweichung, Genehmigungsfreistellung, Zustimmung und Bauüber\nwachung nach diesem Gesetz bedürfen\n1. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen in oder an oberirdischen Gewässern und Anlagen, die dem Ausbau, der Unterhaltung oder der Benutzung eines Gewässers dienen oder als solche gelten, ausgenommen Gebäude, Überbrückungen, Lager-, Camping- und Wochenendplätze,\n2. Anlagen, die einer Genehmigung nach dem Bayerischen Abgrabungsgesetz bedürfen,\n3. nach anderen Rechtsvorschriften zulassungsbedürftige Anlagen für die öffentliche Versorgung mit Elektrizität, Gas, Wärme, Wasser und für die öffentliche Verwertung oder Entsorgung von Abwässern, ausgenommen oberirdische Anlagen mit einem Brutto-Rauminhalt von mehr als 100 m3, Gebäude und Überbrückungen,\n4. nichtöffentliche Eisenbahnen, nichtöffentliche Seilbahnen und sonstige Bahnen besonderer Bauart, auf die die Vorschriften über fliegende Bauten keine Anwendung finden, im Sinn des Bayerischen Eisenbahnund Seilbahngesetzes (BayESG),\n5. Werbeanlagen, soweit sie einer Ausnahmegenehmigung nach Straßenverkehrsrecht bedürfen,\n6."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 44a Solaranlagen",
+          "score": 0.715,
+          "text_preview": "anderen öffentlich-rechtlichen Pflichten, insbesondere solchen aus einer städtebaulichen Satzung oder einer Satzung nach Art. 81, widerspricht, oder\n2. im Einzelfall\na) technisch unmöglich ist oder\nb) wegen besonderer Umstände, durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer unbi",
+          "text_full": "anderen öffentlich-rechtlichen Pflichten, insbesondere solchen aus einer städtebaulichen Satzung oder einer Satzung nach Art. 81, widerspricht, oder\n2. im Einzelfall\na) technisch unmöglich ist oder\nb) wegen besonderer Umstände, durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer unbilligen Härte führen würde, insbesondere wenn glaubhaft gemacht wird, dass die erforderlichen Aufwendungen innerhalb der üblichen Nutzungsdauer nicht erwirtschaftet werden können.\n(6) Die Pflichten nach den Abs. 1 und 2 gelten für Gebäude, die der Nutzungspflicht erneuerbarer Energien des Gebäudeenergiegesetzes unterfallen, als erfüllt, wenn solarthermische Anlagen oder Anlagen für Strom aus solarer Strahlungsenergie errichtet und betrieben werden, mit denen mindestens 15 % des Wärme- und Kälteenergiebedarfs gedeckt werden. Abschnitt VII Nutzungsbedingte Anforderungen"
+        }
+      ],
+      "top_score": 0.7593
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 6 Abstandsflächen, Abstände",
+          "score": 0.703,
+          "text_preview": "Stützmauern und geschlossene Einfriedungen in Gewerbe- und Industriegebieten, außerhalb dieser Baugebiete mit einer Höhe bis zu 2 m. 2Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach den Nrn. 1 und 2 darf auf einem Grundstück insgesamt 15 m nic",
+          "text_full": "Stützmauern und geschlossene Einfriedungen in Gewerbe- und Industriegebieten, außerhalb dieser Baugebiete mit einer Höhe bis zu 2 m. 2Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nicht einhaltenden Bebauung nach den Nrn. 1 und 2 darf auf einem Grundstück insgesamt 15 m nicht überschreiten."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 6 Abstandsflächen, Abstände",
+          "score": 0.6777,
+          "text_preview": "3Abstandsflächen sowie Abstände im Sinn des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn rechtlich oder tatsächlich gesichert ist, dass sie nicht überbaut werden, oder wenn der Nachbar gegenüber der Bauaufsichtsbehörde schriftlich zustimmt; die Zustimmung des Nach",
+          "text_full": "3Abstandsflächen sowie Abstände im Sinn des Satzes 1 dürfen sich ganz oder teilweise auf andere Grundstücke erstrecken, wenn rechtlich oder tatsächlich gesichert ist, dass sie nicht überbaut werden, oder wenn der Nachbar gegenüber der Bauaufsichtsbehörde schriftlich zustimmt; die Zustimmung des Nachbarn gilt auch für und gegen seinen Rechtsnachfolger. 4Abstandsflächen dürfen auf die auf diesen Grundstücken erforderlichen Abstandsflächen nicht angerechnet werden.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; das gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75 Grad zueinander stehen,\n2. Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden der Gebäudeklassen 1 und 2,\n3. Gebäude und andere bauliche Anlagen, die in den Abstandsflächen zulässig sind.\n(4) 1Die Tiefe der Abstandsfläche bemisst sich nach der Wandhöhe; sie wird senkrecht zur Wand gemessen. 2Wandhöhe ist das Maß von der Geländeoberfläche bis zum Schnittpunkt der Wand mit der Dachhaut oder bis zum oberen Abschluss der Wand."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 6 Abstandsflächen, Abstände",
+          "score": 0.6246,
+          "text_preview": "Art. 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Satz 2 gilt insbesondere nicht",
+          "text_full": "Art. 6 Abstandsflächen, Abstände\n(1) 1Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. 2Satz 1 gilt entsprechend für andere Anlagen, von denen Wirkungen wie von Gebäuden ausgehen, gegenüber Gebäuden und Grundstücksgrenzen. 3Satz 2 gilt insbesondere nicht für\n1. Antennen und Antennen tragende Masten für den Mobilfunk und den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BOS) im Außenbereich,\n2. Windenergieanlagen im Außenbereich,\n3. ebenerdige Terrassen und\n4. Wärmepumpen und zugehörige Einhausungen mit einer Höhe bis zu 2 m über der Geländeoberfläche. 4Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften an die Grenze gebaut werden muss oder gebaut werden darf. 5Art. 63 bleibt unberührt.\n(2) 1Abstandsflächen sowie Abstände nach Art. 28 Abs. 2 Nr. 1 und Art. 30 Abs. 2 müssen auf dem Grundstück selbst liegen. 2Sie dürfen auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen liegen, jedoch nur bis zu deren Mitte."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 28 Brandwände",
+          "score": 0.6234,
+          "text_preview": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten land- oder forstwirtschaftlich genutzten Gebäuden sowie als innere Brandwand zwischen dem Wohnteil und dem land- oder forstwirtschaftlich genutzten Teil eines Gebäudes. 2Satz 1 Nr. 1 gilt nicht für Gebäude der Gebäudeklassen 1 und 2; in d",
+          "text_full": "als Gebäudeabschlusswand zwischen Wohngebäuden und angebauten land- oder forstwirtschaftlich genutzten Gebäuden sowie als innere Brandwand zwischen dem Wohnteil und dem land- oder forstwirtschaftlich genutzten Teil eines Gebäudes. 2Satz 1 Nr. 1 gilt nicht für Gebäude der Gebäudeklassen 1 und 2; in diesen Fällen findet Art. 27 entsprechend Anwendung, es sei denn, dass ein Abstand von mindestens 5 m zu bestehenden oder nach den baurechtlichen Vorschriften zulässigen künftigen Gebäuden gesichert ist.\n(3) 1Brandwände müssen auch unter zusätzlicher mechanischer Beanspruchung feuerbeständig sein und aus nichtbrennbaren Baustoffen bestehen. 2An Stelle von Brandwänden sind in den Fällen von Abs. 2 Nr. 1 bis 3 zulässig\n1. für Gebäude der Gebäudeklasse 4 Wände, die auch unter zusätzlicher mechanischer Beanspruchung hochfeuerhemmend sind,\n2. für Gebäude der Gebäudeklassen 1 bis 3 hochfeuerhemmende Wände,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 57 Verfahrensfreie Bauvorhaben, Beseitigung von Anlagen",
+          "score": 0.6155,
+          "text_preview": "folgende Mauern und Einfriedungen:\na) Mauern einschließlich Stützmauern und Einfriedungen, Sichtschutzzäunen und Terrassentrennwänden mit einer Höhe bis zu 2 m, außer im Außenbereich,\nb) offene, sockellose Einfriedungen im Außenbereich, soweit sie der Hoffläche eines landwirtschaftlichen Betriebs, d",
+          "text_full": "folgende Mauern und Einfriedungen:\na) Mauern einschließlich Stützmauern und Einfriedungen, Sichtschutzzäunen und Terrassentrennwänden mit einer Höhe bis zu 2 m, außer im Außenbereich,\nb) offene, sockellose Einfriedungen im Außenbereich, soweit sie der Hoffläche eines landwirtschaftlichen Betriebs, der Weidewirtschaft einschließlich der Haltung geeigneter Schalenwildarten für Zwecke der Landwirtschaft, dem Erwerbsgartenbau oder dem Schutz von Forstkulturen und Wildgehegen zu Jagdzwecken oder dem Schutz landwirtschaftlicher Kulturen vor Schalenwild sowie der berufsmäßigen Binnenfischerei dienen,\n8. private Verkehrsanlagen einschließlich Brücken und Durchlässen mit einer lichten Weite bis zu 5 m und Untertunnelungen mit einem Durchmesser bis zu 3 m,\n9. Aufschüttungen mit einer Höhe bis zu 2 m und einer Fläche bis zu 500 m2,\n10."
+        }
+      ],
+      "top_score": 0.703
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.6968,
+          "text_preview": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mö",
+          "text_full": "Art. 12 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 31 Rettungswege",
+          "score": 0.6595,
+          "text_preview": "(3) 1Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsg",
+          "text_full": "(3) 1Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte wie Hubrettungsfahrzeuge verfügt. 2Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 5 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6038,
+          "text_preview": "Art. 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte ",
+          "text_full": "Art. 5 Zugänge und Zufahrten auf den Grundstücken\n(1) 1Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. 2Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über dem Gelände liegt, ist in den Fällen des Satzes 1 an Stelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. 3Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. 4Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 62b Brandschutznachweis",
+          "score": 0.5841,
+          "text_preview": "Art. 62b Brandschutznachweis\n(1) Der Brandschutznachweis muss erstellt sein von Personen, die\n1. für das Bauvorhaben bauvorlageberechtigt sind,\n2. zur Bescheinigung von Brandschutznachweisen befugt sind oder\n3. nach Abschluss der Ausbildung mindestens zwei Jahre auf dem Gebiet der brandschutztechnis",
+          "text_full": "Art. 62b Brandschutznachweis\n(1) Der Brandschutznachweis muss erstellt sein von Personen, die\n1. für das Bauvorhaben bauvorlageberechtigt sind,\n2. zur Bescheinigung von Brandschutznachweisen befugt sind oder\n3. nach Abschluss der Ausbildung mindestens zwei Jahre auf dem Gebiet der brandschutztechnischen Planung und Ausführung von Gebäuden oder deren Prüfung praktisch tätig gewesen sind und die erforderlichen Kenntnisse des Brandschutzes nachgewiesen haben\na) als Angehöriger eines Studiengangs der Fachrichtung Architektur, Hochbau (Art. 49 Abs. 1 der Richtlinie 2005/36/EG), Bauingenieurwesen oder eines Studiengangs mit Schwerpunkt Brandschutz, der ein Studium an einer deutschen Hochschule oder ein gleichwertiges Studium an einer ausländischen Hochschule abgeschlossen hat, oder\nb) als Absolvent einer Ausbildung für Ämter mit Einstieg in der dritten und vierten Qualifikationsebene in der Fachlaufbahn Naturwissenschaft und Technik, Schwerpunkt feuerwehrtechnischer Dienst.\n(2) 1Der Brandschutznachweis muss durch einen Prüfsachverständigen für Brandschutz bescheinigt sein oder wird bauaufsichtlich geprüft bei\n1. Sonderbauten,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 28 Brandwände",
+          "score": 0.5759,
+          "text_preview": "Art. 28 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n(2) 1Brandwände",
+          "text_full": "Art. 28 Brandwände\n(1) Brandwände müssen als raumabschließende Bauteile zum Abschluss von Gebäuden (Gebäudeabschlusswand) oder zur Unterteilung von Gebäuden in Brandabschnitte (innere Brandwand) ausreichend lang die Brandausbreitung auf andere Gebäude oder Brandabschnitte verhindern.\n(2) 1Brandwände sind erforderlich\n1. als Gebäudeabschlusswand, ausgenommen von Gebäuden ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m3 Brutto-Rauminhalt, wenn diese Abschlusswände an oder mit einem Abstand von weniger als 2,50 m gegenüber der Grundstücksgrenze errichtet werden, es sei denn, dass ein Abstand von mindestens 5 m zu bestehenden oder nach den baurechtlichen Vorschriften zulässigen künftigen Gebäuden gesichert ist,\n2. als innere Brandwand zur Unterteilung ausgedehnter Gebäude in Abständen von nicht mehr als 40 m,\n3. als innere Brandwand zur Unterteilung land- oder forstwirtschaftlich genutzter Gebäude in Brandabschnitte von nicht mehr als 10 000 m3 Brutto-Rauminhalt,\n4."
+        }
+      ],
+      "top_score": 0.6968
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 18 Allgemeine bauaufsichtliche Zulassung",
+          "score": 0.6516,
+          "text_preview": "Art. 18 Allgemeine bauaufsichtliche Zulassung\n(1) Eine allgemeine bauaufsichtliche Zulassung wird auf Antrag erteilt und nach Gegenstand und wesentlichem Inhalt öffentlich bekannt gemacht.\n(2) 1Der Antrag ist zu begründen. 2Soweit erforderlich, sind Probestücke vom Antragsteller zur Verfügung zu ste",
+          "text_full": "Art. 18 Allgemeine bauaufsichtliche Zulassung\n(1) Eine allgemeine bauaufsichtliche Zulassung wird auf Antrag erteilt und nach Gegenstand und wesentlichem Inhalt öffentlich bekannt gemacht.\n(2) 1Der Antrag ist zu begründen. 2Soweit erforderlich, sind Probestücke vom Antragsteller zur Verfügung zu stellen, durch sachverständige Stellen zu entnehmen oder Probeausführungen unter Aufsicht dieser sachverständigen Stellen vorzunehmen. 3Art. 65 Abs. 1 Satz 1 bis 3 gilt entsprechend.\n(3) 1Die allgemeine bauaufsichtliche Zulassung wird widerruflich und befristet erteilt. 2Die Frist beträgt in der Regel fünf Jahre. 3Die Zulassung kann auf Antrag verlängert werden. 4Art. 69 Abs. 2 Satz 2 gilt entsprechend.\n(4) Die Zulassung wird unbeschadet der Rechte Dritter erteilt.\n(5) Allgemeine bauaufsichtliche Zulassungen nach dem Recht anderer Länder gelten auch im Freistaat Bayern."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 17 Verwendbarkeitsnachweise Die in Art. 16 Abs. 2 Satz 1 genannten Anforderungen sind für Bauprodukte, die für die Erfüllung",
+          "score": 0.6213,
+          "text_preview": "Art. 17 Verwendbarkeitsnachweise Die in Art. 16 Abs. 2 Satz 1 genannten Anforderungen sind für Bauprodukte, die für die Erfüllung\nder Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes nicht nur eine untergeordnete Bedeutung haben, durch eine allgemeine bauaufsichtliche Zulassung, ein allg",
+          "text_full": "Art. 17 Verwendbarkeitsnachweise Die in Art. 16 Abs. 2 Satz 1 genannten Anforderungen sind für Bauprodukte, die für die Erfüllung\nder Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes nicht nur eine untergeordnete Bedeutung haben, durch eine allgemeine bauaufsichtliche Zulassung, ein allgemeines bauaufsichtliches Prüfzeugnis oder eine Zustimmung im Einzelfall (Verwendbarkeitsnachweise) nachzuweisen, wenn\n1. es keine Technische Baubestimmung oder allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung in Bezug auf die Leistung von Bauprodukten wesentlich abweicht oder\n3. eine Rechtsverordnung nach Art. 80 Abs. 5 Nr. 5 es vorsieht."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 22 Besondere Sachkunde- und Sorgfaltsanforderungen In der allgemeinen bauaufsichtlichen Zulassung oder in der Zustimmung im",
+          "score": 0.6017,
+          "text_preview": "Art. 22 Besondere Sachkunde- und Sorgfaltsanforderungen In der allgemeinen bauaufsichtlichen Zulassung oder in der Zustimmung im\nEinzelfall kann vorgeschrieben werden, dass\n1. der Hersteller von Bauprodukten, deren Herstellung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrau",
+          "text_full": "Art. 22 Besondere Sachkunde- und Sorgfaltsanforderungen In der allgemeinen bauaufsichtlichen Zulassung oder in der Zustimmung im\nEinzelfall kann vorgeschrieben werden, dass\n1. der Hersteller von Bauprodukten, deren Herstellung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, über solche Fachkräfte und Vorrichtungen verfügen muss und den Nachweis hierüber gegenüber einer Prüfstelle zu erbringen hat,\n2. der Einbau, der Transport, die Instandhaltung oder die Reinigung von Bauprodukten, die wegen ihrer besonderen Eigenschaften oder ihres besonderen Verwendungszwecks einer außergewöhnlichen Sorgfalt bedürfen, durch eine Überwachungsstelle zu überwachen sind, soweit diese Tätigkeiten nicht bereits durch die Verordnung (EU) Nr. 305/2011 erfasst sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 80 Rechtsverordnungen",
+          "score": 0.5959,
+          "text_preview": "die Notwendigkeit einer staatlichen Anerkennung, die die erfolgreiche Ablegung der Prüfung voraussetzt,\n2. die Voraussetzungen, die Inhalte und das Verfahren für diese Prüfung,\n3. das Verfahren sowie die Voraussetzungen der Anerkennung, ihren Widerruf, ihre Rücknahme und ihr Erlöschen,\n4. Weiter- un",
+          "text_full": "die Notwendigkeit einer staatlichen Anerkennung, die die erfolgreiche Ablegung der Prüfung voraussetzt,\n2. die Voraussetzungen, die Inhalte und das Verfahren für diese Prüfung,\n3. das Verfahren sowie die Voraussetzungen der Anerkennung, ihren Widerruf, ihre Rücknahme und ihr Erlöschen,\n4. Weiter- und Fortbildungserfordernisse sowie\n5. die Maßnahmen bei Pflichtverletzungen.\n(4) 1Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. Umfang, Inhalt und Zahl der erforderlichen Unterlagen einschließlich der Vorlagen bei der Anzeige der beabsichtigten Beseitigung von Anlagen nach Art. 57 Abs. 5 Satz 2 und bei der Genehmigungsfreistellung nach Art. 58,\n2. die erforderlichen Anträge, Anzeigen, Nachweise, Bescheinigungen und Bestätigungen, auch bei verfahrensfreien Bauvorhaben,\n3. das Verfahren im Einzelnen. 2Es kann dabei für verschiedene Arten von Bauvorhaben unterschiedliche Anforderungen und Verfahren festlegen.\n(5) Das Staatsministerium für Wohnen, Bau und Verkehr wird ermächtigt, durch Rechtsverordnung\n1. die Zuständigkeit für die vorhabenbezogene Bauartgenehmigung nach Art. 15 Abs. 2 Satz 1 Nr."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A",
+          "score": 0.59,
+          "text_preview": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A\nnlagen sind die Belange der Baukultur, insbesondere die anerkannten Regeln der Baukunst, so zu berücksichtigen, dass die öffentliche Sicherheit und Ordnung, insbesondere L",
+          "text_full": "Art. 3 Allgemeine Anforderungen 1Bei der Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung von A\nnlagen sind die Belange der Baukultur, insbesondere die anerkannten Regeln der Baukunst, so zu berücksichtigen, dass die öffentliche Sicherheit und Ordnung, insbesondere Leben und Gesundheit, und die natürlichen Lebensgrundlagen nicht gefährdet werden. 2Anlagen müssen bei ordnungsgemäßer Instandhaltung die Anforderungen des Satzes 1 während einer dem Zweck entsprechenden angemessenen Zeitdauer erfüllen und ohne Missstände benutzbar sein. Zweiter Teil Das Grundstück und seine Bebauung"
+        }
+      ],
+      "top_score": 0.6516
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-BY",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 53 Aufbau und Zuständigkeit der Bauaufsichtsbehörden, Verordnungsermächtigung",
+          "score": 0.7031,
+          "text_preview": "Art. 53 Aufbau und Zuständigkeit der Bauaufsichtsbehörden, Verordnungsermächtigung\n(1) 1Untere Bauaufsichtsbehörden sind die Kreisverwaltungsbehörden, höhere Bauaufsichtsbehörden sind die Regierungen, oberste Bauaufsichtsbehörde ist das Staatsministerium für Wohnen, Bau und Verkehr. 2Für den Vollzug",
+          "text_full": "Art. 53 Aufbau und Zuständigkeit der Bauaufsichtsbehörden, Verordnungsermächtigung\n(1) 1Untere Bauaufsichtsbehörden sind die Kreisverwaltungsbehörden, höhere Bauaufsichtsbehörden sind die Regierungen, oberste Bauaufsichtsbehörde ist das Staatsministerium für Wohnen, Bau und Verkehr. 2Für den Vollzug dieses Gesetzes sowie anderer öffentlich-rechtlicher Vorschriften für die Errichtung, Änderung, Nutzungsänderung und Beseitigung sowie die Nutzung und Instandhaltung von Anlagen ist die untere Bauaufsichtsbehörde zuständig, soweit nichts anderes bestimmt ist. 3Satz 2 gilt nicht für bauliche Anlagen inländischer öffentlicher Stellen auf dauerhaft militärisch genutzten Grundstücken, die im Eigentum des Bundes stehen oder deren militärische Nutzung dinglich gesichert ist (Militärgelände).\n(2) 1Das Staatsministerium für Wohnen, Bau und Verkehr überträgt leistungsfähigen kreisangehörigen Gemeinden auf Antrag durch Rechtsverordnung\n1. alle Aufgaben der unteren Bauaufsichtsbehörde oder\n2."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 54 Aufgaben und Befugnisse der Bauaufsichtsbehörden",
+          "score": 0.7023,
+          "text_preview": "Art. 54 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die Aufgaben der Bauaufsichtsbehörden sind Staatsaufgaben; für die Gemeinden sind sie übertragene Aufgaben.\n(2) 1Die Bauaufsichtsbehörden haben bei der Errichtung, Änderung, Nutzungsänderung und Beseitigung sowie bei der Nutzung und Instan",
+          "text_full": "Art. 54 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die Aufgaben der Bauaufsichtsbehörden sind Staatsaufgaben; für die Gemeinden sind sie übertragene Aufgaben.\n(2) 1Die Bauaufsichtsbehörden haben bei der Errichtung, Änderung, Nutzungsänderung und Beseitigung sowie bei der Nutzung und Instandhaltung von Anlagen darüber zu wachen, dass die öffentlich-rechtlichen Vorschriften und die auf Grund dieser Vorschriften erlassenen Anordnungen eingehalten werden, soweit nicht andere Behörden zuständig sind. 2Sie können in Wahrnehmung dieser Aufgaben die erforderlichen Maßnahmen treffen; sie sind berechtigt, die Vorlage von Bescheinigungen von Prüfsachverständigen zu verlangen. 3Bauaufsichtliche Genehmigungen, Vorbescheide und sonstige Maßnahmen gelten auch für und gegen die Rechtsnachfolger; das gilt auch für Personen, die ein Besitzrecht nach Erteilung einer bauaufsichtlichen Genehmigung, eines Vorbescheids oder nach Erlass einer bauaufsichtlichen Maßnahme erlangt haben."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 42a BayVwVfG mit folgenden Maßgaben entsprechend:",
+          "score": 0.699,
+          "text_preview": "2Die Bauaufsichtsbehörde kann verlangen, dass Absteckung und Höhenlage von ihr abgenommen oder die Einhaltung der festgelegten Grundfläche und Höhenlage nachgewiesen wird. 3Baugenehmigungen, Bauvorlagen, bautechnische Nachweise, soweit es sich nicht um Bauvorlagen handelt, sowie Bescheinigungen von ",
+          "text_full": "2Die Bauaufsichtsbehörde kann verlangen, dass Absteckung und Höhenlage von ihr abgenommen oder die Einhaltung der festgelegten Grundfläche und Höhenlage nachgewiesen wird. 3Baugenehmigungen, Bauvorlagen, bautechnische Nachweise, soweit es sich nicht um Bauvorlagen handelt, sowie Bescheinigungen von Prüfsachverständigen müssen an der Baustelle von Baubeginn an vorliegen.\n(8) Der Bauherr hat den Ausführungsbeginn genehmigungspflichtiger Bauvorhaben und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als sechs Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde schriftlich mitzuteilen (Baubeginnsanzeige)."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 50 Bauherr",
+          "score": 0.6855,
+          "text_preview": "Art. 50 Bauherr\n(1) 1Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der Art. 51 und 52 zu bestellen, soweit er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorsch",
+          "text_full": "Art. 50 Bauherr\n(1) 1Der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Bauvorhabens sowie der Beseitigung von Anlagen geeignete Beteiligte nach Maßgabe der Art. 51 und 52 zu bestellen, soweit er nicht selbst zur Erfüllung der Verpflichtungen nach diesen Vorschriften geeignet ist. 2Dem Bauherrn obliegen außerdem die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge und Anzeigen. 3Erforderliche Nachweise und Unterlagen hat er bereitzuhalten. 4Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. 5Wechselt der Bauherr, hat der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich in Textform mitzuteilen.\n(2) 1Treten bei einem Bauvorhaben mehrere Personen als Bauherr auf, so kann die Bauaufsichtsbehörde verlangen, dass ihr gegenüber ein Vertreter bestellt wird, der die dem Bauherrn nach den öffentlichrechtlichen Vorschriften obliegenden Verpflichtungen zu erfüllen hat. 2Im Übrigen findet Art. 18 Abs. 1 Satz 2 und 3 sowie Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Bayern",
+          "jurisdiction": "DE-BY",
+          "source_paragraph": "Art. 78 Bauzustandsanzeigen, Aufnahme der Nutzung",
+          "score": 0.6792,
+          "text_preview": "Art. 78 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) 1Die Bauaufsichtsbehörde, der Prüfingenieur, das Prüfamt oder der Prüfsachverständige kann verlangen, dass ihm Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. 2Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbe",
+          "text_full": "Art. 78 Bauzustandsanzeigen, Aufnahme der Nutzung\n(1) 1Die Bauaufsichtsbehörde, der Prüfingenieur, das Prüfamt oder der Prüfsachverständige kann verlangen, dass ihm Beginn und Beendigung bestimmter Bauarbeiten angezeigt werden. 2Die Bauarbeiten dürfen erst fortgesetzt werden, wenn die Bauaufsichtsbehörde, der Prüfingenieur, das Prüfamt oder der Prüfsachverständige der Fortführung der Bauarbeiten zugestimmt hat.\n(2) 1Der Bauherr hat die beabsichtigte Aufnahme der Nutzung einer nicht verfahrensfreien baulichen Anlage mindestens zwei Wochen vorher der Bauaufsichtsbehörde anzuzeigen. 2Mit der Anzeige nach Satz 1 sind vorzulegen\n1. bei Bauvorhaben nach Art. 62a Abs. 2 Satz 1 eine Bescheinigung des Prüfsachverständigen über die ordnungsgemäße Bauausführung hinsichtlich der Standsicherheit,\n2. bei Bauvorhaben nach Art. 62b Abs. 2 Satz 1 eine Bescheinigung des Prüfsachverständigen über die ordnungsgemäße Bauausführung hinsichtlich des Brandschutzes (Art. 77 Abs. 2 Satz 1), soweit kein Fall des Art. 62b Abs. 2 Satz 1 Alternative 2 vorliegt,\n3. in den Fällen des Art. 77 Abs. 2 Satz 2 die jeweilige Bestätigung."
+        }
+      ],
+      "top_score": 0.7031
+    }
+  ]
+}

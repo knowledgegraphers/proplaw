@@ -1,0 +1,1126 @@
+{
+  "system": "RAG-local",
+  "jurisdiction": "DE-SL",
+  "results": [
+    {
+      "id": "Q01",
+      "query": "Was sind bauliche Anlagen?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 15265,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder",
+          "score": 0.7049,
+          "text_preview": "Abschnitt 7 Besondere bauliche Anlagen",
+          "text_full": "Abschnitt 7 Besondere bauliche Anlagen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6526,
+          "text_preview": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden",
+          "text_full": "§ 2 Begriffe\n(1) Bauliche Anlagen sind mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen. Eine Verbindung mit dem Erdboden besteht auch, wenn die Anlage durch eigene Schwere auf dem Boden ruht oder nach ihrem Verwendungszweck dazu bestimmt ist, überwiegend ortsfest benutzt zu werden. Als bauliche Anlagen gelten auch\n1. Aufschüttungen und Abgrabungen,\n2. Lager-, Abstell- und Ausstellungsplätze,\n3. Sport- und Spielflächen,\n4. Camping-, Wochenend- und Zeltplätze,\n5. Freizeit- und Vergnügungsparks,\n6. Stellplätze für Kraftfahrzeuge und Abstellplätze für Fahrräder,\n7. Gerüste,\n8. Hilfseinrichtungen zur statischen Sicherung von Bauzuständen,\n9. Regale im Freien und Regale, die Teil der Gebäudekonstruktion sind oder Erschließungsfunktion haben. Anlagen sind bauliche Anlagen und sonstige Anlagen und Einrichtungen im Sinne des § 1 Abs. 1 Satz 2.\n(2) Gebäude sind selbstständig benutzbare, überdeckte bauliche Anlagen, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen.\n(3) Es gehören an:\n1."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 12 Anlagen der Außenwerbung und Warenautomaten",
+          "score": 0.6448,
+          "text_preview": "§ 12 Anlagen der Außenwerbung und Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrs- oder Grünraum aus sichtbar sind. Hierzu zählen insbesonde",
+          "text_full": "§ 12 Anlagen der Außenwerbung und Warenautomaten\n(1) Anlagen der Außenwerbung (Werbeanlagen) sind alle ortsfesten Einrichtungen, die der Ankündigung oder Anpreisung oder als Hinweis auf Gewerbe oder Beruf dienen und vom öffentlichen Verkehrs- oder Grünraum aus sichtbar sind. Hierzu zählen insbesondere Schilder, Beschriftungen und Bemalungen, Lichtwerbungen, Schaukästen sowie für Zettel- oder Bogenanschläge oder Lichtwerbung bestimmte Säulen, Tafeln und Flächen.\n(2) Für Werbeanlagen gelten die an bauliche Anlagen zu stellenden Anforderungen. Die störende Häufung von Werbeanlagen ist unzulässig.\n(3) Außerhalb der im Zusammenhang bebauten Ortsteile sind Werbeanlagen unzulässig. Ausgenommen sind, soweit in anderen Vorschriften nichts anderes bestimmt ist,\n1. Werbeanlagen an der Stätte der Leistung,\n2. Sammelhinweisschilder vor Ortsdurchfahrten, die Namen und Art gewerblicher Betriebe kennzeichnen,\n3. einzelne Schilder oder Zeichen an Verkehrsstraßen und Wegabzweigungen, die auf abseits liegende Betriebe oder Stätten hinweisen,\n4. Werbeanlagen an und auf Flugplätzen, Sportanlagen und Versammlungsstätten, soweit sie nicht in die freie Landschaft wirken,\n5."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6267,
+          "text_preview": "(4) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Hochhäuser (Gebäude mit einer Höhe nach Absatz 3 Satz 2 von mehr als 22 m),\n2. bauliche Anlagen mit einer Höhe von mehr als 30 m über der Geländeoberfläche,\n3. Gebäude, deren Ges",
+          "text_full": "(4) Sonderbauten sind Anlagen und Räume besonderer Art oder Nutzung, die einen der nachfolgenden Tatbestände erfüllen:\n1. Hochhäuser (Gebäude mit einer Höhe nach Absatz 3 Satz 2 von mehr als 22 m),\n2. bauliche Anlagen mit einer Höhe von mehr als 30 m über der Geländeoberfläche,\n3. Gebäude, deren Geschoss mit der größten Ausdehnung mehr als 1.600 m² Grundfläche hat, ausgenommen Wohngebäude und Garagen,\n4. Verkaufsstätten, deren Verkaufsräume und Ladenstraßen eine Grundfläche von insgesamt mehr als 800 m2 haben,\n5. Gebäude mit Räumen, die einer Büro- und Verwaltungsnutzung dienen und einzeln eine Grundfläche von mehr als 400 m² haben,\n6. Gebäude mit Räumen, die einzeln für die Nutzung durch mehr als 100 Personen bestimmt sind,\n7. Versammlungsstätten\na) mit Versammlungsräumen, die insgesamt mehr als 200 Besucherinnen und Besucher fassen, wenn diese Versammlungsräume gemeinsame Rettungswege haben,\nb) im Freien mit Szenenflächen sowie Freisportanlagen jeweils mit Tribünen, die keine Fliegenden Bauten sind und insgesamt mehr als 1000 Besucherinnen und Besucher fassen,\n8."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 61 Verfahrensfreie Vorhaben, Beseitigung von Anlagen",
+          "score": 0.611,
+          "text_preview": "folgende tragende und nicht tragende Bauteile:\na) nicht tragende und nicht aussteifende Bauteile in baulichen Anlagen,\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2,\nc) die Erneuerung von Balkonen oder der Ersatz von Balkonen durch Altane",
+          "text_full": "folgende tragende und nicht tragende Bauteile:\na) nicht tragende und nicht aussteifende Bauteile in baulichen Anlagen,\nb) die Änderung tragender oder aussteifender Bauteile innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2,\nc) die Erneuerung von Balkonen oder der Ersatz von Balkonen durch Altane auf dem eigenen Grundstück bei Wohngebäuden der Gebäudeklassen 1 und 2,\nd) Fenster und Türen sowie die dafür bestimmten Öffnungen,\ne) Außenwandbekleidungen einschließlich Maßnahmen der Wärmedämmung, ausgenommen bei Hochhäusern, sowie Verblendungen, Anstrich und Verputz baulicher Anlagen,\nf) Dächer von Gebäuden, ausgenommen Hochhäuser, einschließlich der Dachkonstruktion ohne Änderung des bisherigen statischen Systems und der Dachhöhe,\ng) einzelne Aufenthaltsräume im Dachraum von Wohngebäuden, wenn dadurch die Gebäudeklasse 3 nicht überschritten und die äußere Gestaltung des Gebäudes nicht verändert wird; der Einbau in der Dachfläche liegender Fenster gilt nicht als Veränderung der äußeren Gestaltung des Gebäudes, auch vor Fertigstellung der baulichen Anlage,\n12."
+        }
+      ],
+      "top_score": 0.7049
+    },
+    {
+      "id": "Q02",
+      "query": "Was gilt als Aufenthaltsraum?",
+      "type": "Direct",
+      "difficulty": 1,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 18,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6979,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürlic",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürliche Geländeoberfläche auf dem Baugrundstück.\n(8) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(9) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen auf Grundstücken dienen. Garagen sind ganz oder teilweise umschlossene Räume zum Abstellen von Kraftfahrzeugen und überdachte Stellplätze. Ausstellungs-, Verkaufs-, Werk- und Lagerplätze und -räume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(10) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 85 Örtliche Bauvorschriften",
+          "score": 0.5581,
+          "text_preview": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pf",
+          "text_full": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pflicht zur Anlage und Unterhaltung von Kleinkinderspielplätzen für bestehende Gebäude mit mehr als drei Wohnungen im Gemeindegebiet oder in Teilen davon, wenn dies die Gesundheit oder der Schutz der Kinder erfordert,\n7. die Zahl der notwendigen Stellplätze und Garagen nach Art und Maß der Nutzung unter Berücksichtigung der verkehrlichen, wirtschaftspolitischen oder städtebaulichen Gründe,\n8. das Verbot oder die Einschränkung der Herstellung von Stellplätzen und Garagen, wenn und soweit Gründe des Verkehrs, Festsetzungen einer städtebaulichen Satzung oder sonstige städtebauliche Gründe dies erfordern und die Belange des ruhenden Verkehrs angemessen berücksichtigt werden,\n9. die Höhe des Geldbetrags im Sinne von § 47 Abs. 3,\n10."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder",
+          "score": 0.5515,
+          "text_preview": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder\n(1) Bei der Errichtung baulicher und anderer Anlagen, bei denen ein Zu- und Abgangsverkehr zu erwarten ist, müssen Stellplätze oder Garagen in ausreichender Zahl, Größe und in geeigneter Beschaffenheit (notwendige Stellplätze und Garagen) her",
+          "text_full": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder\n(1) Bei der Errichtung baulicher und anderer Anlagen, bei denen ein Zu- und Abgangsverkehr zu erwarten ist, müssen Stellplätze oder Garagen in ausreichender Zahl, Größe und in geeigneter Beschaffenheit (notwendige Stellplätze und Garagen) hergestellt werden. Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und unter Berücksichtigung der örtlichen Verkehrsverhältnisse und des öffentlichen Personennahverkehrs zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und Benutzer sowie der Besucherinnen und Besucher der Anlagen. Bei Änderungen von Anlagen nach Satz 1 oder bei Änderungen ihrer Nutzung ist nur der durch die Änderung verursachte Mehrbedarf an Stellplätzen und Garagen zu decken. Wird die Zahl der notwendigen Stellplätze oder Garagen durch eine Örtliche Bauvorschrift (§ 85 Abs. 1 Nr. 7) festgelegt, ist diese Zahl maßgeblich. Die Verpflichtung zur Herstellung von Stellplätzen oder Garagen gilt nicht für Wohnungen oder Wohnheime, es sei denn, die Gemeinde bestimmt auf Grundlage einer Örtlichen Bauvorschrift nach Satz 4 etwas anderes."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 45 Aufenthaltsräume",
+          "score": 0.5355,
+          "text_preview": "§ 45 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Höhe von mindestens 2,30 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer Bet",
+          "text_full": "§ 45 Aufenthaltsräume\n(1) Aufenthaltsräume müssen eine lichte Höhe von mindestens 2,30 m haben. Aufenthaltsräume im Dachraum müssen eine lichte Raumhöhe von mindestens 2,20 m über mindestens der Hälfte ihrer Netto-Raumfläche haben; Raumteile mit einer lichten Raumhöhe bis zu 1,50 m bleiben außer Betracht. Die Sätze 1 und 2 gelten nicht für Aufenthaltsräume in Wohngebäuden der Gebäudeklassen 1 und 2.\n(2) Aufenthaltsräume müssen ausreichend belüftet und mit Tageslicht belichtet werden können. Sie müssen Fenster mit einem Rohbaumaß der Fensteröffnungen von mindestens einem Achtel der Netto-Raumfläche des Raumes einschließlich der Netto-Raumfläche verglaster Vorbauten und Loggien haben.\n(3) Aufenthaltsräume, deren Benutzung eine Belichtung mit Tageslicht verbietet, sowie Verkaufsräume, Schank- und Speisegaststätten, ärztliche Behandlungsräume, Sporträume, Spielräume, Werkräume und ähnliche Räume, ausgenommen Spielräume und Werkräume für Kinder, sind ohne Fenster zulässig. 2130-1 28"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 46 Wohnungen",
+          "score": 0.5237,
+          "text_preview": "§ 46 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben. Fensterlose Bäder und Toilettenräume sind nur zulässig, wenn eine",
+          "text_full": "§ 46 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben. Fensterlose Bäder und Toilettenräume sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(3) Für Gebäude mit mehr als zwei Wohnungen sind leicht erreichbare und barrierefrei zugängliche Abstellräume für Kinderwagen, Fahrräder, Kinderspielgeräte und Mobilitätshilfsmittel sowie für jede Wohnung eine ausreichend große Abstellfläche herzustellen.\n(4) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. Die Eigentümerinnen und Eigentümer vorhandener Wohnungen sind verpflichtet, jede Wohnung bis zum 31. Dezember 2016 entsprechend auszustatten."
+        }
+      ],
+      "top_score": 0.6979
+    },
+    {
+      "id": "Q03",
+      "query": "Was sind Stellplätze?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 19,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6251,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürlic",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürliche Geländeoberfläche auf dem Baugrundstück.\n(8) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(9) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen auf Grundstücken dienen. Garagen sind ganz oder teilweise umschlossene Räume zum Abstellen von Kraftfahrzeugen und überdachte Stellplätze. Ausstellungs-, Verkaufs-, Werk- und Lagerplätze und -räume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(10) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder",
+          "score": 0.5779,
+          "text_preview": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder\n(1) Bei der Errichtung baulicher und anderer Anlagen, bei denen ein Zu- und Abgangsverkehr zu erwarten ist, müssen Stellplätze oder Garagen in ausreichender Zahl, Größe und in geeigneter Beschaffenheit (notwendige Stellplätze und Garagen) her",
+          "text_full": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder\n(1) Bei der Errichtung baulicher und anderer Anlagen, bei denen ein Zu- und Abgangsverkehr zu erwarten ist, müssen Stellplätze oder Garagen in ausreichender Zahl, Größe und in geeigneter Beschaffenheit (notwendige Stellplätze und Garagen) hergestellt werden. Ihre Zahl und Größe richtet sich nach Art und Zahl der vorhandenen und unter Berücksichtigung der örtlichen Verkehrsverhältnisse und des öffentlichen Personennahverkehrs zu erwartenden Kraftfahrzeuge der ständigen Benutzerinnen und Benutzer sowie der Besucherinnen und Besucher der Anlagen. Bei Änderungen von Anlagen nach Satz 1 oder bei Änderungen ihrer Nutzung ist nur der durch die Änderung verursachte Mehrbedarf an Stellplätzen und Garagen zu decken. Wird die Zahl der notwendigen Stellplätze oder Garagen durch eine Örtliche Bauvorschrift (§ 85 Abs. 1 Nr. 7) festgelegt, ist diese Zahl maßgeblich. Die Verpflichtung zur Herstellung von Stellplätzen oder Garagen gilt nicht für Wohnungen oder Wohnheime, es sei denn, die Gemeinde bestimmt auf Grundlage einer Örtlichen Bauvorschrift nach Satz 4 etwas anderes."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder",
+          "score": 0.569,
+          "text_preview": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder\nAbschnitt 7 2130-1 3 Besondere bauliche Anlagen",
+          "text_full": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder\nAbschnitt 7 2130-1 3 Besondere bauliche Anlagen"
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 47 Stellplätze und Garagen, Abstellplätze für Fahrräder",
+          "score": 0.5388,
+          "text_preview": "Für Wohnungen, die uneingeschränkt mit dem Rollstuhl nutzbar 2130-1 29 sind, ist je Wohnung ein Stellplatz herzustellen; der Stellplatz muss mindestens 3,5 m breit und 5 m lang sein und ist als Stellplatz für Menschen mit Behinderungen zu kennzeichnen.\n(2) Die notwendigen Stellplätze und Garagen sin",
+          "text_full": "Für Wohnungen, die uneingeschränkt mit dem Rollstuhl nutzbar 2130-1 29 sind, ist je Wohnung ein Stellplatz herzustellen; der Stellplatz muss mindestens 3,5 m breit und 5 m lang sein und ist als Stellplatz für Menschen mit Behinderungen zu kennzeichnen.\n(2) Die notwendigen Stellplätze und Garagen sind auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück herzustellen, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert ist. Die Bauaufsichtsbehörde kann, wenn Gründe des Verkehrs dies erfordern, im Einzelfall bestimmen, ob die Stellplätze auf dem Baugrundstück oder auf einem anderen Grundstück herzustellen sind.\n(3) Ist die Herstellung nach Absatz 2 nicht oder nur unter großen Schwierigkeiten möglich oder ist sie auf Grund einer Satzung nach § 85 Abs. 1 Nr. 8 untersagt oder eingeschränkt, so kann die Bauaufsichtsbehörde im Einvernehmen mit der Gemeinde gestatten, dass die Stellplatzpflicht durch Zahlung eines Geldbetrags abgelöst wird, sofern eine Ablösesatzung (§ 85 Abs. 1 Nr. 9) besteht."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 29 Trennwände",
+          "score": 0.5336,
+          "text_preview": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinhe",
+          "text_full": "§ 29 Trennwände\n(1) Trennwände nach Absatz 2 müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.\n(2) Trennwände sind erforderlich\n1. zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren,\n2. zum Abschluss von Räumen mit Explosions- oder erhöhter Brandgefahr,\n3. zwischen Aufenthaltsräumen und anders genutzten Räumen im Kellergeschoss.\n(3) Trennwände nach Absatz 2 Nrn. 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein. Trennwände nach Absatz 2 Nr. 2 müssen feuerbeständig sein.\n(4) Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen; werden in Dachräumen Trennwände nur bis zur Rohdecke geführt, ist diese Decke als raumabschließendes Bauteil einschließlich der sie tragenden und aussteifenden Bauteile feuerhemmend herzustellen."
+        }
+      ],
+      "top_score": 0.6251
+    },
+    {
+      "id": "Q04",
+      "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 25,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 74 Geltungsdauer der Genehmigung",
+          "score": 0.773,
+          "text_preview": "§ 74 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Bekanntgabe mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung ein Jahr unterbrochen worden ist. Die Einlegung eines Rechtsbehelfs hemmt de",
+          "text_full": "§ 74 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Bekanntgabe mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung ein Jahr unterbrochen worden ist. Die Einlegung eines Rechtsbehelfs hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Baugenehmigung.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 75 Teilbaugenehmigung",
+          "score": 0.7461,
+          "text_preview": "§ 75 Teilbaugenehmigung\n(1) Ist das Gesamtvorhaben grundsätzlich genehmigungsfähig, kann vorab für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf in Textform gestellten Antrag eine Teilbaugenehmigung erteilt werden.\n(2) Die §§ 66 bis 74 gelten entsprechend.\n(3) In der Baugenehmigung k",
+          "text_full": "§ 75 Teilbaugenehmigung\n(1) Ist das Gesamtvorhaben grundsätzlich genehmigungsfähig, kann vorab für die Baugrube und für einzelne Bauteile oder Bauabschnitte auf in Textform gestellten Antrag eine Teilbaugenehmigung erteilt werden.\n(2) Die §§ 66 bis 74 gelten entsprechend.\n(3) In der Baugenehmigung können, ungeachtet der Teilbaugenehmigung, für die bereits begonnenen oder ausgeführten Teile des Bauvorhabens zusätzliche Anforderungen gestellt werden, wenn sich bei der weiteren Prüfung der Bauvorlagen ergibt, dass diese Anforderungen wegen der öffentlichen Sicherheit oder Ordnung erforderlich sind."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 73 Baugenehmigung, Baubeginn",
+          "score": 0.7297,
+          "text_preview": "§ 73 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Vorhaben gegen öffentli",
+          "text_full": "§ 73 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Vorhaben gegen öffentlich-rechtliche Vorschriften verstößt, die im bauaufsichtlichen Genehmigungsverfahren nicht zu prüfen sind. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n(2) Die Baugenehmigung bedarf der Schriftform (Bauschein). Sie und ihre Nebenbestimmungen müssen nur insoweit begründet werden, als nach § 71 Abs. 1 oder 5 fristgerecht erhobenen Einwendungen nicht entsprochen wird; § 71 Abs. 6 dieses Gesetzes und § 1 des Saarländischen Verwaltungsverfahrensgesetzes in Verbindung mit § 39 Abs. 2 Nr. 2 des Verwaltungsverfahrensgesetzes bleiben unberührt. Der Baugenehmigung sind die mit einem Genehmigungsvermerk versehenen Bauvorlagen beizufügen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 73 Baugenehmigung, Baubeginn",
+          "score": 0.711,
+          "text_preview": "die Baugenehmigung der Bauherrin oder dem Bauherrn zugegangen ist oder durch Fristablauf nach § 64 Abs. 3 Satz 5 als erteilt gilt, 13 Jetzige Fassung des KSVG vgl. BS-Nr. 2020-1. 2130-1 46\n2. die bautechnischen Nachweise soweit erforderlich bauaufsichtlich geprüft oder gemäß § 67 Abs. 4 bescheinigt ",
+          "text_full": "die Baugenehmigung der Bauherrin oder dem Bauherrn zugegangen ist oder durch Fristablauf nach § 64 Abs. 3 Satz 5 als erteilt gilt, 13 Jetzige Fassung des KSVG vgl. BS-Nr. 2020-1. 2130-1 46\n2. die bautechnischen Nachweise soweit erforderlich bauaufsichtlich geprüft oder gemäß § 67 Abs. 4 bescheinigt sind und\n3. der Bauaufsichtsbehörde die Baubeginnsanzeige nach Absatz 8 vorliegt.\n(7) Vor Baubeginn müssen Grundrissfläche und Höhenlage der baulichen Anlage auf dem Grundstück festgelegt sein (Einweisung). Die oder der Einweisende hat die Einweisung zu bescheinigen.\n(8) Die Bauherrin oder der Bauherr hat den Ausführungsbeginn und die Wiederaufnahme der Bauarbeiten nach einer Unterbrechung von mehr als drei Monaten mindestens eine Woche vorher der Bauaufsichtsbehörde in Textform mitzuteilen (Baubeginnsanzeige). Die Baugenehmigung, ausgenommen im Fall des § 64 Abs. 3 Satz 5, die Bauvorlagen, einschließlich der bautechnischen Nachweise, und die Bescheinigung über die Einweisung müssen an der Baustelle von Baubeginn an bereitgehalten werden."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 23 Übereinstimmungserklärung des herstellenden Unternehmens",
+          "score": 0.7058,
+          "text_preview": "(3) In den Technischen Baubestimmungen nach § 86a, in den allgemeinen bauaufsichtlichen Zulassungen oder in den Zustimmungen im Einzelfall kann eine Zertifizierung vor Abgabe der Übereinstimmungserklärung vorgeschrieben werden, wenn dies zum Nachweis einer ordnungsgemäßen Herstellung eines Bauproduk",
+          "text_full": "(3) In den Technischen Baubestimmungen nach § 86a, in den allgemeinen bauaufsichtlichen Zulassungen oder in den Zustimmungen im Einzelfall kann eine Zertifizierung vor Abgabe der Übereinstimmungserklärung vorgeschrieben werden, wenn dies zum Nachweis einer ordnungsgemäßen Herstellung eines Bauproduktes erforderlich ist. Die oberste Bauaufsichtsbehörde kann im Einzelfall die Verwendung von Bauprodukten ohne Zertifizierung gestatten, wenn nachgewiesen ist, dass diese Bauprodukte den technischen Regeln, Zulassungen, Prüfzeugnissen oder Zustimmungen nach Absatz 1 entsprechen.\n(4) Bauprodukte, die nicht in Serie hergestellt werden, bedürfen nur einer Übereinstimmungserklärung nach Absatz 1, sofern nichts anderes bestimmt ist."
+        }
+      ],
+      "top_score": 0.773
+    },
+    {
+      "id": "Q05",
+      "query": "Welche Anforderungen gelten für Abstandsflächen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 7 Abstandsflächen, Abstände",
+          "score": 0.6618,
+          "text_preview": "In allen Fällen der Sätze 1, 3 und 4 muss die Tiefe der Abstandsfläche mindestens 3 m betragen. Werden von einer städtebaulichen Satzung oder einer Satzung nach § 85 Abs. 1 Nr. 5 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1",
+          "text_full": "In allen Fällen der Sätze 1, 3 und 4 muss die Tiefe der Abstandsfläche mindestens 3 m betragen. Werden von einer städtebaulichen Satzung oder einer Satzung nach § 85 Abs. 1 Nr. 5 Außenwände zugelassen oder vorgeschrieben, vor denen Abstandsflächen größerer oder geringerer Tiefe als nach den Sätzen 1 bis 5 liegen müssten, finden die Sätze 1 bis 5 keine Anwendung, es sei denn, die Satzung ordnet die Geltung dieser Vorschriften an.\n(6) Bei der Bemessung der Abstandsflächen bleiben außer Betracht:\n1. vor die Außenwand nicht mehr als 0,50 m vortretende Bauteile wie Gesimse und Dachüberstände einschließlich der Dachrinne,\n2. Vorbauten, wenn sie\na) insgesamt nicht mehr als ein Drittel der Breite der jeweiligen Außenwand in Anspruch nehmen,\nb) nicht mehr als 1,50 m vor diese Außenwand vortreten und\nc) mindestens 2 m, bei Hauseingangstreppen, Hauseingangsüberdachungen und Behindertenaufzügen mindestens 1,50 m von den Grundstücksgrenzen entfernt bleiben,\n3."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 7 Abstandsflächen, Abstände",
+          "score": 0.6519,
+          "text_preview": "2130-1 8\n(2) Die Abstandsflächen sowie die Abstände nach § 30 Abs. 2 Satz 1 Nr. 1 und § 32 Abs. 2 Satz 1 Nr. 1 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen liegen, jedoch nur bis zu deren Mitte.\n(3)",
+          "text_full": "2130-1 8\n(2) Die Abstandsflächen sowie die Abstände nach § 30 Abs. 2 Satz 1 Nr. 1 und § 32 Abs. 2 Satz 1 Nr. 1 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen liegen, jedoch nur bis zu deren Mitte.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75° zueinander stehen,\n2. Gebäude und andere bauliche Anlagen, die in der Abstandsfläche zulässig sind oder gestattet werden,\n3. Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden mit nicht mehr als zwei Wohnungen.\n(4) Die Tiefe der Abstandsflächen bemisst sich nach der Wandhöhe; sie wird senkrecht zur Wand gemessen. Als Wandhöhe gilt das Maß von der Geländeoberfläche bis zum Schnittpunkt der Wand mit der Dachhaut oder bis zum oberen Abschluss der Wand. Bei Wänden, die an Giebelflächen grenzen, gilt als oberer Abschluss der Wand die Verbindungslinie der Schnittpunkte nach Satz 2. Bei geneigtem oberem Wandabschluss und bei geneigter Geländeoberfläche ist die im Mittel gemessene Wandhöhe maßgebend."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 7 Abstandsflächen, Abstände",
+          "score": 0.6325,
+          "text_preview": "§ 7 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden oder vor den Abschnitten von Außenwänden von Gebäuden sind Flächen von oberirdischen Gebäuden sowie von Anlagen nach Absatz 7 freizuhalten (Abstandsflächen). Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstü",
+          "text_full": "§ 7 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden oder vor den Abschnitten von Außenwänden von Gebäuden sind Flächen von oberirdischen Gebäuden sowie von Anlagen nach Absatz 7 freizuhalten (Abstandsflächen). Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften\n1. das Gebäude ohne Grenzabstand gebaut werden muss oder\n2. das Gebäude ohne Grenzabstand gebaut werden darf und öffentlich-rechtlich gesichert ist, dass auf dem Nachbargrundstück ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften mit Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude ohne Grenzabstand bereits vorhanden, so kann gestattet oder verlangt werden, dass ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften ohne Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude mit Grenzabstand vorhanden, so kann gestattet oder verlangt werden, dass eine Abstandsfläche eingehalten wird."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 85 Örtliche Bauvorschriften",
+          "score": 0.6274,
+          "text_preview": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pf",
+          "text_full": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pflicht zur Anlage und Unterhaltung von Kleinkinderspielplätzen für bestehende Gebäude mit mehr als drei Wohnungen im Gemeindegebiet oder in Teilen davon, wenn dies die Gesundheit oder der Schutz der Kinder erfordert,\n7. die Zahl der notwendigen Stellplätze und Garagen nach Art und Maß der Nutzung unter Berücksichtigung der verkehrlichen, wirtschaftspolitischen oder städtebaulichen Gründe,\n8. das Verbot oder die Einschränkung der Herstellung von Stellplätzen und Garagen, wenn und soweit Gründe des Verkehrs, Festsetzungen einer städtebaulichen Satzung oder sonstige städtebauliche Gründe dies erfordern und die Belange des ruhenden Verkehrs angemessen berücksichtigt werden,\n9. die Höhe des Geldbetrags im Sinne von § 47 Abs. 3,\n10."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.6045,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürlic",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürliche Geländeoberfläche auf dem Baugrundstück.\n(8) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(9) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen auf Grundstücken dienen. Garagen sind ganz oder teilweise umschlossene Räume zum Abstellen von Kraftfahrzeugen und überdachte Stellplätze. Ausstellungs-, Verkaufs-, Werk- und Lagerplätze und -räume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(10) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        }
+      ],
+      "top_score": 0.6618
+    },
+    {
+      "id": "Q06",
+      "query": "Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 4 Gestalterische Anforderungen Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander",
+          "score": 0.7366,
+          "text_preview": "§ 4 Gestalterische Anforderungen Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander\n, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Sie sind mit ihrer Umgebung so in Einklang zu bringen, dass sie das vorhandene Straßen-, Orts- od",
+          "text_full": "§ 4 Gestalterische Anforderungen Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander\n, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Sie sind mit ihrer Umgebung so in Einklang zu bringen, dass sie das vorhandene Straßen-, Orts- oder Landschaftsbild nicht verunstalten.\nTeil 2 Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 17b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.7347,
+          "text_preview": "§ 17b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufg",
+          "text_full": "§ 17b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Abs. 1 Nr. 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 3 Allgemeine Anforderungen",
+          "score": 0.6965,
+          "text_preview": "§ 3 Allgemeine Anforderungen\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass sie\n1. die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährden; dabei sind die Grundanforderungen an Bauwerke gemäß An",
+          "text_full": "§ 3 Allgemeine Anforderungen\n(1) Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass sie\n1. die öffentliche Sicherheit und Ordnung, insbesondere Leben, Gesundheit und die natürlichen Lebensgrundlagen, nicht gefährden; dabei sind die Grundanforderungen an Bauwerke gemäß Anhang I der Verordnung (EU) Nr. 305/2011, einschließlich der nachhaltigen Nutzung der natürlichen Ressourcen zu berücksichtigen,\n2. keine unzumutbaren Belästigungen verursachen,\n3. ihrem Zweck entsprechend ohne Missstände zu benutzen sind,\n4. die besonderen Belange der Familien und der Personen mit Kindern, der Menschen mit Behinderungen und der alten Menschen berücksichtigen.\n(2) Für die Beseitigung von Anlagen und für die Änderung ihrer Nutzung gilt Absatz 1 entsprechend."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6923,
+          "text_preview": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.686,
+          "text_preview": "Altenheime, Altenwohnheime und Altenpflegeheime, gelten die Anforderungen des Absatzes 2 Satz 1 für die gesamte Anlage oder Einrichtung.\n(4) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen nach den Absätzen 2 und 3 wesentlich geändert werden, so soll die Bauaufsichts",
+          "text_full": "Altenheime, Altenwohnheime und Altenpflegeheime, gelten die Anforderungen des Absatzes 2 Satz 1 für die gesamte Anlage oder Einrichtung.\n(4) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen nach den Absätzen 2 und 3 wesentlich geändert werden, so soll die Bauaufsichtsbehörde verlangen, dass auch die von der Änderung nicht unmittelbar berührten Teile mit den Anforderungen der Absätze 2 und 3in Einklang gebracht werden, wenn dies für die Bauherrin oder den Bauherrn keine unzumutbaren Mehrkosten verursacht.\n(5) Von den Absätzen 1 bis 3 können Abweichungen zugelassen werden, soweit die Anforderungen wegen schwieriger Geländeverhältnisse, wegen des Einbaus eines sonst nicht erforderlichen Aufzugs, wegen ungünstiger vorhandener Bebauung oder im Hinblick auf die Sicherheit der Menschen mit Behinderung und der alten Menschen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können. § 68 Abs. 2 gilt entsprechend."
+        }
+      ],
+      "top_score": 0.7366
+    },
+    {
+      "id": "Q07",
+      "query": "Welche Anforderungen bestehen an Aufenthaltsräume?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 46 Wohnungen",
+          "score": 0.6063,
+          "text_preview": "§ 46 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben. Fensterlose Bäder und Toilettenräume sind nur zulässig, wenn eine",
+          "text_full": "§ 46 Wohnungen\n(1) Jede Wohnung muss eine Küche oder Kochnische haben. Fensterlose Küchen oder Kochnischen sind zulässig, wenn sie für sich lüftbar sind.\n(2) Jede Wohnung muss ein Bad mit Badewanne oder Dusche und eine Toilette haben. Fensterlose Bäder und Toilettenräume sind nur zulässig, wenn eine wirksame Lüftung gewährleistet ist.\n(3) Für Gebäude mit mehr als zwei Wohnungen sind leicht erreichbare und barrierefrei zugängliche Abstellräume für Kinderwagen, Fahrräder, Kinderspielgeräte und Mobilitätshilfsmittel sowie für jede Wohnung eine ausreichend große Abstellfläche herzustellen.\n(4) In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Die Rauchwarnmelder müssen so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. Die Eigentümerinnen und Eigentümer vorhandener Wohnungen sind verpflichtet, jede Wohnung bis zum 31. Dezember 2016 entsprechend auszustatten."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.5916,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürlic",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürliche Geländeoberfläche auf dem Baugrundstück.\n(8) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(9) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen auf Grundstücken dienen. Garagen sind ganz oder teilweise umschlossene Räume zum Abstellen von Kraftfahrzeugen und überdachte Stellplätze. Ausstellungs-, Verkaufs-, Werk- und Lagerplätze und -räume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(10) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.586,
+          "text_preview": "Schank- und Speisegaststätten mit mehr als 40 Gastplätzen in Gebäuden oder mehr als 1000 Gastplätzen im Freien, Beherbergungsstätten mit mehr als 12 Betten sowie Spielhallen und Wettbüros mit jeweils mehr als 150 m² Grundfläche,\n9. Gebäude mit mindestens einer Nutzungseinheit zum Zwecke der Pflege o",
+          "text_full": "Schank- und Speisegaststätten mit mehr als 40 Gastplätzen in Gebäuden oder mehr als 1000 Gastplätzen im Freien, Beherbergungsstätten mit mehr als 12 Betten sowie Spielhallen und Wettbüros mit jeweils mehr als 150 m² Grundfläche,\n9. Gebäude mit mindestens einer Nutzungseinheit zum Zwecke der Pflege oder Betreuung von Personen mit Pflegebedürftigkeit oder Behinderungen, deren Selbstrettungsfähigkeit eingeschränkt ist, wenn\na) mindestens eine Nutzungseinheit für mehr als sechs Personen bestimmt ist,\nb) mindestens eine Nutzungseinheit für Personen mit Intensivpflegebedarf bestimmt ist oder\nc) mindestens zwei Nutzungseinheiten einen gemeinsamen Rettungsweg haben und insgesamt für mehr als zwölf Personen bestimmt sind,\n10. Krankenhäuser,\n11. Wohnheime,\n12. Tageseinrichtungen für Menschen mit Behinderungen, alte Menschen und Kinder, ausgenommen Tageseinrichtungen einschließlich Tagespflege für nicht mehr als zehn Kinder, sowie sonstige Einrichtungen zur Unterbringung von Personen, ausgenommen wohnartige Einrichtungen für nicht mehr als zehn Personen,\n13. Schulen, Hochschulen und ähnliche Einrichtungen,\n14. Justizvollzugsanstalten und bauliche Anlagen für den Maßregelvollzug,\n15."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 46 Wohnungen",
+          "score": 0.577,
+          "text_preview": "Die Sicherstellung der Betriebsbereitschaft obliegt den unmittelbaren Besitzerinnen und Besitzern, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind",
+          "text_full": "Die Sicherstellung der Betriebsbereitschaft obliegt den unmittelbaren Besitzerinnen und Besitzern, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 7, 28 und 30 bis 32 nicht anzuwenden.\n(6) Fallen rechtmäßig bestehende Gebäude aufgrund eines nachträglichen Ausbaus des Dachgeschosses oder einer Aufstockung zu Wohnzwecken nach § 2 Absatz 3 Satz 1 in die Gebäudeklasse 4, so sind für die bestehende Gebäudekonstruktion die Anforderungen an den Feuerwiderstand der tragenden und aussteifenden sowie raumabschließenden Bauteile der Gebäudeklasse 3 ausreichend, wenn\n1. Nutzungseinheiten, die nicht zu ebener Erde liegen, Rettungswege nach § 33 Absatz 2 Satz 1 und 2 haben,\n2. die Türen vom notwendigen Treppenraum zu Kellergeschossen mindestens feuerhemmend, rauchdicht und selbstschließend sind,\n3. der notwendige Treppenraum nach § 35 Absatz 8 entraucht werden kann und\n4."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 85 Örtliche Bauvorschriften",
+          "score": 0.5741,
+          "text_preview": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pf",
+          "text_full": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pflicht zur Anlage und Unterhaltung von Kleinkinderspielplätzen für bestehende Gebäude mit mehr als drei Wohnungen im Gemeindegebiet oder in Teilen davon, wenn dies die Gesundheit oder der Schutz der Kinder erfordert,\n7. die Zahl der notwendigen Stellplätze und Garagen nach Art und Maß der Nutzung unter Berücksichtigung der verkehrlichen, wirtschaftspolitischen oder städtebaulichen Gründe,\n8. das Verbot oder die Einschränkung der Herstellung von Stellplätzen und Garagen, wenn und soweit Gründe des Verkehrs, Festsetzungen einer städtebaulichen Satzung oder sonstige städtebauliche Gründe dies erfordern und die Belange des ruhenden Verkehrs angemessen berücksichtigt werden,\n9. die Höhe des Geldbetrags im Sinne von § 47 Abs. 3,\n10."
+        }
+      ],
+      "top_score": 0.6063
+    },
+    {
+      "id": "Q08",
+      "query": "Welche Anforderungen gelten für den Brandschutz?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 15 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.7556,
+          "text_preview": "§ 15 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mögli",
+          "text_full": "§ 15 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7457,
+          "text_preview": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 41 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung",
+          "score": 0.7055,
+          "text_preview": "§ 41 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baul",
+          "text_full": "§ 41 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung\n(1) Feuerstätten und Abgasanlagen (Feuerungsanlagen) müssen betriebssicher und brandsicher sein.\n(2) Feuerstätten dürfen in Räumen nur aufgestellt werden, wenn nach der Art der Feuerstätte und nach Lage, Größe, baulicher Beschaffenheit und Nutzung der Räume Gefahren nicht entstehen.\n(3) Abgase von Feuerstätten sind durch Abgasleitungen, Schornsteine und Verbindungsstücke (Abgasanlagen) so abzuführen, dass keine Gefahren oder unzumutbaren Belästigungen entstehen. Abgasanlagen sind in solcher Zahl und Lage und so herzustellen, dass die Feuerstätten des Gebäudes ordnungsgemäß angeschlossen werden können. Sie müssen leicht gereinigt werden können. Die Sätze 1 bis 3 gelten nicht für Feuerungsanlagen, die nach dem Stand der Technik ohne eine Einrichtung zur Ableitung der Abgase betrieben werden können.\n(4) Behälter und Rohrleitungen für brennbare Gase und Flüssigkeiten müssen betriebssicher und brandsicher sein. Diese Behälter sowie feste Brennstoffe sind so aufzustellen oder zu lagern, dass keine Gefahren oder unzumutbaren Belästigungen entstehen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.6953,
+          "text_preview": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an das Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammb",
+          "text_full": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an das Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht für Baustoffe, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende,\n3. feuerhemmende; die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach den Anforderungen an das Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 41 Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung",
+          "score": 0.6735,
+          "text_preview": "(5) Für ortsfeste Verbrennungsmotoren, Blockheizkraftwerke, Brennstoffzellen, Verdichter und WasserstoffElektrolyseure sowie die Ableitung ihrer Prozessgase gelten die Absätze 1 bis 3 entsprechend.\n(6) Feuerstätten dürfen erst in Betrieb genommen werden, wenn die bevollmächtigte Bezirksschornsteinfe",
+          "text_full": "(5) Für ortsfeste Verbrennungsmotoren, Blockheizkraftwerke, Brennstoffzellen, Verdichter und WasserstoffElektrolyseure sowie die Ableitung ihrer Prozessgase gelten die Absätze 1 bis 3 entsprechend.\n(6) Feuerstätten dürfen erst in Betrieb genommen werden, wenn die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und die sichere Benutzbarkeit der Abgasanlagen bescheinigt hat. Verbrennungsmotoren, Blockheizkraftwerke, Brennstoffzellen und Verdichter dürfen erst in Betrieb genommen werden, wenn die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger die Tauglichkeit und sichere Benutzbarkeit der Anlagen zur Ableitung von Verbrennungsgasen bescheinigt hat. Die Sätze 1 und 2 gelten auch bei Änderungen vorhandener Feuerstätten, Verbrennungsmotoren, Blockheizkraftwerke, Brennstoffzellen, Verdichter sowie der dazu gehörigen Abgasanlagen oder Anlagen zur Ableitung von Verbrennungsgasen. 2130-1 27"
+        }
+      ],
+      "top_score": 0.7556
+    },
+    {
+      "id": "Q09",
+      "query": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7199,
+          "text_preview": "2130-1 22\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen ",
+          "text_full": "2130-1 22\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte, wie Hubrettungsfahrzeuge, verfügt. Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 36 Notwendige Flure, offene Gänge",
+          "score": 0.7098,
+          "text_preview": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu notwendigen Treppenräumen oder zu Ausgängen ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall aus",
+          "text_full": "§ 36 Notwendige Flure, offene Gänge\n(1) Flure, über die Rettungswege aus Aufenthaltsräumen oder aus Nutzungseinheiten mit Aufenthaltsräumen zu notwendigen Treppenräumen oder zu Ausgängen ins Freie führen (notwendige Flure), müssen so angeordnet und ausgebildet sein, dass die Nutzung im Brandfall ausreichend lang möglich ist. Notwendige Flure sind nicht erforderlich\n1. in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. in sonstigen Gebäuden der Gebäudeklassen 1 und 2, ausgenommen in Kellergeschossen,\n3. innerhalb von Nutzungseinheiten mit nicht mehr als 200 m2 und innerhalb von Wohnungen,\n4. innerhalb von Nutzungseinheiten, die einer Büro- oder Verwaltungsnutzung dienen, mit nicht mehr als 400 m²; das gilt auch für Teile von größeren Nutzungseinheiten, wenn diese Teile nicht größer als 400 m2 sind und Trennwände nach § 29 Abs. 2 Nr. 1 haben und jeder Teil unabhängig von anderen Teilen Rettungswege nach § 33 Abs. 1 hat.\n(2) Notwendige Flure müssen so breit sein, dass sie für den größten zu erwartenden Verkehr ausreichen. In den Fluren ist eine Folge von weniger als drei Stufen unzulässig."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.7057,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für eingeschossige, zu ebener Erde liegende Nutzungseinheiten nicht erforderlich, wenn im Brandfall die Rettung über einen unmittelbaren Ausgang ins Freie möglich ist.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 6 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.695,
+          "text_preview": "§ 6 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 6 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, so sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 35 Notwendige Treppenräume und Ausgänge",
+          "score": 0.6637,
+          "text_preview": "§ 35 Notwendige Treppenräume und Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Benutzu",
+          "text_full": "§ 35 Notwendige Treppenräume und Ausgänge\n(1) Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Benutzung der notwendigen Treppen im Brandfall ausreichend lang möglich ist. Notwendige Treppen sind ohne eigenen Treppenraum zulässig\n1. in Gebäuden der Gebäudeklassen 1 und 2,\n2. für die Verbindung von höchstens zwei Geschossen innerhalb derselben Nutzungseinheit mit einer Größe von nicht mehr als insgesamt 200 m², wenn in jedem Geschoss ein anderer Rettungsweg erreicht werden kann,\n3. als Außentreppen, wenn ihre Benutzung ausreichend sicher ist und im Brandfall nicht gefährdet werden kann.\n(2) Von jeder Stelle eines Aufenthaltsraums sowie eines Kellergeschosses muss mindestens ein Ausgang in einen notwendigen Treppenraum oder ins Freie in höchstens 35 m Entfernung erreichbar sein. Übereinanderliegende Kellergeschosse müssen jeweils mindestens zwei Ausgänge zu notwendigen Treppenräumen oder ins Freie haben."
+        }
+      ],
+      "top_score": 0.7199
+    },
+    {
+      "id": "Q10",
+      "query": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
+      "type": "Multi-step",
+      "difficulty": 2,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 4 Gestalterische Anforderungen Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander",
+          "score": 0.7598,
+          "text_preview": "§ 4 Gestalterische Anforderungen Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander\n, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Sie sind mit ihrer Umgebung so in Einklang zu bringen, dass sie das vorhandene Straßen-, Orts- od",
+          "text_full": "§ 4 Gestalterische Anforderungen Bauliche Anlagen müssen nach Form, Maßstab, Verhältnis der Baumassen und Bauteile zueinander\n, Werkstoff und Farbe so gestaltet sein, dass sie nicht verunstaltet wirken. Sie sind mit ihrer Umgebung so in Einklang zu bringen, dass sie das vorhandene Straßen-, Orts- oder Landschaftsbild nicht verunstalten.\nTeil 2 Das Grundstück und seine Bebauung"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 5 Bebauung der Grundstücke 2130-1 7",
+          "score": 0.7478,
+          "text_preview": "§ 5 Bebauung der Grundstücke 2130-1 7\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück für die Zufahrt und den Einsatz von Feuerlösch- und Rettungsgeräten in ausreichender Breite an eine befahrbare öffentliche Verkehrsfläche angrenzt oder eine befahrbare öffentlich-rechtlich gesicherte Z",
+          "text_full": "§ 5 Bebauung der Grundstücke 2130-1 7\n(1) Gebäude dürfen nur errichtet werden, wenn das Grundstück für die Zufahrt und den Einsatz von Feuerlösch- und Rettungsgeräten in ausreichender Breite an eine befahrbare öffentliche Verkehrsfläche angrenzt oder eine befahrbare öffentlich-rechtlich gesicherte Zufahrt in ausreichender Breite zu einer befahrbaren öffentlichen Verkehrsfläche hat.\n(2) Die Errichtung eines Gebäudes auf mehreren Grundstücken ist nur zulässig, wenn öffentlich-rechtlich gesichert ist, dass keine Verhältnisse eintreten können, die den Vorschriften dieses Gesetzes oder den auf Grund dieses Gesetzes erlassenen Vorschriften zuwiderlaufen. Dies gilt bei bestehenden Gebäuden nicht für eine Außenwand- oder Dachdämmung, die über die Bauteilanforderungen des Gesetzes zur Einsparung von Energie und zur Nutzung Erneuerbarer Energien zur Wärme- und Kälteerzeugung in Gebäuden vom 8. August 2020 (BGBl. I S. 1728), zuletzt geändert durch Artikel 18a des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1237), in der jeweils geltenden Fassung für bestehende Gebäude nicht hinausgeht. Satz 2 gilt entsprechend für die mit der Wärmedämmung zusammenhängenden notwendigen Änderungen von Bauteilen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 46 Wohnungen",
+          "score": 0.735,
+          "text_preview": "Die Sicherstellung der Betriebsbereitschaft obliegt den unmittelbaren Besitzerinnen und Besitzern, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind",
+          "text_full": "Die Sicherstellung der Betriebsbereitschaft obliegt den unmittelbaren Besitzerinnen und Besitzern, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 7, 28 und 30 bis 32 nicht anzuwenden.\n(6) Fallen rechtmäßig bestehende Gebäude aufgrund eines nachträglichen Ausbaus des Dachgeschosses oder einer Aufstockung zu Wohnzwecken nach § 2 Absatz 3 Satz 1 in die Gebäudeklasse 4, so sind für die bestehende Gebäudekonstruktion die Anforderungen an den Feuerwiderstand der tragenden und aussteifenden sowie raumabschließenden Bauteile der Gebäudeklasse 3 ausreichend, wenn\n1. Nutzungseinheiten, die nicht zu ebener Erde liegen, Rettungswege nach § 33 Absatz 2 Satz 1 und 2 haben,\n2. die Türen vom notwendigen Treppenraum zu Kellergeschossen mindestens feuerhemmend, rauchdicht und selbstschließend sind,\n3. der notwendige Treppenraum nach § 35 Absatz 8 entraucht werden kann und\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 50 Barrierefreies Bauen",
+          "score": 0.7067,
+          "text_preview": "Altenheime, Altenwohnheime und Altenpflegeheime, gelten die Anforderungen des Absatzes 2 Satz 1 für die gesamte Anlage oder Einrichtung.\n(4) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen nach den Absätzen 2 und 3 wesentlich geändert werden, so soll die Bauaufsichts",
+          "text_full": "Altenheime, Altenwohnheime und Altenpflegeheime, gelten die Anforderungen des Absatzes 2 Satz 1 für die gesamte Anlage oder Einrichtung.\n(4) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen nach den Absätzen 2 und 3 wesentlich geändert werden, so soll die Bauaufsichtsbehörde verlangen, dass auch die von der Änderung nicht unmittelbar berührten Teile mit den Anforderungen der Absätze 2 und 3in Einklang gebracht werden, wenn dies für die Bauherrin oder den Bauherrn keine unzumutbaren Mehrkosten verursacht.\n(5) Von den Absätzen 1 bis 3 können Abweichungen zugelassen werden, soweit die Anforderungen wegen schwieriger Geländeverhältnisse, wegen des Einbaus eines sonst nicht erforderlichen Aufzugs, wegen ungünstiger vorhandener Bebauung oder im Hinblick auf die Sicherheit der Menschen mit Behinderung und der alten Menschen nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können. § 68 Abs. 2 gilt entsprechend."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 66 Bauvorlageberechtigung",
+          "score": 0.7027,
+          "text_preview": "Baumaßnahmen in oder an Wohngebäuden der Gebäudeklasse 1, soweit sie nicht zu einer Erweiterung der BruttoGrundfläche um mehr als 250 m2 führen,\n2. die Errichtung oder Änderung von\na) landwirtschaftlichen Betriebsgebäuden und gewerblich genutzten Gebäuden bis zu 120 m² Geschossfläche, die keine Sond",
+          "text_full": "Baumaßnahmen in oder an Wohngebäuden der Gebäudeklasse 1, soweit sie nicht zu einer Erweiterung der BruttoGrundfläche um mehr als 250 m2 führen,\n2. die Errichtung oder Änderung von\na) landwirtschaftlichen Betriebsgebäuden und gewerblich genutzten Gebäuden bis zu 120 m² Geschossfläche, die keine Sonderbauten sind,\nb) Behelfsgebäuden und untergeordneten Gebäuden sowie\nc) Garagen bis 100 m² Nutzfläche einschließlich der Verkehrsflächen 11 SAIG vgl. BS-Nr. 700-4. 2130-1 41 sind auch die Angehörigen der Fachrichtungen Architektur, Hochbau und Bauingenieurwesen, die aufgrund des § 1 oder des § 2 des Gesetzes zum Schutze der Berufsbezeichnung Ingenieur 12 diese Berufsbezeichnung führen dürfen, die Meisterinnen und Meister des Maurer-, Betonbauer-, Stahlbetonbauer- oder Zimmererhandwerks und die staatlich geprüften Technikerinnen und Techniker der Fachrichtung Bautechnik."
+        }
+      ],
+      "top_score": 0.7598
+    },
+    {
+      "id": "Q11",
+      "query": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.8164,
+          "text_preview": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "text_full": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen",
+          "score": 0.7722,
+          "text_preview": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an das Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammb",
+          "text_full": "§ 27 Allgemeine Anforderungen an das Brandverhalten von Baustoffen und Bauteilen\n(1) Baustoffe werden nach den Anforderungen an das Brandverhalten unterschieden in\n1. nichtbrennbare,\n2. schwerentflammbare,\n3. normalentflammbare. Baustoffe, die nicht mindestens normalentflammbar sind (leichtentflammbare Baustoffe), dürfen nicht verwendet werden; dies gilt nicht für Baustoffe, wenn sie in Verbindung mit anderen Baustoffen nicht leichtentflammbar sind.\n(2) Bauteile werden nach den Anforderungen an ihre Feuerwiderstandsfähigkeit unterschieden in\n1. feuerbeständige,\n2. hochfeuerhemmende,\n3. feuerhemmende; die Feuerwiderstandsfähigkeit bezieht sich bei tragenden und aussteifenden Bauteilen auf deren Standsicherheit im Brandfall, bei raumabschließenden Bauteilen auf deren Widerstand gegen die Brandausbreitung. Bauteile werden zusätzlich nach den Anforderungen an das Brandverhalten ihrer Baustoffe unterschieden in\n1. Bauteile aus nichtbrennbaren Baustoffen,\n2. Bauteile, deren tragende und aussteifende Teile aus nichtbrennbaren Baustoffen bestehen und die bei raumabschließenden Bauteilen zusätzlich eine in Bauteilebene durchgehende Schicht aus nichtbrennbaren Baustoffen haben,\n3."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 32 Dächer",
+          "score": 0.7685,
+          "text_preview": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn d",
+          "text_full": "§ 32 Dächer\n(1) Bedachungen müssen gegen eine Brandbeanspruchung von außen durch Flugfeuer und strahlende Wärme ausreichend lang widerstandsfähig sein (harte Bedachung).\n(2) Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, sind zulässig bei Gebäuden der Gebäudeklassen 1 bis 3, wenn die Gebäude\n1. einen Abstand von der Grundstücksgrenze von mindestens 12 m,\n2. von Gebäuden auf demselben Grundstück mit harter Bedachung einen Abstand von mindestens 15 m,\n3. von Gebäuden auf demselben Grundstück mit Bedachungen, die die Anforderungen nach Absatz 1 nicht erfüllen, einen Abstand von mindestens 24 m,\n4. von Gebäuden auf demselben Grundstück ohne Aufenthaltsräume und ohne Feuerstätten mit nicht mehr als 50 m³ Brutto-Rauminhalt einen Abstand von mindestens 5 m einhalten. Soweit Gebäude nach Satz 1 Abstand halten müssen, genügt bei Wohngebäuden der Gebäudeklassen 1 und 2 in den Fällen\n1. der Nummer 1 ein Abstand von mindestens 6 m,\n2. der Nummer 2 ein Abstand von mindestens 9 m,\n3. der Nummer 3 ein Abstand von mindestens 12 m. 2130-1 21\n(3) Die Absätze 1 und 2 gelten nicht für\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 26 Besondere Sachkunde- und Sorgfaltsanforderungen",
+          "score": 0.768,
+          "text_preview": "§ 26 Besondere Sachkunde- und Sorgfaltsanforderungen\nAbschnitt 3 Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer",
+          "text_full": "§ 26 Besondere Sachkunde- und Sorgfaltsanforderungen\nAbschnitt 3 Brandverhalten von Baustoffen und Bauteilen; Wände, Decken, Dächer"
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 31 Decken",
+          "score": 0.751,
+          "text_preview": "§ 31 Decken\n(1) Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemm",
+          "text_full": "§ 31 Decken\n(1) Decken müssen als tragende und raumabschließende Bauteile zwischen Geschossen im Brandfall ausreichend lang standsicher und widerstandsfähig gegen die Brandausbreitung sein. Sie müssen\n1. in Gebäuden der Gebäudeklasse 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklasse 4 hochfeuerhemmend,\n3. in Gebäuden der Gebäudeklassen 2 und 3 feuerhemmend sein. Satz 2 gilt\n1. für Geschosse im Dachraum nur, wenn darüber Aufenthaltsräume möglich sind; § 29 Abs. 4 bleibt unberührt,\n2. nicht für Balkone, ausgenommen offene Gänge, die als notwendige Flure dienen.\n(2) Im Kellergeschoss müssen Decken\n1. in Gebäuden der Gebäudeklassen 3 bis 5 feuerbeständig,\n2. in Gebäuden der Gebäudeklassen 1 und 2 feuerhemmend sein. Decken müssen feuerbeständig sein\n1. unter und über Räumen mit Explosions- oder erhöhter Brandgefahr, ausgenommen in Wohngebäuden der Gebäudeklassen 1 und 2,\n2. zwischen dem landwirtschaftlich genutzten Teil und dem Wohnteil eines Gebäudes.\n(3) Der Anschluss der Decken an die Außenwand ist so herzustellen, dass er den Anforderungen aus Absatz 1 Satz 1 genügt."
+        }
+      ],
+      "top_score": 0.8164
+    },
+    {
+      "id": "Q12",
+      "query": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 21,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.7744,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürlic",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürliche Geländeoberfläche auf dem Baugrundstück.\n(8) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(9) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen auf Grundstücken dienen. Garagen sind ganz oder teilweise umschlossene Räume zum Abstellen von Kraftfahrzeugen und überdachte Stellplätze. Ausstellungs-, Verkaufs-, Werk- und Lagerplätze und -räume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(10) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 85 Örtliche Bauvorschriften",
+          "score": 0.7708,
+          "text_preview": "§ 85 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung Örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern; dabei können sich die Vorschriften",
+          "text_full": "§ 85 Örtliche Bauvorschriften\n(1) Die Gemeinden können durch Satzung Örtliche Bauvorschriften erlassen über\n1. besondere Anforderungen an die äußere Gestaltung baulicher Anlagen sowie von Werbeanlagen und Warenautomaten zur Erhaltung und Gestaltung von Ortsbildern; dabei können sich die Vorschriften auch auf deren Art, Größe und Anbringungsort erstrecken,\n2. das Verbot von Werbeanlagen und Warenautomaten aus ortsgestalterischen Gründen,\n3. die Gestaltung, Begrünung und Bepflanzung der Gemeinschaftsanlagen, der Lagerplätze, der Stellplätze und der Abstellplätze für Fahrräder, der Standplätze für Abfall- und Wertstoffbehälter, der unbebauten Flächen der bebauten Grundstücke, die Begrünung baulicher Anlagen, der Spielplätze sowie der Camping-, Zelt- und Wochenendplätze; dabei kann bestimmt werden, dass Vorgärten nicht als Stellplätze, als Abstell- oder als Lagerplätze oder als Arbeitsflächen hergerichtet oder benutzt werden dürfen,\n4. die Verpflichtung zur Herstellung, das Verbot der Herstellung sowie über Art, Höhe und Gestaltung von Einfriedungen,\n5."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 46 Wohnungen",
+          "score": 0.766,
+          "text_preview": "Die Sicherstellung der Betriebsbereitschaft obliegt den unmittelbaren Besitzerinnen und Besitzern, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind",
+          "text_full": "Die Sicherstellung der Betriebsbereitschaft obliegt den unmittelbaren Besitzerinnen und Besitzern, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.\n(5) Werden Nutzungseinheiten mit Aufenthaltsräumen in rechtmäßig bestehenden Gebäuden in Wohnraum umgenutzt, sind auf bestehende Gebäude und Bauteile die §§ 7, 28 und 30 bis 32 nicht anzuwenden.\n(6) Fallen rechtmäßig bestehende Gebäude aufgrund eines nachträglichen Ausbaus des Dachgeschosses oder einer Aufstockung zu Wohnzwecken nach § 2 Absatz 3 Satz 1 in die Gebäudeklasse 4, so sind für die bestehende Gebäudekonstruktion die Anforderungen an den Feuerwiderstand der tragenden und aussteifenden sowie raumabschließenden Bauteile der Gebäudeklasse 3 ausreichend, wenn\n1. Nutzungseinheiten, die nicht zu ebener Erde liegen, Rettungswege nach § 33 Absatz 2 Satz 1 und 2 haben,\n2. die Türen vom notwendigen Treppenraum zu Kellergeschossen mindestens feuerhemmend, rauchdicht und selbstschließend sind,\n3. der notwendige Treppenraum nach § 35 Absatz 8 entraucht werden kann und\n4."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 67 Bautechnische Nachweise",
+          "score": 0.7646,
+          "text_preview": "(4) Der Standsicherheitsnachweis muss bauaufsichtlich geprüft oder durch eine Prüfsachverständige oder einen Prüfsachverständigen im Sinne der Rechtsverordnung aufgrund des § 86 Abs. 3 bescheinigt sein bei\n1. Sonderbauten und Gebäuden der Gebäudeklassen 4 und 5,\n2. folgenden baulichen Anlagen, wenn ",
+          "text_full": "(4) Der Standsicherheitsnachweis muss bauaufsichtlich geprüft oder durch eine Prüfsachverständige oder einen Prüfsachverständigen im Sinne der Rechtsverordnung aufgrund des § 86 Abs. 3 bescheinigt sein bei\n1. Sonderbauten und Gebäuden der Gebäudeklassen 4 und 5,\n2. folgenden baulichen Anlagen, wenn dies nach Maßgabe eines in der Rechtsverordnung aufgrund des § 86 Abs. 2 geregelten Kriterienkatalogs erforderlich ist:\na) Gebäude der Gebäudeklassen 1 bis 3, ausgenommen Wohngebäude der Gebäudeklassen 1 und 2 und ihre Nebengebäude,\nb) Behälter, Brücken, Stützmauern und Tribünen,\nc) sonstige bauliche Anlagen, die keine Gebäude sind, mit einer Höhe von mehr als 10 m,\nd) Fundamente für Windenergieanlagen mit einer Höhe von mehr als 10 m, deren weitere Bestandteile dem Anwendungsbereich der Richtlinie 2006/42/EG unterliegen. Der Brandschutznachweis muss bauaufsichtlich geprüft oder durch eine Prüfsachverständige oder einen Prüfsachverständigen im Sinne der Rechtsverordnung aufgrund des § 86 Abs. 3 bescheinigt sein bei 12 IngG vgl. BS-Nr. 714-2. 2130-1 42\n1. Gebäuden der Gebäudeklasse 5 und Sonderbauten,\n2."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7518,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen. 2130-1 11\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen. 2130-1 11\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen und mit Warnzeichen zu versehen, soweit erforderlich ein Bauzaun zu errichten und dieser mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Öffentliche Verkehrsflächen, Versorgungs-, Abwasser- und Meldeanlagen sowie Gewässermessstellen, Vermessungszeichen, Abmarkungs- und Grenzzeichen sind für die Dauer der Bauausführung zu schützen und, soweit erforderlich, unter den notwendigen Sicherheitsvorkehrungen zugänglich zu halten."
+        }
+      ],
+      "top_score": 0.7744
+    },
+    {
+      "id": "Q13",
+      "query": "Wann ist ein Bauvorhaben verfahrensfrei?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 79 Bauzustandsbesichtigung, Aufnahme der Nutzung 14 SVermKatG vgl. BS-Nr. 219-2. 2130-1 49",
+          "score": 0.7436,
+          "text_preview": "§ 79 Bauzustandsbesichtigung, Aufnahme der Nutzung 14 SVermKatG vgl. BS-Nr. 219-2. 2130-1 49\n(1) Die Fertigstellung des Rohbaus und die abschließende Fertigstellung nicht verfahrensfreier baulicher Anlagen sind der Bauaufsichtsbehörde von der Bauherrin oder vom Bauherrn jeweils zwei Wochen vorher an",
+          "text_full": "§ 79 Bauzustandsbesichtigung, Aufnahme der Nutzung 14 SVermKatG vgl. BS-Nr. 219-2. 2130-1 49\n(1) Die Fertigstellung des Rohbaus und die abschließende Fertigstellung nicht verfahrensfreier baulicher Anlagen sind der Bauaufsichtsbehörde von der Bauherrin oder vom Bauherrn jeweils zwei Wochen vorher anzuzeigen, um der Bauaufsichtsbehörde eine Besichtigung des Bauzustands zu ermöglichen. Der Rohbau ist fertiggestellt, wenn die tragenden Teile, Abgasanlagen, Brandwände, notwendigen Treppen und die Dachkonstruktion vollendet sind. Zur Besichtigung des Rohbaus sind die Bauteile, die für die Standsicherheit und, soweit möglich, die Bauteile, die für die Feuersicherheit, den Wärme- und den Schallschutz sowie für die Abwasserbeseitigung wesentlich sind, derart offen zu halten, dass Maße und Ausführungsart geprüft werden können. Die abschließende Fertigstellung umfasst auch die Fertigstellung der Wasserversorgungs- und Abwasserbeseitigungsanlagen. Die Bauherrin oder der Bauherr hat für die Besichtigungen und die damit verbundenen möglichen Prüfungen die erforderlichen Arbeitskräfte und Geräte bereitzustellen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 70 Behandlung des Bauantrags",
+          "score": 0.7301,
+          "text_preview": "§ 70 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hat den Bauantrag binnen 30 Tagen nach Eingang auf seine Vollständigkeit zu prüfen. Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde die Bauher2130-1 43 rin oder den Bauherrn zur B",
+          "text_full": "§ 70 Behandlung des Bauantrags\n(1) Die Bauaufsichtsbehörde hat den Bauantrag binnen 30 Tagen nach Eingang auf seine Vollständigkeit zu prüfen. Ist der Bauantrag unvollständig oder weist er sonstige erhebliche Mängel auf, fordert die Bauaufsichtsbehörde die Bauher2130-1 43 rin oder den Bauherrn zur Behebung der Mängel innerhalb angemessener Frist auf. Werden die Mängel innerhalb der Frist nach Satz 2 nicht behoben, gilt der Antrag als zurückgenommen. Der Bauantrag gilt als vollständig, wenn die Bauaufsichtsbehörde die Bauherrin oder den Bauherrn nicht innerhalb der Frist nach Satz 1 zur Behebung der Mängel aufgefordert hat. Ist der Bauantrag vollständig, so hat die Bauaufsichtsbehörde die Bauherrin oder den Bauherrn hierüber unter Angabe des Datums der Vollständigkeit zu unterrichten.\n(2) Ist die Erteilung der Baugenehmigung von der Gestattung oder dem Einvernehmen einer anderen Behörde abhängig oder muss über das Vorhaben im Benehmen mit einer anderen Behörde entschieden werden, so holt die Bauaufsichtsbehörde die Entscheidung der anderen Behörde ein."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 74 Geltungsdauer der Genehmigung",
+          "score": 0.6844,
+          "text_preview": "§ 74 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Bekanntgabe mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung ein Jahr unterbrochen worden ist. Die Einlegung eines Rechtsbehelfs hemmt de",
+          "text_full": "§ 74 Geltungsdauer der Genehmigung\n(1) Die Baugenehmigung und die Teilbaugenehmigung erlöschen, wenn innerhalb von drei Jahren nach ihrer Bekanntgabe mit der Ausführung des Bauvorhabens nicht begonnen oder die Bauausführung ein Jahr unterbrochen worden ist. Die Einlegung eines Rechtsbehelfs hemmt den Lauf der Frist bis zur Unanfechtbarkeit der Baugenehmigung.\n(2) Die Frist nach Absatz 1 kann auf in Textform gestellten Antrag jeweils bis zu einem Jahr verlängert werden. Sie kann auch rückwirkend verlängert werden, wenn der Antrag vor Fristablauf bei der Bauaufsichtsbehörde eingegangen ist."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 63 Genehmigungsfreistellung",
+          "score": 0.6787,
+          "text_preview": "1 Satz 2 des Baugesetzbuchs, sind der Bauherrin oder dem Bauherrn die eingereichten Unterlagen zurückzugeben. Will die Bauherrin oder der Bauherr mit der Ausführung des Vorhabens mehr als drei Jahre, nachdem die Bauausführung nach Satz 2 oder 3zulässig geworden ist, beginnen, ist das Verfahren nach ",
+          "text_full": "1 Satz 2 des Baugesetzbuchs, sind der Bauherrin oder dem Bauherrn die eingereichten Unterlagen zurückzugeben. Will die Bauherrin oder der Bauherr mit der Ausführung des Vorhabens mehr als drei Jahre, nachdem die Bauausführung nach Satz 2 oder 3zulässig geworden ist, beginnen, ist das Verfahren nach den Sätzen 1 bis 4 zu wiederholen.\n(5) Die Erklärung der Gemeinde nach Absatz 2 Nr. 4 kann insbesondere deshalb erfolgen, weil die Gemeinde eine Überprüfung der sonstigen Voraussetzungen des Absatzes 2 oder des Bauvorhabens aus anderen Gründen für erforderlich hält. Darauf, dass die Gemeinde von ihrer Erklärungsmöglichkeit keinen Gebrauch macht, besteht kein Rechtsanspruch. Erklärt die Gemeinde, dass das vereinfachte Baugenehmigungsverfahren durchgeführt werden soll, hat sie dem Bauherrn die vorgelegten Unterlagen zurückzugeben. Hat der Bauherr bei der Einreichung der Unterlagen bestimmt, dass diese im Fall der Erklärung nach Absatz 2 Nummer 4 als Bauantrag zu behandeln sind, leitet die Gemeinde die Unterlagen gleichzeitig mit der Erklärung an die Bauaufsichtsbehörde weiter.\n(6) § 67 bleibt unberührt. §§ 69 Abs. 2 Satz 1 und 70 Abs. 4 sowie § 73 Abs. 6 Nr. 2, Abs."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 81 Einstellung von Arbeiten",
+          "score": 0.6754,
+          "text_preview": "2130-1 50\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle, die Anlage oder einzelne Teile derselben versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmitte",
+          "text_full": "2130-1 50\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle, die Anlage oder einzelne Teile derselben versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen. Satz 1 gilt auch, wenn nach Erlass eines unanfechtbaren oder eines für sofort vollziehbar erklärten Benutzungsverbots die verbotene Nutzung fortgesetzt wird."
+        }
+      ],
+      "top_score": 0.7436
+    },
+    {
+      "id": "Q14",
+      "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 73 Baugenehmigung, Baubeginn",
+          "score": 0.7352,
+          "text_preview": "(3) Bauliche Anlagen, die nur auf beschränkte Zeit errichtet werden können oder sollen, können widerruflich oder befristet genehmigt werden. Die Genehmigung soll nur erteilt werden, wenn gesichert ist, dass die Anlage nach Widerruf oder nach Fristablauf beseitigt wird. Nach Widerruf oder nach Frista",
+          "text_full": "(3) Bauliche Anlagen, die nur auf beschränkte Zeit errichtet werden können oder sollen, können widerruflich oder befristet genehmigt werden. Die Genehmigung soll nur erteilt werden, wenn gesichert ist, dass die Anlage nach Widerruf oder nach Fristablauf beseitigt wird. Nach Widerruf oder nach Fristablauf ist die Anlage ohne Entschädigung zu beseitigen; ein ordnungsgemäßer Zustand ist herzustellen.\n(4) Die Baugenehmigung wird unbeschadet privater Rechte Dritter erteilt.\n(5) Die Gemeinde ist, wenn sie nicht Bauaufsichtsbehörde ist, von der Erteilung, Verlängerung, Ablehnung, Rücknahme und dem Widerruf einer Baugenehmigung sowie dem Ablauf der Frist nach § 64 Abs. 3 Satz 5 zu unterrichten. Wird die Baugenehmigung erteilt, so ist der Gemeinde die Entscheidung der Bauaufsichtsbehörde durch eine Übermittlung des Bescheids, einschließlich der mit einem Genehmigungsvermerk versehenen Bauvorlagen, zur Kenntnis zu geben; im Fall des § 64 Abs. 3 Satz 5 sind nur die Bauvorlagen zu übersenden.\n(6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 73 Baugenehmigung, Baubeginn",
+          "score": 0.7232,
+          "text_preview": "§ 73 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Vorhaben gegen öffentli",
+          "text_full": "§ 73 Baugenehmigung, Baubeginn\n(1) Die Baugenehmigung ist zu erteilen, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen, die im bauaufsichtlichen Genehmigungsverfahren zu prüfen sind; die Bauaufsichtsbehörde darf den Bauantrag auch ablehnen, wenn das Vorhaben gegen öffentlich-rechtliche Vorschriften verstößt, die im bauaufsichtlichen Genehmigungsverfahren nicht zu prüfen sind. Die durch eine Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Umweltauswirkungen sind nach Maßgabe der hierfür geltenden Vorschriften zu berücksichtigen.\n(2) Die Baugenehmigung bedarf der Schriftform (Bauschein). Sie und ihre Nebenbestimmungen müssen nur insoweit begründet werden, als nach § 71 Abs. 1 oder 5 fristgerecht erhobenen Einwendungen nicht entsprochen wird; § 71 Abs. 6 dieses Gesetzes und § 1 des Saarländischen Verwaltungsverfahrensgesetzes in Verbindung mit § 39 Abs. 2 Nr. 2 des Verwaltungsverfahrensgesetzes bleiben unberührt. Der Baugenehmigung sind die mit einem Genehmigungsvermerk versehenen Bauvorlagen beizufügen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 81 Einstellung von Arbeiten",
+          "score": 0.7161,
+          "text_preview": "2130-1 50\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle, die Anlage oder einzelne Teile derselben versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmitte",
+          "text_full": "2130-1 50\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle, die Anlage oder einzelne Teile derselben versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen. Satz 1 gilt auch, wenn nach Erlass eines unanfechtbaren oder eines für sofort vollziehbar erklärten Benutzungsverbots die verbotene Nutzung fortgesetzt wird."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 17a Bauarten",
+          "score": 0.7156,
+          "text_preview": "2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Abs. 1 Nr. 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) Bauarten bedürfen einer Bestätigung ihrer Überei",
+          "text_full": "2 gilt entsprechend.\n(4) Wenn Gefahren im Sinne des § 3 Abs. 1 Nr. 1 nicht zu erwarten sind, kann die oberste Bauaufsichtsbehörde im Einzelfall oder für genau begrenzte Fälle allgemein festlegen, dass eine Bauartgenehmigung nicht erforderlich ist.\n(5) Bauarten bedürfen einer Bestätigung ihrer Übereinstimmung mit den Technischen Baubestimmungen nach § 86a Abs. 2, den allgemeinen Bauartgenehmigungen, den allgemeinen bauaufsichtlichen Prüfzeugnissen für Bauarten oder den vorhabenbezogenen Bauartgenehmigungen; als Übereinstimmung gilt auch eine Abweichung, die nicht wesentlich ist. § 22 Abs. 2 gilt für die Anwenderin oder den Anwender der Bauart entsprechend.\n(6) Bei Bauarten, deren Anwendung in außergewöhnlichem Maß von der Sachkunde und Erfahrung der damit betrauten Personen oder von einer Ausstattung mit besonderen Vorrichtungen abhängt, kann in der Bauartgenehmigung oder durch Rechtsverordnung der obersten Bauaufsichtsbehörde vorgeschrieben werden, dass die Anwenderin oder der Anwender über solche Fachkräfte und Vorrichtungen verfügt und den Nachweis hierüber gegenüber einer Prüfstelle nach § 25 Satz 1 Nr. 6 zu erbringen hat."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 83 Baulasten",
+          "score": 0.6959,
+          "text_preview": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Die Baulasten sind in ein Verzeichnis (Baulastenverzeichnis) einzutragen, das von der Bauaufsichtsbehörde geführt wird. In das Baulastenverzeichnis sind auch einzutragen\n1. andere baurechtliche Verpflichtungen der Gr",
+          "text_full": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Die Baulasten sind in ein Verzeichnis (Baulastenverzeichnis) einzutragen, das von der Bauaufsichtsbehörde geführt wird. In das Baulastenverzeichnis sind auch einzutragen\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen, Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte, soweit ein öffentliches Interesse an der Eintragung besteht,\n2. andere öffentlich-rechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen, soweit eine Rechtsvorschrift die Eintragung verlangt.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen lassen."
+        }
+      ],
+      "top_score": 0.7352
+    },
+    {
+      "id": "Q15",
+      "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 20,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 82 Beseitigung von Anlagen, Nutzungsuntersagung",
+          "score": 0.7812,
+          "text_preview": "§ 82 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde ihre teilweise oder vollständige Beseitigung anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden ",
+          "text_full": "§ 82 Beseitigung von Anlagen, Nutzungsuntersagung\n(1) Werden Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften errichtet oder geändert, kann die Bauaufsichtsbehörde ihre teilweise oder vollständige Beseitigung anordnen, wenn nicht auf andere Weise rechtmäßige Zustände hergestellt werden können.\n(2) Werden die in Absatz 1 genannten Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden.\n(3) Die Bauaufsichtsbehörde kann verlangen, dass Bauvorlagen eingereicht werden oder ein Bauantrag gestellt wird.\nAbschnitt 6 Baulasten, Datenschutz"
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 81 Einstellung von Arbeiten",
+          "score": 0.7514,
+          "text_preview": "2130-1 50\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle, die Anlage oder einzelne Teile derselben versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmitte",
+          "text_full": "2130-1 50\n(2) Werden unzulässige Arbeiten trotz einer schriftlich oder mündlich verfügten Einstellung fortgesetzt, so kann die Bauaufsichtsbehörde die Baustelle, die Anlage oder einzelne Teile derselben versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam bringen. Satz 1 gilt auch, wenn nach Erlass eines unanfechtbaren oder eines für sofort vollziehbar erklärten Benutzungsverbots die verbotene Nutzung fortgesetzt wird."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 11 Baustelle",
+          "score": 0.7404,
+          "text_preview": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen. 2130-1 11\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die",
+          "text_full": "§ 11 Baustelle\n(1) Baustellen sind so einzurichten, dass die baulichen Anlagen ordnungsgemäß errichtet, geändert oder abgebrochen werden können und Gefahren oder vermeidbare Belästigungen nicht entstehen. 2130-1 11\n(2) Bei Bauarbeiten, durch die unbeteiligte Personen gefährdet werden können, ist die Gefahrenzone abzugrenzen und mit Warnzeichen zu versehen, soweit erforderlich ein Bauzaun zu errichten und dieser mit Schutzvorrichtungen gegen herabfallende Gegenstände zu versehen und zu beleuchten.\n(3) Öffentliche Verkehrsflächen, Versorgungs-, Abwasser- und Meldeanlagen sowie Gewässermessstellen, Vermessungszeichen, Abmarkungs- und Grenzzeichen sind für die Dauer der Bauausführung zu schützen und, soweit erforderlich, unter den notwendigen Sicherheitsvorkehrungen zugänglich zu halten."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 83 Baulasten",
+          "score": 0.7391,
+          "text_preview": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Die Baulasten sind in ein Verzeichnis (Baulastenverzeichnis) einzutragen, das von der Bauaufsichtsbehörde geführt wird. In das Baulastenverzeichnis sind auch einzutragen\n1. andere baurechtliche Verpflichtungen der Gr",
+          "text_full": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Die Baulasten sind in ein Verzeichnis (Baulastenverzeichnis) einzutragen, das von der Bauaufsichtsbehörde geführt wird. In das Baulastenverzeichnis sind auch einzutragen\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen, Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte, soweit ein öffentliches Interesse an der Eintragung besteht,\n2. andere öffentlich-rechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen, soweit eine Rechtsvorschrift die Eintragung verlangt.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen lassen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 73 Baugenehmigung, Baubeginn",
+          "score": 0.7359,
+          "text_preview": "(3) Bauliche Anlagen, die nur auf beschränkte Zeit errichtet werden können oder sollen, können widerruflich oder befristet genehmigt werden. Die Genehmigung soll nur erteilt werden, wenn gesichert ist, dass die Anlage nach Widerruf oder nach Fristablauf beseitigt wird. Nach Widerruf oder nach Frista",
+          "text_full": "(3) Bauliche Anlagen, die nur auf beschränkte Zeit errichtet werden können oder sollen, können widerruflich oder befristet genehmigt werden. Die Genehmigung soll nur erteilt werden, wenn gesichert ist, dass die Anlage nach Widerruf oder nach Fristablauf beseitigt wird. Nach Widerruf oder nach Fristablauf ist die Anlage ohne Entschädigung zu beseitigen; ein ordnungsgemäßer Zustand ist herzustellen.\n(4) Die Baugenehmigung wird unbeschadet privater Rechte Dritter erteilt.\n(5) Die Gemeinde ist, wenn sie nicht Bauaufsichtsbehörde ist, von der Erteilung, Verlängerung, Ablehnung, Rücknahme und dem Widerruf einer Baugenehmigung sowie dem Ablauf der Frist nach § 64 Abs. 3 Satz 5 zu unterrichten. Wird die Baugenehmigung erteilt, so ist der Gemeinde die Entscheidung der Bauaufsichtsbehörde durch eine Übermittlung des Bescheids, einschließlich der mit einem Genehmigungsvermerk versehenen Bauvorlagen, zur Kenntnis zu geben; im Fall des § 64 Abs. 3 Satz 5 sind nur die Bauvorlagen zu übersenden.\n(6) Mit der Bauausführung oder mit der Ausführung des jeweiligen Bauabschnitts darf erst begonnen werden, wenn\n1."
+        }
+      ],
+      "top_score": 0.7812
+    },
+    {
+      "id": "Q16",
+      "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
+      "type": "Exception/Procedure",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 24,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 83 Baulasten",
+          "score": 0.7176,
+          "text_preview": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Die Baulasten sind in ein Verzeichnis (Baulastenverzeichnis) einzutragen, das von der Bauaufsichtsbehörde geführt wird. In das Baulastenverzeichnis sind auch einzutragen\n1. andere baurechtliche Verpflichtungen der Gr",
+          "text_full": "Der Verzicht wird mit der Löschung der Baulast im Baulastenverzeichnis wirksam.\n(4) Die Baulasten sind in ein Verzeichnis (Baulastenverzeichnis) einzutragen, das von der Bauaufsichtsbehörde geführt wird. In das Baulastenverzeichnis sind auch einzutragen\n1. andere baurechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen, Auflagen, Bedingungen, Befristungen und Widerrufsvorbehalte, soweit ein öffentliches Interesse an der Eintragung besteht,\n2. andere öffentlich-rechtliche Verpflichtungen der Grundstückseigentümerin oder des Grundstückseigentümers zu einem ihr oder sein Grundstück betreffenden Tun, Dulden oder Unterlassen, soweit eine Rechtsvorschrift die Eintragung verlangt.\n(5) Wer ein berechtigtes Interesse darlegt, kann in das Baulastenverzeichnis Einsicht nehmen und sich einen Auszug erstellen lassen."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 86 Verordnungsermächtigungen",
+          "score": 0.7139,
+          "text_preview": "§ 86 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3 Abs. 1 Nr. 1, § 17a Abs. 1 und § 17b Abs. 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen in den §§ 4",
+          "text_full": "§ 86 Verordnungsermächtigungen\n(1) Zur Verwirklichung der in § 3 Abs. 1 Nr. 1, § 17a Abs. 1 und § 17b Abs. 1 bezeichneten Anforderungen wird die oberste Bauaufsichtsbehörde ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. die nähere Bestimmung allgemeiner Anforderungen in den §§ 4 bis 17, 27 bis 46,\n2. Anforderungen an Feuerungsanlagen, sonstige Anlagen zur Wärmeerzeugung und Energiebereitstellung (§ 41),\n3. Anforderungen an Stellplätze und Garagen (§ 2 Abs. 9),\n4. besondere Anforderungen oder Erleichterungen, die sich aus der besonderen Art oder Nutzung der baulichen Anlagen für Errichtung, Änderung, Unterhaltung, Betrieb oder Benutzung ergeben (§§ 50 und 51), sowie über die Anwendung solcher Anforderungen auf bestehende bauliche Anlagen dieser Art,\n5. Erst-, Wiederholungs- und Nachprüfungen von Anlagen, die zur Verhütung erheblicher Gefahren oder Nachteile ständig ordnungsgemäß unterhalten werden müssen, und die Erstreckung dieser Nachprüfungspflicht auf bestehende Anlagen,\n6."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 86 Verordnungsermächtigungen",
+          "score": 0.7135,
+          "text_preview": "die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen, wie Bühnenbetriebe und technisch schwierige Fliegende Bauten, einschließlich des Nachweises der Befähigung.\n(2) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung Vorsch",
+          "text_full": "die Anwesenheit fachkundiger Personen beim Betrieb technisch schwieriger baulicher Anlagen und Einrichtungen, wie Bühnenbetriebe und technisch schwierige Fliegende Bauten, einschließlich des Nachweises der Befähigung.\n(2) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1. Form, Umfang, Inhalt und Zahl der erforderlichen Unterlagen einschließlich der Vorlagen bei der Anzeige der beabsichtigten Beseitigung von Anlagen nach § 61 Abs. 4 Satz 2 und bei der Genehmigungsfreistellung nach § 63,\n2. die erforderlichen Anträge, Anzeigen, Nachweise, Bescheinigungen, Bestätigungen, Erklärungen und Anordnungen, einschließlich deren Formerfordernissen auch bei verfahrensfreien Vorhaben,\n3. soweit erforderlich, das Verfahren im Einzelnen. Sie kann dabei\n1. die Art der Übermittlung,\n2. für verschiedene Arten von Bauvorhaben unterschiedliche Anforderungen und Verfahren,\n3. den Gebrauch der von der obersten Bauaufsichtsbehörde veröffentlichten Formulare vorschreiben.\n(3) Die oberste Bauaufsichtsbehörde wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über\n1."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 86a Abs. 1 Satz 3 bleibt unberührt.",
+          "score": 0.7048,
+          "text_preview": "3 vorlegt, aus der sich ergibt, dass die bauaufsichtlichen Anforderungen auch unter Berücksichtigung von Abweichungen erfüllt sind. Satz 1 gilt nicht, soweit Abweichungen von Bestimmungen bezüglich des Brandschutzes erforderlich sind, die auch öffentlich-rechtlich geschützte nachbarliche Belange ber",
+          "text_full": "3 vorlegt, aus der sich ergibt, dass die bauaufsichtlichen Anforderungen auch unter Berücksichtigung von Abweichungen erfüllt sind. Satz 1 gilt nicht, soweit Abweichungen von Bestimmungen bezüglich des Brandschutzes erforderlich sind, die auch öffentlich-rechtlich geschützte nachbarliche Belange berühren, und die Nachbarschaft nicht zugestimmt hat."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 86 Verordnungsermächtigungen",
+          "score": 0.7003,
+          "text_preview": "Die Befugnisse können auch auf eine Behörde eines anderen Landes übertragen werden, die der Aufsicht einer obersten Bauaufsichtsbehörde untersteht oder an deren Willensbildung die oberste Bauaufsichtsbehörde mitwirkt.\n(5) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung\n1. das Ü-Zeichen f",
+          "text_full": "Die Befugnisse können auch auf eine Behörde eines anderen Landes übertragen werden, die der Aufsicht einer obersten Bauaufsichtsbehörde untersteht oder an deren Willensbildung die oberste Bauaufsichtsbehörde mitwirkt.\n(5) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung\n1. das Ü-Zeichen festlegen und zu diesem Zeichen zusätzliche Angaben verlangen,\n2. das Anerkennungsverfahren nach § 25, die Voraussetzungen für die Anerkennung, ihren Widerruf und ihr Erlöschen regeln, insbesondere auch Altersgrenzen festlegen, sowie eine ausreichende Haftpflichtversicherung fordern,\n3. die Fachaufsicht über die natürlichen oder juristischen Personen und Behörden nach § 25 regeln und\n4. Gebühren und Auslagenersatz für die Tätigkeit der natürlichen oder juristischen Personen nach § 25 regeln.\n(6) Die oberste Bauaufsichtsbehörde kann durch Rechtsverordnung vorschreiben, dass für bestimmte Bauprodukte und Bauarten, auch soweit sie Anforderungen nach anderen Rechtsvorschriften unterliegen, hinsichtlich dieser Anforderungen § 17a Abs. 2 und die §§ 18 bis 26 ganz oder teilweise anwendbar sind, wenn die anderen Rechtsvorschriften dies verlangen oder zulassen."
+        }
+      ],
+      "top_score": 0.7176
+    },
+    {
+      "id": "Q17",
+      "query": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 71,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 7 Abstandsflächen, Abstände",
+          "score": 0.7256,
+          "text_preview": "2130-1 8\n(2) Die Abstandsflächen sowie die Abstände nach § 30 Abs. 2 Satz 1 Nr. 1 und § 32 Abs. 2 Satz 1 Nr. 1 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen liegen, jedoch nur bis zu deren Mitte.\n(3)",
+          "text_full": "2130-1 8\n(2) Die Abstandsflächen sowie die Abstände nach § 30 Abs. 2 Satz 1 Nr. 1 und § 32 Abs. 2 Satz 1 Nr. 1 müssen auf dem Grundstück selbst liegen. Sie dürfen auch auf öffentlichen Verkehrsflächen, öffentlichen Grünflächen und öffentlichen Wasserflächen liegen, jedoch nur bis zu deren Mitte.\n(3) Die Abstandsflächen dürfen sich nicht überdecken; dies gilt nicht für\n1. Außenwände, die in einem Winkel von mehr als 75° zueinander stehen,\n2. Gebäude und andere bauliche Anlagen, die in der Abstandsfläche zulässig sind oder gestattet werden,\n3. Außenwände zu einem fremder Sicht entzogenen Gartenhof bei Wohngebäuden mit nicht mehr als zwei Wohnungen.\n(4) Die Tiefe der Abstandsflächen bemisst sich nach der Wandhöhe; sie wird senkrecht zur Wand gemessen. Als Wandhöhe gilt das Maß von der Geländeoberfläche bis zum Schnittpunkt der Wand mit der Dachhaut oder bis zum oberen Abschluss der Wand. Bei Wänden, die an Giebelflächen grenzen, gilt als oberer Abschluss der Wand die Verbindungslinie der Schnittpunkte nach Satz 2. Bei geneigtem oberem Wandabschluss und bei geneigter Geländeoberfläche ist die im Mittel gemessene Wandhöhe maßgebend."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 2 Begriffe",
+          "score": 0.692,
+          "text_preview": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürlic",
+          "text_full": "Hohlräume zwischen der obersten Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse. 2130-1 6\n(7) Geländeoberfläche ist die sich aus den Festsetzungen einer städtebaulichen Satzung ergebende oder von der Bauaufsichtsbehörde festgelegte, im Übrigen die natürliche Geländeoberfläche auf dem Baugrundstück.\n(8) Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.\n(9) Stellplätze sind Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen auf Grundstücken dienen. Garagen sind ganz oder teilweise umschlossene Räume zum Abstellen von Kraftfahrzeugen und überdachte Stellplätze. Ausstellungs-, Verkaufs-, Werk- und Lagerplätze und -räume für Kraftfahrzeuge sind keine Stellplätze oder Garagen.\n(10) Feuerstätten sind in oder an Gebäuden ortsfest benutzte Anlagen oder Einrichtungen, die dazu bestimmt sind, durch Verbrennung Wärme zu erzeugen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 85 Örtliche Bauvorschriften",
+          "score": 0.6891,
+          "text_preview": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pf",
+          "text_full": "von § 7 abweichende Maße der Abstandsflächentiefe, wenn besondere städtebauliche Gründe dies erfordern oder zur Wahrung der bauhistorischen Bedeutung oder der sonstigen erhaltenswerten Eigenart eines Ortsteils; dabei sind eine ausreichende Belichtung sowie der Brandschutz zu gewährleisten.\n6. die Pflicht zur Anlage und Unterhaltung von Kleinkinderspielplätzen für bestehende Gebäude mit mehr als drei Wohnungen im Gemeindegebiet oder in Teilen davon, wenn dies die Gesundheit oder der Schutz der Kinder erfordert,\n7. die Zahl der notwendigen Stellplätze und Garagen nach Art und Maß der Nutzung unter Berücksichtigung der verkehrlichen, wirtschaftspolitischen oder städtebaulichen Gründe,\n8. das Verbot oder die Einschränkung der Herstellung von Stellplätzen und Garagen, wenn und soweit Gründe des Verkehrs, Festsetzungen einer städtebaulichen Satzung oder sonstige städtebauliche Gründe dies erfordern und die Belange des ruhenden Verkehrs angemessen berücksichtigt werden,\n9. die Höhe des Geldbetrags im Sinne von § 47 Abs. 3,\n10."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 7 Abstandsflächen, Abstände",
+          "score": 0.6736,
+          "text_preview": "§ 7 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden oder vor den Abschnitten von Außenwänden von Gebäuden sind Flächen von oberirdischen Gebäuden sowie von Anlagen nach Absatz 7 freizuhalten (Abstandsflächen). Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstü",
+          "text_full": "§ 7 Abstandsflächen, Abstände\n(1) Vor den Außenwänden von Gebäuden oder vor den Abschnitten von Außenwänden von Gebäuden sind Flächen von oberirdischen Gebäuden sowie von Anlagen nach Absatz 7 freizuhalten (Abstandsflächen). Eine Abstandsfläche ist nicht erforderlich vor Außenwänden, die an Grundstücksgrenzen errichtet werden, wenn nach planungsrechtlichen Vorschriften\n1. das Gebäude ohne Grenzabstand gebaut werden muss oder\n2. das Gebäude ohne Grenzabstand gebaut werden darf und öffentlich-rechtlich gesichert ist, dass auf dem Nachbargrundstück ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften mit Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude ohne Grenzabstand bereits vorhanden, so kann gestattet oder verlangt werden, dass ebenfalls ohne Grenzabstand gebaut wird. Muss nach planungsrechtlichen Vorschriften ohne Grenzabstand gebaut werden, ist aber auf dem Nachbargrundstück innerhalb der überbaubaren Grundstücksfläche ein Gebäude mit Grenzabstand vorhanden, so kann gestattet oder verlangt werden, dass eine Abstandsfläche eingehalten wird."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 8 Erleichterungen von den Anforderungen des § 7",
+          "score": 0.6693,
+          "text_preview": "zur Grundstücksgrenze geneigte Aufschüttungen; das Neigungsverhältnis darf 1 zu 1,5 zur Geländeoberfläche nicht überschreiten. Werden Anlagen nach Satz 1 Nr. 4, 5, 6 und 8 nicht unmittelbar an der Grundstücksgrenze errichtet, müssen sie eine Abstandsfläche von mindestens 1 m Tiefe einhalten; § 7 Abs",
+          "text_full": "zur Grundstücksgrenze geneigte Aufschüttungen; das Neigungsverhältnis darf 1 zu 1,5 zur Geländeoberfläche nicht überschreiten. Werden Anlagen nach Satz 1 Nr. 4, 5, 6 und 8 nicht unmittelbar an der Grundstücksgrenze errichtet, müssen sie eine Abstandsfläche von mindestens 1 m Tiefe einhalten; § 7 Abs. 6 Nr. 1 findet Anwendung. Die Länge der die Abstandsflächentiefe gegenüber den Grundstücksgrenzen nach § 7 nicht einhaltenden Bebauung nach Satz 1 Nr. 4 und 6 darf auf einem Grundstück insgesamt 15 m nicht überschreiten. Anlagen nach Satz 1 Nr. 4 dürfen auch einen Zugang zu einem anderen Gebäude haben und mit diesem im Bereich der Dächer baulich verbunden werden, wenn das andere Gebäude für sich betrachtet die erforderliche Abstandsfläche einhält. Die Anlagen nach Satz 1 Nr. 4 und 5 dürfen eine grenzseitige mittlere Wandhöhe von 3 m über der Geländeoberfläche nicht überschreiten; § 7 Abs. 4 Satz 2 bis 5 findet Anwendung. Diese Höhe übersteigende Dächer und Solaranlagen dürfen zur Grundstücksgrenze nicht mehr als 45o geneigt sein; dies gilt nicht für Solaranlagen, die von der Grundstücksgrenze mindestens 2 m entfernt bleiben. Die Firsthöhe darf nicht mehr als 4 m betragen."
+        }
+      ],
+      "top_score": 0.7256
+    },
+    {
+      "id": "Q18",
+      "query": "Welche Rolle spielen Rettungswege im Brandschutz?",
+      "type": "Cross-concept",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 26,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 15 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines",
+          "score": 0.6966,
+          "text_preview": "§ 15 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten mögli",
+          "text_full": "§ 15 Brandschutz Bauliche Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines\nBrandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.667,
+          "text_preview": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses",
+          "text_full": "§ 33 Erster und zweiter Rettungsweg\n(1) Für Nutzungseinheiten, wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein; beide Rettungswege dürfen jedoch innerhalb des Geschosses über denselben notwendigen Flur führen. Ein zweiter Rettungsweg ist für eingeschossige, zu ebener Erde liegende Nutzungseinheiten nicht erforderlich, wenn im Brandfall die Rettung über einen unmittelbaren Ausgang ins Freie möglich ist.\n(2) Für Nutzungseinheiten nach Absatz 1, die nicht zu ebener Erde liegen, muss der erste Rettungsweg über eine notwendige Treppe führen. Der zweite Rettungsweg kann eine weitere notwendige Treppe oder eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle der Nutzungseinheit sein. Ein zweiter Rettungsweg ist nicht erforderlich, wenn die Rettung über einen sicher erreichbaren Treppenraum möglich ist, in den Feuer und Rauch nicht eindringen können (Sicherheitstreppenraum)."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 6 Zugänge und Zufahrten auf den Grundstücken",
+          "score": 0.6391,
+          "text_preview": "§ 6 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der ",
+          "text_full": "§ 6 Zugänge und Zufahrten auf den Grundstücken\n(1) Von öffentlichen Verkehrsflächen ist insbesondere für die Feuerwehr ein geradliniger Zu- oder Durchgang zu rückwärtigen Gebäuden zu schaffen; zu anderen Gebäuden ist er zu schaffen, wenn der zweite Rettungsweg dieser Gebäude über Rettungsgeräte der Feuerwehr führt. Zu Gebäuden, bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, ist in den Fällen des Satzes 1 anstelle eines Zu- oder Durchgangs eine Zu- oder Durchfahrt zu schaffen. Ist für die Personenrettung der Einsatz von Hubrettungsfahrzeugen erforderlich, so sind die dafür erforderlichen Aufstell- und Bewegungsflächen vorzusehen. Bei Gebäuden, die ganz oder mit Teilen mehr als 50 m von einer öffentlichen Verkehrsfläche entfernt sind, sind Zufahrten oder Durchfahrten nach Satz 2 zu den vor und hinter den Gebäuden gelegenen Grundstücksteilen und Bewegungsflächen herzustellen, wenn sie aus Gründen des Feuerwehreinsatzes erforderlich sind."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 33 Erster und zweiter Rettungsweg",
+          "score": 0.6381,
+          "text_preview": "2130-1 22\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen ",
+          "text_full": "2130-1 22\n(3) Gebäude, deren zweiter Rettungsweg über Rettungsgeräte der Feuerwehr führt und bei denen die Oberkante der Brüstung von zum Anleitern bestimmten Fenstern oder Stellen mehr als 8 m über der Geländeoberfläche liegt, dürfen nur errichtet werden, wenn die Feuerwehr über die erforderlichen Rettungsgeräte, wie Hubrettungsfahrzeuge, verfügt. Bei Sonderbauten ist der zweite Rettungsweg über Rettungsgeräte der Feuerwehr nur zulässig, wenn keine Bedenken wegen der Personenrettung bestehen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 36 Notwendige Flure, offene Gänge",
+          "score": 0.5794,
+          "text_preview": "(3) Notwendige Flure sind durch nicht abschließbare, rauchdichte und selbstschließende Abschlüsse in Rauchabschnitte zu unterteilen. Die Rauchabschnitte dürfen nicht länger als 30 m sein. Rauchabschnitte, über die beide Rettungswege in nur eine Fluchtrichtung (Stichflure) führen oder die zu einem Si",
+          "text_full": "(3) Notwendige Flure sind durch nicht abschließbare, rauchdichte und selbstschließende Abschlüsse in Rauchabschnitte zu unterteilen. Die Rauchabschnitte dürfen nicht länger als 30 m sein. Rauchabschnitte, über die beide Rettungswege in nur eine Fluchtrichtung (Stichflure) führen oder die zu einem Sicherheitstreppenraum führen, dürfen nicht länger als 15 m sein. Die Abschlüsse sind bis an die Rohdecke zu führen; sie dürfen bis an die Unterdecke der Flure geführt werden, wenn die Unterdecke feuerhemmend ist. Die Sätze 1 bis 4 gelten nicht für offene Gänge nach Absatz 5. 2130-1 24\n(4) Die Wände notwendiger Flure müssen als raumabschließende Bauteile feuerhemmend, in Kellergeschossen, deren tragende und aussteifende Bauteile feuerbeständig sein müssen, feuerbeständig sein. Die Wände sind bis an die Rohdecke zu führen. Sie dürfen bis an die Unterdecke der Flure geführt werden, wenn die Unterdecke feuerhemmend und ein demjenigen nach Satz 1 vergleichbarer Raumabschluss sichergestellt ist. Türen in diesen Wänden müssen dicht schließen; Öffnungen zu Lagerbereichen im Kellergeschoss müssen feuerhemmende, dicht- und selbstschließende Abschlüsse haben."
+        }
+      ],
+      "top_score": 0.6966
+    },
+    {
+      "id": "Q19",
+      "query": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
+      "type": "Multi-step",
+      "difficulty": 3,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 23,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 86a Technische Baubestimmungen",
+          "score": 0.6531,
+          "text_preview": "1 auswirken,\nc) Verfahren für die Feststellung der Leistung eines Bauproduktes im Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Abs. 1 Nr. 1 auswirken,\nd) zulässige oder unzulässige besondere Verwendungszwecke,\ne) die Festlegung von Klassen u",
+          "text_full": "1 auswirken,\nc) Verfahren für die Feststellung der Leistung eines Bauproduktes im Hinblick auf Merkmale, die sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Abs. 1 Nr. 1 auswirken,\nd) zulässige oder unzulässige besondere Verwendungszwecke,\ne) die Festlegung von Klassen und Stufen in Bezug auf bestimmte Verwendungszwecke,\nf) die für einen bestimmten Verwendungszweck anzugebende oder erforderliche und anzugebende Leistung in Bezug auf ein Merkmal, das sich für einen Verwendungszweck auf die Erfüllung der Anforderungen nach § 3 Abs. 1 Nr. 1 auswirkt, soweit vorgesehen in Klassen und Stufen,\n4. die Bauarten und die Bauprodukte, die nur eines allgemeinen bauaufsichtlichen Prüfungszeugnisses nach § 17a Abs. 3 oder nach § 20 Abs. 1 bedürfen,\n5. Voraussetzungen zur Abgabe der Übereinstimmungserklärung für ein Bauprodukt nach § 23,\n6. die Art, den Inhalt und die Form technischer Dokumentation. 2130-1 55\n(3) Die Technischen Baubestimmungen sollen nach den Grundanforderungen gemäß Anhang I der Verordnung (EU) Nr. 305/2011 gegliedert sein.\n(4) Die Technischen Baubestimmungen enthalten die in § 18 Abs. 3 genannte Liste."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 17b Allgemeine Anforderungen für die Verwendung von Bauprodukten",
+          "score": 0.6505,
+          "text_preview": "§ 17b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufg",
+          "text_full": "§ 17b Allgemeine Anforderungen für die Verwendung von Bauprodukten\n(1) Bauprodukte dürfen nur verwendet werden, wenn bei ihrer Verwendung die baulichen Anlagen bei ordnungsgemäßer Instandhaltung während einer dem Zweck entsprechenden angemessenen Zeitdauer die Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erfüllen und gebrauchstauglich sind.\n(2) Bauprodukte, die in Vorschriften anderer Vertragsstaaten des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum genannten technischen Anforderungen entsprechen, dürfen verwendet werden, wenn das geforderte Schutzniveau gemäß § 3 Abs. 1 Nr. 1 gleichermaßen dauerhaft erreicht wird."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 18 Verwendbarkeitsnachweise",
+          "score": 0.6288,
+          "text_preview": "§ 18 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 19 bis 21) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 86a Abs. 2 Nr. 3) wesentlich abw",
+          "text_full": "§ 18 Verwendbarkeitsnachweise\n(1) Ein Verwendbarkeitsnachweis (§§ 19 bis 21) ist für ein Bauprodukt erforderlich, wenn\n1. es keine Technische Baubestimmung und keine allgemein anerkannte Regel der Technik gibt,\n2. das Bauprodukt von einer Technischen Baubestimmung (§ 86a Abs. 2 Nr. 3) wesentlich abweicht oder\n3. eine Verordnung nach § 86 Abs. 6 es vorsieht.\n(2) Ein Verwendbarkeitsnachweis ist nicht erforderlich für ein Bauprodukt,\n1. das von einer allgemein anerkannten Regel der Technik abweicht oder\n2. das für die Erfüllung der Anforderungen dieses Gesetzes oder auf Grund dieses Gesetzes nur eine untergeordnete Bedeutung hat.\n(3) Die Technischen Baubestimmungen nach § 86a enthalten eine nicht abschließende Liste von Bauprodukten, die keines Verwendbarkeitsnachweises nach Absatz 1 bedürfen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 77 Fliegende Bauten",
+          "score": 0.6121,
+          "text_preview": "2 einer Ausführungsgenehmigung bedürfen, dürfen unbeschadet anderer Vorschriften nur in Gebrauch genommen werden, wenn ihre Aufstellung der Bauaufsichtsbehörde des Aufstellungsortes unter Vorlage des Prüfbuchs oder unter Angabe der wesentlichen Daten des Fliegenden Baus, insbesondere Angaben zu der ",
+          "text_full": "2 einer Ausführungsgenehmigung bedürfen, dürfen unbeschadet anderer Vorschriften nur in Gebrauch genommen werden, wenn ihre Aufstellung der Bauaufsichtsbehörde des Aufstellungsortes unter Vorlage des Prüfbuchs oder unter Angabe der wesentlichen Daten des Fliegenden Baus, insbesondere Angaben zu der Art des Fliegenden Baus, den Größenabmessungen (Grundfläche, Höhe), der Geltungsdauer der Ausführungsgenehmigung und den Nebenbestimmungen, der geplanten Betriebszeit und der Betreiberin oder dem Betreiber, in Textform rechtzeitig, mindestens sechs Werktage vor Inbetriebnahme, angezeigt ist. Die Bauaufsichtsbehörde kann die Inbetriebnahme dieser Fliegenden Bauten von einer Gebrauchsabnahme abhängig machen. Das Ergebnis der Abnahme oder der Verzicht darauf ist in das Prüfbuch einzutragen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 77 Fliegende Bauten",
+          "score": 0.5886,
+          "text_preview": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Ab2130-1 48 wehr von Gefahren oder nach sonstigen öffentlich-rechtlichen Vorsc",
+          "text_full": "(7) Die für die Erteilung der Gebrauchsabnahme zuständige Bauaufsichtsbehörde kann Auflagen machen oder die Aufstellung oder den Gebrauch Fliegender Bauten untersagen, soweit dies nach den örtlichen Verhältnissen oder zur Ab2130-1 48 wehr von Gefahren oder nach sonstigen öffentlich-rechtlichen Vorschriften erforderlich ist, insbesondere weil die Betriebssicherheit oder Standsicherheit nicht oder nicht mehr gewährleistet ist oder weil von der Ausführungsgenehmigung abgewichen wird.\n(8) Wird die Aufstellung oder der Gebrauch untersagt, so ist dies in das Prüfbuch einzutragen. Die ausstellende Behörde ist zu benachrichtigen, das Prüfbuch ist einzuziehen und der ausstellenden Behörde zuzuleiten, wenn die Herstellung ordnungsgemäßer Zustände innerhalb angemessener Frist nicht zu erwarten ist.\n(9) Bei Fliegenden Bauten, die von Besucherinnen und Besuchern betreten und längere Zeit an einem Aufstellungsort betrieben werden, kann die für die Gebrauchsabnahme zuständige Bauaufsichtsbehörde aus Gründen der Sicherheit Nachabnahmen durchführen. Das Ergebnis der Nachabnahme ist in das Prüfbuch einzutragen.\n(10) Die §§ 69 und 78 Abs. 1 und 5 gelten entsprechend.\nAbschnitt 4 Bauüberwachung"
+        }
+      ],
+      "top_score": 0.6531
+    },
+    {
+      "id": "Q20",
+      "query": "Welche Pflichten hat der Bauherr im Bauprozess?",
+      "type": "Structured",
+      "difficulty": 2,
+      "jurisdiction": "DE-SL",
+      "latency_ms": 22,
+      "chunks": [
+        {
+          "rank": 1,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 53 Bauherrin, Bauherr",
+          "score": 0.8076,
+          "text_preview": "(5) Sind mehrere Bauherrinnen oder Bauherren an einem Bauvorhaben beteiligt, so ist gegenüber der Bauaufsichtsbehörde eine Vertreterin oder ein Vertreter zu bestellen, die oder der für die Erfüllung der der Bauherrin oder dem Bauherrn nach den öffentlich-rechtlichen Vorschriften obliegenden Verpflic",
+          "text_full": "(5) Sind mehrere Bauherrinnen oder Bauherren an einem Bauvorhaben beteiligt, so ist gegenüber der Bauaufsichtsbehörde eine Vertreterin oder ein Vertreter zu bestellen, die oder der für die Erfüllung der der Bauherrin oder dem Bauherrn nach den öffentlich-rechtlichen Vorschriften obliegenden Verpflichtungen zu sorgen hat."
+        },
+        {
+          "rank": 2,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 53 Bauherrin, Bauherr",
+          "score": 0.8003,
+          "text_preview": "§ 53 Bauherrin, Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Vorhabens eine Entwurfsverfasserin oder einen Entwurfsverfasser, Unternehmen und eine Bauleiterin oder einen Bauleiter zu beauftragen, soweit sie oder er nicht sel",
+          "text_full": "§ 53 Bauherrin, Bauherr\n(1) Die Bauherrin oder der Bauherr hat zur Vorbereitung, Überwachung und Ausführung eines nicht verfahrensfreien Vorhabens eine Entwurfsverfasserin oder einen Entwurfsverfasser, Unternehmen und eine Bauleiterin oder einen Bauleiter zu beauftragen, soweit sie oder er nicht selbst zur Erfüllung der Verpflichtungen nach diesem Gesetz geeignet ist, und sie der Bauaufsichtsbehörde zu benennen. Der Bauherrin oder dem Bauherrn obliegen ferner die nach den öffentlich-rechtlichen Vorschriften erforderlichen Anträge, Anzeigen und Nachweise. Die Bauherrin oder der Bauherr hat die zur Erfüllung der Anforderungen dieses Gesetzes oder aufgrund dieses Gesetzes erforderlichen Nachweise und Unterlagen zu den verwendeten Bauprodukten und den angewandten Bauarten bereitzuhalten. Werden Bauprodukte verwendet, die die CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen, ist die Leistungserklärung bereitzuhalten. Satz 1 gilt nicht bei Nutzungsänderungen ohne bauliche Änderungen."
+        },
+        {
+          "rank": 3,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 56 Bauleiterin, Bauleiter",
+          "score": 0.7676,
+          "text_preview": "§ 56 Bauleiterin, Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlichrechtlichen Anforderungen durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren bautechn",
+          "text_full": "§ 56 Bauleiterin, Bauleiter\n(1) Die Bauleiterin oder der Bauleiter hat darüber zu wachen, dass die Baumaßnahme entsprechend den öffentlichrechtlichen Anforderungen durchgeführt wird und die dafür erforderlichen Weisungen zu erteilen. Sie oder er hat im Rahmen dieser Aufgabe auf den sicheren bautechnischen Betrieb der Baustelle, insbesondere auf das gefahrlose Ineinandergreifen der Arbeiten der Unternehmen zu achten. Die Verantwortlichkeit der Unternehmen bleibt unberührt. Verstöße, denen nicht abgeholfen wird, hat sie oder er unverzüglich der Bauaufsichtsbehörde mitzuteilen.\n(2) Die Bauleiterin oder der Bauleiter muss über die für ihre oder seine Aufgabe erforderliche Sachkunde und Erfahrung verfügen. Verfügt die Bauleiterin oder der Bauleiter auf einzelnen Teilgebieten nicht über die erforderliche Sachkunde und Erfahrung, so hat sie oder er dafür zu sorgen, dass geeignete Fachbauleiterinnen oder Fachbauleiter herangezogen werden. Diese treten insoweit an die Stelle der Bauleiterin oder des Bauleiters. Die Bauleiterin oder der Bauleiter hat die Tätigkeit der Fachbauleiterinnen und Fachbauleiter und ihre oder seine Tätigkeit aufeinander abzustimmen."
+        },
+        {
+          "rank": 4,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 53 Bauherrin, Bauherr",
+          "score": 0.7661,
+          "text_preview": "Die Bauherrin oder der Bauherr hat vor Baubeginn den Namen der Bauleiterin oder des Bauleiters und während der Bauausführung einen Wechsel dieser Person unverzüglich der Bauaufsichtsbehörde in Textform mitzuteilen.\n(2) Bei Bauarbeiten, die in Selbst- oder Nachbarschaftshilfe für eigenen Bedarf der B",
+          "text_full": "Die Bauherrin oder der Bauherr hat vor Baubeginn den Namen der Bauleiterin oder des Bauleiters und während der Bauausführung einen Wechsel dieser Person unverzüglich der Bauaufsichtsbehörde in Textform mitzuteilen.\n(2) Bei Bauarbeiten, die in Selbst- oder Nachbarschaftshilfe für eigenen Bedarf der Bauherrin oder des Bauherrn ausgeführt werden, ist die Beauftragung von Unternehmen nicht erforderlich, wenn genügend Fachkräfte mit der nötigen Sachkunde, Erfahrung und Zuverlässigkeit mitwirken. Dies gilt nicht bei der Beseitigung von Anlagen.\n(3) Sind die von der Bauherrin oder vom Bauherrn Beauftragten für ihre Aufgabe nach Sachkunde und Erfahrung nicht geeignet, so kann die Bauaufsichtsbehörde vor und während der Bauausführung verlangen, dass sie durch geeignete Personen ersetzt oder geeignete Sachverständige herangezogen werden. Die Bauaufsichtsbehörde kann die Bauarbeiten einstellen, bis geeignete Personen oder Sachverständige beauftragt sind.\n(4) Wechselt die Bauherrin oder der Bauherr, so hat die neue Bauherrin oder der neue Bauherr dies der Bauaufsichtsbehörde unverzüglich in Textform mitzuteilen."
+        },
+        {
+          "rank": 5,
+          "jurisdiction_label": "Saarland",
+          "jurisdiction": "DE-SL",
+          "source_paragraph": "§ 57 Aufgaben und Befugnisse der Bauaufsichtsbehörden",
+          "score": 0.7582,
+          "text_preview": "§ 57 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die Bauaufsicht ist Aufgabe des Staates.\n(2) Die Bauaufsichtsbehörden haben bei der Errichtung, der Änderung, der Nutzungsänderung, der Beseitigung sowie der Instandhaltung von Anlagen darüber zu wachen, dass die öffentlich-rechtlichen Vorsch",
+          "text_full": "§ 57 Aufgaben und Befugnisse der Bauaufsichtsbehörden\n(1) Die Bauaufsicht ist Aufgabe des Staates.\n(2) Die Bauaufsichtsbehörden haben bei der Errichtung, der Änderung, der Nutzungsänderung, der Beseitigung sowie der Instandhaltung von Anlagen darüber zu wachen, dass die öffentlich-rechtlichen Vorschriften und die auf Grund dieser Vorschriften erlassenen Anordnungen eingehalten werden. Sie haben in Wahrnehmung dieser Aufgaben die nach pflichtgemäßem Ermessen erforderlichen Maßnahmen zu treffen.\n(3) Bei bestandsgeschützten baulichen Anlagen können Anforderungen gestellt werden, wenn dies zur Abwehr von erheblichen Gefahren für Leben und Gesundheit oder von unzumutbaren Belästigungen erforderlich ist.\n(4) Sollen rechtmäßig bestehende bauliche Anlagen, andere Anlagen oder Einrichtungen wesentlich geändert werden, so kann gefordert werden, dass auch die von der Änderung nicht unmittelbar berührten Teile mit diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Vorschriften in Einklang gebracht werden, wenn dies für die Bauherrin oder den Bauherrn keine unzumutbaren Mehrkosten verursacht."
+        }
+      ],
+      "top_score": 0.8076
+    }
+  ]
+}
