@@ -361,6 +361,7 @@ class Retriever:
         query: str,
         k: int = 5,
         jurisdiction: str | None = None,
+        node_types: list[str] | None = None,
     ) -> list[dict]:
         """
         Retrieve top-k chunks most relevant to query.
@@ -370,6 +371,9 @@ class Retriever:
             k:            Number of results to return.
             jurisdiction: Optional ISO 3166-2 filter, e.g. "DE-BW".
                           When set, only chunks from that state are returned.
+            node_types:   Optional list of KG node type hints from goal classification
+                          (e.g. ['abstandsflaeche', 'verfahrensfreies_vorhaben']).
+                          Appended to the query to improve semantic retrieval precision.
 
         Returns:
             List of dicts with keys: chunk_id, jurisdiction,
@@ -377,7 +381,12 @@ class Retriever:
         """
         self._load()
 
-        query_vec = np.array([get_embedding(query)], dtype="float32")
+        # Augment query with node type keywords to steer semantic search
+        effective_query = query
+        if node_types:
+            effective_query = f"{query} {' '.join(node_types)}"
+
+        query_vec = np.array([get_embedding(effective_query)], dtype="float32")
 
         # Over-fetch when filtering by jurisdiction so we still return k results
         fetch_k = k * 50 if jurisdiction else k
