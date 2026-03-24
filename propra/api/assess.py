@@ -9,6 +9,7 @@ import anthropic
 from dotenv import load_dotenv
 from fastapi import APIRouter, HTTPException, status
 
+from propra.graph.kg_retriever import get_related_chunks
 from propra.schemas.assessment import AssessmentResponse, ClassificationResult
 from propra.schemas.situation import Situation
 
@@ -179,8 +180,12 @@ def assess(situation: Situation) -> AssessmentResponse:
             goal_category=classification.goal_category if classification else None,
         )
 
+    # 3b. KG enrichment
+    kg_chunks = get_related_chunks(chunks)
+    all_chunks = chunks + kg_chunks
+
     # 4. Synthesise with Anthropic
-    context = _build_context(chunks)
+    context = _build_context(all_chunks)
     user_message = (
         f"Situation:\n"
         f"- Bundesland: {situation.jurisdiction}\n"
@@ -217,6 +222,7 @@ def assess(situation: Situation) -> AssessmentResponse:
         # has_bplan and goal_category are sourced from the request, not the LLM
         data["has_bplan"] = situation.has_bplan
         data["goal_category"] = classification.goal_category if classification else None
+        data["kg_nodes_used"] = [c["kg_node_id"] for c in kg_chunks]
         # Belt-and-suspenders: downgrade HIGH → MEDIUM when no B-Plan
         if data.get("confidence") == "HIGH" and not situation.has_bplan:
             data["confidence"] = "MEDIUM"
