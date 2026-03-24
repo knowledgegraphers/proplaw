@@ -76,6 +76,10 @@ class AssessmentResponse(BaseModel):
         default=None,
         description="Classified goal category for this request (e.g. 'fence'). None if classification failed.",
     )
+    kg_nodes_used: list[str] = Field(
+        default=[],
+        description="KG node IDs that contributed context to this assessment.",
+    )
 
     @model_validator(mode="after")
     def confidence_requires_bplan(self) -> "AssessmentResponse":
