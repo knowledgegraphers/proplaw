@@ -119,37 +119,45 @@ const classifyQuestion = (text: string): string | null => {
   return null;
 };
 
-const RELIABILITY_CONFIG: Record<string, { label: string; color: string }> = {
-  HIGH:   { label: "Direct rule found",           color: "text-emerald-700 bg-emerald-50 border-emerald-200" },
-  MEDIUM: { label: "Partial match — verify locally", color: "text-amber-700 bg-amber-50 border-amber-200" },
-  LOW:    { label: "No direct rule found",         color: "text-red-700 bg-red-50 border-red-200" },
+const RELIABILITY_COLORS: Record<string, { level: string; desc: string; tooltip: string }> = {
+  HIGH:   { level: "text-emerald-700", desc: "text-emerald-700", tooltip: "text-emerald-700" },
+  MEDIUM: { level: "text-amber-700",   desc: "text-amber-700",   tooltip: "text-amber-700"   },
+  LOW:    { level: "text-red-700",     desc: "text-red-700",     tooltip: "text-red-700"     },
 };
 
 const ReliabilityBadge = ({ level }: { level: string }) => {
-  const config = RELIABILITY_CONFIG[level] ?? RELIABILITY_CONFIG.LOW;
+  const { t } = useLanguage();
+  const colors = RELIABILITY_COLORS[level] ?? RELIABILITY_COLORS.LOW;
 
   return (
     <div className="flex items-center gap-2 flex-wrap">
       <span className="text-xs font-body font-semibold text-foreground uppercase tracking-wide flex items-center gap-1.5">
         <Shield className="w-3.5 h-3.5 text-muted-foreground" />
-        Reliability
+        {t("advisor.reliability.label")}
       </span>
-      <div className={`inline-flex items-center px-2.5 py-0.5 rounded-full border text-xs font-body font-medium ${config.color}`}>
-        {config.label}
-      </div>
+      <span className={`text-xs font-body font-bold ${colors.level}`}>
+        {t(`advisor.reliability.${level}.level`)}
+      </span>
+      <span className={`text-xs font-body ${colors.desc}`}>
+        {t(`advisor.reliability.${level}.desc`)}
+      </span>
       {/* Tooltip */}
       <div className="relative group">
         <Info className="w-3.5 h-3.5 text-muted-foreground cursor-help" />
-        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 hidden group-hover:block z-50">
-          <div className="bg-popover border border-border rounded-xl shadow-lg p-3 text-xs font-body text-foreground">
-            <p className="text-muted-foreground mb-2">
-              How conclusively the retrieved law text answered your question.
+        <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-72 hidden group-hover:block z-50">
+          <div className="bg-popover border border-border rounded-xl shadow-lg p-3 text-xs font-body text-foreground space-y-1.5">
+            <p>
+              <span className="font-bold text-emerald-700">{t("advisor.reliability.HIGH.level")}</span>
+              {" — "}{t("advisor.reliability.tooltip.HIGH")}
             </p>
-            <div className="space-y-1">
-              <p><span className="font-semibold text-emerald-700">Direct rule found</span> — a specific paragraph answers your question directly.</p>
-              <p><span className="font-semibold text-amber-700">Partial match</span> — related rules were found but may not cover your exact case.</p>
-              <p><span className="font-semibold text-red-700">No direct rule found</span> — the system could not locate a conclusive answer; consult an authority.</p>
-            </div>
+            <p>
+              <span className="font-bold text-amber-700">{t("advisor.reliability.MEDIUM.level")}</span>
+              {" — "}{t("advisor.reliability.tooltip.MEDIUM")}
+            </p>
+            <p>
+              <span className="font-bold text-red-700">{t("advisor.reliability.LOW.level")}</span>
+              {" — "}{t("advisor.reliability.tooltip.LOW")}
+            </p>
           </div>
           <div className="w-2 h-2 bg-popover border-r border-b border-border rotate-45 mx-auto -mt-1" />
         </div>

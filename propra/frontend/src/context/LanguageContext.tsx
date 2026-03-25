@@ -144,6 +144,18 @@ const translations: Record<Language, Record<string, string>> = {
     "advisor.verdict.CONDITIONAL": "Conditional",
     "advisor.verdict.NOT_ALLOWED": "Not permitted",
 
+    // Reliability badge
+    "advisor.reliability.label": "Reliability",
+    "advisor.reliability.HIGH.level": "HIGH",
+    "advisor.reliability.MEDIUM.level": "MEDIUM",
+    "advisor.reliability.LOW.level": "LOW",
+    "advisor.reliability.HIGH.desc": "Direct rule found",
+    "advisor.reliability.MEDIUM.desc": "Partial match — verify locally",
+    "advisor.reliability.LOW.desc": "No direct rule found — consult authority",
+    "advisor.reliability.tooltip.HIGH": "A specific legal paragraph answers your question directly.",
+    "advisor.reliability.tooltip.MEDIUM": "Related rules were found but may not cover your exact case.",
+    "advisor.reliability.tooltip.LOW": "No conclusive answer was found. Contact your local Bauaufsichtsbehörde.",
+
     // Permit page
     "permit.badge": "Member Feature",
     "permit.title1": "Your Permit Process,",
@@ -325,6 +337,18 @@ const translations: Record<Language, Record<string, string>> = {
     "advisor.verdict.ALLOWED": "Zulässig",
     "advisor.verdict.CONDITIONAL": "Bedingt zulässig",
     "advisor.verdict.NOT_ALLOWED": "Nicht zulässig",
+
+    // Reliability badge
+    "advisor.reliability.label": "Zuverlässigkeit",
+    "advisor.reliability.HIGH.level": "HOCH",
+    "advisor.reliability.MEDIUM.level": "MITTEL",
+    "advisor.reliability.LOW.level": "NIEDRIG",
+    "advisor.reliability.HIGH.desc": "Direktes Gesetz gefunden",
+    "advisor.reliability.MEDIUM.desc": "Teilweise Übereinstimmung — lokal prüfen",
+    "advisor.reliability.LOW.desc": "Keine direkte Regelung gefunden — Behörde kontaktieren",
+    "advisor.reliability.tooltip.HIGH": "Ein spezifischer Rechtsparagraph beantwortet Ihre Frage direkt.",
+    "advisor.reliability.tooltip.MEDIUM": "Verwandte Vorschriften wurden gefunden, decken Ihren genauen Fall aber möglicherweise nicht ab.",
+    "advisor.reliability.tooltip.LOW": "Es konnte keine eindeutige Antwort gefunden werden. Wenden Sie sich an Ihre zuständige Bauaufsichtsbehörde.",
 
     // Permit page
     "permit.badge": "Mitglieder-Funktion",
