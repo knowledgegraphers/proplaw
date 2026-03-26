@@ -94,6 +94,9 @@ def _classify_goal(project_description: str) -> ClassificationResult | None:
         if text.startswith("```"):
             text = text.split("\n", 1)[1].rsplit("```", 1)[0].strip()
         data = json.loads(text)
+        # Prompt returns "category"; schema expects "goal_category"
+        if "category" in data and "goal_category" not in data:
+            data["goal_category"] = data.pop("category")
         return ClassificationResult(**data)
     except Exception:
         return None
