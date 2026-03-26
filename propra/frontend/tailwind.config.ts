@@ -51,16 +51,16 @@ export default {
           foreground: "hsl(var(--card-foreground))",
         },
         navy: {
-          DEFAULT: "hsl(var(--navy))",
-          mid: "hsl(var(--navy-mid))",
-          light: "hsl(var(--navy-light))",
+          DEFAULT: "hsl(var(--navy) / <alpha-value>)",
+          mid: "hsl(var(--navy-mid) / <alpha-value>)",
+          light: "hsl(var(--navy-light) / <alpha-value>)",
         },
         gold: {
-          DEFAULT: "hsl(var(--gold))",
-          light: "hsl(var(--gold-light))",
-          muted: "hsl(var(--gold-muted))",
+          DEFAULT: "hsl(var(--gold) / <alpha-value>)",
+          light: "hsl(var(--gold-light) / <alpha-value>)",
+          muted: "hsl(var(--gold-muted) / <alpha-value>)",
         },
-        cream: "hsl(var(--cream))",
+        cream: "hsl(var(--cream) / <alpha-value>)",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
