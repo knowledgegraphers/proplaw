@@ -1,0 +1,1558 @@
+"query_id","query_type","difficulty","query_text","system","retrieved_chunk_ids","retrieved_jurisdictions","top_score","kg_chunks_added","answer","latency_ms","tokens","retrieval_draft","reasoning_draft","grounding_draft","total_draft","retrieval_final","reasoning_final","grounding_final","total_final","notes"
+"Q1","Direct","1","Was sind bauliche Anlagen?","RAG","DE-BB_§_7_Nicht_überbaute_Flächen_de_1|DE-BB_§_2_Begriffe_0|DE-BB_§_2_Begriffe_2|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_7_Nicht_überbaute_Flächen_de_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_3_Abs._1_besondere_Anforderu_2|DE-BB_§_43_Stellplätze_und_Garagen,__0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7315","0","# Bauliche Anlagen nach Brandenburgischem Bauordnungsrecht
+
+## Grunddefinition
+
+Gemäß **§ 2 Abs. 1 Satz 1 BbgBO** sind bauliche Anlagen:
+
+> **„Mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen.""**
+
+## Verbindung mit dem Erdboden
+
+Nach **§ 2 Abs. 1 Satz 2 BbgBO** besteht eine Verbindung mit dem Boden auch dann, wenn die Anlage:
+
+- durch **eigene Schwere** auf dem Boden ruht,
+- auf **ortsfesten Bahnen begrenzt beweglich** ist, oder
+- nach ihrem **Verwendungszweck** dazu bestimmt ist, **überwiegend ortsfest** benutzt zu werden.
+
+## Erweiterter Anwendungsbereich
+
+Zu den baulichen Anlagen zählen gemäß **§ 2 Abs. 1 Satz 3 BbgBO** ausdrücklich auch:
+
+| Nr. | Anlage |
+|-----|--------|
+| 1 | Aufschüttungen und Abgrabungen |
+| 2 | Lager-, Abstell- und Ausstellungsplätze |
+| 3 | Camping-, Wochenendhaus-, Spiel- und Sportplätze |
+| 4 | Stellplätze für Kraftfahrzeuge und Fahrradabstellplätze |
+| 5 | Gerüste |
+| 6 | Hilfseinrichtungen zur statischen Sicherung von Bauzuständen |
+| 7 | Künstliche Hohlräume unter der Geländeoberfläche |
+| 8 | Seilbahnen |
+
+## Abgrenzung: Bauprodukte
+
+Der Begriff der baulichen Anlage setzt voraus, dass sie aus **Bauprodukten** hergestellt ist. Diese sind nach **§ 2 Abs. 9 BbgBO** Baustoffe, Bauteile und Anlagen, die dauerhaft in bauliche Anlagen eingebaut werden, sowie vorgefertigte bauliche Anlagen (z. B. Fertighäuser, Fertiggaragen).","59116","2423","","","","","","","","",""
+"Q1","Direct","1","Was sind bauliche Anlagen?","GraphRAG","DE-BB_§_7_Nicht_überbaute_Flächen_de_1|DE-BB_§_2_Begriffe_0|DE-BB_§_2_Begriffe_2|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_7_Nicht_überbaute_Flächen_de_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_3_Abs._1_besondere_Anforderu_2|DE-BB_§_43_Stellplätze_und_Garagen,__0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7315","0","# Definition baulicher Anlagen nach Brandenburgischem Bauordnungsrecht
+
+## Grunddefinition
+
+Gemäß **§ 2 Abs. 1 Satz 1 BbgBO** sind bauliche Anlagen:
+
+> **Mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen.**
+
+## Verbindung mit dem Erdboden
+
+Nach **§ 2 Abs. 1 Satz 2 BbgBO** besteht eine Verbindung mit dem Boden auch dann, wenn die Anlage:
+- durch **eigene Schwere** auf dem Boden ruht,
+- auf **ortsfesten Bahnen begrenzt beweglich** ist, oder
+- nach ihrem **Verwendungszweck** dazu bestimmt ist, **überwiegend ortsfest benutzt** zu werden.
+
+## Besondere Einbeziehungen
+
+Zu den baulichen Anlagen zählen ausdrücklich auch (**§ 2 Abs. 1 Satz 3 BbgBO**):
+
+| Nr. | Anlage |
+|-----|--------|
+| 1 | Aufschüttungen und Abgrabungen |
+| 2 | Lager-, Abstell- und Ausstellungsplätze |
+| 3 | Camping-, Wochenendhaus-, Spiel- und Sportplätze |
+| 4 | Stellplätze für Kraftfahrzeuge und Fahrradabstellplätze |
+| 5 | Gerüste |
+| 6 | Hilfseinrichtungen zur statischen Sicherung von Bauzuständen |
+| 7 | Künstliche Hohlräume unter der Geländeoberfläche |
+| 8 | Seilbahnen |
+
+## Abgrenzung: Bauprodukte
+
+Relevant für die Definition ist auch **§ 2 Abs. 9 BbgBO**, der Bauprodukte definiert, da bauliche Anlagen aus diesen **hergestellt** werden müssen. Dazu zählen insbesondere Baustoffe, Bauteile und Anlagen, die dauerhaft eingebaut werden sollen.
+
+---
+*Alle Angaben basieren ausschließlich auf den bereitgestellten Auszügen der Brandenburgischen Bauordnung.*","8936","2434","","","","","","","","",""
+"Q2","Direct","1","Was gilt als Aufenthaltsraum?","RAG","DE-BB_§_41_Wohnungen_0|DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_38_Kleinkläranlagen,_Gruben__1|DE-BB_§_40_Aufenthaltsräume_0|DE-BB_§_45_Barrierefreies_Bauen_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_55_Genehmigungsfreie_Vorhabe_2|DE-BB_§_4_Bebauung_der_Grundstücke_m_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.6036","0","# Aufenthaltsräume nach Brandenburgischer Bauordnung
+
+## Definition und Anforderungen
+
+Die Brandenburgische Bauordnung definiert **Aufenthaltsräume** nicht durch eine explizite Begriffsdefinition, legt jedoch in **§ 40 BbgBO** die maßgeblichen Anforderungen fest, die einen Aufenthaltsraum charakterisieren:
+
+### Grundlegende Anforderungen (§ 40 BbgBO)
+
+Ein Aufenthaltsraum muss folgende Merkmale aufweisen:
+
+1. **Ausreichende Grundfläche** für die jeweilige Benutzung (§ 40 Abs. 1 Satz 1)
+2. **Lichte Raumhöhe** von mindestens **2,40 m** (§ 40 Abs. 1 Satz 1)
+   - Bei Dachräumen: mindestens über die **Hälfte der Grundfläche**, wobei Raumteile unter 1,50 m außer Betracht bleiben (§ 40 Abs. 1 Satz 2)
+   - Bei nachträglichem Dachausbau: mindestens **2,30 m** (§ 40 Abs. 1 Satz 3)
+3. **Ausreichende Belichtung mit Tageslicht** und Belüftung (§ 40 Abs. 2 Satz 1)
+   - Belichtungsöffnungen von mindestens **1/8 der Grundfläche** des Raumes (§ 40 Abs. 2 Satz 2)
+
+### Ausnahmen bei der Belichtung
+
+> Aufenthaltsräume, deren Nutzung eine Beleuchtung mit Tageslicht **verbietet**, sind ohne Belichtungsöffnungen zulässig, müssen dann aber durch **technische Einrichtungen** ausreichend beleuchtet und belüftet werden können. (§ 40 Abs. 3)
+
+---
+
+## Weitere relevante Regelungen
+
+- In **Kellergeschossen** sind einzelne Aufenthaltsräume nur unter bestimmten Bedingungen zulässig, z. B. wenn der Fußboden **nicht mehr als 1,50 m** unter der Geländeoberfläche liegt (§ 41 Abs. 3 BbgBO).
+- **Kleinkläranlagen und Sickeranlagen** dürfen nicht **unter Aufenthaltsräumen** angelegt werden und müssen mindestens **5 m Abstand** von Öffnungen zu Aufenthaltsräumen haben (§ 38 Abs. 4 BbgBO).","12145","3410","","","","","","","","",""
+"Q2","Direct","1","Was gilt als Aufenthaltsraum?","GraphRAG","DE-BB_§_41_Wohnungen_0|DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_38_Kleinkläranlagen,_Gruben__1|DE-BB_§_40_Aufenthaltsräume_0|DE-BB_§_45_Barrierefreies_Bauen_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_55_Genehmigungsfreie_Vorhabe_2|DE-BB_§_4_Bebauung_der_Grundstücke_m_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.6036","0","# Aufenthaltsräume nach Brandenburgischer Bauordnung
+
+## Definition und Anforderungen
+
+Die Brandenburgische Bauordnung definiert Aufenthaltsräume nicht explizit durch eine Legaldefinition, regelt aber deren Anforderungen ausführlich in **§ 40 BbgBO**.
+
+## Wesentliche Anforderungen an Aufenthaltsräume
+
+### Raumgröße und Höhe (§ 40 Abs. 1 BbgBO)
+Aufenthaltsräume müssen aufweisen:
+- Eine **ausreichende Grundfläche** für ihre Benutzung
+- Eine **lichte Höhe von mindestens 2,40 m**
+- Bei Aufenthaltsräumen im **Dachraum**: die Mindesthöhe muss über mindestens die Hälfte der Grundfläche erreicht werden; Raumteile unter 1,50 m Höhe bleiben dabei unberücksichtigt
+- Bei **nachträglichem Dachausbau** genügt eine lichte Höhe von 2,30 m
+
+### Belichtung und Belüftung (§ 40 Abs. 2 BbgBO)
+- Aufenthaltsräume müssen **ausreichend mit Tageslicht beleuchtet und belüftet** werden können
+- Das Rohbaumaß der Belichtungsöffnungen muss **mindestens ein Achtel der Grundfläche** des Raumes betragen
+
+### Ausnahmen (§ 40 Abs. 3 BbgBO)
+- Räume, deren Nutzung Tageslicht **verbietet**, sind ohne Belichtungsöffnungen zulässig
+- Diese müssen dann durch **technische Einrichtungen** ausreichend beleuchtet und belüftet werden können
+
+## Ergänzende Regelungen
+
+Aufenthaltsräume werden auch in weiteren Vorschriften erwähnt:
+
+- **§ 41 Abs. 3 BbgBO**: Aufenthaltsräume in Kellergeschossen sind nur unter bestimmten Bedingungen zulässig (Fußboden max. 1,50 m unter Geländeoberfläche)
+- **§ 38 Abs. 4 BbgBO**: Kleinkläranlagen und Gruben dürfen nicht **unter** Aufenthaltsräumen angelegt werden und müssen mindestens 5 m von deren Öffnungen entfernt sein
+
+## Fazit
+
+Als Aufenthaltsraum gilt ein Raum, der zum **dauerhaften Aufenthalt von Menschen** bestimmt ist und die Mindestanforderungen des **§ 40 BbgBO** hinsichtlich Grundfläche, Raumhöhe sowie Belichtung und Belüftung erfüllt.","11920","3439","","","","","","","","",""
+"Q3","Structured","2","Was sind Stellplätze?","RAG","DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_25_Raumabschließende_Bauteil_1|DE-BB_§_7_Nicht_überbaute_Flächen_de_1|DE-BB_§_34_Aufzüge_1|DE-BB_§_31_Notwendige_Treppenräume_u_2|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_31_Notwendige_Treppenräume_u_0|DE-BB_§_7_Nicht_überbaute_Flächen_de_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.5209","0","## Definition von Stellplätzen im Brandenburgischen Bauordnungsrecht
+
+Die bereitgestellten Gesetzesauszüge enthalten **keine explizite Legaldefinition** des Begriffs „Stellplätze"".
+
+### Was sich aus den Auszügen ableiten lässt
+
+Aus **§ 43 Abs. 1 BbgBO** lässt sich jedoch funktional entnehmen, was unter Stellplätzen zu verstehen ist:
+
+Stellplätze sind Flächen, die im Zusammenhang mit baulichen Anlagen oder anderen Anlagen hergestellt werden müssen, **bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist**.
+
+Ergänzend gibt **§ 43 Abs. 4 BbgBO** einen Hinweis auf die Dimensionierung:
+
+> *„Der Geldbetrag je Stellplatz soll den anteiligen durchschnittlichen Grunderwerbs- und Herstellungskosten für **25 m² Stellplatz- und Bewegungsfläche** entsprechen.""*
+
+Daraus ergibt sich, dass ein Stellplatz eine Fläche umfasst, die sowohl die eigentliche Abstellfläche für ein Kraftfahrzeug als auch die zugehörige Bewegungsfläche einschließt.
+
+### Hinweis
+
+Für eine vollständige Legaldefinition müssten weitere Vorschriften der Brandenburgischen Bauordnung (z. B. eine Begriffsbestimmungsvorschrift) herangezogen werden, die in den hier bereitgestellten Auszügen **nicht enthalten** sind.","9441","2908","","","","","","","","",""
+"Q3","Structured","2","Was sind Stellplätze?","GraphRAG","DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_25_Raumabschließende_Bauteil_1|DE-BB_§_7_Nicht_überbaute_Flächen_de_1|DE-BB_§_34_Aufzüge_1|DE-BB_§_31_Notwendige_Treppenräume_u_2|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_31_Notwendige_Treppenräume_u_0|DE-BB_§_7_Nicht_überbaute_Flächen_de_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.5209","0","## Definition von Stellplätzen im brandenburgischen Bauordnungsrecht
+
+Auf Basis der bereitgestellten Gesetzesauszüge gibt es **keine explizite Legaldefinition** des Begriffs „Stellplätze"".
+
+### Was sich aus den Gesetzesauszügen ableiten lässt
+
+Aus **§ 43 Abs. 1 BbgBO** ergibt sich jedoch eine funktionale Beschreibung:
+
+Stellplätze sind Flächen, die im Zusammenhang mit der Errichtung oder Nutzungsänderung von baulichen Anlagen sowie anderen Anlagen herzustellen sind, **bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist**.
+
+Ergänzend lässt sich aus **§ 43 Abs. 4 BbgBO** entnehmen, dass ein Stellplatz eine Fläche von **25 m² (Stellplatz- und Bewegungsfläche)** umfasst, was als Bemessungsgrundlage für den Ablösebetrag herangezogen wird.
+
+### Weitergehende Hinweise
+
+Die bereitgestellten Gesetzesauszüge regeln lediglich:
+- die **Verpflichtung zur Herstellung** notwendiger Stellplätze (§ 43 Abs. 1)
+- den **Standort** der Stellplätze (§ 43 Abs. 2)
+- die Möglichkeit der **Ablösung** durch Geldzahlung (§ 43 Abs. 3–4)
+
+Eine vollständige Definition kann auf Basis der vorliegenden Auszüge **nicht gegeben werden**.","9009","2920","","","","","","","","",""
+"Q4","Structured","2","Wann ist ein Bauvorhaben genehmigungspflichtig?","RAG","DE-BB_§_68_Baubeginn,_Baufreigabe,_E_1|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_56_Baugenehmigungsverfahren__0|DE-BB_§_69_Geltungsdauer_der_Genehmi_0|DE-BB_§_67_Baugenehmigung_0|DE-BB_§_61_Abweichungen_von_örtliche_0|DE-BB_§_63_Behandlung_des_Bauantrags_0|DE-BB_§_67_Baugenehmigung_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7254","0","# Genehmigungspflicht von Bauvorhaben nach brandenburgischem Bauordnungsrecht
+
+## Grundsatz der Genehmigungspflicht
+
+Aus den bereitgestellten Gesetzesauszügen ergibt sich, dass Bauvorhaben in Brandenburg grundsätzlich einer **Baugenehmigung** bedürfen können. Die Genehmigungspflicht wird dabei als Voraussetzung für den Baubeginn vorausgesetzt.
+
+## Voraussetzungen und Verfahren
+
+Gemäß **§ 68 Abs. 1 BbgBO** darf mit der Bauausführung erst begonnen werden, wenn:
+
+1. **eine erforderliche Baugenehmigung vorliegt** oder die Voraussetzungen des § 58 Abs. 3 Satz 1 erfüllt sind,
+2. nach anderen Rechtsvorschriften erforderliche Genehmigungen vorliegen,
+3. die erforderlichen Prüfberichte oder Bescheinigungen über die Prüfung der bautechnischen Nachweise vorliegen.
+
+## Inhalt der Prüfung
+
+Nach **§ 56 BbgBO** prüft die Bauaufsichtsbehörde bei genehmigungspflichtigen Anlagen die Zulässigkeit nach:
+- den Vorschriften des **Baugesetzbuchs**
+- den Vorschriften der **Brandenburgischen Bauordnung**
+- **anderen öffentlich-rechtlichen Vorschriften**, soweit diese für das Vorhaben beachtlich sind
+
+## Rechtsfolge bei Genehmigungspflicht
+
+Ist ein Vorhaben genehmigungspflichtig, so gilt:
+
+- Die **Baugenehmigung ist zu erteilen**, wenn dem Vorhaben keine öffentlich-rechtlichen Vorschriften entgegenstehen (**§ 67 Abs. 1 BbgBO**).
+- Die Genehmigung hat **Schriftform** und ist dem Bauherrn mit einer Ausfertigung der genehmigten Bauvorlagen zuzustellen (**§ 67 Abs. 4 BbgBO**).
+- Die **Geltungsdauer** beträgt **sechs Jahre** (**§ 69 BbgBO**).
+
+## Hinweis
+
+> Die bereitgestellten Gesetzesauszüge enthalten **keine abschließende Definition**, welche Vorhaben im Einzelnen genehmigungspflichtig sind (z.B. keine Regelungen zu verfahrensfreien Vorhaben). Für eine vollständige Beurteilung wären insbesondere die Regelungen zu **genehmigungsfreien Vorhaben** (typischerweise § 55 ff. BbgBO) erforderlich, die in den vorliegenden Auszügen nicht enthalten sind.","12368","3168","","","","","","","","",""
+"Q4","Structured","2","Wann ist ein Bauvorhaben genehmigungspflichtig?","GraphRAG","DE-BB_§_68_Baubeginn,_Baufreigabe,_E_1|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_56_Baugenehmigungsverfahren__0|DE-BB_§_69_Geltungsdauer_der_Genehmi_0|DE-BB_§_67_Baugenehmigung_0|DE-BB_§_61_Abweichungen_von_örtliche_0|DE-BB_§_63_Behandlung_des_Bauantrags_0|DE-BB_§_67_Baugenehmigung_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7254","0","# Genehmigungspflicht von Bauvorhaben nach brandenburgischem Bauordnungsrecht
+
+## Grundsatz der Genehmigungspflicht
+
+Aus den bereitgestellten Gesetzesauszügen ergibt sich, dass ein Bauvorhaben einer **Baugenehmigung** bedarf, wenn es sich um eine **genehmigungspflichtige Anlage** handelt. Die Genehmigungspflicht wird dabei als Voraussetzung für den Baubeginn vorausgesetzt.
+
+## Voraussetzungen für den Baubeginn
+
+Gemäß **§ 68 Abs. 1 BbgBO** darf mit der Bauausführung erst begonnen werden, wenn:
+
+1. **Eine erforderliche Baugenehmigung vorliegt** oder die Voraussetzungen des § 58 Abs. 3 Satz 1 erfüllt sind,
+2. nach anderen Rechtsvorschriften erforderliche Genehmigungen vorliegen,
+3. die erforderlichen Prüfberichte oder Bescheinigungen über die Prüfung der bautechnischen Nachweise vorliegen.
+
+## Prüfungsmaßstab bei Genehmigungspflicht
+
+Bei **genehmigungspflichtigen Anlagen** prüft die Bauaufsichtsbehörde nach **§ 56 BbgBO** die Zulässigkeit nach:
+- den Vorschriften des **Baugesetzbuchs**,
+- den Vorschriften **dieses Gesetzes** und aufgrund dieses Gesetzes,
+- **anderen öffentlich-rechtlichen Vorschriften**, soweit diese für das Vorhaben beachtlich sind.
+
+## Erteilung der Baugenehmigung
+
+Nach **§ 67 Abs. 1 BbgBO** ist die Baugenehmigung zu erteilen, wenn dem Vorhaben **keine öffentlich-rechtlichen Vorschriften entgegenstehen**. Die Baugenehmigung schließt dabei die für das Vorhaben erforderlichen weiteren behördlichen Entscheidungen ein.
+
+## Hinweis
+
+Die bereitgestellten Gesetzesauszüge enthalten **keine abschließende Definition**, welche Vorhaben konkret genehmigungspflichtig sind (z. B. fehlt eine Liste genehmigungsfreier Vorhaben). Die vollständige Abgrenzung genehmigungspflichtiger von genehmigungsfreien oder anzeigepflichtigen Vorhaben ergibt sich aus weiteren Vorschriften der BbgBO (insbesondere § 55 ff. BbgBO), die in den vorgelegten Auszügen nicht enthalten sind.","10773","3130","","","","","","","","",""
+"Q5","Structured","2","Welche Anforderungen gelten für Abstandsflächen?","RAG","DE-BB_§_6_Abstandsflächen_0|DE-BB_§_6_Abstandsflächen_2|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_31_Notwendige_Treppenräume_u_1|DE-BB_§_33_Umwehrungen_und_Abdeckung_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_5_Zugänge_und_Zufahrten_der__1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.6677","0","# Anforderungen für Abstandsflächen nach brandenburgischem Bauordnungsrecht
+
+## 1. Grundsätzliche Pflicht zur Freihaltung (§ 6 Abs. 1)
+
+Vor den **Außenwänden von Gebäuden** sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Eine Ausnahme gilt, wenn nach planungsrechtlichen Vorschriften das Gebäude **an die Grundstücksgrenze gebaut werden muss oder darf** – in diesem Fall ist keine Abstandsfläche erforderlich.
+
+---
+
+## 2. Lage der Abstandsflächen (§ 6 Abs. 2)
+
+Die Abstandsflächen müssen grundsätzlich **auf dem Grundstück selbst** liegen. Folgende Ausnahmen sind zulässig:
+
+- Sie dürfen auf **öffentlichen Verkehrs-, Grün- oder Wasserflächen** liegen, jedoch **nur bis zu deren Mitte**
+- Eine **geringfügige Erstreckung auf das Nachbargrundstück** ist zulässig bei:
+  - Breite von nicht mehr als **4 m**
+  - Tiefe von nicht mehr als **1 m**
+  - Gesamtfläche von nicht mehr als **2 m²**
+- Eine vollständige oder teilweise Erstreckung auf das Nachbargrundstück ist möglich, wenn **rechtlich gesichert** ist, dass die Flächen nicht überbaut werden und sich nicht mit anderen Abstandsflächen überdecken
+
+---
+
+## 3. Überdeckungsverbot (§ 6 Abs. 3)
+
+Abstandsflächen dürfen sich grundsätzlich **nicht überdecken**. Ausnahmen gelten u. a. für:
+
+- Außenwände, die in einem **Winkel von mehr als 75°** zueinander stehen
+
+---
+
+## 4. Tiefe der Abstandsflächen (§ 6)
+
+Die Tiefe der Abstandsflächen richtet sich nach der Gebietsart:
+
+| Gebietsart | Mindesttiefe |
+|---|---|
+| Gewerbe-, Industrie- und nicht der Erholung dienende Sondergebiete | **0,25 H**, mindestens **3 m** |
+| Wohngebäude (max. 2 Geschosse, max. 9 m Höhe) | pauschal **3 m** |
+
+> Örtliche Bauvorschriften nach **§ 81** können abweichend geringere oder größere Tiefen festlegen.
+
+---
+
+## 5. Nicht zu berücksichtigende Bauteile (§ 6 Abs. 7)
+
+Bei der Bemessung der Abstandsflächen bleiben folgende **untergeordnete Bauteile** unberücksichtigt:
+
+- **Pfeiler, Gesimse, Dachüberstände** u. ä., die nicht mehr als **1 m** vortreten
+- **Stufen, Podeste und Überdachungen** vor Hauseingängen, die nicht mehr als **1,5 m** vortreten
+- **Untergeordnete Vorbauten**, insbesondere:
+  - Wintergärten (max. 5 m Breite, max. 2 Geschosse, max. 3 m Vortritt)
+  - Balkone (max. 5 m Breite, max. 2 m Vortritt)
+  - Andere Vorbauten (max. 3 m Breite, max. 2 Geschosse, max. 1 m Vortritt)
+
+---
+
+## Zusammenfassung
+
+Das Abstandsflächenrecht in Brandenburg soll die ausreichende **Belichtung, Belüftung und den Brandschutz** sicherstellen. Die Regelungen des §","19414","3677","","","","","","","","",""
+"Q5","Structured","2","Welche Anforderungen gelten für Abstandsflächen?","GraphRAG","DE-BB_§_6_Abstandsflächen_0|DE-BB_§_6_Abstandsflächen_2|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_31_Notwendige_Treppenräume_u_1|DE-BB_§_33_Umwehrungen_und_Abdeckung_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_5_Zugänge_und_Zufahrten_der__1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.6677","0","# Anforderungen an Abstandsflächen nach Brandenburgischem Bauordnungsrecht
+
+## 1. Grundsatz (§ 6 Abs. 1 BbgBO)
+
+Vor den **Außenwänden von Gebäuden** sind Abstandsflächen von oberirdischen Gebäuden freizuhalten. Eine Abstandsfläche ist **nicht erforderlich**, wenn nach planungsrechtlichen Vorschriften das Gebäude an die Grundstücksgrenze gebaut werden muss oder darf.
+
+---
+
+## 2. Lage der Abstandsflächen (§ 6 Abs. 2 BbgBO)
+
+Die Abstandsflächen müssen grundsätzlich **auf dem Grundstück selbst** liegen. Ausnahmsweise dürfen sie sich erstrecken auf:
+- **Öffentliche Verkehrs-, Grün- oder Wasserflächen**, jedoch nur bis zu deren Mitte
+- Das **Nachbargrundstück**, wenn rechtlich gesichert ist, dass sie dort nicht überbaut werden und sich nicht mit anderen Abstandsflächen überdecken
+- Eine **geringfügige Erstreckung** auf das Nachbargrundstück mit maximal 4 m Breite, 1 m Tiefe und insgesamt nicht mehr als 2 m² Fläche ist zulässig
+
+---
+
+## 3. Überschneidungsverbot (§ 6 Abs. 3 BbgBO)
+
+Abstandsflächen **dürfen sich grundsätzlich nicht überdecken**, mit Ausnahme von Außenwänden, die in einem Winkel von mehr als 75° zueinander stehen.
+
+---
+
+## 4. Tiefe der Abstandsflächen
+
+### Gewerbe- und Industriegebiete (§ 6 Abs. 5 BbgBO):
+- Mindesttiefe: **0,25 H**, mindestens **3 m**
+- Abweichungen durch örtliche Bauvorschriften nach § 81 BbgBO möglich
+
+### Wohngebäude (§ 6 Abs. 6 BbgBO):
+- Bei Wohngebäuden mit **nicht mehr als zwei oberirdischen Geschossen** und **nicht mehr als 9 m Gebäudehöhe** genügt eine Tiefe von **3 m**
+- Die Regelung zur geringfügigen Erstreckung auf Nachbargrundstücke (Abs. 2 Satz 3) findet hier **keine Anwendung**
+
+---
+
+## 5. Nicht berücksichtigte Bauteile (§ 6 Abs. 7 BbgBO)
+
+Bei der Bemessung der Abstandsflächen bleiben folgende **untergeordnete Bauteile** unberücksichtigt:
+
+| Bauteil | Maximalmaß |
+|---|---|
+| Pfeiler, Gesimse, Dachüberstände | bis 1 m Vortreten |
+| Stufen, Podeste, Überdachungen vor Hauseingängen | bis 1,5 m Vortreten |
+| Wintergärten (max. 5 m Breite, max. 2 Geschosse) | bis 3 m Vortreten |
+| Balkone (max. 5 m Breite) | bis 2 m Vortreten |
+| Andere Vorbauten (max. 3 m Breite, max. 2 Geschosse) | bis 1 m Vortreten |
+
+---
+
+## 6. Besondere Anforderungen durch Sonderbauvorschriften (§ 3 Abs. 3 Nr. 1 BbgBO)
+
+Ergänzend können besondere Anforderungen oder Erleichterungen hinsichtlich der **Abstände von Grundstücksgrenzen**, anderen bau","17010","3677","","","","","","","","",""
+"Q6","Structured","2","Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?","RAG","DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_3_Allgemeine_Anforderungen_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_3_Abs._1_besondere_Anforderu_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_22_Prüf-,_Zertifizierungs-_u_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_2|DE-BB_§_45_Barrierefreies_Bauen_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7378","0","# Allgemeine Anforderungen an bauliche Anlagen
+
+## Grundlegende Anforderungen nach § 3 Abs. 1 BbgBO
+
+Gemäß **§ 3 Abs. 1 der Brandenburgischen Bauordnung (BbgBO)** müssen bauliche Anlagen, andere Anlagen und Einrichtungen sowie ihre Teile so **angeordnet, errichtet, geändert und instand gehalten** werden, dass:
+
+1. **die öffentliche Sicherheit oder Ordnung** – insbesondere Leben, Gesundheit und Eigentum – **nicht gefährdet werden**,
+
+2. sie die **allgemeinen Anforderungen ihrem Zweck entsprechend dauerhaft erfüllen** und **ohne Missstände benutzbar** sind,
+
+3. die **natürlichen Lebensgrundlagen geschont** werden.
+
+---
+
+## Anforderungen an Bauprodukte und Bauarten
+
+Nach **§ 3 Abs. 2 BbgBO** dürfen Bauprodukte und Bauarten nur verwendet werden, wenn die baulichen Anlagen unter ihrer Verwendung bei ordnungsgemäßer Instandhaltung während einer **ihrem Zweck entsprechenden, angemessenen Zeitdauer** die gesetzlichen Anforderungen erfüllen und **gebrauchstauglich** sind.
+
+---
+
+## Technische Baubestimmungen
+
+Nach **§ 3 Abs. 3 BbgBO** kann die oberste Bauaufsichtsbehörde **Regeln der Technik** durch Bekanntmachung im Amtsblatt für Brandenburg als **Technische Baubestimmungen** einführen, auf die bei Bedarf auch durch Verweis auf die Fundstelle Bezug genommen werden kann.
+
+---
+
+## Zusammenfassung
+
+Die drei zentralen Schutzziele sind demnach:
+- **Sicherheit** (öffentliche Sicherheit, Leben, Gesundheit, Eigentum)
+- **Zwecktauglichkeit** (dauerhafte Erfüllung der Anforderungen, misstandsfreie Benutzbarkeit)
+- **Umweltschutz** (Schonung der natürlichen Lebensgrundlagen)","10873","2992","","","","","","","","",""
+"Q6","Structured","2","Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?","GraphRAG","DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_3_Allgemeine_Anforderungen_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_3_Abs._1_besondere_Anforderu_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_22_Prüf-,_Zertifizierungs-_u_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_2|DE-BB_§_45_Barrierefreies_Bauen_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7378","0","# Allgemeine Anforderungen an bauliche Anlagen
+
+## Grundlegende Anforderungen nach § 3 Abs. 1 BbgBO
+
+Gemäß **§ 3 Abs. 1 der Brandenburgischen Bauordnung (BbgBO)** müssen bauliche Anlagen, andere Anlagen und Einrichtungen sowie ihre Teile so **angeordnet, errichtet, geändert und instand gehalten** werden, dass:
+
+1. **die öffentliche Sicherheit oder Ordnung** nicht gefährdet wird, insbesondere Leben, Gesundheit und Eigentum,
+2. sie **die allgemeinen Anforderungen ihrem Zweck entsprechend dauerhaft erfüllen** und ohne Missstände benutzbar sind, und
+3. **die natürlichen Lebensgrundlagen geschont** werden.
+
+## Anforderungen an Bauprodukte und Bauarten
+
+Nach **§ 3 Abs. 2 BbgBO** dürfen Bauprodukte und Bauarten nur verwendet werden, wenn die baulichen Anlagen unter ihrer Verwendung bei ordnungsgemäßer Instandhaltung während einer **zweckentsprechenden, angemessenen Zeitdauer**:
+- die gesetzlichen Anforderungen erfüllen, und
+- **gebrauchstauglich** sind.
+
+## Technische Baubestimmungen
+
+Nach **§ 3 Abs. 3 BbgBO** kann die oberste Bauaufsichtsbehörde **Regeln der Technik als Technische Baubestimmungen** einführen und im Amtsblatt für Brandenburg bekanntmachen.
+
+## Zusammenfassung
+
+Die Anforderungen lassen sich in drei Kernziele zusammenfassen:
+- **Sicherheit** (Schutz von Leben, Gesundheit und Eigentum)
+- **Funktionalität** (dauerhafte zweckentsprechende Nutzbarkeit)
+- **Umweltschonung** (Schonung der natürlichen Lebensgrundlagen)","9835","2944","","","","","","","","",""
+"Q7","Multi-step","3","Welche Anforderungen bestehen an Aufenthaltsäume?","RAG","DE-BB_§_3_Abs._1_besondere_Anforderu_0|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_45_Barrierefreies_Bauen_0|DE-BB_§_41_Wohnungen_0|DE-BB_§_3_Allgemeine_Anforderungen_0|DE-BB_§_65_Rechtliche_Sicherung_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.5932","0","# Anforderungen an Aufenthaltsräume
+
+Auf Basis der bereitgestellten Gesetzesauszüge aus der Brandenburgischen Bauordnung lassen sich folgende Anforderungen an Aufenthaltsräume entnehmen:
+
+## 1. Anforderungen im Zusammenhang mit Wohnungen (§ 41 BbgBO)
+
+**Anzahl und Besonnung (§ 41 Abs. 2):**
+- Jede Wohnung muss eine **ausreichende Anzahl besonnter Aufenthaltsräume** haben
+- **Nicht alle Aufenthaltsräume dürfen nach Norden** ausgerichtet sein
+
+**Aufenthaltsräume in Kellergeschossen (§ 41 Abs. 3):**
+Einzelne Aufenthaltsräume sind in Kellergeschossen nur zulässig, wenn:
+1. Der **Fußboden nicht mehr als 1,50 m** unter der Geländeoberfläche liegt
+2. Die Geländeoberfläche in einer Entfernung von **2 m vor den notwendigen Fenstern** und in Breite der Aufenthaltsräume **nicht mehr als 0,50 m über dem Fußboden** der Aufenthaltsräume liegt
+
+## 2. Allgemeine Anforderungen (§ 3 Abs. 1 BbgBO)
+
+Aufenthaltsräume müssen als Teil baulicher Anlagen so beschaffen sein, dass:
+- **Leben, Gesundheit und Eigentum** nicht gefährdet werden
+- Sie **dauerhaft ihrem Zweck entsprechend** nutzbar und **ohne Missstände benutzbar** sind
+- Die **natürlichen Lebensgrundlagen** geschont werden
+
+## 3. Sonderanforderungen bei Sonderbauten (§ 3 Abs. 1 i.V.m. Abs. 3)
+
+Für Aufenthaltsräume in Sonderbauten können besondere Anforderungen gestellt werden, unter anderem hinsichtlich:
+- **Lüftung** (§ 3 Abs. 3 Nr. 9)
+- **Beleuchtung** (§ 3 Abs. 3 Nr. 10)
+- **Brandschutz** (§ 3 Abs. 3 Nr. 4, 5)
+- **Schall- und Wärmeschutz** (§ 3 Abs. 3 Nr. 4)
+
+## Hinweis
+
+Die bereitgestellten Gesetzesauszüge enthalten keine eigenständige Vorschrift, die umfassend alle Anforderungen an Aufenthaltsräume regelt (z.B. Mindestgröße, Raumhöhe, Belichtung). Für vollständige Informationen wären weitere Paragraphen der BbgBO erforderlich.","11328","4133","","","","","","","","",""
+"Q7","Multi-step","3","Welche Anforderungen bestehen an Aufenthaltsäume?","GraphRAG","DE-BB_§_3_Abs._1_besondere_Anforderu_0|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_45_Barrierefreies_Bauen_0|DE-BB_§_41_Wohnungen_0|DE-BB_§_3_Allgemeine_Anforderungen_0|DE-BB_§_65_Rechtliche_Sicherung_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.5932","0","# Anforderungen an Aufenthaltsräume nach brandenburgischem Bauordnungsrecht
+
+Auf Basis der bereitgestellten Gesetzesauszüge lassen sich folgende Anforderungen an Aufenthaltsräume entnehmen:
+
+## 1. Anforderungen im Kontext von Wohnungen (§ 41 BbgBO)
+
+**§ 41 Abs. 2** regelt, dass:
+- Jede Wohnung eine **ausreichende Zahl besonnter Aufenthaltsräume** haben muss
+- **Nicht alle Aufenthaltsräume nach Norden ausgerichtet** sein dürfen
+
+### Aufenthaltsräume in Kellergeschossen (§ 41 Abs. 3)
+Einzelne Aufenthaltsräume in Kellergeschossen sind nur zulässig, wenn **kumulativ** folgende Voraussetzungen erfüllt sind:
+
+1. Der **Fußboden** der Aufenthaltsräume liegt **nicht mehr als 1,50 m unter der Geländeoberfläche** (§ 41 Abs. 3 Nr. 1)
+
+2. Die Geländeoberfläche an den Außenwänden mit notwendigen Fenstern liegt in einer **Entfernung von 2 m** und in **Breite der Aufenthaltsräume** vor den notwendigen Fenstern **nicht mehr als 0,50 m über dem Fußboden** der Aufenthaltsräume (§ 41 Abs. 3 Nr. 2)
+
+## 2. Allgemeine Anforderungen (§ 3 Abs. 1 BbgBO)
+
+Nach **§ 3 Abs. 1** müssen auch Aufenthaltsräume als Teil baulicher Anlagen so beschaffen sein, dass:
+- Leben, Gesundheit und Eigentum **nicht gefährdet** werden
+- Sie **dauerhaft ihrem Zweck entsprechend** nutzbar sind und **ohne Missstände benutzbar** sind
+- Die natürlichen Lebensgrundlagen geschont werden
+
+## 3. Barrierefreiheit (§ 45 BbgBO)
+
+Für besondere Gebäudetypen gelten erhöhte Anforderungen:
+- In **Wohngebäuden mit mehr als vier Wohnungen** müssen die Wohnungen eines Geschosses und damit auch deren Aufenthaltsräume **barrierefrei** sein (§ 45 Abs. 1)
+- Anlagen, die **überwiegend von kranken, behinderten oder alten Menschen** genutzt werden, müssen vollständig barrierefrei sein (§ 45 Abs. 2)
+
+---
+> **Hinweis:** Die bereitgestellten Gesetzesauszüge enthalten keine vollständige Regelung zu Aufenthaltsräumen (z.B. fehlt ein eigenständiger § zu Mindestgröße, Raumhöhe oder Belichtung). Für eine abschließende Beurteilung wären weitere Paragraphen der BbgBO erforderlich.","12752","4188","","","","","","","","",""
+"Q8","Multi-step","3","Welche Anforderungen gelten für den Brandschutz?","RAG","DE-BB_§_12_Brandschutz_0|DE-BB_§_36_Feuerungsanlagen,_Anlagen_0|DE-BB_§_36_Feuerungsanlagen,_Anlagen_1|DE-BB_§_23_Allgemeine_Anforderungen__0|DE-BB_§_66_Bautechnische_Nachweise_1|DE-BB_§_28_Dächer_0|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_25_Raumabschließende_Bauteil_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7661","0","# Brandschutzanforderungen nach Brandenburgischer Bauordnung
+
+## 1. Grundlegende Anforderungen (§ 12 BbgBO)
+
+Gemäß **§ 12 Abs. 1 BbgBO** müssen bauliche Anlagen so angeordnet, errichtet, geändert und instand gehalten werden, dass:
+- der **Entstehung eines Brandes vorgebeugt** wird,
+- der **Ausbreitung von Feuer und Rauch vorgebeugt** wird,
+- bei einem Brand die **Rettung von Menschen und Tieren** möglich ist,
+- eine **Entrauchung von Räumen** möglich ist, und
+- **wirksame Löscharbeiten** möglich sind.
+
+---
+
+## 2. Anforderungen an Baustoffe (§ 12 Abs. 2 BbgBO)
+
+Baustoffe werden nach ihrem Brandverhalten unterschieden in:
+1. **normalentflammbar**
+2. **schwerentflammbar**
+3. **nichtbrennbar**
+
+> Leichtentflammbare Baustoffe dürfen **nur in einem Verbund** mit anderen Baustoffen verwendet werden, der mindestens den Anforderungen an normalentflammbare Baustoffe entspricht.
+
+---
+
+## 3. Anforderungen an Bauteile (§ 23 BbgBO)
+
+Bauteile müssen einer Brandbeanspruchung standhalten:
+
+| Klassifizierung | Standdauer |
+|---|---|
+| Feuerhemmend | **30 Minuten** |
+| Hochfeuerhemmend | **60 Minuten** |
+| Feuerbeständig | **90 Minuten** |
+
+Weitere Anforderungen:
+- **Hochfeuerhemmende Bauteile** aus brennbaren Baustoffen müssen allseitig eine brandschutztechnisch wirksame Bekleidung aus **nichtbrennbaren Baustoffen** haben (§ 23 Abs. 2).
+- **Tragende/aussteifende feuerbeständige Bauteile** müssen aus **nichtbrennbaren Baustoffen** bestehen (§ 23 Abs. 3).
+- **Raumabschließende feuerbeständige Bauteile** müssen eine durchgehende Schicht aus nichtbrennbaren Baustoffen aufweisen (§ 23 Abs. 4).
+
+---
+
+## 4. Raumabschließende Bauteile (§ 25 BbgBO)
+
+- Raumabschließende Bauteile müssen grundsätzlich **feuerbeständig** sein.
+- In **Gebäuden geringer Höhe** genügt mindestens **feuerhemmend** (§ 25 Abs. 2).
+- Im **Keller von Gebäuden geringer Höhe** mit mehr als zwei Nutzungseinheiten müssen sie **feuerbeständig** sein.
+- Im **Dachraum von Gebäuden mittlerer Höhe** mit Aufenthaltsräumen müssen sie mindestens **hochfeuerhemmend** sein (§ 25 Abs. 3).
+
+---
+
+## 5. Anforderungen an Dächer (§ 28 BbgBO)
+
+- Bedachungen müssen gegen **Flugfeuer und strahlende Wärme** widerstandsfähig sein (**harte Bedachung**, § 28 Abs. 2).
+- **Lichtdurchlässige Bedachungen** müssen aus **nichtbrennbaren Baustoffen** bestehen; für Lichtkuppeln und Vordächer von Wohngebäuden genügen schwerentflammbare Baustoffe (§ 28 Abs. 4).
+- Gebäude ohne harte Bedachung müssen best","15050","4207","","","","","","","","",""
+"Q8","Multi-step","3","Welche Anforderungen gelten für den Brandschutz?","GraphRAG","DE-BB_§_12_Brandschutz_0|DE-BB_§_36_Feuerungsanlagen,_Anlagen_0|DE-BB_§_36_Feuerungsanlagen,_Anlagen_1|DE-BB_§_23_Allgemeine_Anforderungen__0|DE-BB_§_66_Bautechnische_Nachweise_1|DE-BB_§_28_Dächer_0|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_25_Raumabschließende_Bauteil_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7661","0","# Brandschutzanforderungen nach Brandenburgischer Bauordnung
+
+## 1. Grundlegende Anforderungen (§ 12 BbgBO)
+
+Gemäß **§ 12 Abs. 1 BbgBO** müssen bauliche Anlagen so angeordnet, errichtet, geändert und instand gehalten werden, dass:
+- der **Entstehung eines Brandes** vorgebeugt wird
+- der **Ausbreitung von Feuer und Rauch** vorgebeugt wird
+- die **Rettung von Menschen und Tieren** möglich ist
+- eine **Entrauchung von Räumen** möglich ist
+- **wirksame Löscharbeiten** möglich sind
+
+## 2. Anforderungen an Baustoffe (§ 12 Abs. 2 BbgBO)
+
+Baustoffe werden nach ihrem Brandverhalten unterschieden in:
+1. **normalentflammbar**
+2. **schwerentflammbar**
+3. **nichtbrennbar**
+
+> ⚠️ **Leichtentflammbare Baustoffe** dürfen nur in einem Verbund mit anderen Baustoffen verwendet werden, der mindestens der Klasse „normalentflammbar"" entspricht.
+
+## 3. Anforderungen an Bauteile (§ 23 BbgBO)
+
+| Kategorie | Widerstandsdauer |
+|---|---|
+| Feuerhemmend | **30 Minuten** |
+| Hochfeuerhemmend | **60 Minuten** |
+| Feuerbeständig | **90 Minuten** |
+
+Zusätzliche Anforderungen gemäß **§ 23 Abs. 2–4 BbgBO**:
+- **Hochfeuerhemmende Bauteile** aus brennbaren Materialien benötigen eine brandschutztechnisch wirksame **Bekleidung aus nichtbrennbaren Baustoffen**
+- **Feuerbeständige tragende Bauteile** müssen aus **nichtbrennbaren Baustoffen** bestehen
+- **Feuerbeständige raumabschließende Bauteile** müssen eine **durchgehende Schicht aus nichtbrennbaren Baustoffen** aufweisen
+
+## 4. Raumabschließende Bauteile (§ 25 BbgBO)
+
+- Grundsätzlich müssen raumabschließende Bauteile **feuerbeständig** sein
+- In **Gebäuden geringer Höhe** genügt **feuerhemmend**
+- Im **Keller** von Gebäuden geringer Höhe mit mehr als zwei Nutzungseinheiten: **feuerbeständig**
+- Bei **Räumen mit Explosions- oder erhöhter Brandgefahr**: stets **feuerbeständig**
+
+## 5. Anforderungen an Dächer (§ 28 BbgBO)
+
+- Bedachungen müssen grundsätzlich als **„harte Bedachung""** ausgeführt werden (widerstandsfähig gegen Flugfeuer und strahlende Wärme, § 28 Abs. 2 BbgBO)
+- **Lichtdurchlässige Bedachungen** müssen aus **nichtbrennbaren Baustoffen** bestehen (§ 28 Abs. 4 BbgBO)
+- Ausnahmen für Lichtkuppeln und Vordächer: **schwerentflammbare Baustoffe** ohne brennendes Abtropfen
+
+## 6. Blitzschutz (§ 12 Abs. 3 BbgBO)
+
+Bauliche Anlagen, bei denen Blitzschlag **leicht eintreten oder zu schweren Folgen führen** kann, sind mit **dauernd wirksamen Blitzschutzanlagen** zu versehen.
+
+##","16239","4207","","","","","","","","",""
+"Q9","Multi-step","3","Welche Anforderungen bestehen an Rettungswege in Gebäuden?","RAG","DE-BB_§_29_Erster_und_zweiter_Rettun_1|DE-BB_§_29_Erster_und_zweiter_Rettun_0|DE-BB_§_25_Raumabschließende_Bauteil_1|DE-BB_§_31_Notwendige_Treppenräume_u_1|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_29_Erster_und_zweiter_Rettun_2|DE-BB_§_31_Notwendige_Treppenräume_u_0|DE-BB_§_30_Treppen_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7455","0","# Anforderungen an Rettungswege in Gebäuden nach brandenburgischem Bauordnungsrecht
+
+## 1. Grundanforderungen (§ 29 Abs. 1 BbgBO)
+
+Rettungswege müssen so **angeordnet und ausgebildet** sein, dass im Brandfall ihre Benutzung **ausreichend lange möglich** ist. Für Nutzungseinheiten mit mindestens einem Aufenthaltsraum (z.B. Wohnungen, Praxen) müssen in **jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege** ins Freie vorhanden sein. Beide Rettungswege dürfen dabei innerhalb des Geschosses über denselben notwendigen Flur führen.
+
+---
+
+## 2. Erster und zweiter Rettungsweg (§ 29 Abs. 2–3 BbgBO)
+
+- Der **erste Rettungsweg** muss bei nicht ebenerdigen Nutzungseinheiten über mindestens eine **notwendige Treppe** führen.
+- Der **zweite Rettungsweg** muss eine weitere notwendige Treppe oder eine **Außentreppe** sein.
+- Bei **Gebäuden geringer Höhe** darf der zweite Rettungsweg eine mit Rettungsgeräten der Feuerwehr erreichbare Stelle sein.
+- Bei **Gebäuden mittlerer Höhe** ist dies ebenfalls möglich, sofern die Feuerwehr über entsprechende Geräte (z.B. Hubrettungsfahrzeuge) verfügt – **nicht jedoch** bei Gebäuden für eine größere Personenzahl.
+
+---
+
+## 3. Notwendige Flure (§ 29 Abs. 4–5 BbgBO)
+
+- Notwendige Flure müssen so angeordnet sein, dass ihre Benutzung im Brandfall **ausreichend lange** möglich ist.
+- **Nicht** als notwendige Flure gelten:
+  - Flure innerhalb von Wohnungen
+  - Flure in Büro-/Verwaltungseinheiten bis 400 m² Grundfläche je Geschoss
+- Notwendige Flure mit **nur einer Fluchtrichtung** dürfen **nicht länger als 15 m** sein.
+- Flure von **mehr als 30 m Länge** sind durch **nichtabschließbare selbstschließende Rauchschutzabschlüsse** in Rauchabschnitte zu unterteilen, die bis unter die Rohdecke (ggf. bis unter feuerhemmende Unterdecke) zu führen sind.
+
+---
+
+## 4. Breite der Rettungswege (§ 29 Abs. 6 BbgBO)
+
+Die Breite richtet sich nach der **größtmöglichen Personenzahl**:
+
+| Situation | Mindestbreite |
+|---|---|
+| Allgemein (lichte Breite) | **1,00 m** |
+| In Wohnungen | **0,80 m** |
+| Treppen mit geringer Benutzung | **0,60 m** |
+| Bei Gebäuden für größere Personenzahl/Öffentlichkeit | **1,20 m je 200 Personen** |
+
+Staffelungen sind in Schritten von **0,60 m** zulässig.
+
+---
+
+## 5. Baustoffe in Rettungswegen (§ 29 Abs. 7 BbgBO)
+
+In baulichen Rettungswegen müssen:
+1. Bekleidungen, Putze, Dämmstoffe, Unterdecken und Einbauten aus **nichtbrennbaren Baustoffen** bestehen
+2. Raumabschließende Bauteile aus brennbaren Baustoffen","16825","4347","","","","","","","","",""
+"Q9","Multi-step","3","Welche Anforderungen bestehen an Rettungswege in Gebäuden?","GraphRAG","DE-BB_§_29_Erster_und_zweiter_Rettun_1|DE-BB_§_29_Erster_und_zweiter_Rettun_0|DE-BB_§_25_Raumabschließende_Bauteil_1|DE-BB_§_31_Notwendige_Treppenräume_u_1|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_29_Erster_und_zweiter_Rettun_2|DE-BB_§_31_Notwendige_Treppenräume_u_0|DE-BB_§_30_Treppen_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7455","0","# Anforderungen an Rettungswege in Gebäuden nach brandenburgischem Bauordnungsrecht
+
+## 1. Grundanforderungen (§ 29 Abs. 1 BbgBO)
+
+Rettungswege müssen so **angeordnet und ausgebildet** sein, dass im Brandfall ihre Benutzung **ausreichend lange möglich** ist. Für jede Nutzungseinheit mit mindestens einem Aufenthaltsraum müssen in **jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege** ins Freie vorhanden sein.
+
+> Beide Rettungswege dürfen innerhalb des Geschosses über denselben notwendigen Flur führen.
+
+Ein zweiter Rettungsweg ist entbehrlich, wenn:
+- die Rettung über einen **Sicherheitstreppenraum** möglich ist, oder
+- die Nutzungseinheit **zu ebener Erde** liegt und die Flucht ins Freie sicher möglich ist.
+
+---
+
+## 2. Erster und zweiter Rettungsweg (§ 29 Abs. 2–3 BbgBO)
+
+- Der **erste Rettungsweg** muss bei nicht zu ebener Erde liegenden Einheiten über **mindestens eine notwendige Treppe** führen.
+- Der **zweite Rettungsweg** muss eine **weitere notwendige Treppe oder eine Außentreppe** sein.
+- Bei **Gebäuden geringer Höhe** darf der zweite Rettungsweg eine **mit Rettungsgeräten der Feuerwehr erreichbare Stelle** sein.
+- Bei **Gebäuden mittlerer Höhe** gilt dies ebenfalls, sofern die Feuerwehr über die erforderlichen Geräte (z. B. Hubrettungsfahrzeuge) verfügt – **nicht jedoch** bei Gebäuden, die für eine **größere Zahl von Personen** bestimmt sind.
+
+---
+
+## 3. Notwendige Flure (§ 29 Abs. 4–5 BbgBO)
+
+Flure, über die Rettungswege führen (**notwendige Flure**), müssen so angeordnet sein, dass ihre Benutzung im Brandfall ausreichend lange möglich ist.
+
+**Ausnahmen** (gelten nicht als notwendige Flure):
+- Flure innerhalb von **Wohnungen**
+- Flure innerhalb von **Büro-/Verwaltungsnutzungen** bis 400 m² Grundfläche je Geschoss
+
+Bei einer **Länge von mehr als 30 m** sind notwendige Flure durch **nichtabschließbare selbstschließende Rauchschutzabschlüsse** in Rauchabschnitte zu unterteilen. Diese sind bis unter die Rohdecke zu führen.
+
+**Flure mit nur einer Fluchtrichtung** dürfen **nicht länger als 15 m** sein (§ 29 Abs. 6 Satz 1 BbgBO).
+
+---
+
+## 4. Breite der Rettungswege (§ 29 Abs. 6 BbgBO)
+
+Die Breite ist nach der **größtmöglichen Personenzahl** zu bemessen:
+
+| Situation | Mindestbreite |
+|---|---|
+| Allgemein (lichte Breite) | **1,00 m** |
+| In Wohnungen | **0,80 m** |
+| Treppen mit geringer Benutzung | **0,60 m** |
+| Bei Gebäuden für größere Personenzahlen | **1,20 m je 200 Personen** |
+
+Staffelungen sind in Schritten von **0,60 m** zulässig.
+
+---
+
+## 5. Baustoffanforderungen in Rettung","18122","4347","","","","","","","","",""
+"Q10","Multi-step","2","Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?","RAG","DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_4_Bebauung_der_Grundstücke_m_0|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_7_Nicht_überbaute_Flächen_de_0|DE-BB_§_4_Bebauung_der_Grundstücke_m_1|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_3_Allgemeine_Anforderungen_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.8251","0","# Voraussetzungen für die Bebauung von Grundstücken
+
+## Grundlegende Anforderungen nach § 4 BbgBO
+
+Gemäß **§ 4 Abs. 1 Brandenburg** dürfen Gebäude nur errichtet werden, wenn **drei kumulative Voraussetzungen** erfüllt sind:
+
+### 1. Eignung des Grundstücks
+Das Grundstück muss nach **Lage, Form, Größe und Beschaffenheit** für die beabsichtigte Bebauung geeignet sein (§ 4 Abs. 1 Nr. 1 BbgBO).
+
+### 2. Erschließung/Verkehrsanbindung
+Das Grundstück muss entweder:
+- in **angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche** liegen, **oder**
+- die Nutzung einer **befahrbaren Zufahrt** zu einer befahrbaren öffentlichen Verkehrsfläche muss **rechtlich gesichert** sein
+
+> **Ausnahme:** Für *Wohngebäude geringer Höhe* sind nicht befahrbare Wohnwege von **nicht mehr als 50 m Länge** zulässig (§ 4 Abs. 1 Nr. 2 BbgBO).
+
+### 3. Infrastrukturelle Erschließung
+Bis zum **Beginn der Benutzung** des Gebäudes müssen benutzbar sein:
+- die **Zufahrtswege**
+- die **Wasserversorgungsanlagen**
+- die **Abwasserbeseitigungsanlagen**
+
+(§ 4 Abs. 1 Nr. 3 BbgBO)
+
+---
+
+## Bebauung auf mehreren Grundstücken
+
+Nach **§ 4 Abs. 2 BbgBO** ist die Errichtung eines Gebäudes auf **mehreren Grundstücken** zulässig, wenn rechtlich gesichert ist, dass keine dem Gesetz widersprechenden Verhältnisse eintreten können.
+
+---
+
+## Weitere Anforderungen
+
+Zusätzlich zu den grundstücksbezogenen Voraussetzungen sind zu beachten:
+
+- **Allgemeine Anforderungen** nach § 3 Abs. 1 BbgBO: Bauliche Anlagen dürfen die öffentliche Sicherheit und Ordnung nicht gefährden und müssen die natürlichen Lebensgrundlagen schonen.
+- **Nicht überbaute Flächen** nach § 7 Abs. 1 BbgBO müssen wasseraufnahmefähig belassen und begrünt werden.
+- **Stellplätze** müssen nach § 43 Abs. 1 BbgBO gemäß örtlicher Bauvorschrift hergestellt werden.","13649","3771","","","","","","","","",""
+"Q10","Multi-step","2","Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?","GraphRAG","DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_4_Bebauung_der_Grundstücke_m_0|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_7_Nicht_überbaute_Flächen_de_0|DE-BB_§_4_Bebauung_der_Grundstücke_m_1|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_3_Allgemeine_Anforderungen_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.8251","0","# Voraussetzungen für die Bebauung von Grundstücken
+
+## Grundlegende Voraussetzungen nach § 4 BbgBO
+
+Gemäß **§ 4 Abs. 1 BbgBO** dürfen Gebäude nur errichtet werden, wenn kumulativ folgende Voraussetzungen erfüllt sind:
+
+### 1. Eignung des Grundstücks
+Das Grundstück muss nach **Lage, Form, Größe und Beschaffenheit** für die beabsichtigte Bebauung geeignet sein (§ 4 Abs. 1 Nr. 1 BbgBO).
+
+### 2. Erschließung/Zugang
+Das Grundstück muss entweder:
+- **in angemessener Breite an einer befahrbaren öffentlichen Verkehrsfläche liegen**, oder
+- die **Nutzung einer befahrbaren Zufahrt** zu einer öffentlichen Verkehrsfläche muss **rechtlich gesichert** sein.
+
+> **Ausnahme:** Für Wohngebäude geringer Höhe sind nicht befahrbare Wohnwege von **nicht mehr als 50 m Länge** zulässig (§ 4 Abs. 1 Nr. 2 BbgBO).
+
+### 3. Infrastruktur bei Benutzungsbeginn
+Bis zum Beginn der Benutzung des Gebäudes müssen folgende Anlagen **benutzbar** sein (§ 4 Abs. 1 Nr. 3 BbgBO):
+- Zufahrtswege
+- Wasserversorgungsanlagen
+- Abwasserbeseitigungsanlagen
+
+---
+
+## Weitere Anforderungen
+
+### Allgemeine Anforderungen (§ 3 Abs. 1 BbgBO)
+Bauliche Anlagen sind so zu errichten, dass:
+- die **öffentliche Sicherheit und Ordnung** nicht gefährdet wird,
+- sie ihrem **Zweck entsprechend dauerhaft** benutzbar sind,
+- die **natürlichen Lebensgrundlagen** geschont werden.
+
+### Nicht überbaute Flächen (§ 7 Abs. 1 BbgBO)
+Die nicht überbauten Grundstücksflächen sind:
+- **wasseraufnahmefähig** zu belassen oder herzustellen,
+- zu **begrünen oder zu bepflanzen**, soweit dem keine andere zulässige Verwendung entgegensteht.
+
+---
+
+## Bebauung auf mehreren Grundstücken (§ 4 Abs. 2 BbgBO)
+
+Die Errichtung eines Gebäudes auf **mehreren Grundstücken** ist zulässig, wenn rechtlich gesichert ist, dass keine den Vorschriften widersprechenden Verhältnisse eintreten können.
+
+---
+
+## Grundstücksteilung (§ 4 Abs. 3 BbgBO)
+
+Bei der **Teilung** eines bebauten Grundstücks dürfen keine Verhältnisse geschaffen werden, die insbesondere den Vorschriften über:
+- Abstandsflächen,
+- Brandschutz und
+- Erschließung
+
+zuwiderlaufen.","14433","3878","","","","","","","","",""
+"Q11","Cross-concept","3","Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?","RAG","DE-BB_§_12_Brandschutz_0|DE-BB_§_25_Raumabschließende_Bauteil_0|DE-BB_§_66_Bautechnische_Nachweise_1|DE-BB_§_28_Dächer_0|DE-BB_§_24_Tragende_oder_aussteifend_0|DE-BB_§_27_Außenwände_1|DE-BB_§_23_Allgemeine_Anforderungen__0|DE-BB_§_26_Brandwände_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.8130","0","# Zusammenhänge zwischen Brandschutzanforderungen und Gebäudeklasse im brandenburgischen Bauordnungsrecht
+
+## 1. Grundprinzip: Gestaffelte Anforderungen nach Gebäudehöhe
+
+Das brandenburgische Bauordnungsrecht knüpft Brandschutzanforderungen systematisch an die **Gebäudehöhe** (unterschieden in „Gebäude geringer Höhe"" und „Gebäude mittlerer Höhe""), sodass höhere Gebäude strengere Brandschutzanforderungen erfüllen müssen.
+
+---
+
+## 2. Tragende und aussteifende Bauteile (§ 24 BbgBO)
+
+Nach **§ 24 Abs. 2** gilt für tragende oder aussteifende Bauteile (Wände, Stützen, Decken):
+
+- **Regelfall:** Diese müssen **feuerbeständig** sein (90 Minuten Standsicherheit gemäß § 23 Abs. 1 Nr. 3)
+- **Gebäude geringer Höhe:** Es genügt mindestens **feuerhemmend** (30 Minuten, § 23 Abs. 1 Nr. 1)
+- **Keller in Gebäuden geringer Höhe mit mehr als zwei Nutzungseinheiten:** Hier gilt wieder **feuerbeständig**, also die strengere Anforderung
+
+Für **Gebäude mittlerer Höhe** mit Dachaufenthaltsräumen gilt nach **§ 24 Abs. 3**:
+- Tragende Bauteile im Dachraum: mindestens **hochfeuerhemmend** (60 Minuten)
+- Im obersten Geschoss: **feuerhemmend** genügend
+
+---
+
+## 3. Raumabschließende Bauteile (§ 25 BbgBO)
+
+Dieselbe Systematik gilt für Decken und Trennwände:
+
+- **Regelfall:** **feuerbeständig**
+- **Gebäude geringer Höhe:** mindestens **feuerhemmend** (§ 25 Abs. 2 Satz 1)
+- **Keller in Gebäuden geringer Höhe mit mehr als zwei Nutzungseinheiten:** **feuerbeständig** (§ 25 Abs. 2 Satz 2)
+- **Gebäude mittlerer Höhe** mit Dachaufenthaltsräumen: mindestens **hochfeuerhemmend**, im obersten Geschoss **feuerhemmend** (§ 25 Abs. 3)
+
+---
+
+## 4. Anforderungen an Baustoffe in Abhängigkeit von der Feuerwiderstandsklasse (§ 23 BbgBO)
+
+Die Anforderungen an die **Baustoffqualität** steigen mit den Brandschutzklassen:
+
+| Feuerwiderstandsklasse | Mindestdauer | Baustoffanforderung |
+|---|---|---|
+| Feuerhemmend | 30 Minuten | keine spezifische Materialvorgabe |
+| Hochfeuerhemmend | 60 Minuten | bei brennbaren Traganteilen: allseitige Bekleidung + Dämmung aus **nichtbrennbaren** Baustoffen (§ 23 Abs. 2) |
+| Feuerbeständig | 90 Minuten | tragende Teile aus **nichtbrennbaren** Baustoffen (§ 23 Abs. 3); raumabschließend: durchgehende Schicht aus **nichtbrennbaren** Baustoffen (§ 23 Abs. 4) |
+
+---
+
+## 5. Brandwände (§ 26 BbgBO)
+
+Brandwände stellen die **höchste Schut","14418","4084","","","","","","","","",""
+"Q11","Cross-concept","3","Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?","GraphRAG","DE-BB_§_12_Brandschutz_0|DE-BB_§_25_Raumabschließende_Bauteil_0|DE-BB_§_66_Bautechnische_Nachweise_1|DE-BB_§_28_Dächer_0|DE-BB_§_24_Tragende_oder_aussteifend_0|DE-BB_§_27_Außenwände_1|DE-BB_§_23_Allgemeine_Anforderungen__0|DE-BB_§_26_Brandwände_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.8130","0","# Zusammenhänge zwischen Brandschutzanforderungen und Gebäudeklasse
+
+## Grundprinzip
+
+Die Brandschutzanforderungen in Brandenburg sind **gestaffelt nach der Höhe bzw. Gebäudeklasse** des jeweiligen Gebäudes. Dabei gilt der Grundsatz: Je höher das Gebäude, desto strenger die Anforderungen.
+
+---
+
+## 1. Tragende und aussteifende Bauteile (§ 24 BbgBO)
+
+Gemäß **§ 24 Abs. 2** gilt:
+
+| Gebäudetyp | Mindestanforderung |
+|---|---|
+| Gebäude geringer Höhe | **feuerhemmend** (30 Minuten, § 23 Abs. 1 Nr. 1) |
+| Übrige Gebäude | **feuerbeständig** (90 Minuten, § 23 Abs. 1 Nr. 3) |
+
+> **Ausnahme:** Im Keller von Gebäuden geringer Höhe mit **mehr als zwei Nutzungseinheiten** müssen tragende Bauteile trotzdem **feuerbeständig** sein (§ 24 Abs. 2 Satz 2).
+
+Für **Gebäude mittlerer Höhe** mit Aufenthaltsräumen im Dachraum gelten nach **§ 24 Abs. 3** abgestufte Regelungen:
+- Dachraum: mindestens **hochfeuerhemmend** (60 Minuten)
+- Oberstes Geschoss: **feuerhemmend** genügt
+
+---
+
+## 2. Raumabschließende Bauteile (§ 25 BbgBO)
+
+Nach **§ 25 Abs. 2** gilt dieselbe Grundstaffelung:
+
+- **Gebäude geringer Höhe:** mindestens **feuerhemmend**
+- **Übrige Gebäude:** **feuerbeständig**
+
+> Auch hier: Im **Keller von Gebäuden geringer Höhe** mit mehr als zwei Nutzungseinheiten sind **feuerbeständige** Bauteile erforderlich (§ 25 Abs. 2 Satz 2).
+
+Für **Gebäude mittlerer Höhe** mit Dachgeschossausbau gelten nach **§ 25 Abs. 3** entsprechende Abstufungen wie bei § 24 Abs. 3.
+
+---
+
+## 3. Abstufung der Feuerwiderstandsklassen (§ 23 BbgBO)
+
+Die Anforderungen werden durch **§ 23 Abs. 1** konkretisiert:
+
+- **Feuerhemmend:** 30 Minuten Widerstand
+- **Hochfeuerhemmend:** 60 Minuten Widerstand
+- **Feuerbeständig:** 90 Minuten Widerstand
+
+Dabei sind an **feuerbeständige Bauteile** nach **§ 23 Abs. 3 und 4** besondere Materialanforderungen geknüpft:
+- Tragende Teile: **nichtbrennbare Baustoffe**
+- Raumabschließende Ebene: **durchgehende Schicht aus nichtbrennbaren Baustoffen**
+
+---
+
+## 4. Brandwände (§ 26 BbgBO)
+
+Brandwände sind unabhängig von der Gebäudeklasse stets:
+- aus **nichtbrennbaren Baustoffen**
+- **feuerbeständig**, auch unter mechanischer Beanspruchung (§ 26 Abs. 1 Satz 3)
+
+---
+
+## 5. Bedachung (§ 28 BbgBO)
+
+Für **Gebäude geringer Höhe** bestehen Sonderregelungen","16134","4084","","","","","","","","",""
+"Q12","Structured","2","Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?","RAG","DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_4_Bebauung_der_Grundstücke_m_0|DE-BB_§_28_Dächer_0|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_81_Örtliche_Bauvorschriften_0|DE-BB_§_10_Baustelle_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_3_Abs._1_besondere_Anforderu_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.8229","0","# Regelungen für Stellplätze im Zusammenhang mit Gebäuden
+
+## 1. Herstellungspflicht (§ 43 Abs. 1 BbgBO)
+
+Bei der **Errichtung oder Nutzungsänderung** von baulichen Anlagen sowie anderen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer **örtlichen Bauvorschrift nach § 81 BbgBO** festgesetzten notwendigen Stellplätze hergestellt werden.
+
+## 2. Standort der Stellplätze (§ 43 Abs. 2 BbgBO)
+
+Die notwendigen Stellplätze sind herzustellen:
+- **auf dem Baugrundstück selbst**, oder
+- in **zumutbarer Entfernung** auf einem geeigneten Grundstück, dessen Benutzung für diesen Zweck **rechtlich gesichert** ist.
+
+## 3. Stellplatzablösevertrag (§ 43 Abs. 3 und 4 BbgBO)
+
+Anstelle der tatsächlichen Herstellung kann die Gemeinde mit dem Bauherrn einen **öffentlich-rechtlichen Stellplatzablösevertrag** schließen:
+- Der Bauherr kann seine Herstellungspflicht **ganz oder teilweise durch Zahlung eines Geldbetrages** ablösen.
+- Der Zahlungsanspruch der Gemeinde entsteht **mit Baubeginn**.
+- Die Höhe des Geldbetrages **je Stellplatz** soll den anteiligen durchschnittlichen **Grunderwerbs- und Herstellungskosten für 25 m² Stellplatz- und Bewegungsfläche** entsprechen (§ 43 Abs. 4 BbgBO).
+
+## 4. Verfahrensrechtliche Besonderheit (§ 58 Abs. 1 BbgBO)
+
+Für die Errichtung und Änderung von **Wohngebäuden geringer Höhe einschließlich der zugehörigen Stellplätze** kann im Geltungsbereich eines rechtswirksamen Bebauungsplans auf Wunsch des Bauherrn ein vereinfachtes **Bauanzeigeverfahren** durchgeführt werden, sofern das Vorhaben den Festsetzungen des Bebauungsplans nicht widerspricht und die Erschließung gesichert ist.
+
+## Zusammenfassung
+
+Die Regelungen verfolgen das Ziel, ausreichend Kraftfahrzeugstellplätze für bauliche Anlagen sicherzustellen. Die Gemeinde legt den konkreten Bedarf durch **örtliche Bauvorschrift** fest (§ 81 BbgBO). Kann oder will der Bauherr die Stellplätze nicht selbst herstellen, besteht die Möglichkeit der **finanziellen Ablösung** durch Vertrag mit der Gemeinde.","15728","3881","","","","","","","","",""
+"Q12","Structured","2","Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?","GraphRAG","DE-BB_§_43_Stellplätze_und_Garagen,__0|DE-BB_§_4_Bebauung_der_Grundstücke_m_0|DE-BB_§_28_Dächer_0|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_81_Örtliche_Bauvorschriften_0|DE-BB_§_10_Baustelle_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_3_Abs._1_besondere_Anforderu_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.8229","0","# Regelungen für Stellplätze im Zusammenhang mit Gebäuden
+
+## 1. Herstellungspflicht (§ 43 Abs. 1 BbgBO)
+
+Bei der **Errichtung oder Nutzungsänderung** von baulichen Anlagen, bei denen ein Zu- oder Abgangsverkehr mittels Kraftfahrzeugen zu erwarten ist, müssen die durch die Gemeinde in einer **örtlichen Bauvorschrift nach § 81 BbgBO festgesetzten notwendigen Stellplätze** hergestellt werden.
+
+## 2. Standort der Stellplätze (§ 43 Abs. 2 BbgBO)
+
+Die notwendigen Stellplätze sind herzustellen:
+- **auf dem Baugrundstück selbst**, oder
+- **in zumutbarer Entfernung** auf einem geeigneten Grundstück, dessen Benutzung für diesen Zweck **rechtlich gesichert** ist.
+
+## 3. Stellplatzablöse (§ 43 Abs. 3 und 4 BbgBO)
+
+Anstelle der tatsächlichen Herstellung kann die Verpflichtung durch einen **öffentlich-rechtlichen Vertrag (Stellplatzablösevertrag)** abgelöst werden:
+- Die Gemeinde kann mit dem Bauherrn vereinbaren, dass die Pflicht **ganz oder teilweise durch Zahlung eines Geldbetrages** abgelöst wird.
+- Der Zahlungsanspruch entsteht **mit Baubeginn**.
+- Der Geldbetrag je Stellplatz soll den **anteiligen durchschnittlichen Grunderwerbs- und Herstellungskosten für 25 m² Stellplatz- und Bewegungsfläche** entsprechen (§ 43 Abs. 4 BbgBO).
+
+## 4. Verfahrensrechtlicher Aspekt (§ 58 Abs. 1 BbgBO)
+
+Für die Errichtung und Änderung von **Wohngebäuden geringer Höhe einschließlich der zugehörigen Stellplätze** kann im Geltungsbereich eines qualifizierten Bebauungsplans auf Wunsch des Bauherrn ein vereinfachtes **Bauanzeigeverfahren** durchgeführt werden.
+
+## Zusammenfassung
+
+Die Stellplatzpflicht beruht auf einer **zweistufigen Regelung**: Die Gemeinde legt den konkreten Bedarf durch örtliche Bauvorschrift fest (§ 81 BbgBO), während § 43 BbgBO die **Herstellungspflicht, den Standort und die Möglichkeit der Ablöse** normiert.","14169","3810","","","","","","","","",""
+"Q13","Exception/Procedure","3","Wann ist ein Bauvorhaben verfahrensfrei?","RAG","DE-BB_§_63_Behandlung_des_Bauantrags_0|DE-BB_§_69_Geltungsdauer_der_Genehmi_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_73_Baueinstellung_und_Nutzun_0|DE-BB_§_57_Vereinfachtes_Baugenehmig_0|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7033","0","# Verfahrensfreiheit von Bauvorhaben nach brandenburgischem Bauordnungsrecht
+
+## Grundsätzliches
+
+Aus den bereitgestellten Gesetzesauszügen lässt sich keine direkte und abschließende Regelung zur **Verfahrensfreiheit** von Bauvorhaben entnehmen. Die vorliegenden Auszüge regeln primär das reguläre Baugenehmigungsverfahren sowie Sonderverfahren.
+
+## Relevante Verfahrensarten aus den Auszügen
+
+Die bereitgestellten Paragraphen beschreiben folgende Verfahrensarten:
+
+### 1. Reguläres Baugenehmigungsverfahren (§ 63 BbgBO)
+- Standardverfahren mit vollständigen Bauvorlagen
+- Prüfung durch die Bauaufsichtsbehörde
+- Einholung von Stellungnahmen anderer Behörden
+
+### 2. Vereinfachtes Baugenehmigungsverfahren (§ 57 BbgBO)
+Gilt für:
+- Wohngebäude **geringer und mittlerer Höhe** einschließlich Garagen, Nebengebäude und Nebenanlagen
+- Im Geltungsbereich eines **rechtswirksamen Bebauungsplans** (§ 30 Abs. 1 oder 2 BauGB)
+- Wenn das Vorhaben den Festsetzungen **nicht widerspricht** und die **Erschließung gesichert** ist
+
+### 3. Bauanzeigeverfahren (§ 58 BbgBO)
+Gilt für:
+- Wohngebäude **geringer Höhe** einschließlich Stellplätze, Garagen und Nebenanlagen
+- Gewächshäuser mit **nicht mehr als 5 m Höhe**
+- Im Geltungsbereich eines **rechtswirksamen Bebauungsplans** (§ 30 Abs. 1 oder 2 BauGB)
+- Wenn das Vorhaben den Festsetzungen **nicht widerspricht** und die **Erschließung gesichert** ist
+
+> Beim Bauanzeigeverfahren darf mit der Bauausführung **nach Ablauf eines Monats** nach Eingang der Bauanzeige begonnen werden, sofern die Behörde die Ausführung nicht untersagt hat (§ 58 Abs. 3 BbgBO).
+
+## Fazit
+
+Auf Basis der **vorliegenden Gesetzesauszüge** lässt sich die Frage nach der vollständigen Verfahrensfreiheit **nicht abschließend beantworten**. Die Auszüge enthalten keine Regelung, die bestimmte Vorhaben ausdrücklich als verfahrensfrei bezeichnet. Für eine vollständige Antwort wäre insbesondere der **§ 55 BbgBO** (Verfahrensfreie Bauvorhaben) erforderlich, der in den bereitgestellten Auszügen nicht enthalten ist.","13141","3614","","","","","","","","",""
+"Q13","Exception/Procedure","3","Wann ist ein Bauvorhaben verfahrensfrei?","GraphRAG","DE-BB_§_63_Behandlung_des_Bauantrags_0|DE-BB_§_69_Geltungsdauer_der_Genehmi_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_73_Baueinstellung_und_Nutzun_0|DE-BB_§_57_Vereinfachtes_Baugenehmig_0|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7033","0","# Verfahrensfreie Bauvorhaben nach Brandenburgischem Bauordnungsrecht
+
+## Grundsätzliche Feststellung
+
+Auf Basis der bereitgestellten Gesetzesauszüge lässt sich keine **abschließende und direkte** Regelung zu verfahrensfreien Bauvorhaben entnehmen. Die vorgelegten Paragraphen behandeln primär das **reguläre Baugenehmigungsverfahren**, das **vereinfachte Baugenehmigungsverfahren** und das **Bauanzeigeverfahren**.
+
+---
+
+## Was die Auszüge zeigen: Abgestufte Verfahren
+
+Die bereitgestellten Normen regeln folgende **Verfahrensarten**:
+
+### 1. Reguläres Baugenehmigungsverfahren (§ 56 BbgBO, referenziert in §§ 57, 58)
+- Grundsätzlich genehmigungspflichtig
+- Prüfung durch Bauaufsichtsbehörde
+
+### 2. Vereinfachtes Baugenehmigungsverfahren (§ 57 BbgBO)
+Voraussetzungen:
+- Wohngebäude **geringer und mittlerer Höhe**
+- Im Geltungsbereich eines **rechtswirksamen Bebauungsplans** (§ 30 Abs. 1 oder 2 BauGB)
+- Kein Widerspruch zu den Festsetzungen des Bebauungsplans
+- Gesicherte Erschließung
+- Schriftliche Erklärung des Objektplaners über Rechtmäßigkeit
+
+### 3. Bauanzeigeverfahren (§ 58 BbgBO)
+Voraussetzungen:
+- Wohngebäude **geringer Höhe** oder Gewächshäuser bis 5 m Höhe
+- Im Geltungsbereich eines **rechtswirksamen Bebauungsplans**
+- Kein Widerspruch zu Festsetzungen, gesicherte Erschließung
+- Baubeginn möglich nach **einem Monat** nach Eingang der Bauanzeige (§ 58 Abs. 3)
+
+---
+
+## Hinweis auf Baubeginn ohne Genehmigung
+
+Gemäß **§ 68 Abs. 1** darf mit der Bauausführung erst begonnen werden, wenn:
+> *„eine erforderliche Baugenehmigung vorliegt oder die Voraussetzung des § 58 Abs. 3 Satz 1 erfüllt ist""*
+
+Dies impliziert, dass **nicht alle Vorhaben** einer Baugenehmigung bedürfen – verweist aber auf eine **nicht beigefügte Norm** (vermutlich § 55 oder § 56 BbgBO) für die konkreten Tatbestände verfahrensfreier Vorhaben.
+
+---
+
+## Ergebnis
+
+> ⚠️ **Die bereitgestellten Gesetzesauszüge enthalten keine explizite Regelung zu verfahrensfreien Bauvorhaben.** Eine vollständige Antwort erfordert den Wortlaut des entsprechenden Paragraphen (in Brandenburg voraussichtlich **§ 55 BbgBO**), der in den vorliegenden Auszügen **nicht enthalten** ist.
+
+Auf Grundlage der vorliegenden Auszüge kann nur festgestellt werden, dass es **abgestufte Verfahren** gibt (§§ 57, 58 BbgBO), jedoch keine Aussage über vollständige Verfahrensfreiheit getroffen werden kann.","16835","3767","","","","","","","","",""
+"Q14","Multi-step","3","Welche Folgen kann Bauen ohne Genehmigung haben?","RAG","DE-BB_§_67_Baugenehmigung_1|DE-BB_§_18_Bauarten_0|DE-BB_§_57_Vereinfachtes_Baugenehmig_0|DE-BB_§_73_Baueinstellung_und_Nutzun_0|DE-BB_§_55_Genehmigungsfreie_Vorhabe_0|DE-BB_§_55_Genehmigungsfreie_Vorhabe_11|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_72_Zustimmung_zu_Vorhaben_öf_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7145","0","# Folgen des Bauens ohne Genehmigung nach brandenburgischem Bauordnungsrecht
+
+## 1. Baueinstellung (§ 73 Abs. 1 BbgBO)
+
+Die Bauaufsichtsbehörde **kann die Einstellung der Bauarbeiten anordnen**, wenn ein genehmigungspflichtiges Bauvorhaben ohne die erforderliche Genehmigung begonnen wurde. Dies ergibt sich ausdrücklich aus:
+
+> **§ 73 Abs. 1 Nr. 1 BbgBO:** „Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde.""
+
+## 2. Versiegelung der Baustelle / Beschlagnahme (§ 73 Abs. 2 BbgBO)
+
+Werden die unzulässigen Bauarbeiten trotz angeordneter Einstellung **fortgesetzt**, verschärfen sich die Konsequenzen erheblich:
+
+> **§ 73 Abs. 2 BbgBO:** „[…] so soll die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen.""
+
+## 3. Nutzungsuntersagung (§ 73 Abs. 3 BbgBO)
+
+Wird eine bauliche Anlage **im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt**, kann die Nutzung untersagt werden:
+
+> **§ 73 Abs. 3 BbgBO:** „Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden.""
+
+## 4. Wichtiger Hinweis: Genehmigungsfreiheit schützt nicht vor materiellen Anforderungen
+
+Selbst bei **genehmigungsfreien Vorhaben** (§ 55 BbgBO) bleibt die Pflicht bestehen, alle öffentlich-rechtlichen Vorschriften einzuhalten:
+
+> **§ 55 Abs. 1 BbgBO:** „Die Genehmigungsfreiheit […] entbindet nicht von der Verpflichtung, die durch öffentlich-rechtliche Vorschriften an bauliche Anlagen […] gestellten Anforderungen einzuhalten.""
+
+---
+
+## Zusammenfassung
+
+| Folge | Rechtsgrundlage |
+|---|---|
+| Baueinstellung | § 73 Abs. 1 Nr. 1 BbgBO |
+| Versiegelung / amtlicher Gewahrsam | § 73 Abs. 2 BbgBO |
+| Nutzungsuntersagung | § 73 Abs. 3 BbgBO |
+
+Das Bauen ohne erforderliche Genehmigung kann damit sowohl den **sofortigen Baustopp** als auch weitreichende **Sicherungsmaßnahmen** nach sich ziehen.","12642","4217","","","","","","","","",""
+"Q14","Multi-step","3","Welche Folgen kann Bauen ohne Genehmigung haben?","GraphRAG","DE-BB_§_67_Baugenehmigung_1|DE-BB_§_18_Bauarten_0|DE-BB_§_57_Vereinfachtes_Baugenehmig_0|DE-BB_§_73_Baueinstellung_und_Nutzun_0|DE-BB_§_55_Genehmigungsfreie_Vorhabe_0|DE-BB_§_55_Genehmigungsfreie_Vorhabe_11|DE-BB_§_58_Bauanzeigeverfahren_0|DE-BB_§_72_Zustimmung_zu_Vorhaben_öf_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7145","0","# Folgen des Bauens ohne Genehmigung nach brandenburgischem Bauordnungsrecht
+
+## 1. Baueinstellung (§ 73 Abs. 1 BbgBO)
+
+Die Bauaufsichtsbehörde **kann die Einstellung der Bauarbeiten anordnen**, wenn ein genehmigungspflichtiges Bauvorhaben ohne die erforderliche Genehmigung begonnen wurde. Dies ergibt sich ausdrücklich aus:
+
+> *„Die Bauaufsichtsbehörde kann die Einstellung der Bauarbeiten anordnen, wenn die Ausführung eines genehmigungspflichtigen Bauvorhabens entgegen § 68 begonnen wurde""* (§ 73 Abs. 1 Nr. 1 BbgBO)
+
+## 2. Versiegelung der Baustelle / Amtlicher Gewahrsam (§ 73 Abs. 2 BbgBO)
+
+Werden die unzulässigen Bauarbeiten trotz einer Einstellungsverfügung **fortgesetzt**, verschärfen sich die Konsequenzen erheblich:
+
+> *„[S]o soll die Bauaufsichtsbehörde die Baustelle versiegeln oder die an der Baustelle vorhandenen Bauprodukte, Geräte, Maschinen und Bauhilfsmittel in amtlichen Gewahrsam nehmen.""* (§ 73 Abs. 2 BbgBO)
+
+## 3. Nutzungsuntersagung (§ 73 Abs. 3 BbgBO)
+
+Wird eine bauliche Anlage **im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt**, kann die Nutzung untersagt werden:
+
+> *„Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden.""* (§ 73 Abs. 3 BbgBO)
+
+---
+
+## Hinweis: Genehmigungsfreiheit
+
+Nicht jedes Bauen ohne förmliche Genehmigung ist rechtswidrig. § 55 BbgBO sieht für bestimmte Vorhaben **Genehmigungsfreiheit** vor. Allerdings gilt dabei:
+
+> *„Die Genehmigungsfreiheit [...] entbindet nicht von der Verpflichtung, die durch öffentlich-rechtliche Vorschriften an bauliche Anlagen [...] gestellten Anforderungen einzuhalten.""* (§ 55 Abs. 1 BbgBO)
+
+---
+
+## Zusammenfassung
+
+| Maßnahme | Rechtsgrundlage | Voraussetzung |
+|---|---|---|
+| Baueinstellung | § 73 Abs. 1 Nr. 1 BbgBO | Baubeginn ohne Genehmigung |
+| Baustellen-versiegelung / Gewahrsam | § 73 Abs. 2 BbgBO | Fortführung trotz Einstellung |
+| Nutzungsuntersagung | § 73 Abs. 3 BbgBO | Rechtswidrige Nutzung |","12176","4214","","","","","","","","",""
+"Q15","Exception/Procedure","3","Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?","RAG","DE-BB_§_74_Beseitigungsanordnung_0|DE-BB_§_18_Bauarten_0|DE-BB_§_73_Baueinstellung_und_Nutzun_0|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_78_Anpassung_bestehender_bau_0|DE-BB_§_4_Bebauung_der_Grundstücke_m_1|DE-BB_§_71_Besondere_Verfahrensvorsc_3|DE-BB_§_14_Bauprodukte_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7545","0","# Bedingungen für die Nutzungsuntersagung einer baulichen Anlage
+
+## Zentrale Rechtsgrundlage
+
+Die maßgebliche Vorschrift für die Nutzungsuntersagung findet sich in **§ 73 Abs. 3 BbgBO**:
+
+> *„Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden.""*
+
+## Voraussetzungen im Einzelnen
+
+### 1. Widerspruch zu öffentlich-rechtlichen Vorschriften
+Die Nutzung der baulichen Anlage muss **gegen öffentlich-rechtliche Vorschriften verstoßen**. Dies kann beispielsweise der Fall sein, wenn:
+- die Nutzung ohne die erforderliche Baugenehmigung erfolgt,
+- die tatsächliche Nutzung von der genehmigten Nutzung abweicht,
+- sonstige baurechtliche Vorschriften verletzt werden.
+
+### 2. Ermessensentscheidung der Behörde
+Die Nutzungsuntersagung steht im **Ermessen der Bauaufsichtsbehörde** („kann untersagt werden""). Die Behörde ist also nicht zwingend zum Einschreiten verpflichtet, sondern prüft das Einschreiten nach pflichtgemäßem Ermessen.
+
+## Abgrenzung zu weiteren Maßnahmen
+
+| Maßnahme | Rechtsgrundlage | Voraussetzung |
+|----------|----------------|---------------|
+| **Nutzungsuntersagung** | § 73 Abs. 3 BbgBO | Nutzung im Widerspruch zu öffentlich-rechtlichen Vorschriften |
+| **Baueinstellung** | § 73 Abs. 1 BbgBO | Rechtswidriger Beginn oder Fortführung von Bauarbeiten |
+| **Beseitigungsanordnung** | § 74 Abs. 1 BbgBO | Errichtung/Änderung im Widerspruch zu Vorschriften, wenn rechtmäßige Zustände nicht anders herstellbar |
+
+## Ergänzende Hinweise
+
+Bei **Fliegenden Bauten** kann die Bauaufsichtsbehörde nach **§ 71 Abs. 7 BbgBO** den Gebrauch zusätzlich untersagen, wenn:
+- die Betriebssicherheit oder Standsicherheit nicht gewährleistet ist, oder
+- von der Ausführungsgenehmigung abgewichen wird.
+
+---
+
+**Fazit:** Die Nutzung einer baulichen Anlage kann gemäß **§ 73 Abs. 3 BbgBO** untersagt werden, sobald sie im Widerspruch zu öffentlich-rechtlichen Vorschriften steht. Die Untersagung liegt dabei im Ermessen der Bauaufsichtsbehörde.","12587","3707","","","","","","","","",""
+"Q15","Exception/Procedure","3","Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?","GraphRAG","DE-BB_§_74_Beseitigungsanordnung_0|DE-BB_§_18_Bauarten_0|DE-BB_§_73_Baueinstellung_und_Nutzun_0|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_78_Anpassung_bestehender_bau_0|DE-BB_§_4_Bebauung_der_Grundstücke_m_1|DE-BB_§_71_Besondere_Verfahrensvorsc_3|DE-BB_§_14_Bauprodukte_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7545","0","# Nutzungsuntersagung baulicher Anlagen nach brandenburgischem Bauordnungsrecht
+
+## Rechtsgrundlage
+
+Die zentrale Regelung zur Nutzungsuntersagung findet sich in **§ 73 Abs. 3 BbgBO**:
+
+> *„Werden bauliche Anlagen im Widerspruch zu öffentlich-rechtlichen Vorschriften genutzt, so kann diese Nutzung untersagt werden.""*
+
+## Voraussetzungen im Einzelnen
+
+### 1. Widerspruch zu öffentlich-rechtlichen Vorschriften
+Die Nutzung der baulichen Anlage muss **objektiv rechtswidrig** sein, d.h. sie muss gegen öffentlich-rechtliche Vorschriften verstoßen. Dies umfasst insbesondere:
+- Verstöße gegen baurechtliche Vorschriften
+- Nutzung ohne erforderliche Baugenehmigung
+- Nutzungsänderungen entgegen genehmigter Zweckbestimmung
+
+### 2. Ermessensentscheidung der Behörde
+Die Nutzungsuntersagung ist als **Kann-Vorschrift** ausgestaltet. Die Bauaufsichtsbehörde hat demnach einen **Ermessensspielraum**, ob sie einschreitet.
+
+## Verhältnis zu anderen Maßnahmen
+
+Die Nutzungsuntersagung nach **§ 73 Abs. 3 BbgBO** steht neben weiteren behördlichen Maßnahmen:
+
+| Maßnahme | Rechtsgrundlage | Voraussetzung |
+|---|---|---|
+| Baueinstellung | § 73 Abs. 1 BbgBO | Rechtswidrigkeit bei der *Ausführung* |
+| Nutzungsuntersagung | § 73 Abs. 3 BbgBO | Rechtswidrigkeit bei der *Nutzung* |
+| Beseitigung | § 74 Abs. 1 BbgBO | Keine andere Möglichkeit zur Herstellung rechtmäßiger Zustände |
+
+## Ergänzender Hinweis
+
+Für **Fliegende Bauten** gilt eine spezielle Regelung: Nach **§ 71 Abs. 7 BbgBO** kann die zuständige untere Bauaufsichtsbehörde den **Gebrauch** untersagen, wenn dies nach örtlichen Verhältnissen oder zur Abwehr von Gefahren erforderlich ist – insbesondere bei mangelnder Betriebs- oder Standsicherheit oder Abweichung von der Ausführungsgenehmigung.
+
+## Zusammenfassung
+
+Die Nutzung einer baulichen Anlage kann untersagt werden, wenn sie **im Widerspruch zu öffentlich-rechtlichen Vorschriften** erfolgt (§ 73 Abs. 3 BbgBO). Die Behörde entscheidet nach pflichtgemäßem Ermessen; eine Nutzungsuntersagung kommt als milderes Mittel gegenüber einer Beseitigungsanordnung nach § 74 BbgBO in Betracht.","13769","3758","","","","","","","","",""
+"Q16","Exception/Procedure","3","Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?","RAG","DE-BB_§_80_Ermächtigung_zum_Erlass_v_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_4|DE-BB_§_60_Zulassung_von_Abweichunge_0|DE-BB_§_65_Rechtliche_Sicherung_0|DE-BB_§_78_Anpassung_bestehender_bau_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_1|DE-BB_§_14_Bauprodukte_3|DE-BB_§_45_Barrierefreies_Bauen_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7617","0","# Voraussetzungen für Abweichungen von bauordnungsrechtlichen Anforderungen
+
+## Grundlegende Regelung: § 60 Abs. 1 BbgBO
+
+Die zentrale Norm für die Zulassung von Abweichungen ist **§ 60 Abs. 1 BbgBO**. Danach kann die Bauaufsichtsbehörde auf Antrag Abweichungen von Anforderungen des Gesetzes und aufgrund des Gesetzes erlassener Vorschriften zulassen, wenn **kumulativ** folgende Voraussetzungen erfüllt sind:
+
+### 1. Verfahrensvoraussetzung: Antrag
+Die Zulassung einer Abweichung setzt zwingend einen **Antrag** voraus. Eine Zulassung von Amts wegen ist nicht möglich.
+
+### 2. Materielle Voraussetzungen
+
+**a) Übereinstimmung mit dem Schutzziel (§ 60 Abs. 1 Nr. 1 BbgBO)**
+Die Abweichung muss dem **Schutzziel der jeweiligen Anforderung** entsprechen. Es genügt also nicht, dass lediglich von einer konkreten Anforderung abgewichen wird – der hinter der Vorschrift stehende Schutzzweck muss dennoch gewahrt bleiben.
+
+**b) Vereinbarkeit mit öffentlichen und nachbarlichen Belangen (§ 60 Abs. 1 Nr. 2 BbgBO)**
+Die Abweichung muss:
+- **unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange** und
+- **mit den öffentlichen Belangen**, insbesondere den Anforderungen des **§ 3 Abs. 1 BbgBO**,
+vereinbar sein.
+
+---
+
+## Besondere Regelung: Abweichungen bei örtlichen Bauvorschriften (§ 60 Abs. 2 BbgBO)
+
+Soweit Abweichungen von **örtlichen Bauvorschriften nach § 81 BbgBO** in Frage stehen, ist zusätzlich das **Einvernehmen der Gemeinde** erforderlich. Für die Frist zur Erteilung dieses Einvernehmens gilt § 36 Abs. 2 Satz 2 BauGB entsprechend.
+
+---
+
+## Sonderfall: Barrierefreies Bauen (§ 45 Abs. 6 BbgBO)
+
+Im Bereich des barrierefreien Bauens kann die Bauaufsichtsbehörde zulassen, dass Anforderungen auf einen **Teil der baulichen Anlage beschränkt** werden, wenn:
+- sich die Anforderungen der Abs. 1–4 nur mit **unverhältnismäßig hohem Aufwand oder unzumutbaren Mehrkosten** verwirklichen lassen, und
+- dabei die **zweckentsprechende Nutzung durch die auf barrierefreie Zugänglichkeit angewiesenen Personen** gewährleistet bleibt.
+
+> **Hinweis:** § 45 Abs. 6 BbgBO lässt § 60 Abs. 1 Satz 1 BbgBO ausdrücklich unberührt, sodass die allgemeinen Abweichungsvoraussetzungen daneben weiterhin anwendbar bleiben.
+
+---
+
+## Zusammenfassung
+
+| Voraussetzung | Rechtsgrundlage |
+|---|---|
+| Antrag | § 60 Abs. 1 BbgBO |
+| Wahrung des Schutzziels | § 60 Abs. 1 Nr. 1 BbgBO |
+| Vereinbarkeit mit nachbarlichen und öffentlichen Belangen | § 60 Abs. 1 Nr. 2 Bb","15247","4054","","","","","","","","",""
+"Q16","Exception/Procedure","3","Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?","GraphRAG","DE-BB_§_80_Ermächtigung_zum_Erlass_v_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_4|DE-BB_§_60_Zulassung_von_Abweichunge_0|DE-BB_§_65_Rechtliche_Sicherung_0|DE-BB_§_78_Anpassung_bestehender_bau_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_1|DE-BB_§_14_Bauprodukte_3|DE-BB_§_45_Barrierefreies_Bauen_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7617","0","# Voraussetzungen für Abweichungen von bauordnungsrechtlichen Anforderungen
+
+## Grundlegende Regelung (§ 60 Abs. 1 BbgBO)
+
+Nach **§ 60 Abs. 1 BbgBO** kann die Bauaufsichtsbehörde **auf Antrag** Abweichungen von Anforderungen des Gesetzes und der aufgrund des Gesetzes erlassenen Vorschriften zulassen. Dabei müssen **kumulativ** folgende Voraussetzungen erfüllt sein:
+
+### 1. Entsprechung mit dem Schutzziel (§ 60 Abs. 1 Nr. 1 BbgBO)
+Die Abweichung muss **dem Schutzziel der jeweiligen Anforderung entsprechen**. Das bedeutet, dass trotz der Abweichung der durch die betreffende Vorschrift bezweckte Schutz gewahrt bleiben muss.
+
+### 2. Vereinbarkeit mit öffentlichen und nachbarlichen Belangen (§ 60 Abs. 1 Nr. 2 BbgBO)
+Die Abweichung muss **unter Würdigung der öffentlich-rechtlich geschützten nachbarlichen Belange** mit den öffentlichen Belangen, **insbesondere den Anforderungen des § 3 Abs. 1**, vereinbar sein.
+
+---
+
+## Verfahrensvoraussetzungen
+
+- Die Abweichung setzt einen **Antrag** voraus (§ 60 Abs. 1 Satz 1 BbgBO).
+- Bei Abweichungen von **örtlichen Bauvorschriften** nach § 81 ist zusätzlich das **Einvernehmen der Gemeinde** erforderlich (§ 60 Abs. 2 Satz 1 BbgBO). Dabei gilt § 36 Abs. 2 Satz 2 BauGB entsprechend (§ 60 Abs. 2 Satz 2 BbgBO).
+
+---
+
+## Sonderregelung beim barrierefreien Bauen (§ 45 Abs. 6 BbgBO)
+
+Eine spezifische Abweichungsmöglichkeit besteht beim barrierefreien Bauen: Lassen sich die Anforderungen der § 45 Abs. 1 bis 4 BbgBO nur mit **unverhältnismäßig hohem Aufwand oder unzumutbaren Mehrkosten** verwirklichen, kann die Bauaufsichtsbehörde zulassen, dass die Anforderungen auf einen **Teil der baulichen Anlage** beschränkt werden – jedoch nur, wenn dabei die zweckentsprechende Nutzung durch die auf barrierefreie Zugänglichkeit angewiesenen Personen gewährleistet bleibt. **§ 60 Abs. 1 Satz 1 bleibt dabei ausdrücklich unberührt.**
+
+---
+
+## Zusammenfassung
+
+| Voraussetzung | Rechtsgrundlage |
+|---|---|
+| Antrag | § 60 Abs. 1 BbgBO |
+| Entsprechung mit Schutzziel | § 60 Abs. 1 Nr. 1 BbgBO |
+| Vereinbarkeit mit öffentlichen und nachbarlichen Belangen | § 60 Abs. 1 Nr. 2 BbgBO |
+| Einvernehmen der Gemeinde (bei örtl. Bauvorschriften) | § 60 Abs. 2 BbgBO |","14310","3980","","","","","","","","",""
+"Q17","Cross-concept","3","Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?","RAG","DE-BB_§_6_Abstandsflächen_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_6_Abstandsflächen_2|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_2_Begriffe_0|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_4_Bebauung_der_Grundstücke_m_0|DE-BB_§_6_Abstandsflächen_4","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7308","0","# Zusammenhang zwischen Abstandsflächen und Grundstücksbebauung nach Brandenburgischem Bauordnungsrecht
+
+## 1. Grundprinzip: Bebauungsvoraussetzungen
+
+Gemäß **§ 4 Abs. 1 BbgBO** dürfen Gebäude nur errichtet werden, wenn das Grundstück nach **Lage, Form, Größe und Beschaffenheit** für die beabsichtigte Bebauung geeignet ist. Dies bildet die Grundlage für alle weiteren Anforderungen, einschließlich der Abstandsflächenregelungen.
+
+---
+
+## 2. Abstandsflächen als Bebauungsbeschränkung
+
+### Pflicht zur Freihaltung
+Nach **§ 6 Abs. 1 BbgBO** müssen **vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freigehalten** werden. Dies beschränkt unmittelbar, wie ein Grundstück bebaut werden darf.
+
+### Lage der Abstandsflächen
+**§ 6 Abs. 2 BbgBO** regelt, wo Abstandsflächen liegen dürfen:
+- Grundsätzlich **auf dem Grundstück selbst**
+- Ausnahmsweise auf **öffentlichen Verkehrs-, Grün- oder Wasserflächen** (bis zur Mitte)
+- Geringfügige Erstreckung auf Nachbargrundstücke **(max. 4 m Breite, 1 m Tiefe, 2 m² Fläche)**
+- Vollständige Erstreckung auf Nachbargrundstücke nur bei **rechtlicher Sicherung**
+
+---
+
+## 3. Bebauung an Grundstücksgrenzen
+
+### Entfall der Abstandsfläche
+**§ 6 Abs. 1 Satz 2 BbgBO** sieht vor, dass eine Abstandsfläche **nicht erforderlich** ist, wenn das Gebäude nach planungsrechtlichen Vorschriften **an die Grundstücksgrenze gebaut werden muss oder darf**.
+
+### Grenzbebauung mit Garagen und Nebengebäuden
+Für Garagen und Nebengebäude an Grundstücksgrenzen bestehen besondere Regelungen (**§ 6 Abs. 10 BbgBO**):
+- Die entlang der Grundstücksgrenzen errichteten Außenwände dürfen **insgesamt nicht länger als 15 m** und **entlang einer Grundstücksgrenze nicht länger als 9 m** sein
+- Die **Einbeziehung der Grenzbebauung unter das Dach eines Hauptgebäudes ist unzulässig**
+- **Feuerstätten** in der Grenzbebauung sind unzulässig
+
+---
+
+## 4. Abstandsflächentiefe je nach Gebietstyp
+
+Die Tiefe der Abstandsflächen beeinflusst direkt, wie stark ein Grundstück bebaubar ist (**§ 6 Abs. 5 BbgBO**):
+- In **Gewerbe- und Industriegebieten**: 0,25 H, mindestens 3 m
+- Für **Wohngebäude mit max. 2 Geschossen und max. 9 m Höhe**: mindestens 3 m (**§ 6 Abs. 6 BbgBO**)
+- Örtliche Bauvorschriften nach **§ 81 BbgBO** können geringere oder größere Tiefen festsetzen
+
+---
+
+## 5. Bebauung auf mehreren Grundstücken
+
+**§ 4 Abs. 2 BbgBO** lässt die Errichtung eines Gebäudes auf **mehr","16522","4204","","","","","","","","",""
+"Q17","Cross-concept","3","Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?","GraphRAG","DE-BB_§_6_Abstandsflächen_0|DE-BB_§_81_Örtliche_Bauvorschriften_1|DE-BB_§_6_Abstandsflächen_2|DE-BB_§_3_Abs._1_besondere_Anforderu_1|DE-BB_§_2_Begriffe_0|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_4_Bebauung_der_Grundstücke_m_0|DE-BB_§_6_Abstandsflächen_4","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7308","0","# Zusammenhang zwischen Abstandsflächen und Grundstücksbebauung nach brandenburgischem Bauordnungsrecht
+
+## 1. Grundprinzip: Bebauungsvoraussetzungen
+
+Gemäß **§ 4 Abs. 1 BbgBO** dürfen Gebäude nur errichtet werden, wenn das Grundstück nach **Lage, Form, Größe und Beschaffenheit** für die beabsichtigte Bebauung geeignet ist. Dies bildet die Grundlage, auf der die Abstandsflächenregelungen aufbauen.
+
+---
+
+## 2. Abstandsflächen als Bebauungsbeschränkung
+
+### Freihaltepflicht
+Nach **§ 6 Abs. 1 BbgBO** sind **vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten**. Dies bedeutet:
+- Die Bebaubarkeit eines Grundstücks wird räumlich durch die einzuhaltenden Abstände begrenzt.
+- Je größer das Gebäude, desto größer die Abstandsfläche – und desto weniger Fläche verbleibt zur Bebauung.
+
+### Lage der Abstandsflächen
+**§ 6 Abs. 2 BbgBO** regelt, wo die Abstandsflächen liegen müssen:
+- **Grundsatz:** Abstandsflächen müssen auf dem **eigenen Grundstück** liegen.
+- **Ausnahme öffentliche Flächen:** Sie dürfen auf öffentliche Verkehrs-, Grün- oder Wasserflächen entfallen, jedoch nur bis zu deren Mitte.
+- **Geringfügige Überschreitung** auf Nachbargrundstücke ist zulässig (max. 4 m Breite, 1 m Tiefe, 2 m² Gesamtfläche).
+- Vollständige Erstreckung auf Nachbargrundstücke ist möglich, wenn **rechtlich gesichert** ist, dass diese Flächen nicht überbaut werden.
+
+---
+
+## 3. Grenzbebauung als Ausnahme
+
+**§ 6 Abs. 1 Satz 2 BbgBO** erlaubt den Verzicht auf Abstandsflächen, wenn:
+- die Außenwand **an der Grundstücksgrenze** errichtet wird **und**
+- dies nach **planungsrechtlichen Vorschriften** vorgeschrieben oder erlaubt ist.
+
+Für solche Grenzbebauungen gelten jedoch besondere Einschränkungen gemäß **§ 6 Abs. 10 BbgBO**:
+- Die Gesamtlänge entlang aller Grundstücksgrenzen darf **15 m** nicht überschreiten.
+- Entlang **einer** Grundstücksgrenze ist die Länge auf **9 m** begrenzt.
+- Die Einbeziehung unter das Dach eines Hauptgebäudes ist **unzulässig**.
+- **Feuerstätten** in der Grenzbebauung sind **verboten**.
+
+---
+
+## 4. Überlagerungsverbot
+
+**§ 6 Abs. 3 BbgBO** bestimmt, dass sich Abstandsflächen **nicht überdecken dürfen**. Dies verhindert eine zu dichte Bebauung des Grundstücks, da jedes Gebäude seine eigene, freie Abstandsfläche benötigt.
+
+> **Ausnahme:** Außenwände, die in einem Winkel von mehr als 75° zueinander stehen, sind von diesem Verbot ausgenommen.
+
+---
+
+## 5. Abstandsflächen in der Abstandsfläche eines anderen Gebäudes
+
+Nach **§ 6 Abs. 11 Bbg","18876","4204","","","","","","","","",""
+"Q18","Cross-concept","3","Welche Rolle spielen Rettungswege im Brandschutz?","RAG","DE-BB_§_29_Erster_und_zweiter_Rettun_0|DE-BB_§_12_Brandschutz_0|DE-BB_§_29_Erster_und_zweiter_Rettun_1|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_27_Außenwände_1|DE-BB_§_31_Notwendige_Treppenräume_u_0|DE-BB_§_36_Feuerungsanlagen,_Anlagen_0|DE-BB_§_66_Bautechnische_Nachweise_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7520","0","# Rettungswege im Brandschutz nach Brandenburgischem Bauordnungsrecht
+
+## Grundlegende Bedeutung
+
+Rettungswege sind ein zentrales Element des baulichen Brandschutzes. Nach **§ 12 Abs. 1 BbgBO** müssen bauliche Anlagen so errichtet und instand gehalten werden, dass **„bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räumen und wirksame Löscharbeiten möglich sind""**. Rettungswege dienen damit unmittelbar der Verwirklichung dieses Schutzziels.
+
+---
+
+## Anforderungen an Rettungswege im Einzelnen
+
+### 1. Zwei unabhängige Rettungswege (§ 29 Abs. 1 BbgBO)
+Für jede Nutzungseinheit mit mindestens einem Aufenthaltsraum müssen **in jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege ins Freie** vorhanden sein. Beide Rettungswege dürfen innerhalb des Geschosses über denselben notwendigen Flur führen.
+
+**Ausnahmen** bestehen, wenn:
+- die Rettung über einen **Sicherheitstreppenraum** möglich ist, in den Feuer und Rauch nicht eindringen können, oder
+- die Nutzungseinheit **zu ebener Erde** liegt und die Flucht ins Freie sicher möglich ist.
+
+### 2. Erster und zweiter Rettungsweg (§ 29 Abs. 2 u. 3 BbgBO)
+- Der **erste Rettungsweg** muss bei nicht zu ebener Erde liegenden Nutzungseinheiten über **mindestens eine notwendige Treppe** führen.
+- Der **zweite Rettungsweg** muss eine **weitere notwendige Treppe oder eine Außentreppe** sein.
+- Bei **Gebäuden geringer Höhe** darf der zweite Rettungsweg eine **mit Rettungsgeräten der Feuerwehr erreichbare Stelle** der Nutzungseinheit sein.
+- Bei **Gebäuden mittlerer Höhe** ist dies ebenfalls möglich, wenn die Feuerwehr über die erforderlichen Geräte (z. B. Hubrettungsfahrzeuge) verfügt – **ausgenommen** bei Gebäuden oder Nutzungseinheiten für eine **größere Personenzahl**.
+
+### 3. Notwendige Treppenräume (§ 31 BbgBO)
+Notwendige Treppenräume müssen so angeordnet sein, dass **im Brandfall ihre Benutzung ausreichend lange möglich ist** (§ 31 Abs. 1 BbgBO). Von jeder Stelle eines Aufenthaltsraums muss ein notwendiger Treppenraum oder Ausgang ins Freie in **höchstens 35 m Entfernung** erreichbar sein (§ 31 Abs. 2 BbgBO).
+
+### 4. Notwendige Flure (§ 29 Abs. 4 u. 5 BbgBO)
+Flure, über die Rettungswege führen, müssen so ausgebildet sein, dass **ihre Benutzung als Rettungsweg im Brandfall ausreichend lange möglich ist**. Notwendige Flure von mehr als **30 m Länge** sind durch **nichtabschließbare selbstschließende Rauchschutzabschlüsse** in Rauchabschnitte zu unterteilen.
+
+---
+
+## Zufahrten und Erreichbarkeit für die Feuerwehr (§ 5 BbgBO)
+
+Die Rettungswege sind nur wirksam, wenn die Feuerwehr das Geb","17712","4070","","","","","","","","",""
+"Q18","Cross-concept","3","Welche Rolle spielen Rettungswege im Brandschutz?","GraphRAG","DE-BB_§_29_Erster_und_zweiter_Rettun_0|DE-BB_§_12_Brandschutz_0|DE-BB_§_29_Erster_und_zweiter_Rettun_1|DE-BB_§_5_Zugänge_und_Zufahrten_der__0|DE-BB_§_27_Außenwände_1|DE-BB_§_31_Notwendige_Treppenräume_u_0|DE-BB_§_36_Feuerungsanlagen,_Anlagen_0|DE-BB_§_66_Bautechnische_Nachweise_1","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7520","0","# Rettungswege im Brandschutz nach Brandenburgischer Bauordnung
+
+## Grundlegende Bedeutung
+
+Rettungswege sind ein zentrales Element des baulichen Brandschutzes. Gemäß **§ 12 Abs. 1 BbgBO** müssen bauliche Anlagen so errichtet und instand gehalten werden, dass **„bei einem Brand die Rettung von Menschen und Tieren sowie eine Entrauchung von Räumen und wirksame Löscharbeiten möglich sind""**. Rettungswege sind das bauliche Mittel, um dieses Schutzziel zu erreichen.
+
+---
+
+## System aus erstem und zweitem Rettungsweg (§ 29 BbgBO)
+
+### Grundprinzip
+Rettungswege müssen nach **§ 29 Abs. 1 BbgBO** so angeordnet und ausgebildet sein, dass **„im Brandfall ihre Benutzung ausreichend lange möglich ist""**.
+
+### Zwei voneinander unabhängige Rettungswege
+Für jede Nutzungseinheit mit mindestens einem Aufenthaltsraum (z. B. Wohnungen, Praxen, Betriebsstätten) müssen in **jedem Geschoss mindestens zwei voneinander unabhängige Rettungswege** ins Freie vorhanden sein (§ 29 Abs. 1 Satz 2 BbgBO). Die Unabhängigkeit soll sicherstellen, dass beim Versperren eines Weges durch Feuer oder Rauch der andere noch nutzbar bleibt.
+
+### Ausnahmen vom zweiten Rettungsweg
+Ein zweiter Rettungsweg ist nach **§ 29 Abs. 1 Satz 4 BbgBO** entbehrlich, wenn:
+- die Rettung über einen **Sicherheitstreppenraum** möglich ist (in den Feuer und Rauch nicht eindringen können), oder
+- die Nutzungseinheit **zu ebener Erde** liegt und die Flucht ins Freie sicher möglich ist.
+
+### Führung der Rettungswege nach Gebäudehöhe
+- **Gebäude geringer Höhe** (§ 29 Abs. 3 BbgBO): Der zweite Rettungsweg darf eine **mit Rettungsgeräten der Feuerwehr erreichbare Stelle** sein.
+- **Gebäude mittlerer Höhe** (§ 29 Abs. 3 Satz 2 BbgBO): Dies ist ebenfalls zulässig, wenn die Feuerwehr über **Hubrettungsfahrzeuge** verfügt – jedoch **nicht** bei Gebäuden für eine größere Personenzahl.
+
+---
+
+## Notwendige Flure als Rettungsweg (§ 29 Abs. 4–5 BbgBO)
+
+Flure, über die Rettungswege von Aufenthaltsräumen zu Treppenräumen oder Ausgängen führen (**notwendige Flure**), müssen ebenfalls so ausgebildet sein, dass **„im Brandfall ihre Benutzung als Rettungsweg ausreichend lange möglich ist""**.
+
+Bei notwendigen Fluren von **mehr als 30 m Länge** sind nach **§ 29 Abs. 5 BbgBO** durch selbstschließende **Rauchschutzabschlüsse** Rauchabschnitte zu bilden, um eine Ausbreitung von Rauch auf dem Fluchtweg zu verhindern.
+
+---
+
+## Notwendige Treppenräume (§ 31 BbgBO)
+
+**§ 31 Abs. 1 BbgBO** stellt klar, dass notwendige Treppenräume so anzuordnen sind, dass **„im Brandfall die","19024","4070","","","","","","","","",""
+"Q19","Multi-step","3","Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?","RAG","DE-BB_§_80_Ermächtigung_zum_Erlass_v_4|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_71_Besondere_Verfahrensvorsc_3|DE-BB_§_14_Bauprodukte_0|DE-BB_§_15_Allgemeine_bauaufsichtlic_0|DE-BB_§_3_Allgemeine_Anforderungen_0|DE-BB_§_63_Behandlung_des_Bauantrags_1|DE-BB_§_80_Ermächtigung_zum_Erlass_v_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.5988","0","# Voraussetzungen für die Aufnahme einer Nutzung
+
+Aus den bereitgestellten Gesetzesauszügen lässt sich keine vollständige, explizite Regelung zu den Voraussetzungen für die Aufnahme einer Nutzung entnehmen. Die vorliegenden Auszüge enthalten jedoch einige relevante **allgemeine Anforderungen**, die erfüllt sein müssen, bevor eine bauliche Anlage genutzt werden darf:
+
+## 1. Allgemeine Anforderungen an bauliche Anlagen (§ 3 BbgBO)
+
+Gemäß **§ 3 Abs. 1 BbgBO** müssen bauliche Anlagen so errichtet sein, dass:
+
+- die **öffentliche Sicherheit oder Ordnung**, insbesondere Leben, Gesundheit und Eigentum, nicht gefährdet werden (Nr. 1),
+- sie **ihrem Zweck entsprechend dauerhaft** die allgemeinen Anforderungen erfüllen und **ohne Missstände benutzbar** sind (Nr. 2),
+- die **natürlichen Lebensgrundlagen geschont** werden (Nr. 3).
+
+## 2. Verwendung zulässiger Bauprodukte (§ 3 Abs. 2, § 14 BbgBO)
+
+Nach **§ 3 Abs. 2 BbgBO** dürfen Bauprodukte und Bauarten nur verwendet werden, wenn die bauliche Anlage die Anforderungen des Gesetzes erfüllt und **gebrauchstauglich** ist.
+
+Ergänzend bestimmt **§ 14 Abs. 1 BbgBO**, dass Bauprodukte nur verwendet werden dürfen, wenn sie entweder:
+- den bekannt gemachten **technischen Regeln** entsprechen und das **Ü-Zeichen** tragen, oder
+- nach europarechtlichen Vorschriften in Verkehr gebracht wurden und das **CE-Zeichen** tragen.
+
+## 3. Besondere Anforderungen bei Fliegenden Bauten (§ 71 BbgBO)
+
+Bei Fliegenden Bauten ist nach **§ 71 Abs. 7 BbgBO** Voraussetzung für die Nutzung, dass:
+- eine **Gebrauchsabnahme** durch die zuständige untere Bauaufsichtsbehörde erteilt wurde,
+- **Betriebs- und Standsicherheit** gewährleistet sind,
+- keine Abweichung von der **Ausführungsgenehmigung** vorliegt.
+
+---
+
+> **Hinweis:** Die bereitgestellten Gesetzesauszüge enthalten keine explizite Norm, die speziell die Voraussetzungen für die **erstmalige Nutzungsaufnahme** (z. B. eine Nutzungsfreigabe oder Abnahme) im allgemeinen Baugenehmigungsverfahren regelt. Für eine vollständige Antwort wären insbesondere die einschlägigen Vorschriften zur **Baufertigstellungsanzeige** oder **Nutzungsaufnahme** (typischerweise in § 75 ff. BbgBO) erforderlich, die in den vorliegenden Auszügen nicht enthalten sind.","15329","4214","","","","","","","","",""
+"Q19","Multi-step","3","Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?","GraphRAG","DE-BB_§_80_Ermächtigung_zum_Erlass_v_4|DE-BB_§_45_Barrierefreies_Bauen_1|DE-BB_§_71_Besondere_Verfahrensvorsc_3|DE-BB_§_14_Bauprodukte_0|DE-BB_§_15_Allgemeine_bauaufsichtlic_0|DE-BB_§_3_Allgemeine_Anforderungen_0|DE-BB_§_63_Behandlung_des_Bauantrags_1|DE-BB_§_80_Ermächtigung_zum_Erlass_v_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.5988","0","# Voraussetzungen für die Aufnahme einer Nutzung
+
+Aus den bereitgestellten Gesetzesauszügen lassen sich für **Fliegende Bauten** konkrete Voraussetzungen vor Aufnahme der Nutzung ableiten. Für andere bauliche Anlagen enthalten die vorgelegten Auszüge nur mittelbar relevante Regelungen.
+
+## 1. Fliegende Bauten (§ 71 BbgBO)
+
+Für Fliegende Bauten ergibt sich aus **§ 71 Abs. 7 BbgBO**, dass eine **Gebrauchsabnahme** durch die zuständige untere Bauaufsichtsbehörde erforderlich ist, bevor der Gebrauch aufgenommen werden darf. Die Behörde kann den Gebrauch untersagen, wenn:
+
+- die **Betriebssicherheit oder Standsicherheit** nicht gewährleistet ist,
+- von der **Ausführungsgenehmigung abgewichen** wird,
+- dies nach den **örtlichen Verhältnissen** oder zur **Abwehr von Gefahren** erforderlich ist.
+
+Daraus folgt im Umkehrschluss, dass die Nutzung erst aufgenommen werden darf, wenn:
+- eine ordnungsgemäße **Gebrauchsabnahme** erfolgt ist,
+- **Betriebs- und Standsicherheit** gewährleistet sind,
+- die Ausführung der **Ausführungsgenehmigung** entspricht.
+
+## 2. Allgemeine Anforderungen (§ 3 BbgBO)
+
+Nach **§ 3 Abs. 1 BbgBO** müssen bauliche Anlagen so beschaffen sein, dass:
+- die **öffentliche Sicherheit und Ordnung**, insbesondere **Leben, Gesundheit und Eigentum**, nicht gefährdet werden (Nr. 1),
+- sie **dauerhaft ihrem Zweck entsprechend nutzbar** und ohne Missstände benutzbar sind (Nr. 2),
+- die **natürlichen Lebensgrundlagen** geschont werden (Nr. 3).
+
+## 3. Verwendung von Bauprodukten (§ 14 BbgBO)
+
+Ergänzend gilt nach **§ 14 Abs. 1 BbgBO**, dass verwendete Bauprodukte die erforderlichen Nachweise (Ü-Zeichen oder CE-Zeichen) tragen müssen, was eine mittelbare Voraussetzung für die rechtmäßige Nutzung darstellt.
+
+---
+
+**Fazit:** Die bereitgestellten Auszüge regeln die Voraussetzungen für die Nutzungsaufnahme am detailliertesten für **Fliegende Bauten** in **§ 71 BbgBO**. Eine allgemeine, explizite Regelung zur Nutzungsaufnahme (z. B. eine Nutzungsaufnahmegenehmigung) ist in den vorgelegten Auszügen nicht enthalten.","15154","4151","","","","","","","","",""
+"Q20","Structured","2","Welche Pflichten hat der Bauherr im Bauprozess?","RAG","DE-BB_§_47_Bauherr_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_48_Objektplaner,_Bauvorlageb_1|DE-BB_§_80_Ermächtigung_zum_Erlass_v_2|DE-BB_§_48_Objektplaner,_Bauvorlageb_2|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_1|DE-BB_§_59_Vorbescheidsverfahren_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7794","0","# Pflichten des Bauherrn im Bauprozess
+
+Aus den bereitgestellten Gesetzesauszügen der Brandenburgischen Bauordnung ergeben sich folgende Pflichten des Bauherrn:
+
+---
+
+## 1. Bestellung geeigneter Fachleute (§ 47 Abs. 1 BbgBO)
+
+Der Bauherr ist verpflichtet, zur **Vorbereitung, Überwachung und Ausführung** eines genehmigungspflichtigen Bauvorhabens geeignete am Bau Beteiligte zu bestellen, die den Anforderungen der §§ 48 bis 50 BbgBO entsprechen – sofern er diese Anforderungen nicht selbst erfüllt. Dies gilt entsprechend für die **technisch schwierige Beseitigung** baulicher Anlagen.
+
+---
+
+## 2. Erbringung von Anzeigen und Nachweisen (§ 47 Abs. 1 Satz 3 BbgBO)
+
+Der Bauherr hat alle **nach öffentlich-rechtlichen Vorschriften erforderlichen Anzeigen und Nachweise** zu erbringen.
+
+---
+
+## 3. Mitteilungspflicht bei Wechsel des Bauherrn oder Objektplaners (§ 47 Abs. 2 BbgBO)
+
+Wechseln **der Bauherr oder der Objektplaner** vor der Fertigstellung der baulichen Anlage, so hat der Bauherr dies der Bauaufsichtsbehörde **unverzüglich schriftlich mitzuteilen**.
+
+---
+
+## 4. Mitteilung des Baubeginns (§ 68 Abs. 2 BbgBO)
+
+Der Bauherr hat den **Zeitpunkt des Baubeginns** bei genehmigungs- oder anzeigepflichtigen Vorhaben **spätestens eine Woche vor Baubeginn** der Bauaufsichtsbehörde schriftlich mitzuteilen. Dabei sind die erforderlichen Nachweise (gemäß § 68 Abs. 1 Satz 1 Nr. 2 und 3 BbgBO) vorzulegen.
+
+---
+
+## 5. Einhalten der Voraussetzungen vor Baubeginn (§ 68 Abs. 1 BbgBO)
+
+Mit der Bauausführung darf erst begonnen werden, wenn:
+- eine **erforderliche Baugenehmigung** vorliegt,
+- nach anderen Rechtsvorschriften **erforderliche Genehmigungen** vorliegen,
+- die erforderlichen **Prüfberichte oder Bescheinigungen** über die Prüfung der bautechnischen Nachweise vorliegen.
+
+---
+
+## 6. Absteckung und Höhenfestlegung (§ 68 Abs. 3 BbgBO)
+
+Vor Baubeginn muss die **Grundfläche der baulichen Anlage abgesteckt** und ihre **Höhenlage festgelegt** sein.
+
+---
+
+**Zusammenfassend** trägt der Bauherr gemäß § 47 BbgBO die zentrale Verantwortung dafür, dass qualifiziertes Fachpersonal eingesetzt wird, alle behördlichen Anzeige- und Nachweispflichten erfüllt werden und die formellen Voraussetzungen vor Baubeginn eingehalten sind.","14723","3729","","","","","","","","",""
+"Q20","Structured","2","Welche Pflichten hat der Bauherr im Bauprozess?","GraphRAG","DE-BB_§_47_Bauherr_0|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_48_Objektplaner,_Bauvorlageb_1|DE-BB_§_80_Ermächtigung_zum_Erlass_v_2|DE-BB_§_48_Objektplaner,_Bauvorlageb_2|DE-BB_§_68_Baubeginn,_Baufreigabe,_E_0|DE-BB_§_80_Ermächtigung_zum_Erlass_v_1|DE-BB_§_59_Vorbescheidsverfahren_0","Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg|Brandenburg","0.7794","0","# Pflichten des Bauherrn im Bauprozess
+
+Aus den bereitgestellten Gesetzesauszügen ergeben sich folgende Pflichten des Bauherrn:
+
+---
+
+## 1. Bestellung geeigneter Fachleute (§ 47 Abs. 1 BbgBO)
+
+Der Bauherr ist verpflichtet, **zur Vorbereitung, Überwachung und Ausführung** eines genehmigungspflichtigen Bauvorhabens geeignete Beteiligte zu bestellen, die den Anforderungen der §§ 48–50 BbgBO entsprechen. Dies gilt insbesondere für:
+- den **Objektplaner** (§ 48 BbgBO)
+- sonstige am Bau Beteiligte
+
+Diese Pflicht entfällt nur, wenn der Bauherr **selbst** die entsprechenden Anforderungen erfüllt.
+
+---
+
+## 2. Erbringung erforderlicher Anzeigen und Nachweise (§ 47 Abs. 1 Satz 3 BbgBO)
+
+Der Bauherr hat **alle nach öffentlich-rechtlichen Vorschriften erforderlichen Anzeigen und Nachweise** zu erbringen.
+
+---
+
+## 3. Mitteilungspflicht bei Wechsel (§ 47 Abs. 2 BbgBO)
+
+Wechseln der **Bauherr oder der Objektplaner** vor Fertigstellung der baulichen Anlage, ist dies der Bauaufsichtsbehörde **unverzüglich schriftlich mitzuteilen**.
+
+---
+
+## 4. Pflichten vor und bei Baubeginn (§ 68 BbgBO)
+
+Gemäß § 68 BbgBO darf mit der Bauausführung erst begonnen werden, wenn:
+- eine **Baugenehmigung** vorliegt (§ 68 Abs. 1 Nr. 1),
+- **weitere erforderliche Genehmigungen** nach anderen Rechtsvorschriften vorliegen (§ 68 Abs. 1 Nr. 2),
+- die **Prüfberichte oder Bescheinigungen** über die bautechnischen Nachweise vorliegen (§ 68 Abs. 1 Nr. 3).
+
+Zudem hat der Bauherr:
+- den **Zeitpunkt des Baubeginns** spätestens **eine Woche vor Baubeginn** der Bauaufsichtsbehörde **schriftlich mitzuteilen** (§ 68 Abs. 2),
+- dabei die erforderlichen Nachweise vorzulegen (§ 68 Abs. 2),
+- dafür zu sorgen, dass **vor Baubeginn** die Grundfläche abgesteckt und die Höhenlage festgelegt ist (§ 68 Abs. 3).
+
+---
+
+## Zusammenfassung
+
+| Pflicht | Rechtsgrundlage |
+|---|---|
+| Bestellung geeigneter Baubeteiligter | § 47 Abs. 1 BbgBO |
+| Erbringung von Anzeigen und Nachweisen | § 47 Abs. 1 Satz 3 BbgBO |
+| Mitteilung bei Bauherren-/Planerwechsel | § 47 Abs. 2 BbgBO |
+| Einholen aller Genehmigungen vor Baubeginn | § 68 Abs. 1 BbgBO |
+| Schriftliche Anzeige des Baubeginns | § 68 Abs. 2 BbgBO |
+| Absteckung der Grundfläche vor Baubeginn | § 68 Abs. 3 BbgBO |","15725","3821","","","","","","","","",""

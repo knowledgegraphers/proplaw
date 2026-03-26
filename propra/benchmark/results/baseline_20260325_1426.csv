@@ -1,0 +1,366 @@
+"query_id","query_type","difficulty","query_text","system","retrieved_chunk_ids","retrieved_jurisdictions","top_score","kg_chunks_added","answer","latency_ms","tokens","retrieval_draft","reasoning_draft","grounding_draft","total_draft","retrieval_final","reasoning_final","grounding_final","total_final","notes"
+"Q1","Direct","1","Was sind bauliche Anlagen?","RAG","DE-BB_§_7_Nicht_überbaute_Flächen_de_1|DE-BY_Art._2_Begriffe_0|DE-RP_§_50_0|DE-SL_§_47_Stellplätze_und_Garagen,__4|DE-ST_§_2_Begriffe_0|DE-BE_§_2_Begriffe_0|DE-BY_Art._57_Verfahrensfreie_Bauvor_11|DE-HB_§_2_Begriffe_0","Brandenburg|Bayern|Rheinland-Pfalz|Saarland|Sachsen-Anhalt|Berlin|Bayern|Bremen","0.7315","0","# Begriff der baulichen Anlage im deutschen Bauordnungsrecht
+
+## Grunddefinition
+
+Nach den einschlägigen Landesbauordnungen sind bauliche Anlagen **mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen**.
+
+Eine Verbindung mit dem Boden besteht dabei auch dann, wenn die Anlage:
+- durch **eigene Schwere** auf dem Boden ruht,
+- auf **ortsfesten Bahnen begrenzt beweglich** ist, oder
+- nach ihrem Verwendungszweck dazu bestimmt ist, **überwiegend ortsfest** benutzt zu werden
+
+*(vgl. § 2 Abs. 1 BauO Bln; § 2 Abs. 1 BremLBO; § 2 Abs. 1 BauO LSA)*
+
+---
+
+## Kraft gesetzlicher Fiktion ebenfalls bauliche Anlagen
+
+Die Landesbauordnungen zählen darüber hinaus ausdrücklich folgende Anlagen als bauliche Anlagen auf:
+
+| Kategorie | Rechtsgrundlage (Beispiele) |
+|---|---|
+| Aufschüttungen und Abgrabungen | § 2 Abs. 1 BauO Bln; § 2 Abs. 1 BauO LSA |
+| Lager-, Abstell- und Ausstellungsplätze | § 2 Abs. 1 BremLBO; § 2 Abs. 1 BauO Bln |
+| Sport- und Spielflächen | § 2 Abs. 1 BauO Bln; § 2 Abs. 1 BauO LSA |
+| Camping-, Wochenend- und Zeltplätze | § 2 Abs. 1 BremLBO; § 2 Abs. 1 BauO Bln |
+| Freizeit- und Vergnügungsparks | § 2 Abs. 1 BauO LSA; § 2 Abs. 1 BremLBO |
+| Stellplätze für Kraftfahrzeuge | § 2 Abs. 1 BauO Bln; Art. 2 Abs. 1 BayBO |
+| Gerüste | § 2 Abs. 1 BauO Bln; § 2 Abs. 1 BremLBO |
+| Hilfseinrichtungen zur statischen Sicherung von Bauzuständen | § 2 Abs. 1 BauO LSA; § 2 Abs. 1 BremLBO |
+| Werbeanlagen und Automaten | § 2 Abs. 1 BremLBO; Art. 2 Abs. 1 BayBO |
+
+---
+
+## Abgrenzung: Gebäude als Unterfall
+
+Gebäude sind nach den Landesbauordnungen **selbstständig benutzbare, überdeckte bauliche Anlagen**, die von Menschen betreten werden können und geeignet oder bestimmt sind, dem Schutz von Menschen, Tieren oder Sachen zu dienen *(§ 2 Abs. 2 BauO Bln; § 2 Abs. 2 BauO LSA; Art. 2 Abs. 2 BayBO)*.
+
+---
+
+## Fazit
+
+Der Begriff der baulichen Anlage ist weit gefasst und umfasst neben klassischen Gebäuden eine Vielzahl weiterer Konstruktionen und Flächen, sofern eine – auch nur durch Schwere oder Zweckbestimmung vermittelte – Verbindung zum Erdboden besteht.","21431","3468","","","","","","","","",""
+"Q1","Direct","1","Was sind bauliche Anlagen?","GraphRAG","DE-BB_§_7_Nicht_überbaute_Flächen_de_1|DE-BY_Art._2_Begriffe_0|DE-RP_§_50_0|DE-SL_§_47_Stellplätze_und_Garagen,__4|DE-ST_§_2_Begriffe_0|DE-BE_§_2_Begriffe_0|DE-BY_Art._57_Verfahrensfreie_Bauvor_11|DE-HB_§_2_Begriffe_0","Brandenburg|Bayern|Rheinland-Pfalz|Saarland|Sachsen-Anhalt|Berlin|Bayern|Bremen","0.7315","0","# Definition: Bauliche Anlagen
+
+## Grunddefinition
+
+Bauliche Anlagen sind nach den Bauordnungsgesetzen der Länder grundsätzlich **mit dem Erdboden verbundene, aus Bauprodukten hergestellte Anlagen** (vgl. Art. 2 Abs. 1 Bay. BayBO; § 2 Abs. 1 BauO Bln; § 2 Abs. 1 BremLBO; § 2 Abs. 1 BauO LSA).
+
+---
+
+## Verbindung mit dem Boden
+
+Eine Verbindung mit dem Boden besteht auch dann, wenn die Anlage:
+- durch **eigene Schwere** auf dem Boden ruht,
+- auf **ortsfesten Bahnen** begrenzt beweglich ist, oder
+- nach ihrem **Verwendungszweck** dazu bestimmt ist, **überwiegend ortsfest** benutzt zu werden
+
+(vgl. § 2 Abs. 1 BauO Bln; § 2 Abs. 1 BremLBO; § 2 Abs. 1 BauO LSA).
+
+---
+
+## Gleichgestellte Anlagen
+
+Den baulichen Anlagen gleichgestellt sind insbesondere (vgl. § 2 Abs. 1 BauO Bln; § 2 Abs. 1 BremLBO; § 2 Abs. 1 BauO LSA):
+
+1. **Aufschüttungen** und Abgrabungen
+2. **Lagerplätze**, Abstellplätze und Ausstellungsplätze
+3. **Sport- und Spielflächen**
+4. **Campingplätze**, Wochenendplätze und Zeltplätze
+5. **Freizeit- und Vergnügungsparks**
+6. **Stellplätze** für Kraftfahrzeuge
+7. **Gerüste**
+8. **Hilfseinrichtungen** zur statischen Sicherung von Bauzuständen
+
+> **Hinweis:** Bremen ergänzt diese Liste noch um Werbeanlagen, Automaten und Regale im Freien (§ 2 Abs. 1 BremLBO).
+
+---
+
+## Hinweis zur landesrechtlichen Vielfalt
+
+Die konkreten Definitionen sind **Ländersache** und können im Detail voneinander abweichen. So stellt Bayern beispielsweise ausdrücklich klar, dass auch **ortsfeste Wirtschaftswerbeanlagen** (Werbeanlagen) und Automaten bauliche Anlagen sind (Art. 2 Abs. 1 Satz 2 BayBO).","32","3211","","","","","","","","",""
+"Q2","Direct","1","Was gilt als Aufenthaltsraum?","RAG","DE-HB_§_2_Begriffe_8|DE-SL_§_2_Begriffe_5|DE-TH_§_2_Begriffe_5|DE-NI_§_2_NBauO_-_Begriffe_7|DE-RP_§_42_Kleinkläranlagen_und_Grub_0|DE-BE_§_61_Verfahrensfreie_Bauvorhab_1|DE-NW_§_2_Begriffe_2|DE-RP_§_45_0","Bremen|Saarland|Thüringen|Niedersachsen|Rheinland-Pfalz|Berlin|Nordrhein-Westfalen|Rheinland-Pfalz","0.7170","0","## Definition des Aufenthaltsraums im deutschen Bauordnungsrecht
+
+### Einheitliche Definition
+
+Die bereitgestellten Gesetzesauszüge zeigen eine **bundesweit weitgehend einheitliche Definition** des Aufenthaltsraums. Übereinstimmend definieren folgende Landesbauordnungen den Begriff:
+
+- **Bremen** (§ 2 Abs. 11 BremLBO)
+- **Saarland** (§ 2 Abs. 8 LBO Saarland)
+- **Thüringen** (§ 2 Abs. 5 ThürBO)
+- **Niedersachsen** (§ 2 Abs. 8 NBauO)
+- **Nordrhein-Westfalen** (§ 2 Abs. 7 BauO NRW)
+
+### Wortlaut der Definition
+
+> **Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.**
+
+### Wesentliche Merkmale
+
+Die Definition enthält zwei **alternative Anknüpfungspunkte**:
+
+1. **Subjektives Kriterium** – Die Räume sind zum nicht nur vorübergehenden Aufenthalt von Menschen *bestimmt* (z. B. Wohn- und Schlafräume, Büros).
+2. **Objektives Kriterium** – Die Räume sind dazu *geeignet*, auch wenn keine ausdrückliche Zweckbestimmung vorliegt.
+
+### Abgrenzung
+
+Nicht als Aufenthaltsräume gelten demnach Räume, die lediglich für einen **vorübergehenden** Aufenthalt genutzt werden (z. B. Flure, Abstellräume oder Technikräume).","40","3161","","","","","","","","",""
+"Q2","Direct","1","Was gilt als Aufenthaltsraum?","GraphRAG","DE-HB_§_2_Begriffe_8|DE-SL_§_2_Begriffe_5|DE-TH_§_2_Begriffe_5|DE-NI_§_2_NBauO_-_Begriffe_7|DE-RP_§_42_Kleinkläranlagen_und_Grub_0|DE-BE_§_61_Verfahrensfreie_Bauvorhab_1|DE-NW_§_2_Begriffe_2|DE-RP_§_45_0","Bremen|Saarland|Thüringen|Niedersachsen|Rheinland-Pfalz|Berlin|Nordrhein-Westfalen|Rheinland-Pfalz","0.7170","0","# Aufenthaltsräume im deutschen Bauordnungsrecht
+
+## Definition
+
+Nach den einschlägigen Landesbauordnungen gilt eine einheitliche Definition des Aufenthaltsraums. Übereinstimmend bestimmen:
+
+- **Bremen** (§ 2 Abs. 11 BremLBO)
+- **Saarland** (§ 2 Abs. 8 LBO Saar)
+- **Thüringen** (§ 2 Abs. 5 ThürBO)
+- **Niedersachsen** (§ 2 Abs. 8 NBauO)
+- **Nordrhein-Westfalen** (§ 2 Abs. 7 BauO NRW)
+
+dass gilt:
+
+> **„Aufenthaltsräume sind Räume, die zum nicht nur vorübergehenden Aufenthalt von Menschen bestimmt oder geeignet sind.""**
+
+## Wesentliche Merkmale
+
+Die Definition umfasst zwei **alternative** Tatbestandsmerkmale:
+
+| Merkmal | Erläuterung |
+|--------|-------------|
+| **Bestimmung** | Der Raum ist subjektiv/planerisch für einen dauerhaften Aufenthalt vorgesehen |
+| **Eignung** | Der Raum ist objektiv für einen dauerhaften Aufenthalt geeignet |
+
+## Abgrenzung
+
+Ein Raum gilt **nicht** als Aufenthaltsraum, wenn der Aufenthalt dort nur **vorübergehend** stattfindet (z. B. Treppenhäuser, Abstellräume).
+
+Zudem sind Hohlräume zwischen oberster Decke und Bedachung, **in denen Aufenthaltsräume nicht möglich sind**, ausdrücklich keine Geschosse (vgl. § 2 Abs. 5 ThürBO; § 2 Abs. 5 BauO NRW).","80","3189","","","","","","","","",""
+"Q3","Structured","2","Was sind Stellplätze?","RAG","DE-MV_§_2_Begriffe_5|DE-BE_§_2_Begriffe_5|DE-ST_§_2_Begriffe_5|DE-NW_§_2_Begriffe_2|DE-SL_§_2_Begriffe_5|DE-HB_§_2_Begriffe_8|DE-BE_§_49_Stellplätze,_Abstellplätz_0|DE-TH_§_2_Begriffe_5","Mecklenburg-Vorpommern|Berlin|Sachsen-Anhalt|Nordrhein-Westfalen|Saarland|Bremen|Berlin|Thüringen","0.6643","0","# Definition von Stellplätzen im deutschen Bauordnungsrecht
+
+## Grundlegende Definition
+
+Stellplätze sind nach den Landesbauordnungen **Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen**.
+
+Diese Definition findet sich übereinstimmend in mehreren Landesbauordnungen, unter anderem in:
+- § 2 Abs. 7 LBauO Mecklenburg-Vorpommern
+- § 2 Abs. 7 BauO Berlin
+- § 2 Abs. 7 BauO LSA (Sachsen-Anhalt)
+- § 2 Abs. 7 ThürBO
+- § 2 Abs. 13 BremLBO
+
+## Abgrenzung zu Garagen
+
+Stellplätze sind von **Garagen** zu unterscheiden, die als *Gebäude oder Gebäudeteile* zum Abstellen von Kraftfahrzeugen definiert sind (z. B. § 2 Abs. 7 BauO Berlin).
+
+## Ausnahmen
+
+Ausdrücklich **keine** Stellplätze sind:
+> „Ausstellungs-, Verkaufs-, Werk- und Lagerräume für Kraftfahrzeuge""
+> (z. B. § 2 Abs. 7 BauO Berlin, § 2 Abs. 7 LBauO M-V)
+
+## Besonderheiten einzelner Bundesländer
+
+| Bundesland | Besonderheit |
+|---|---|
+| **Nordrhein-Westfalen** | Stellplätze dienen auch dem Abstellen von **Fahrrädern** (§ 2 Abs. 8 BauO NRW) |
+| **Saarland** | Garagen werden weiter definiert als „ganz oder teilweise umschlossene Räume"" und **überdachte Stellplätze** eingeschlossen (§ 2 Abs. 9 LBO Saarland) |
+
+## Zusammenfassung
+
+Stellplätze sind demnach unüberdachte oder nicht als Gebäude ausgestaltete Flächen auf privatem Grund, die ausschließlich dem Abstellen von Kraftfahrzeugen (in NRW auch Fahrrädern) dienen – nicht jedoch gewerblichen Zwecken wie Ausstellung oder Lagerung.","41","4147","","","","","","","","",""
+"Q3","Structured","2","Was sind Stellplätze?","GraphRAG","DE-MV_§_2_Begriffe_5|DE-BE_§_2_Begriffe_5|DE-ST_§_2_Begriffe_5|DE-NW_§_2_Begriffe_2|DE-SL_§_2_Begriffe_5|DE-HB_§_2_Begriffe_8|DE-BE_§_49_Stellplätze,_Abstellplätz_0|DE-TH_§_2_Begriffe_5","Mecklenburg-Vorpommern|Berlin|Sachsen-Anhalt|Nordrhein-Westfalen|Saarland|Bremen|Berlin|Thüringen","0.6643","0","# Definition von Stellplätzen im deutschen Bauordnungsrecht
+
+## Grunddefinition
+
+Stellplätze sind nach den Bauordnungen der deutschen Bundesländer übereinstimmend **Flächen, die dem Abstellen von Kraftfahrzeugen außerhalb der öffentlichen Verkehrsflächen dienen**.
+
+Dies ergibt sich gleichlautend aus:
+- § 2 Abs. 7 der Landesbauordnung Mecklenburg-Vorpommern
+- § 2 Abs. 7 der Bauordnung Berlin
+- § 2 Abs. 7 der Bauordnung Sachsen-Anhalt
+- § 2 Abs. 7 der Bauordnung Thüringen
+- § 2 Abs. 13 der Bauordnung Bremen
+
+## Abgrenzungen
+
+### Garagen
+Garagen sind von Stellplätzen zu unterscheiden: Sie sind **Gebäude oder Gebäudeteile** zum Abstellen von Kraftfahrzeugen (§ 2 Abs. 7 LBauO M-V, Berlin, Sachsen-Anhalt, Thüringen).
+
+### Keine Stellplätze oder Garagen
+**Ausstellungs-, Verkaufs-, Werk- und Lagerräume** für Kraftfahrzeuge fallen ausdrücklich **nicht** unter den Begriff der Stellplätze oder Garagen (§ 2 Abs. 7 LBauO M-V u.a.).
+
+## Besonderheit in Nordrhein-Westfalen
+
+In NRW ist die Definition erweitert: Stellplätze sind dort Flächen, die dem Abstellen von **Kraftfahrzeugen und Fahrrädern** außerhalb der öffentlichen Verkehrsflächen dienen (§ 2 Abs. 8 BauO NRW). Entsprechend umfassen Garagen dort auch das Abstellen von Fahrrädern.
+
+## Besonderheit im Saarland
+
+Das Saarland definiert Garagen abweichend als **ganz oder teilweise umschlossene Räume** zum Abstellen von Kraftfahrzeugen **und überdachte Stellplätze** (§ 2 Abs. 9 LBO Saarland).","36","4113","","","","","","","","",""
+"Q4","Structured","2","Wann ist ein Bauvorhaben genehmigungspflichtig?","RAG","DE-BW_§_59_Baubeginn_0|DE-NI_§_69_NBauO_-_Behandlung_des_Ba_2|DE-RP_§_66_Vereinfachtes_Genehmigung_6|DE-BE_§_73_Geltungsdauer_der_Baugene_0|DE-NI_§_69_NBauO_-_Behandlung_des_Ba_5|DE-BY_Art._69_Geltungsdauer_der_Baug_0|DE-HE_§_76_Bauvoranfrage,_Bauvorbesc_0|DE-BY_Art._70_Teilbaugenehmigung_1Is_0","Baden-Württemberg|Niedersachsen|Rheinland-Pfalz|Berlin|Niedersachsen|Bayern|Hessen|Bayern","0.8045","0","# Genehmigungspflicht von Bauvorhaben
+
+## Grundsätzliche Aussage der bereitgestellten Auszüge
+
+Die bereitgestellten Gesetzesauszüge enthalten **keine direkte Definition**, wann ein Bauvorhaben genehmigungspflichtig ist. Sie regeln primär Verfahrensfragen (Baubeginn, Geltungsdauer, Verfahrensabläufe), setzen die Genehmigungspflicht jedoch als bekannt voraus.
+
+## Was die Auszüge zur Genehmigungspflicht implizieren
+
+Aus den Auszügen lässt sich entnehmen, dass die Genehmigungspflicht als eigenständige Kategorie existiert:
+
+- **§ 59 Abs. 1 LBO Baden-Württemberg** setzt voraus, dass es „genehmigungspflichtige Vorhaben"" gibt, und regelt, dass mit deren Ausführung erst nach Erteilung des Baufreigabescheins begonnen werden darf.
+
+- **§ 59 Abs. 2 LBO Baden-Württemberg** verpflichtet den Bauherrn, den Baubeginn „genehmigungspflichtiger Vorhaben"" der Baurechtsbehörde mitzuteilen.
+
+- **§ 59 Abs. 3 LBO Baden-Württemberg** ordnet an, dass vor Baubeginn bei „genehmigungspflichtigen Vorhaben"" Grundriss und Höhenlage festzulegen sind.
+
+## Fazit
+
+⚠️ **Eine abschließende Antwort** auf die Frage, wann konkret ein Bauvorhaben genehmigungspflichtig ist, **kann auf Basis der bereitgestellten Auszüge nicht gegeben werden**. Hierfür wären die jeweiligen landesrechtlichen Vorschriften zur Genehmigungspflicht (z. B. § 49 ff. LBO BW, Art. 55 BayBO) sowie die Regelungen zu genehmigungsfreien Vorhaben erforderlich, die in den vorliegenden Auszügen nicht enthalten sind.","84","3207","","","","","","","","",""
+"Q4","Structured","2","Wann ist ein Bauvorhaben genehmigungspflichtig?","GraphRAG","DE-BW_§_59_Baubeginn_0|DE-NI_§_69_NBauO_-_Behandlung_des_Ba_2|DE-RP_§_66_Vereinfachtes_Genehmigung_6|DE-BE_§_73_Geltungsdauer_der_Baugene_0|DE-NI_§_69_NBauO_-_Behandlung_des_Ba_5|DE-BY_Art._69_Geltungsdauer_der_Baug_0|DE-HE_§_76_Bauvoranfrage,_Bauvorbesc_0|DE-BY_Art._70_Teilbaugenehmigung_1Is_0","Baden-Württemberg|Niedersachsen|Rheinland-Pfalz|Berlin|Niedersachsen|Bayern|Hessen|Bayern","0.8045","0","# Genehmigungspflicht von Bauvorhaben
+
+## Grundsatz
+
+Die bereitgestellten Gesetzesauszüge enthalten **keine direkte Normdefinition**, wann ein Bauvorhaben genehmigungspflichtig ist. Die Auszüge regeln primär Verfahrensaspekte (Baubeginn, Geltungsdauer, Behandlung von Bauanträgen). Dennoch lassen sich aus den Texten **indirekte Rückschlüsse** auf die Genehmigungspflicht ziehen.
+
+---
+
+## Was die Auszüge zur Genehmigungspflicht aussagen
+
+### 1. Genehmigungspflichtige Vorhaben als Regelfall
+
+Aus **§ 59 Abs. 1 LBO Baden-Württemberg** ergibt sich implizit, dass genehmigungspflichtige Vorhaben existieren und dass mit deren Ausführung erst nach Erteilung eines **Baufreigabescheins** begonnen werden darf:
+
+> *„Mit der Ausführung genehmigungspflichtiger Vorhaben darf erst nach Erteilung des Baufreigabescheins begonnen werden.""* (§ 59 Abs. 1 Satz 1 LBO BW)
+
+### 2. Mitteilungspflicht bei Baubeginn
+
+**§ 59 Abs. 2 LBO Baden-Württemberg** statuiert eine Anzeigepflicht des Bauherrn:
+
+> *„Der Bauherr hat den Baubeginn genehmigungspflichtiger Vorhaben [...] vorher der Baurechtsbehörde elektronisch in Textform mitzuteilen.""*
+
+### 3. Abgrenzung: Vereinfachtes Genehmigungsverfahren
+
+**§ 66 LBauO Rheinland-Pfalz** deutet an, dass es unterschiedliche Verfahrensarten gibt (u.a. vereinfachtes Genehmigungsverfahren), was auf eine **Abstufung der Genehmigungspflicht** hinweist. Zudem wird der **Außenbereich (§ 35 BauGB)** als besondere Kategorie hervorgehoben, auf die bestimmte Regelungen keine Anwendung finden.
+
+---
+
+## Fazit
+
+> ⚠️ **Die bereitgestellten Auszüge enthalten keine abschließende Definition der Genehmigungspflicht.** Diese findet sich typischerweise in den jeweiligen Generalklauseln der Landesbauordnungen (z.B. „Errichtung, Änderung und Nutzungsänderung baulicher Anlagen bedarf der Baugenehmigung""), die hier **nicht vorliegen**.
+
+Aus den vorliegenden Texten lässt sich lediglich ableiten:
+- Es gibt **genehmigungspflichtige Vorhaben**, für die besondere Pflichten gelten (§ 59 LBO BW)
+- Es gibt **unterschiedliche Genehmigungsverfahren** (vereinfacht/regulär), was auf unterschiedliche Genehmigungsstufen hindeutet (§ 66 LBauO RLP)
+- Vor Baubeginn ist stets ein **Baufreigabeschein** erforderlich (§ 59 Abs. 1 LBO BW)
+
+Für eine vollständige Antwort wären die Vorschriften zu **genehmigungsfreien bzw. genehmigungspflichtigen Vorhaben** (z.B. §§ 50–58 LBO BW oder vergleichbare Normen anderer Länder) erforderlich.","36","3599","","","","","","","","",""
+"Q5","Structured","2","Welche Anforderungen gelten für Abstandsflächen?","RAG","DE-BW_§_5_Abstandsflächen_0|DE-HH_§_7_Gebäude_auf_mehreren_Grund_1|DE-HB_§_6_Abstandsflächen,_Abstände_0|DE-BW_§_6_Abstandsflächen_in_Sonderf_1|DE-BE_§_6_Abstandsflächen,_Abstände_0|DE-SN_§_6_Abstandsflächen,_Abstände_0|DE-BB_§_6_Abstandsflächen_0|DE-HB_§_86_Örtliche_Bauvorschriften_1","Baden-Württemberg|Hamburg|Bremen|Baden-Württemberg|Berlin|Sachsen|Brandenburg|Bremen","0.7046","0","# Anforderungen an Abstandsflächen
+
+## 1. Grundsätzliche Pflicht zur Freihaltung
+
+Vor den Außenwänden von Gebäuden müssen Abstandsflächen von oberirdischen Gebäuden freigehalten werden. Dies gilt übereinstimmend in allen Bundesländern (vgl. **§ 5 Abs. 1 BauO BW**, **§ 6 Abs. 1 BremLBO**, **§ 6 Abs. 1 BauO Bln**, **§ 6 Abs. 1 SächsBO**, **§ 6 Abs. 1 BbgBO**).
+
+In **Bremen** wird der Zweck ausdrücklich genannt: Die Abstandsflächen dienen der **ausreichenden Belichtung und Belüftung** sowie einem **ausreichenden Sozialabstand** (§ 6 Abs. 1 BremLBO).
+
+Gleiches gilt für **andere Anlagen**, von denen Wirkungen wie von Gebäuden ausgehen (§ 6 Abs. 1 BremLBO, § 6 Abs. 1 BauO Bln, § 6 Abs. 1 SächsBO).
+
+---
+
+## 2. Ausnahmen von der Abstandsflächenpflicht
+
+Eine Abstandsfläche ist **nicht erforderlich**, wenn:
+- nach planungsrechtlichen Vorschriften **an die Grenze gebaut werden muss**, oder
+- nach planungsrechtlichen Vorschriften **an die Grenze gebaut werden darf** (§ 5 Abs. 1 BauO BW, § 6 Abs. 2 BremLBO, § 6 Abs. 1 BauO Bln, § 6 Abs. 1 SächsBO, § 6 Abs. 1 BbgBO).
+
+In **Baden-Württemberg** ist beim Bauen-dürfen zusätzlich erforderlich, dass **öffentlich-rechtlich gesichert** ist, dass auf dem Nachbargrundstück ebenfalls an die Grenze gebaut wird (§ 5 Abs. 1 Nr. 2 BauO BW).
+
+In **Bremen** entfällt die Abstandsfläche auch, wenn das Vorhaben nach **§ 34 Abs. 1 oder Abs. 3a BauGB** zulässig ist (§ 6 Abs. 2 Nr. 2 BremLBO).
+
+---
+
+## 3. Lage der Abstandsflächen
+
+Die Abstandsflächen **müssen grundsätzlich auf dem Grundstück selbst** liegen (§ 5 Abs. 2 BauO BW, § 6 Abs. 2 BremLBO, § 6 Abs. 2 BauO Bln, § 6 Abs. 2 SächsBO, § 6 Abs. 2 BbgBO).
+
+Sie dürfen **auch auf öffentlichen Verkehrs-, Grün- und Wasserflächen** liegen, jedoch **nur bis zu deren Mitte** (§ 5 Abs. 2 BauO BW, § 6 Abs. 3 Nr. 1 BremLBO, § 6 Abs. 2 BauO Bln, § 6 Abs. 2 SächsBO, § 6 Abs. 2 BbgBO).
+
+In **Berlin und Sachsen** ist eine Erstreckung auf **andere Grundstücke** zulässig, wenn **rechtlich gesichert** ist, dass sie nicht überbaut werden; eine Anrechnung auf die dort erforderlichen Abstandsflächen ist jedoch unzulässig (§ 6 Abs. 2 BauO Bln, § 6 Abs. 2 Sächs","73","4039","","","","","","","","",""
+"Q5","Structured","2","Welche Anforderungen gelten für Abstandsflächen?","GraphRAG","DE-BW_§_5_Abstandsflächen_0|DE-HH_§_7_Gebäude_auf_mehreren_Grund_1|DE-HB_§_6_Abstandsflächen,_Abstände_0|DE-BW_§_6_Abstandsflächen_in_Sonderf_1|DE-BE_§_6_Abstandsflächen,_Abstände_0|DE-SN_§_6_Abstandsflächen,_Abstände_0|DE-BB_§_6_Abstandsflächen_0|DE-HB_§_86_Örtliche_Bauvorschriften_1","Baden-Württemberg|Hamburg|Bremen|Baden-Württemberg|Berlin|Sachsen|Brandenburg|Bremen","0.7046","0","# Anforderungen an Abstandsflächen nach deutschem Bauordnungsrecht
+
+## 1. Grundsätzliche Pflicht zur Einhaltung von Abstandsflächen
+
+Übereinstimmend regeln die Bauordnungen mehrerer Bundesländer, dass **vor den Außenwänden von Gebäuden Abstandsflächen von oberirdischen Gebäuden freizuhalten** sind:
+
+- **Baden-Württemberg** (§ 5 Abs. 1 LBO BW)
+- **Berlin** (§ 6 Abs. 1 BauOBln)
+- **Sachsen** (§ 6 Abs. 1 SächsBO)
+- **Brandenburg** (§ 6 Abs. 1 BbgBO)
+- **Bremen** (§ 6 Abs. 1 BremLBO): Begründet mit dem Zweck der **ausreichenden Belichtung, Belüftung und eines ausreichenden Sozialabstands**
+
+Die Pflicht gilt auch für **andere Anlagen**, von denen Wirkungen wie von Gebäuden ausgehen (§ 6 Abs. 1 BremLBO; § 6 Abs. 1 BauOBln; § 6 Abs. 1 SächsBO).
+
+---
+
+## 2. Ausnahmen von der Abstandsflächenpflicht
+
+Eine Abstandsfläche ist **nicht erforderlich**, wenn nach planungsrechtlichen Vorschriften:
+
+- **an die Grenze gebaut werden muss** oder
+- **an die Grenze gebaut werden darf**
+
+Dies gilt übereinstimmend in Baden-Württemberg (§ 5 Abs. 1 Nr. 1 und 2 LBO BW), Berlin (§ 6 Abs. 1 BauOBln), Sachsen (§ 6 Abs. 1 SächsBO), Brandenburg (§ 6 Abs. 1 BbgBO) und Bremen (§ 6 Abs. 2 BremLBO).
+
+**Baden-Württemberg** präzisiert zusätzlich (§ 5 Abs. 1 LBO BW):
+- Beim Dürfen-Tatbestand muss **öffentlich-rechtlich gesichert** sein, dass auch auf dem Nachbargrundstück an die Grenze gebaut wird – es sei denn, die vorhandene Bauweise lässt dies unabhängig davon zu.
+
+---
+
+## 3. Lage der Abstandsflächen
+
+Die Abstandsflächen müssen grundsätzlich **auf dem Grundstück selbst liegen** (§ 5 Abs. 2 LBO BW; § 6 Abs. 2 BremLBO; § 6 Abs. 2 BauOBln; § 6 Abs. 2 SächsBO; § 6 Abs. 2 BbgBO).
+
+**Ausnahmsweise** dürfen sie auch liegen auf:
+- **Öffentlichen Verkehrs-, Grün- und Wasserflächen**, jedoch nur **bis zu deren Mitte** (alle genannten Länder)
+- **Anderen/Nachbargrundstücken**, wenn dies **öffentlich-rechtlich gesichert** ist, dass sie nicht überbaut werden (§ 6 Abs. 2 BremLBO; § 6 Abs. 2 BauOBln; § 6 Abs. 2 SächsBO)
+
+**Brandenburg** lässt darüber hinaus eine **geringfügige Erstreckung auf das Nachbargrundstück** zu (§ 6 Abs. 2 BbgBO):
+> Breite: max. 4 m, Tiefe: max. 1 m, Gesamtfläche: max. 2 m²
+
+---
+
+## 4. Über","34","4039","","","","","","","","",""
+"Q6","Structured","2","Welche allgemeinen Anforderungen müssen bauliche Anlagen erfüllen?","RAG","DE-SH_§_16b_Allgemeine_Anforderungen_0|DE-BY_Art._3_Allgemeine_Anforderunge_0|DE-NI_§_16b_NBauO_-_Allgemeine_Anfor_0|DE-RP_§_18_Allgemeine_Anforderungen__0|DE-SH_§_51_Sonderbauten_2|DE-HE_§_10_Anlagen_der_Außenwerbung__0|DE-NW_§_18_Allgemeine_Anforderungen__0|DE-BB_§_3_Abs._1_besondere_Anforderu_1","Schleswig-Holstein|Bayern|Niedersachsen|Rheinland-Pfalz|Schleswig-Holstein|Hessen|Nordrhein-Westfalen|Brandenburg","0.7948","0","# Allgemeine Anforderungen an bauliche Anlagen
+
+## Grundlegende Anforderungen
+
+Nach **Art. 3 BayBO** müssen bauliche Anlagen bei ihrer Anordnung, Errichtung, Änderung, Nutzungsänderung, Instandhaltung und Beseitigung folgende Kernanforderungen erfüllen:
+
+1. **Berücksichtigung der Belange der Baukultur**, insbesondere der anerkannten Regeln der Baukunst
+2. **Schutz der öffentlichen Sicherheit und Ordnung**, insbesondere von **Leben und Gesundheit**
+3. **Schutz der natürlichen Lebensgrundlagen**
+
+## Dauerhaftigkeit der Anforderungserfüllung
+
+Gemäß **Art. 3 Satz 2 BayBO** müssen Anlagen:
+- bei **ordnungsgemäßer Instandhaltung** die genannten Anforderungen erfüllen
+- während einer dem **Zweck entsprechenden angemessenen Zeitdauer** nutzbar sein
+- **ohne Missstände benutzbar** sein
+
+## Anforderungen an verwendete Bauprodukte
+
+Mehrere Landesbauordnungen (u.a. **§ 18 BauO NRW**, **§ 18 LBauO RLP**, **§ 16b NBauO**) stellen übereinstimmend sicher, dass Bauprodukte nur verwendet werden dürfen, wenn die baulichen Anlagen dabei:
+- bei **ordnungsgemäßer Instandhaltung**
+- während einer dem Zweck entsprechenden **angemessenen Zeitdauer**
+- die gesetzlichen Anforderungen erfüllen und **gebrauchstauglich** sind
+
+## Besondere Einzelanforderungen
+
+Nach **§ 3 Abs. 3 BbgBO** können sich Anforderungen insbesondere erstrecken auf:
+- Stand- und Verkehrssicherheit
+- Brand-, Wärme-, Schall- und Gesundheitsschutz
+- Rettungswege und Aufzüge
+- Lüftung, Beleuchtung und Energieversorgung
+- Wasserversorgung sowie Abwasser- und Abfallbeseitigung
+
+---
+> **Zusammenfassend** gilt: Bauliche Anlagen müssen sicher, gesundheitsverträglich, dauerhaft nutzbar und unter Wahrung der natürlichen Lebensgrundlagen errichtet und betrieben werden.","51","2736","","","","","","","","",""
