@@ -30,12 +30,14 @@ _THIS_DIR = Path(__file__).resolve().parent          # propra/benchmark/
 _PROPRA_DIR = _THIS_DIR.parent                       # propra/
 _RETRIEVAL_DIR = _PROPRA_DIR / "retrieval"
 _PROJECT_ROOT = _PROPRA_DIR.parent                   # repo root
+_PROMPTS_DIR = _PROPRA_DIR / "prompts"
+_PROMPT_PATH = _PROMPTS_DIR / "assess.txt"
 
 sys.path.insert(0, str(_RETRIEVAL_DIR))
 sys.path.insert(0, str(_PROPRA_DIR.parent))          # so propra.graph.* works
 
-import rag
-from propra.graph.kg_retriever import get_related_chunks
+import rag  # noqa: E402
+from propra.graph.kg_retriever import get_related_chunks  # noqa: E402
 
 load_dotenv(_PROJECT_ROOT / ".env")
 
@@ -133,12 +135,7 @@ def run_graphrag(query: str, retriever, jurisdiction: str | None = None) -> tupl
 # LLM synthesis
 # ---------------------------------------------------------------------------
 
-_SYSTEM_PROMPT = (
-    "Du bist ein pr\u00e4ziser Rechtsassistent f\u00fcr deutsches Bauordnungsrecht. "
-    "Beantworte die Frage ausschlie\u00dflich auf Basis der bereitgestellten "
-    "Gesetzesausz\u00fcge. Keine externen Quellen. Antworte auf Deutsch. "
-    "Zitiere relevante Paragraphen."
-)
+_SYSTEM_PROMPT = _PROMPT_PATH.read_text(encoding="utf-8")
 
 
 def synthesise(query: str, chunks: list[dict], client: anthropic.Anthropic) -> tuple[str, int]:
@@ -201,7 +198,6 @@ def main() -> None:
 
         for q in QUERIES:
             qid = q["id"]
-            qnum = int(qid[1:])
             query_de = QUERIES_DE[qid]
             display_query = q["query"]
 
