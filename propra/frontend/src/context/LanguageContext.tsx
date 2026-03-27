@@ -75,7 +75,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // Landing — footer
     "landing.footer.disclaimer": "For informational purposes only. Not a substitute for qualified legal counsel.",
-    "landing.footer.copy": "© 2026 RechtImmobilien",
+    "landing.footer.copy": "© 2026 PropLaw",
 
     // Case statuses
     "status.in_progress": "In Progress",
@@ -283,7 +283,7 @@ const translations: Record<Language, Record<string, string>> = {
 
     // Landing — footer
     "landing.footer.disclaimer": "Nur zu Informationszwecken. Kein Ersatz für qualifizierte Rechtsberatung.",
-    "landing.footer.copy": "© 2026 RechtImmobilien",
+    "landing.footer.copy": "© 2026 PropLaw",
 
     // Case statuses
     "status.in_progress": "In Bearbeitung",
