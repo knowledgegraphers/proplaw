@@ -8,7 +8,7 @@ The judge prompt follows the exact template from docs/benchmark_methodology_v2.m
 including the full state LBO corpus in each call.
 
 Usage:
-    python -m benchmark.judge_runner propra/benchmark/results/baseline_20260326_1357.csv
+    python -m propra.benchmark.judge_runner --input propra/benchmark/results/baseline_20260326_1357.csv
 """
 
 import sys
@@ -16,6 +16,7 @@ import csv
 import time
 import json
 import os
+import argparse
 from pathlib import Path
 
 from openai import OpenAI
@@ -364,11 +365,11 @@ def judge_row(
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    if len(sys.argv) < 2:
-        print("Usage: python -m benchmark.judge_runner <path/to/baseline.csv>")
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description="Propra benchmark judge runner")
+    parser.add_argument("--input", required=True, metavar="CSV", help="Path to baseline CSV file")
+    args = parser.parse_args()
 
-    input_path = Path(sys.argv[1])
+    input_path = Path(args.input)
     if not input_path.is_absolute():
         input_path = Path.cwd() / input_path
     if not input_path.exists():
