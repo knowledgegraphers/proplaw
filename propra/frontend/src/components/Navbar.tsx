@@ -22,7 +22,7 @@ const Navbar = () => {
             <Scale className="w-4 h-4 text-gold" />
           </div>
           <span className="font-display font-bold text-primary-foreground text-lg tracking-tight">
-            Recht<span className="text-gold">Immobilien</span>
+            Prop<span className="text-gold">Law</span>
           </span>
         </Link>
 
