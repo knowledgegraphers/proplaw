@@ -1,4 +1,4 @@
-# Propra
+# PropLaw
 
 **AI-native property regulation guidance for German homeowners.**
 
