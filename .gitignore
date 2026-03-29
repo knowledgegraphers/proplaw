@@ -22,6 +22,7 @@ propra/data/raw/*.pdf
 # Vector database files
 *.faiss
 *.pkl
+!propra/data/graph.pkl
 
 # Generated graph outputs (regenerate with scripts in propra/graph/)
 propra/data/graph*.html

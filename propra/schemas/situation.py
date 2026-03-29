@@ -58,6 +58,14 @@ class Situation(BaseModel):
         default=None,
         description="Confidence of the frontend's goal classification. Only used when goal_category is set.",
     )
+    retrieval_mode: Literal["rag", "graphrag"] = Field(
+        default="rag",
+        description=(
+            "Retrieval strategy requested by the client. "
+            "'rag' keeps the current FAISS-only path; "
+            "'graphrag' attempts knowledge-graph enrichment after FAISS retrieval."
+        ),
+    )
 
     model_config = {
         "extra": "ignore",
@@ -67,6 +75,9 @@ class Situation(BaseModel):
                 "property_type": "Einfamilienhaus",
                 "project_description": "Ich möchte eine Garage mit 6 m × 4 m im Hintergarten bauen.",
                 "has_bplan": False,
+                "goal_category": "garage",
+                "goal_confidence": "HIGH",
+                "retrieval_mode": "graphrag",
             }
         },
     }

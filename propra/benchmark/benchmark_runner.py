@@ -126,9 +126,9 @@ def run_graphrag(query: str, retriever, jurisdiction: str | None = None) -> tupl
     """
     t0 = time.time()
     faiss_chunks = retriever.retrieve(query, k=8, jurisdiction=jurisdiction)
-    kg_chunks = get_related_chunks(faiss_chunks)
+    kg_result = get_related_chunks(faiss_chunks)
     retrieval_ms = (time.time() - t0) * 1000
-    return faiss_chunks + kg_chunks, retrieval_ms
+    return faiss_chunks + kg_result.nodes, retrieval_ms
 
 
 # ---------------------------------------------------------------------------

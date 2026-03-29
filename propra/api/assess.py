@@ -9,7 +9,7 @@ import anthropic
 from dotenv import load_dotenv
 from fastapi import APIRouter, HTTPException, status
 
-from propra.graph.kg_retriever import get_related_chunks
+from propra.graph.kg_retriever import KGEnrichmentResult, get_related_chunks
 from propra.schemas.assessment import AssessmentResponse, ClassificationResult
 from propra.schemas.situation import Situation
 
@@ -116,12 +116,19 @@ def assess(situation: Situation) -> AssessmentResponse:
     Pipeline:
       1. Map jurisdiction label → ISO 3166-2 code for FAISS filter.
       2. LLM goal classification → category + node types (non-fatal if it fails).
-      3. FAISS retrieval → top-5 document chunks (query augmented with node types).
-      4. Anthropic API call with prompts/assess.txt → JSON AssessmentResponse.
-      5. Validate response against AssessmentResponse schema.
+      3. FAISS retrieval → top-8 document chunks (query augmented with node types).
+      4. Optionally enrich context via the knowledge graph when GraphRAG is requested.
+      5. Anthropic API call with prompts/assess.txt → JSON AssessmentResponse.
+      6. Validate response against AssessmentResponse schema.
     """
     # 1. Map jurisdiction label to ISO code (None = search all jurisdictions)
     iso_code = _LABEL_TO_CODE.get(situation.jurisdiction)
+    retrieval_mode = situation.retrieval_mode
+
+    kg_result = KGEnrichmentResult(
+        status="not_requested",
+        message="Knowledge-graph enrichment was skipped because retrieval_mode='rag'.",
+    )
 
     # 2. Classify the goal (use frontend-provided category or call LLM classifier)
     if situation.goal_category:
@@ -178,14 +185,26 @@ def assess(situation: Situation) -> AssessmentResponse:
             ),
             has_bplan=situation.has_bplan,
             goal_category=classification.goal_category if classification else None,
+            retrieval_mode=retrieval_mode,
+            kg_status=(
+                "not_requested" if retrieval_mode == "rag" else "no_seed_match"
+            ),
+            kg_message=(
+                "Knowledge-graph enrichment was skipped because FAISS returned no chunks."
+                if retrieval_mode == "graphrag"
+                else kg_result.message
+            ),
         )
 
-    # 3b. KG enrichment
-    kg_chunks = get_related_chunks(chunks)
-    all_chunks = chunks + kg_chunks
+    # 4. Optionally enrich with KG context when GraphRAG is requested
+    context_chunks = chunks
+    if retrieval_mode == "graphrag":
+        kg_result = get_related_chunks(chunks)
+        if kg_result.nodes:
+            context_chunks = chunks + kg_result.nodes
 
-    # 4. Synthesise with Anthropic
-    context = _build_context(all_chunks)
+    # 5. Synthesise with Anthropic
+    context = _build_context(context_chunks)
     user_message = (
         f"Situation:\n"
         f"- Bundesland: {situation.jurisdiction}\n"
@@ -212,17 +231,21 @@ def assess(situation: Situation) -> AssessmentResponse:
             },
         ) from exc
 
-    # 5. Parse and validate JSON response
+    # 6. Parse and validate JSON response
     try:
         text = raw_text.strip()
         # Strip markdown code fences if the model wrapped the JSON
         if text.startswith("```"):
             text = text.split("\n", 1)[1].rsplit("```", 1)[0].strip()
         data = json.loads(text)
-        # has_bplan and goal_category are sourced from the request, not the LLM
+        # has_bplan, goal_category, and retrieval metadata are sourced from the request/backend.
         data["has_bplan"] = situation.has_bplan
         data["goal_category"] = classification.goal_category if classification else None
-        data["kg_nodes_used"] = [c["kg_node_id"] for c in kg_chunks]
+        data["retrieval_mode"] = retrieval_mode
+        data["kg_status"] = kg_result.status
+        data["kg_nodes_used"] = kg_result.node_ids
+        data["kg_seed_paragraphs"] = kg_result.seed_paragraphs
+        data["kg_message"] = kg_result.message
         # Belt-and-suspenders: downgrade HIGH → MEDIUM when no B-Plan
         if data.get("confidence") == "HIGH" and not situation.has_bplan:
             data["confidence"] = "MEDIUM"
