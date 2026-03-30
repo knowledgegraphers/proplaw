@@ -5,6 +5,9 @@ Runs 20 benchmark queries against two retrieval systems (RAG and GraphRAG),
 synthesises answers via Claude, and logs all results to a timestamped CSV file
 under propra/benchmark/results/.
 
+Query set v2.1 -- permit-decision framing throughout.
+Q01, Q02, Q03, Q06, Q13, Q20 updated to match benchmark_methodology_v2.1.md.
+
 Usage:
     python benchmark_runner.py
 """
@@ -46,51 +49,57 @@ load_dotenv(_PROJECT_ROOT / ".env")
 # Plain ASCII in source; QUERIES_DE maps id -> proper German for runtime use.
 # ---------------------------------------------------------------------------
 
+# Query set v2.1 -- permit-decision framing.
+# Changed: Q1 (type/diff), Q2 (type/diff), Q3 (query/type), Q6 (query/type),
+#          Q13 (query), Q20 (query/type).
+# Unchanged: Q4, Q5, Q7-Q12, Q14-Q19.
+# Plain ASCII in source; QUERIES_DE maps id -> proper German for runtime use.
 QUERIES = [
-    {"id": "Q1",  "query": "Was sind bauliche Anlagen?",                                                                              "type": "Direct",             "difficulty": 1},
-    {"id": "Q2",  "query": "Was gilt als Aufenthaltsraum?",                                                                           "type": "Direct",             "difficulty": 1},
-    {"id": "Q3",  "query": "Was sind Stellplaetze?",                                                                                  "type": "Structured",         "difficulty": 2},
-    {"id": "Q4",  "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",                                                         "type": "Structured",         "difficulty": 2},
-    {"id": "Q5",  "query": "Welche Anforderungen gelten fuer Abstandsflaechen?",                                                      "type": "Structured",         "difficulty": 2},
-    {"id": "Q6",  "query": "Welche allgemeinen Anforderungen muessen bauliche Anlagen erfuellen?",                                     "type": "Structured",         "difficulty": 2},
-    {"id": "Q7",  "query": "Welche Anforderungen bestehen an Aufenthaltsraeume?",                                                     "type": "Multi-step",         "difficulty": 3},
-    {"id": "Q8",  "query": "Welche Anforderungen gelten fuer den Brandschutz?",                                                       "type": "Multi-step",         "difficulty": 3},
-    {"id": "Q9",  "query": "Welche Anforderungen bestehen an Rettungswege in Gebaeuden?",                                             "type": "Multi-step",         "difficulty": 3},
-    {"id": "Q10", "query": "Welche Voraussetzungen muessen Grundstuecke fuer eine Bebauung erfuellen?",                               "type": "Multi-step",         "difficulty": 2},
-    {"id": "Q11", "query": "Welche Zusammenhaenge bestehen zwischen Brandschutzanforderungen und der Gebaeudeklasse?",                "type": "Cross-concept",      "difficulty": 3},
-    {"id": "Q12", "query": "Welche Regelungen gelten fuer Stellplaetze im Zusammenhang mit Gebaeuden?",                              "type": "Structured",         "difficulty": 2},
-    {"id": "Q13", "query": "Wann ist ein Bauvorhaben verfahrensfrei?",                                                               "type": "Exception/Procedure","difficulty": 3},
-    {"id": "Q14", "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",                                                        "type": "Multi-step",         "difficulty": 3},
-    {"id": "Q15", "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",                     "type": "Exception/Procedure","difficulty": 3},
-    {"id": "Q16", "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen moeglich?",      "type": "Exception/Procedure","difficulty": 3},
-    {"id": "Q17", "query": "Wie haengen Abstandsflaechen und Grundstuecksbebauung zusammen?",                                         "type": "Cross-concept",      "difficulty": 3},
-    {"id": "Q18", "query": "Welche Rolle spielen Rettungswege im Brandschutz?",                                                       "type": "Cross-concept",      "difficulty": 3},
-    {"id": "Q19", "query": "Welche Voraussetzungen muessen erfuellt sein, bevor eine Nutzung aufgenommen werden darf?",               "type": "Multi-step",         "difficulty": 3},
-    {"id": "Q20", "query": "Welche Pflichten hat der Bauherr im Bauprozess?",                                                         "type": "Structured",         "difficulty": 2},
+    {"id": "Q1",  "query": "Gilt ein aufgestaenderter Holzsteg ueber meinem Gartenteich als bauliche Anlage, fuer die ich einen Antrag stellen muss?", "type": "Exception/Procedure", "difficulty": 2},
+    {"id": "Q2",  "query": "Darf ich mein Kellergeschoss als Buero nutzen, wenn es nur ein kleines Fenster hat?",                                       "type": "Multi-step",          "difficulty": 3},
+    {"id": "Q3",  "query": "Muss ich Stellplaetze nachweisen, wenn ich ein bestehendes Wohngebaeude um eine Einliegerwohnung erweitere?",               "type": "Structured",          "difficulty": 2},
+    {"id": "Q4",  "query": "Wann ist ein Bauvorhaben genehmigungspflichtig?",                                                                           "type": "Structured",          "difficulty": 2},
+    {"id": "Q5",  "query": "Welche Anforderungen gelten fuer Abstandsflaechen?",                                                                        "type": "Structured",          "difficulty": 2},
+    {"id": "Q6",  "query": "Darf ich eine Garage direkt an der Grundstuecksgrenze bauen?",                                                              "type": "Structured",          "difficulty": 2},
+    {"id": "Q7",  "query": "Welche Anforderungen bestehen an Aufenthaltsraeume?",                                                                       "type": "Multi-step",          "difficulty": 3},
+    {"id": "Q8",  "query": "Welche Anforderungen gelten fuer den Brandschutz?",                                                                         "type": "Multi-step",          "difficulty": 3},
+    {"id": "Q9",  "query": "Welche Anforderungen bestehen an Rettungswege in Gebaeuden?",                                                               "type": "Multi-step",          "difficulty": 3},
+    {"id": "Q10", "query": "Welche Voraussetzungen muessen Grundstuecke fuer eine Bebauung erfuellen?",                                                 "type": "Multi-step",          "difficulty": 2},
+    {"id": "Q11", "query": "Welche Zusammenhaenge bestehen zwischen Brandschutzanforderungen und der Gebaeudeklasse?",                                  "type": "Cross-concept",       "difficulty": 3},
+    {"id": "Q12", "query": "Welche Regelungen gelten fuer Stellplaetze im Zusammenhang mit Gebaeuden?",                                                 "type": "Structured",          "difficulty": 2},
+    {"id": "Q13", "query": "Muss ich eine Baugenehmigung beantragen, wenn ich einen Schuppen von 10 m2 bauen will?",                                    "type": "Exception/Procedure", "difficulty": 3},
+    {"id": "Q14", "query": "Welche Folgen kann Bauen ohne Genehmigung haben?",                                                                          "type": "Multi-step",          "difficulty": 3},
+    {"id": "Q15", "query": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",                                        "type": "Exception/Procedure", "difficulty": 3},
+    {"id": "Q16", "query": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen moeglich?",                         "type": "Exception/Procedure", "difficulty": 3},
+    {"id": "Q17", "query": "Wie haengen Abstandsflaechen und Grundstuecksbebauung zusammen?",                                                           "type": "Cross-concept",       "difficulty": 3},
+    {"id": "Q18", "query": "Welche Rolle spielen Rettungswege im Brandschutz?",                                                                         "type": "Cross-concept",       "difficulty": 3},
+    {"id": "Q19", "query": "Welche Voraussetzungen muessen erfuellt sein, bevor eine Nutzung aufgenommen werden darf?",                                  "type": "Multi-step",          "difficulty": 3},
+    {"id": "Q20", "query": "Darf ich mit dem Bau beginnen, bevor ich die Baugenehmigung erhalten habe?",                                                "type": "Exception/Procedure", "difficulty": 2},
 ]
 
 # Proper German umlaut versions for runtime (retriever + LLM).
+# v2.1: Q1, Q2, Q3, Q6, Q13, Q20 updated.
 QUERIES_DE: dict[str, str] = {
-    "Q1":  "Was sind bauliche Anlagen?",
-    "Q2":  "Was gilt als Aufenthaltsraum?",
-    "Q3":  "Was sind Stellpl\u00e4tze?",
+    "Q1":  "Gilt ein aufgest\u00e4nderter Holzsteg \u00fcber meinem Gartenteich als bauliche Anlage, f\u00fcr die ich einen Antrag stellen muss?",
+    "Q2":  "Darf ich mein Kellergeschoss als B\u00fcro nutzen, wenn es nur ein kleines Fenster hat?",
+    "Q3":  "Muss ich Stellpl\u00e4tze nachweisen, wenn ich ein bestehendes Wohngeb\u00e4ude um eine Einliegerwohnung erweitere?",
     "Q4":  "Wann ist ein Bauvorhaben genehmigungspflichtig?",
     "Q5":  "Welche Anforderungen gelten f\u00fcr Abstandsfl\u00e4chen?",
-    "Q6":  "Welche allgemeinen Anforderungen m\u00fcssen bauliche Anlagen erf\u00fcllen?",
+    "Q6":  "Darf ich eine Garage direkt an der Grundst\u00fccksgrenze bauen?",
     "Q7":  "Welche Anforderungen bestehen an Aufenthalts\u00e4ume?",
     "Q8":  "Welche Anforderungen gelten f\u00fcr den Brandschutz?",
     "Q9":  "Welche Anforderungen bestehen an Rettungswege in Geb\u00e4uden?",
     "Q10": "Welche Voraussetzungen m\u00fcssen Grundst\u00fccke f\u00fcr eine Bebauung erf\u00fcllen?",
     "Q11": "Welche Zusammenh\u00e4nge bestehen zwischen Brandschutzanforderungen und der Geb\u00e4udeklasse?",
     "Q12": "Welche Regelungen gelten f\u00fcr Stellpl\u00e4tze im Zusammenhang mit Geb\u00e4uden?",
-    "Q13": "Wann ist ein Bauvorhaben verfahrensfrei?",
+    "Q13": "Muss ich eine Baugenehmigung beantragen, wenn ich einen Schuppen von 10 m\u00b2 bauen will?",
     "Q14": "Welche Folgen kann Bauen ohne Genehmigung haben?",
     "Q15": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
     "Q16": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen m\u00f6glich?",
     "Q17": "Wie h\u00e4ngen Abstandsfl\u00e4chen und Grundst\u00fccksbebauung zusammen?",
     "Q18": "Welche Rolle spielen Rettungswege im Brandschutz?",
     "Q19": "Welche Voraussetzungen m\u00fcssen erf\u00fcllt sein, bevor eine Nutzung aufgenommen werden darf?",
-    "Q20": "Welche Pflichten hat der Bauherr im Bauprozess?",
+    "Q20": "Darf ich mit dem Bau beginnen, bevor ich die Baugenehmigung erhalten habe?",
 }
 
 # ---------------------------------------------------------------------------

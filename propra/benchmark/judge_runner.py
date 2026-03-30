@@ -1,14 +1,16 @@
 """Judge runner for Propra benchmark.
 
 Reads a baseline benchmark CSV, scores each row through GPT-4o as an
-independent LLM judge (Stage 1 of benchmark_methodology_v2.md), and writes
+independent LLM judge (Stage 1 of benchmark_methodology_v2.1.md), and writes
 draft scores to a new judged_ CSV in the same directory.
 
-The judge prompt follows the exact template from docs/benchmark_methodology_v2.md,
-including the full state LBO corpus in each call.
+The judge prompt follows the template from docs/benchmark_methodology_v2.1.md.
+Ground truth updated for v2.1 query set (permit-decision framing).
+Key prompt changes: system context added, NOT_ALLOWED anti-pattern guard,
+cross-state variance instruction for Grounding.
 
 Usage:
-    python -m propra.benchmark.judge_runner --input propra/benchmark/results/baseline_20260326_1357.csv
+    python -m propra.benchmark.judge_runner --input propra/benchmark/results/baseline_<timestamp>.csv
 """
 
 import sys
@@ -39,86 +41,110 @@ load_dotenv(_PROJECT_ROOT / ".env")
 # Ground truth  (keys Q01–Q20 to match methodology doc)
 # ---------------------------------------------------------------------------
 
+# Ground truth v2.1 — aligned with benchmark_methodology_v2.1.md
+# Q01, Q02, Q03, Q06, Q13, Q20 updated for permit-decision framing.
+# Q04–Q12, Q14–Q19 preserved from v2.0.
+# query_text added to each entry so judge_row can embed it directly.
 GROUND_TRUTH: dict[str, dict] = {
     "Q01": {
-        "section_family": "Definitionen",
-        "minimum_answer_elements": "mit dem Boden verbunden; aus Bauprodukten hergestellt; bauliche Anlagen und Einrichtungen",
+        "query_text": "Gilt ein aufgeständerter Holzsteg über meinem Gartenteich als bauliche Anlage, für die ich einen Antrag stellen muss?",
+        "section_family": "Begriffsbestimmungen / Genehmigungspflicht (§2 + §59–61 equivalents)",
+        "minimum_answer_elements": "Bauliche Anlagen sind mit dem Boden verbundene, aus Bauprodukten hergestellte Anlagen — der Steg fällt unter diese Definition; Verfahrensfreiheit hängt von Größe und Nutzung ab (kleine Anlage ohne Aufenthaltsraum ggf. verfahrensfrei); auch verfahrensfreie Vorhaben müssen materielle Anforderungen (Abstandsflächen, Standsicherheit) einhalten",
     },
     "Q02": {
-        "section_family": "Definitionen",
-        "minimum_answer_elements": "nicht nur vorübergehender Aufenthalt; geeignet für Menschen (Wohnen/Arbeiten); Abgrenzung zu Nebenräumen",
+        "query_text": "Darf ich mein Kellergeschoss als Büro nutzen, wenn es nur ein kleines Fenster hat?",
+        "section_family": "Aufenthaltsräume / Nutzungsänderung (§43–44 equivalents)",
+        "minimum_answer_elements": "Aufenthaltsräume müssen ausreichend belichtet und belüftet sein — Fensterflächenanteil mind. 1/8 der Raumgrundfläche (staatsspezifisch); lichte Raumhöhe mind. 2,40 m erforderlich (staatsspezifisch); Nutzungsänderung zum Büro ist genehmigungspflichtig, wenn neue Anforderungen ausgelöst werden",
     },
     "Q03": {
-        "section_family": "Stellplätze",
-        "minimum_answer_elements": "Flächen zum Abstellen von Fahrzeugen; außerhalb öffentlicher Verkehrsflächen; Abgrenzung zu Garagen",
+        "query_text": "Muss ich Stellplätze nachweisen, wenn ich ein bestehendes Wohngebäude um eine Einliegerwohnung erweitere?",
+        "section_family": "Stellplätze / Nutzungsänderung (§37–38 equivalents)",
+        "minimum_answer_elements": "Bei Nutzungsänderung oder Erweiterung entsteht Stellplatz-Nachweispflicht für den neu hinzukommenden Bedarf; Anzahl richtet sich nach der Nutzungsart — für Wohneinheiten i.d.R. 1 Stellplatz je Wohnung; Ablösung durch Zahlung in Stellplatzablösefonds möglich, wenn Nachweis auf dem Grundstück nicht möglich",
     },
     "Q04": {
+        "query_text": "Wann ist ein Bauvorhaben genehmigungspflichtig?",
         "section_family": "Genehmigungsverfahren",
         "minimum_answer_elements": "Grundsatz der Genehmigungspflicht; gesetzliche Ausnahmen definiert; Erfordernis einer Baugenehmigung vor Durchführung des Vorhabens",
     },
     "Q05": {
+        "query_text": "Welche Anforderungen gelten für Abstandsflächen?",
         "section_family": "Abstandsflächen",
         "minimum_answer_elements": "Abstand zu Grundstücksgrenzen; Einfluss auf Gebäudeanordnung; Sicherung von Belichtung und Belüftung",
     },
     "Q06": {
-        "section_family": "Allgemeine Anforderungen",
-        "minimum_answer_elements": "Sicherheit und Ordnung; Schutz von Leben und Gesundheit; Gebrauchstauglichkeit der Anlage",
+        "query_text": "Darf ich eine Garage direkt an der Grundstücksgrenze bauen?",
+        "section_family": "Abstandsflächen / Garagen-Privilegierung (§5–6 + Ausnahmeregelungen)",
+        "minimum_answer_elements": "Abstandsflächen sind grundsätzlich einzuhalten — Mindestabstand i.d.R. 3 m zur Grundstücksgrenze; Garagen sind unter bestimmten Voraussetzungen an der Grenze privilegiert (z.B. max. Wandhöhe 3 m, Längenbegrenzung staatsspezifisch); Zustimmung des Nachbarn oder Eintragung einer Baulast erforderlich, wenn Privilegierungsgrenzen überschritten werden",
     },
     "Q07": {
+        "query_text": "Welche Anforderungen bestehen an Aufenthaltsräume?",
         "section_family": "Aufenthaltsräume",
         "minimum_answer_elements": "ausreichende Belichtung; ausreichende Lüftung; Mindesthöhe oder Raumgröße",
     },
     "Q08": {
+        "query_text": "Welche Anforderungen gelten für den Brandschutz?",
         "section_family": "Brandschutz",
         "minimum_answer_elements": "Entstehung von Bränden verhindern; Ausbreitung von Feuer begrenzen; Rettung von Menschen ermöglichen",
     },
     "Q09": {
+        "query_text": "Welche Anforderungen bestehen an Rettungswege in Gebäuden?",
         "section_family": "Rettungswege",
         "minimum_answer_elements": "erster Rettungsweg erforderlich; zweiter Rettungsweg erforderlich; sichere Nutzung im Gefahrenfall",
     },
     "Q10": {
+        "query_text": "Welche Voraussetzungen müssen Grundstücke für eine Bebauung erfüllen?",
         "section_family": "Grundstücke / Erschließung",
         "minimum_answer_elements": "bauliche Eignung des Grundstücks; gesicherte Erschließung; Zugang für Rettungskräfte",
     },
     "Q11": {
+        "query_text": "Welche Zusammenhänge bestehen zwischen Brandschutzanforderungen und der Gebäudeklasse?",
         "section_family": "Brandschutz / Gebäudeklassen",
         "minimum_answer_elements": "Gebäudeklasse bestimmt Brandschutzanforderungen; höhere Gebäudeklassen führen zu strengeren Anforderungen; Einfluss auf Rettungswege und bauliche Ausführung",
     },
     "Q12": {
+        "query_text": "Welche Regelungen gelten für Stellplätze im Zusammenhang mit Gebäuden?",
         "section_family": "Stellplätze",
         "minimum_answer_elements": "Stellplatzpflicht abhängig von Nutzung; Bereitstellung erforderlicher Stellplätze; funktionaler Zusammenhang mit Gebäude",
     },
     "Q13": {
-        "section_family": "Verfahrensfreiheit",
-        "minimum_answer_elements": "gesetzlich definierte Vorhaben; keine Genehmigung erforderlich; Einhaltung materieller Anforderungen bleibt bestehen",
+        "query_text": "Muss ich eine Baugenehmigung beantragen, wenn ich einen Schuppen von 10 m² bauen will?",
+        "section_family": "Verfahrensfreie Vorhaben / Genehmigungspflicht (§61 BbgBO / Anhang LBO equivalents)",
+        "minimum_answer_elements": "Ein Schuppen bis ca. 10 m² (ohne Aufenthaltsraum, ohne Feuerungsanlage) ist in den meisten LBOs verfahrensfrei — kein Genehmigungsantrag erforderlich; Verfahrensfreiheit befreit nicht von materiellen Anforderungen: Abstandsflächen, Standsicherheit und Brandschutz gelten weiterhin; im Außenbereich gelten strengere Grenzen (geringere Volumenschwelle) — die Lage des Grundstücks ist entscheidend",
     },
     "Q14": {
+        "query_text": "Welche Folgen kann Bauen ohne Genehmigung haben?",
         "section_family": "Bauaufsichtliche Maßnahmen",
         "minimum_answer_elements": "Baustopp möglich; Beseitigungsanordnung möglich; Nutzungsuntersagung möglich",
     },
     "Q15": {
+        "query_text": "Unter welchen Bedingungen kann die Nutzung einer baulichen Anlage untersagt werden?",
         "section_family": "Bauaufsichtliche Maßnahmen",
         "minimum_answer_elements": "Verstoß gegen öffentliches Recht; Gefährdung von Sicherheit oder Ordnung; behördliche Untersagung",
     },
     "Q16": {
+        "query_text": "Unter welchen Voraussetzungen sind Abweichungen von bauordnungsrechtlichen Anforderungen möglich?",
         "section_family": "Abweichungen",
         "minimum_answer_elements": "behördliche Zulassung erforderlich; begründeter Antrag notwendig; keine Gefährdung öffentlicher Belange",
     },
     "Q17": {
+        "query_text": "Wie hängen Abstandsflächen und Grundstücksbebauung zusammen?",
         "section_family": "Abstandsflächen / Grundstücke",
         "minimum_answer_elements": "Abstandsflächen begrenzen Bebauung; bestimmen Lage des Gebäudes; Schutz von Nachbargrundstücken",
     },
     "Q18": {
+        "query_text": "Welche Rolle spielen Rettungswege im Brandschutz?",
         "section_family": "Rettungswege / Brandschutz",
         "minimum_answer_elements": "ermöglichen Flucht von Personen; Bestandteil des Brandschutzkonzepts; Grundlage für Rettungskräfte",
     },
     "Q19": {
+        "query_text": "Welche Voraussetzungen müssen erfüllt sein, bevor eine Nutzung aufgenommen werden darf?",
         "section_family": "Genehmigungsverfahren",
         "minimum_answer_elements": "Genehmigung oder Abnahme erforderlich; Einhaltung aller Anforderungen; Fertigstellung des Bauwerks",
     },
     "Q20": {
-        "section_family": "Beteiligte am Bau (Bauherr)",
-        "minimum_answer_elements": "Verantwortung für Einhaltung der Vorschriften; Organisation und Koordination; Sicherstellung notwendiger Genehmigungen",
+        "query_text": "Darf ich mit dem Bau beginnen, bevor ich die Baugenehmigung erhalten habe?",
+        "section_family": "Baubeginn / Genehmigungsverfahren (§58–59 equivalents)",
+        "minimum_answer_elements": "Baubeginn vor Erteilung der Baugenehmigung ist grundsätzlich unzulässig und kann zu Baustopp und Abbruchverfügung führen; im Kenntnisgabeverfahren (wo vorhanden) ist Baubeginn nach 4-Wochen-Frist ohne Einwände möglich; vorzeitiger Baubeginn auf eigenes Risiko ist in Einzelfällen auf Antrag möglich (staatsspezifisch)",
     },
 }
 
@@ -199,11 +225,32 @@ def load_corpus(source_state: str) -> tuple[str, bool, int]:
 
 
 # ---------------------------------------------------------------------------
-# Judge prompt template  (verbatim from benchmark_methodology_v2.md)
+# Judge prompt template — v2.1
+# Aligned with benchmark_methodology_v2.1.md
+# Changes from v2.0:
+#   - System context block: PropLaw is a permit-decision tool, not encyclopaedia
+#   - REASONING ANTI-PATTERN guard: NOT_ALLOWED refusals without scenario engagement = 0
+#   - Reasoning rubric: explicitly requires permit decision (ALLOWED/NOT_ALLOWED/CONDITIONAL)
+#   - Grounding: cross-state variance instruction — state-specific correct values must be accepted
+#   - Output instruction tightened: "no preamble, no explanation, no markdown"
 # ---------------------------------------------------------------------------
 
 _JUDGE_PROMPT_TEMPLATE = """\
-You are evaluating a legal question-answering system against a reference corpus (German LBO).
+You are an independent evaluator for PropLaw, an AI legal advisor for German Bauordnungsrecht.
+Your task is to score a system answer against a reference corpus (the relevant state LBO).
+
+SYSTEM CONTEXT
+PropLaw is a permit-decision tool. Every benchmark query is framed as a concrete scenario
+requiring one of: ALLOWED, NOT_ALLOWED (with legal basis), or CONDITIONAL (with conditions).
+Answers that refuse to engage with the scenario, redirect to a lawyer without substantive
+content, or respond as if the question is definitional rather than scenario-based are incorrect.
+
+IMPORTANT — REASONING ANTI-PATTERN:
+If the answer returns a NOT_ALLOWED verdict without engaging with the scenario, or if it
+declines to answer because it treats the query as definitional (e.g. "I cannot determine
+whether X is allowed without more context" when the query already provides the scenario),
+score Reasoning = 0. This is the primary failure mode this benchmark is designed to detect.
+Do not reward refusal-as-caution.
 
 Reference corpus:
 {corpus_text}
@@ -214,23 +261,32 @@ Minimum answer elements: {ground_truth_elements}
 Retrieved content: {retrieved_chunks}
 System answer: {answer}
 
-Score the answer on the following three dimensions. Return only a JSON object.
+Score the answer on the following three dimensions. Return only a JSON object — no preamble,
+no explanation, no markdown.
 
 Retrieval (0-2): Do the retrieved chunks come from the expected section family: {section_family}?
-  Use only the retrieved content field above - do not infer retrieval quality from the answer.
-  0 = retrieved content is from the wrong section family or absent
+  Use only the retrieved content field above — do not infer retrieval quality from the answer.
+  0 = retrieved content is from the wrong section family, absent, or entirely irrelevant
   1 = retrieved content is partially from the correct section but incomplete or mixed with irrelevant sections
   2 = retrieved content is clearly from {section_family} and covers the key passages needed
 
-Reasoning (0-2): Does the answer correctly address all minimum answer elements?
-  0 = incorrect, 1 = partial (some elements present), 2 = all elements correct
+Reasoning (0-2): Does the answer correctly address the permit-decision scenario and cover all minimum answer elements?
+  0 = answer is factually wrong, contradicts the corpus, does not engage with the scenario,
+      OR returns NOT_ALLOWED / refuses without substantive legal reasoning grounded in the corpus
+  1 = answer partially addresses the scenario — at least one minimum element is present
+      but one or more are missing or misinterpreted
+  2 = answer gives a correct permit decision (ALLOWED / NOT_ALLOWED / CONDITIONAL) with
+      all minimum answer elements addressed without contradiction
 
 Grounding (0-2): Is every factual claim in the answer traceable to the reference corpus?
+  Note: where corpus rules differ by state, a state-specific value correct for the source
+  state must be accepted even if it differs from a common default.
   0 = at least one claim contradicts the corpus or has no basis in it
   1 = at least one claim is a reasonable inference not directly stated in the corpus, but nothing is contradicted
   2 = every factual claim can be found verbatim or clearly paraphrased in the corpus
 
 Do not introduce external legal knowledge. Do not assume uniform wording across German states.
+Do not penalise an answer for citing a correct state-specific value that differs from an unstated default.
 Only evaluate based on the provided reference corpus.
 
 Return: {{"retrieval": <0|1|2>, "reasoning": <0|1|2>, "grounding": <0|1|2>}}\
