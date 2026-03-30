@@ -11,6 +11,8 @@ from __future__ import annotations
 
 import logging
 import re
+
+import joblib
 import sys
 from collections import deque
 from dataclasses import dataclass, field
@@ -59,8 +61,7 @@ def _load_graph():
         return None
 
     try:
-        with _GRAPH_PATH.open("rb") as fh:
-            _graph = pickle.load(fh)
+        _graph = joblib.load(_GRAPH_PATH)
         logger.info(
             "KG graph loaded: %d nodes, %d edges",
             _graph.number_of_nodes(),
@@ -112,7 +113,7 @@ def get_related_chunks(
 
         seed_ids = [candidate_id]
 
-        seed_paragraphs.append(chunk_sp)
+        seed_paragraphs.append(chunk.get("source_paragraph", "").strip())
 
         for seed in seed_ids:
             neighbours = _bfs_neighbours(g, seed, hops=hops, max_nodes=max_per_seed)
