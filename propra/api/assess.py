@@ -210,7 +210,8 @@ def assess(situation: Situation) -> AssessmentResponse:
         f"Situation:\n"
         f"- Bundesland: {situation.jurisdiction}\n"
         f"- Grundstückstyp: {situation.property_type}\n"
-        f"- Vorhaben: {situation.project_description}\n\n"
+        f"- Vorhaben: {situation.project_description}\n"
+        f"- Bebauungsplan vorhanden: {'Ja' if situation.has_bplan else 'Nein'}\n\n"
         f"Gesetzesauszüge:\n{context}"
     )
 

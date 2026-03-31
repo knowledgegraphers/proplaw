@@ -116,7 +116,8 @@ def get_related_chunks(
         seed_paragraphs.append(chunk.get("source_paragraph", "").strip())
 
         for seed in seed_ids:
-            neighbours = _bfs_neighbours(g, seed, hops=hops, max_nodes=max_per_seed)
+            neighbours = _bfs_neighbours(g, seed, hops=hops, max_nodes=max_per_seed,
+                                         source_file=chunk.get("source_file", ""))
             for node_id in neighbours:
                 if node_id in seen_node_ids:
                     continue
@@ -239,8 +240,22 @@ def _chunk_to_node_id(chunk: dict) -> str | None:
     return f"{sf}_§{section}"  # e.g. "BbgBO_§7"
 
 
-def _bfs_neighbours(g, start: str, hops: int, max_nodes: int) -> list[str]:
-    """Collect up to ``max_nodes`` unique neighbour IDs within ``hops`` steps."""
+def _bfs_neighbours(
+    g,
+    start: str,
+    hops: int,
+    max_nodes: int,
+    source_file: str = "",
+) -> list[str]:
+    """
+    Collect neighbours using directional, edge-type-aware traversal.
+
+    Edge-type rules (based on graph schema):
+      sub_item_of  — follow predecessors only (child -> parent, gives context)
+      supplements  — follow predecessors only (node -> section anchor)
+      exception_of — follow both directions (base rule <-> exception mutually important)
+      references   — follow successors only (-> the referenced section)
+    """
     visited: set[str] = {start}
     queue: deque[tuple[str, int]] = deque([(start, 0)])
     collected: list[str] = []
@@ -250,10 +265,27 @@ def _bfs_neighbours(g, start: str, hops: int, max_nodes: int) -> list[str]:
         if depth >= hops:
             continue
 
-        neighbours = list(g.successors(current)) + list(g.predecessors(current))
-        for nb in neighbours:
+        candidates: list[str] = []
+
+        for nb in g.predecessors(current):
+            data = g.get_edge_data(nb, current) or {}
+            rel = data.get("relation", "")
+            if rel in ("sub_item_of", "supplements", "exception_of"):
+                candidates.append(nb)
+
+        for nb in g.successors(current):
+            data = g.get_edge_data(current, nb) or {}
+            rel = data.get("relation", "")
+            if rel in ("exception_of", "references"):
+                candidates.append(nb)
+
+        for nb in candidates:
             if nb in visited:
                 continue
+            if source_file:
+                node_sf = g.nodes[nb].get("sourced_from", "")
+                if node_sf and source_file not in node_sf and node_sf not in source_file:
+                    continue
             visited.add(nb)
             collected.append(nb)
             if len(collected) >= max_nodes:
