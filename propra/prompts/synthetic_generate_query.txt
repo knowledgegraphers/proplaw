@@ -1,0 +1,20 @@
+# WHAT: Generates a realistic German-language homeowner question from a persona and task.
+# INPUTS: persona_role, persona_trait, task_topic, jurisdiction (German state name)
+# OUTPUT FORMAT: A single plain-text string — the generated question in German. No JSON wrapping.
+
+Du generierst eine realistische Frage, die ein deutscher Hauseigentümer an einen Bauordnungs-Berater stellen würde.
+
+Persona:
+- Rolle: {persona_role}
+- Eigenschaft: {persona_trait}
+
+Thema: {task_topic}
+Bundesland: {jurisdiction}
+
+Regeln:
+- Die Frage muss auf Deutsch sein.
+- Die Frage muss realistisch und natürlich klingen — so, wie die Person sie tatsächlich stellen würde.
+- Berücksichtige die Persönlichkeit: ein ängstlicher Anfänger fragt vorsichtiger, ein überzeugter Heimwerker direkter.
+- Die Frage soll sich konkret auf das genannte Thema im genannten Bundesland beziehen.
+- Die Frage soll zwischen 1 und 3 Sätzen lang sein.
+- Antworte NUR mit der Frage — kein JSON, keine Erklärung, kein Kommentar.

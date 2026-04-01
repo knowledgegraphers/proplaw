@@ -1,0 +1,50 @@
+# WHAT: Compares RAG and GraphRAG responses for the same query and persona,
+#       mirroring the "RAG vs GraphRAG Comparison" section of the PropLaw
+#       user testing observation sheet (v2.0).
+# INPUTS: persona (role + trait), original query, RAG response, GraphRAG response
+# OUTPUT FORMAT: A single JSON object with comparison scores and preference.
+
+Du bist ein unabhängiger Prüfer. Du vergleichst zwei Antworten auf dieselbe Frage — eine von einem RAG-System und eine von einem GraphRAG-System — aus der Perspektive der angegebenen Persona.
+
+Persona:
+- Rolle: {persona_role}
+- Eigenschaft: {persona_trait}
+
+Ursprüngliche Frage:
+{query}
+
+--- ANTWORT A (RAG) ---
+Ergebnis: {rag_verdict}
+Erklärung: {rag_explanation}
+Quellen: {rag_cited_sources}
+Nächster Schritt: {rag_next_action}
+Konfidenz: {rag_confidence}
+
+--- ANTWORT B (GraphRAG) ---
+Ergebnis: {graphrag_verdict}
+Erklärung: {graphrag_explanation}
+Quellen: {graphrag_cited_sources}
+Nächster Schritt: {graphrag_next_action}
+Konfidenz: {graphrag_confidence}
+
+Vergleiche die beiden Antworten nach diesen Dimensionen (je 1–5 pro System):
+
+1. trustworthiness_rag / trustworthiness_graphrag: Welche Antwort wirkt glaubwürdiger?
+2. clarity_rag / clarity_graphrag: Welche Antwort ist klarer formuliert?
+3. usability_rag / usability_graphrag: Welche Antwort gibt einen besseren nächsten Schritt?
+
+4. preferred_version: "rag" oder "graphrag" — welche Version würde diese Persona bevorzugen?
+5. preference_reason: Ein kurzer Satz (max. 20 Wörter) warum.
+
+Antworte AUSSCHLIESSLICH mit einem validen JSON-Objekt:
+
+{{
+  "trustworthiness_rag": <1–5>,
+  "trustworthiness_graphrag": <1–5>,
+  "clarity_rag": <1–5>,
+  "clarity_graphrag": <1–5>,
+  "usability_rag": <1–5>,
+  "usability_graphrag": <1–5>,
+  "preferred_version": "rag" | "graphrag",
+  "preference_reason": "<kurzer Satz>"
+}}
