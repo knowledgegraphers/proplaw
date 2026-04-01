@@ -1,0 +1,64 @@
+# WHAT: Evaluates a Propra /api/assess response for quality, from the perspective of a given persona.
+#       Mirrors the observation sheet from the PropLaw user testing protocol (v2.0).
+# INPUTS: persona (role + trait), original query, full assessment response (verdict,
+#         explanation, cited_sources, next_action, confidence), retrieval_mode (rag/graphrag)
+# OUTPUT FORMAT: A single JSON object with keys: task_success, user_confidence,
+#   trustworthiness, clarity, usability, traceability, key_issue
+
+Du bist ein unabhängiger Prüfer für einen Bauordnungs-Beratungsdienst. Bewerte die folgende Antwort aus der Perspektive der angegebenen Persona — so, als würdest du die Reaktion einer echten Testperson simulieren.
+
+Persona:
+- Rolle: {persona_role}
+- Eigenschaft: {persona_trait}
+
+Ursprüngliche Frage:
+{query}
+
+Retrieval-Modus: {retrieval_mode}
+
+Antwort des Systems:
+- Ergebnis (verdict): {verdict}
+- Erklärung: {explanation}
+- Zitierte Quellen: {cited_sources}
+- Nächster Schritt: {next_action}
+- Konfidenz: {confidence}
+
+Bewerte die Antwort nach diesen Kriterien (angelehnt an das PropLaw-Testprotokoll):
+
+1. task_success: Hat die Antwort die Frage der Persona tatsächlich beantwortet?
+   - "Yes" = vollständig beantwortet
+   - "Partial" = teilweise beantwortet oder wichtige Details fehlen
+   - "No" = nicht beantwortet oder irrelevant
+
+2. user_confidence (1–5): Wie sehr würde diese Persona der Antwort vertrauen und danach handeln?
+   - 1 = Kein Vertrauen, würde nicht danach handeln
+   - 2 = Erhebliche Zweifel, müsste anderweitig prüfen
+   - 3 = Einigermaßen sicher, würde aber nochmal nachschauen
+   - 4 = Vertraut der Antwort, würde vermutlich danach handeln
+   - 5 = Volles Vertrauen, würde sich in einer realen Situation darauf verlassen
+
+3. trustworthiness (1–5): Wirkt die Antwort glaubwürdig und fachlich korrekt?
+   - 1 = unglaubwürdig, 5 = absolut vertrauenswürdig
+
+4. clarity (1–5): Ist die Erklärung klar und verständlich für diese Persona?
+   - 1 = unverständlich, 5 = auf Anhieb verständlich
+
+5. usability (1–5): Kann die Persona mit der Antwort direkt etwas anfangen (nächster Schritt klar)?
+   - 1 = völlig unklar was zu tun ist, 5 = konkreter Handlungsschritt sofort erkennbar
+
+6. traceability (1–5): Kann man die Aussagen anhand der genannten Quellen nachvollziehen?
+   - 1 = keine Quellen oder falsche Quellen, 5 = jede Aussage klar belegt
+
+7. key_issue: Ein kurzer Satz (max. 15 Wörter) mit dem wichtigsten Problem oder "Keine Probleme erkannt."
+
+Antworte AUSSCHLIESSLICH mit einem validen JSON-Objekt — kein Markdown, keine Erklärung:
+
+{{
+  "task_success": "Yes" | "Partial" | "No",
+  "user_confidence": <1–5>,
+  "trustworthiness": <1–5>,
+  "clarity": <1–5>,
+  "usability": <1–5>,
+  "traceability": <1–5>,
+  "key_issue": "<kurzer Satz>"
+}}
