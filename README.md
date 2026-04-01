@@ -6,7 +6,7 @@
 
 ## What is PropLaw?
 
-Propra helps homeowners in Germany understand what they are legally allowed to do with their property — building a fence, adding a window, extending a garden structure — without paying for a professional consultation.
+PropLaw helps homeowners in Germany understand what they are legally allowed to do with their property — building a fence, adding a window, extending a garden structure — without paying for a professional consultation.
 
 It returns jurisdiction-specific, plain-language regulatory assessments with cited sources, so you can walk into any conversation with an architect or building authority already informed.
 
