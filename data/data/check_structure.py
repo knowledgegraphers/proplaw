@@ -1,1 +1,0 @@
-diff BayBO_rtf.txt BayBO_md.txt
