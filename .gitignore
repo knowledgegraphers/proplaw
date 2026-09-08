@@ -28,3 +28,15 @@ propra/data/graph.graphml
 # IDE
 .idea/
 .vscode/
+
+# Test- und Build-Artefakte
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Retrieval-Artefakte (werden gebaut, nicht committet)
+propra/retrieval/faiss.index
+propra/retrieval/chunks.pkl
