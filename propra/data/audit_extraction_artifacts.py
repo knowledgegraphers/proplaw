@@ -22,9 +22,9 @@ from propra.graph.map_to_mbo import _clean_title
 _DATA = Path(__file__).resolve().parent
 _TXT_DIR = _DATA / "txt"
 _INVENTORY_DIR = _DATA / "node inventory"
-_TXT_PATH_OVERRIDES = {
-    "BW_LBO": "BauO_BW.txt",
-}
+# state name -> txt filename, only for states whose txt stem differs from the
+# KG name. Currently empty: every txt/<state>.txt matches its KG prefix.
+_TXT_PATH_OVERRIDES: dict[str, str] = {}
 
 _RAW_PATTERNS = {
     "vendor_watermarks": re.compile(r"(?:Wolters\s+Kluwer|gespeichert:)", re.IGNORECASE),

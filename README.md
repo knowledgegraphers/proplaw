@@ -3,6 +3,7 @@
 **AI-native property regulation guidance for German homeowners.**
 
 ---
+> Forked from a four-person team capstone (neuefische x SPICED AI Project Manager program). Original repo: [knowledgegraphers/proplaw](https://github.com/knowledgegraphers/proplaw). I served as Product Manager, from problem definition to production-ready prototype. Internally, the codebase uses the working title `propra` as the Python package name.
 
 ## What is PropLaw?
 
@@ -29,7 +30,7 @@ It returns jurisdiction-specific, plain-language regulatory assessments with cit
       federal state, municipality, property type, and project details.
 
 3. Regulatory Assessment
-   └─ Propra queries its knowledge graph and document corpus,
+   └─ PropLaw queries its knowledge graph and document corpus,
       synthesises jurisdiction-specific rules, and returns a
       plain-German assessment with cited paragraphs.
 
@@ -38,6 +39,12 @@ It returns jurisdiction-specific, plain-language regulatory assessments with cit
       the relevant regulations cited, and a personalised next action.
       The Living Assessment updates as regulations change.
 ```
+
+---
+
+## Results
+
+Iterative scoring models improved retrieval precision from **2.55 to 3.60 out of 6 points (+40%)**, measured against a benchmark of jurisdiction-specific Baurecht queries. Brandenburg (BbgBO) serves as the production-ready reference implementation, with the graph architecture designed to scale to all 16 Bundesländer.
 
 ---
 
@@ -88,8 +95,8 @@ propra/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/propra.git
-cd propra
+git clone https://github.com/SebastiansJourney/PropLaw.git
+cd PropLaw
 
 # Create and activate a virtual environment
 python -m venv .venv
@@ -123,7 +130,7 @@ The frontend will be available at `http://localhost:5173` and the API at `http:/
 From the repo root, with dependencies installed:
 
 ```bash
-# Build graph (MBO + BW nodes, structural + domain + reference edges)
+# Build graph (MBO + Brandenburg nodes, structural + domain + reference edges)
 python -m propra.graph.build_graph
 
 # Interactive node explorer
@@ -163,9 +170,8 @@ pre-commit install
 
 After installation, the hooks will automatically run before every commit.
 
-
 ---
 
 ## License
 
-MIT © 2024 Propra Contributors
+MIT © 2026 PropLaw Contributors

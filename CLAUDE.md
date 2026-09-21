@@ -1,4 +1,4 @@
-# CLAUDE.md — Agent Conventions for Propra
+# CLAUDE.md — Agent Conventions for PropLaw
 
 This file defines the rules and conventions the Claude Code agent must follow throughout this project. Read it before making any change to this codebase.
 
@@ -6,7 +6,7 @@ This file defines the rules and conventions the Claude Code agent must follow th
 
 ## Product Context
 
-- Propra is a **consumer product for German homeowners**. It is not a developer tool and not a B2B product.
+- PropLaw is a **consumer product for German homeowners**. It is not a developer tool and not a B2B product.
 - The end user is someone like **Renate** (67, retired, low technical confidence) or **Tobias** (41, wants to be informed before talking to an architect).
 - Every output the product generates must be:
   - Written in **plain German**
@@ -22,7 +22,6 @@ This file defines the rules and conventions the Claude Code agent must follow th
 
 - All Python files must include a **module-level docstring** explaining what the file does.
 - All functions over 20 lines must include a **docstring**.
-- Use **snake_case** for all Python identifiers.
 - No hardcoded API keys — use environment variables loaded from `.env`. The `.env` file must never be committed.
 - All API endpoints must include **input validation** (Pydantic) and return structured error messages:
   - **English** for developers (in the `detail` field)
@@ -31,24 +30,8 @@ This file defines the rules and conventions the Claude Code agent must follow th
 
 ### JavaScript / React
 
-- Use **camelCase** for all JavaScript/React identifiers.
-- Components go in `frontend/src/components/`.
-
----
-
-## Frontend Rules
-
-- Every page and component must be **mobile-first** — design for 375px minimum width before considering desktop.
-- Use **Tailwind CSS utility classes only**. Do not create custom CSS files unless there is no Tailwind equivalent.
-- **Primary colour:** deep navy `#1A3355`
-- **Accent colour:** warm amber `#C9952A`
-- **Typography:**
-  - Headlines: DM Serif Display (serif)
-  - Body: DM Sans (sans-serif)
-- **No dark mode** in MVP.
-- Every form field must have a visible **German-language label and placeholder**.
-- All buttons must have a **loading state**.
-- No page should require **horizontal scrolling on mobile**.
+- Components go in `propra/frontend/src/components/`.
+- Frontend design rules (mobile-first, Tailwind, colours, typography) live in `propra/frontend/CLAUDE.md` and load automatically when working on frontend files.
 
 ---
 
@@ -56,7 +39,7 @@ This file defines the rules and conventions the Claude Code agent must follow th
 
 ### Prompts
 
-- Every LLM prompt must be stored as a `.txt` or `.md` file in `prompts/`. **Never inline prompts in code.**
+- Every LLM prompt must be stored as a `.txt` or `.md` file in `propra/prompts/`. **Never inline prompts in code.**
 - Every prompt file must begin with a comment block containing:
   ```
   # WHAT: What this prompt does
@@ -78,11 +61,45 @@ This file defines the rules and conventions the Claude Code agent must follow th
 
 ## Testing Conventions
 
-- Every API endpoint must have at least **one happy-path test** and **one error-path test** in `tests/`.
+- Every API endpoint must have at least **one happy-path test** and **one error-path test** in `propra/tests/`.
 - Every prompt must be tested against at least **5 sample inputs** before being used in the pipeline.
-- KG queries must be tested against the **10 benchmark questions** defined in `eval/benchmark.py`.
+- KG queries must be tested against the **10 benchmark questions** defined in `propra/eval/benchmark.py`.
 
 ---
+
+## Commands & Fallstricke
+
+- Start: `uvicorn propra.main:app --reload` — **nicht** `api.main` wie in der README.
+- Tests: `PYTHONPATH=. pytest propra/tests/`, einzeln mit `-k`.
+- Vollcheck: `bash kontrolle.sh`.
+- Paket heißt `propra`, Produkt heißt PropLaw — Absicht, nicht umbenennen.
+- `propra/graph/*_section_edges.py` sind generiert — niemals von Hand editieren.
+- FAISS `source_file` und KG-Präfix müssen identisch sein, sonst greift GraphRAG nicht.
+
+---
+
+## Findings & Tagesplanung
+
+`propra/benchmark/results/FINDINGS.md` ist die einzige Liste offener Befunde.
+Jedes OPEN-Finding traegt ein Feld `**Reviewed:**` — das Datum, an dem es
+zuletzt angeschaut *und entschieden* wurde. Alter = heute minus Reviewed.
+
+- Die Tagesplanung zieht aus dieser Datei: mindestens ein Block pro Arbeitstag
+  kommt aus der OPEN-Liste, und zwar das aelteste Finding, das in die Zeit passt.
+- Ein OPEN-Finding ueber 21 Tage ohne Sichtung muss eingeplant oder nach
+  `DEFERRED` verschoben werden — mit Begruendung und `Deferred until:` Datum.
+- Bei der **Neuanlage** eines Findings setzt der anlegende Lauf `Reviewed:` auf
+  das Anlagedatum. Das startet die Alterung, statt sie zu verbergen.
+- Jede **spaetere** Aenderung von `Reviewed:` macht ausschliesslich der Skill
+  `/tagesplan`, wenn Sebastian die Planung durchgeht. Nie von Hand, nie durch
+  einen unbeaufsichtigten Lauf: ein nachtraeglich gesetztes Datum verbirgt genau
+  die Alterung, die sichtbar bleiben soll.
+- Ein montaeglicher geplanter Task meldet ueberfaellige Findings, ohne die Datei
+  anzufassen.
+
+Hintergrund: Blocker B-01 stand ab dem 06.09. ganz oben im Audit und wurde erst
+dreizehn Tage spaeter behoben. Sechs weitere Findings lagen fuenf Monate.
+Aufschreiben allein bewirkt nichts.
 
 ## What This Agent Must Never Do
 

@@ -58,11 +58,12 @@ def test_audit_state_uses_txt_path_overrides(tmp_path, monkeypatch):
     txt_dir.mkdir()
     inventory_dir.mkdir()
 
-    (txt_dir / "BauO_BW.txt").write_text("Seite 1 von 2", encoding="utf-8")
+    (txt_dir / "Legacy_BW.txt").write_text("Seite 1 von 2", encoding="utf-8")
     (inventory_dir / "BW_LBO_node_inventory.md").write_text("", encoding="utf-8")
 
     monkeypatch.setattr(audit_artifacts, "_TXT_DIR", txt_dir)
     monkeypatch.setattr(audit_artifacts, "_INVENTORY_DIR", inventory_dir)
+    monkeypatch.setattr(audit_artifacts, "_TXT_PATH_OVERRIDES", {"BW_LBO": "Legacy_BW.txt"})
 
     report = audit_state("BW_LBO")
 

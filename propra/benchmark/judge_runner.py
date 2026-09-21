@@ -164,7 +164,7 @@ _CORPUS_MAP: dict[str, str] = {
     "DE-BY":  "BayBO",
     "DE-BB":  "BbgBO",
     "DE-HH":  "HBauO",
-    "DE-HB":  "LBO_HB",
+    "DE-HB":  "BremLBO",
     "DE-SH":  "LBO_SH",
     "DE-SL":  "LBO_SL",
     "DE-RP":  "LBauO_RLP",
@@ -172,7 +172,7 @@ _CORPUS_MAP: dict[str, str] = {
     "DE-NI":  "NBauO",
     "DE-SN":  "SaechsBO",
     "DE-TH":  "ThuerBO",
-    "DE-BW":  "BauO_BW",
+    "DE-BW":  "BW_LBO",
     # Human labels
     "Berlin":                   "BauO_BE",
     "Hessen":                   "BauO_HE",
@@ -182,7 +182,7 @@ _CORPUS_MAP: dict[str, str] = {
     "Bayern":                   "BayBO",
     "Brandenburg":              "BbgBO",
     "Hamburg":                  "HBauO",
-    "Bremen":                   "LBO_HB",
+    "Bremen":                   "BremLBO",
     "Schleswig-Holstein":       "LBO_SH",
     "Saarland":                 "LBO_SL",
     "Rheinland-Pfalz":          "LBauO_RLP",
@@ -190,7 +190,7 @@ _CORPUS_MAP: dict[str, str] = {
     "Niedersachsen":            "NBauO",
     "Sachsen":                  "SaechsBO",
     "Thüringen":                "ThuerBO",
-    "Baden-Württemberg":        "BauO_BW",
+    "Baden-Württemberg":        "BW_LBO",
 }
 
 _CORPUS_TRUNCATE = 90_000

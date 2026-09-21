@@ -364,7 +364,7 @@ def jurisdiction_from_filename(name: str) -> str:
         "BbgBO":      "DE-BB",
         "HBauO":      "DE-HH",
         "LBauO_RLP":  "DE-RP",
-        "LBO_HB":     "DE-HB",
+        "BremLBO":    "DE-HB",
         "LBO_SH":     "DE-SH",
         "LBO_SL":     "DE-SL",
         "MBO":        "DE-MBO",

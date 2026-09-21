@@ -63,7 +63,7 @@ JURISDICTION_MAP: dict[str, dict] = {
     "BayBO":     {"code": "DE-BY", "label": "Bayern"},
     "BbgBO":     {"code": "DE-BB", "label": "Brandenburg"},
     "HBauO":     {"code": "DE-HH", "label": "Hamburg"},
-    "LBO_HB":    {"code": "DE-HB", "label": "Bremen"},
+    "BremLBO":   {"code": "DE-HB", "label": "Bremen"},
     "LBO_SH":    {"code": "DE-SH", "label": "Schleswig-Holstein"},
     "LBO_SL":    {"code": "DE-SL", "label": "Saarland"},
     "LBauO_RLP": {"code": "DE-RP", "label": "Rheinland-Pfalz"},
@@ -71,7 +71,7 @@ JURISDICTION_MAP: dict[str, dict] = {
     "NBauO":     {"code": "DE-NI", "label": "Niedersachsen"},
     "SaechsBO":  {"code": "DE-SN", "label": "Sachsen"},
     "ThuerBO":   {"code": "DE-TH", "label": "Thüringen"},
-    "BauO_BW":   {"code": "DE-BW", "label": "Baden-Württemberg"},
+    "BW_LBO":    {"code": "DE-BW", "label": "Baden-Württemberg"},
 }
 
 # ---------------------------------------------------------------------------
